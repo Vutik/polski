@@ -122,6 +122,15 @@ th {
   font-weight: 700;
 }
 
+.filterable-summary thead th,
+.declension-summary thead th {
+  position: sticky;
+  top: 0;
+  z-index: 4;
+  background: #f3f4f6;
+  box-shadow: 0 2px 0 #d1d5db;
+}
+
 tr:nth-child(even) td {
   background: #fafafa;
 }
@@ -156,6 +165,29 @@ tr:nth-child(even) td {
   border-color: #2563eb;
   background: #2563eb;
   color: #ffffff;
+}
+
+.floating-table-header {
+  position: fixed;
+  top: 0;
+  z-index: 1000;
+  overflow: hidden;
+  pointer-events: none;
+  box-shadow: 0 4px 12px rgb(15 23 42 / 0.16);
+}
+
+.floating-table-header table {
+  display: table;
+  width: max-content;
+  min-width: 0;
+  max-width: none;
+  margin: 0;
+  overflow: visible;
+}
+
+.floating-table-header th {
+  position: static;
+  background: #f3f4f6;
 }
 
 .declension-summary th:nth-child(1),
@@ -240,7 +272,7 @@ tr:nth-child(even) td {
 
 .filterable-summary.sticky-3 th:nth-child(-n + 3),
 .filterable-summary.sticky-1 th:nth-child(1) {
-  z-index: 3;
+  z-index: 5;
   background: #f3f4f6;
 }
 
