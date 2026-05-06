@@ -38,7 +38,15 @@
 <strong>роде</strong>, <strong>числе</strong> и
 <strong>падеже</strong>.</p>
 <h2 id="большая-таблица-окончаний">Большая таблица окончаний</h2>
-<table>
+<div class="table-filter" data-table-filter="adjectives" aria-label="Фильтр колонок большой таблицы">
+<span>Показать:</span>
+<button type="button" class="is-active" data-columns="">Все</button>
+<button type="button" data-columns="1,2,3,4,5,6,7,10,12">Мужской</button>
+<button type="button" data-columns="1,2,3,4,5,8,11,12">Женский</button>
+<button type="button" data-columns="1,2,3,4,5,9,11,12">Средний</button>
+<button type="button" data-columns="1,2,3,4,5,10,11,12">Множественное</button>
+</div>
+<table class="filterable-summary sticky-3" data-filterable-table="adjectives">
 <thead>
 <tr>
 <th>№</th>
@@ -411,6 +419,7 @@
 <code>які? якая? якое? якія?</code>, польская обычно будет менять
 прилагательное по той же логике: род + число + падеж
 существительного.</p>
+<script src="table-filter.js"></script>
 </main>
 </body>
 </html>

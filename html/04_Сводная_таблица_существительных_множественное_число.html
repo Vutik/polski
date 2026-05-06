@@ -38,7 +38,16 @@
 существительных. Главное деление: <strong>мужской лично-мужской
 род</strong> и <strong>немужсколичная форма</strong>.</p>
 <h2 id="большая-таблица-окончаний">Большая таблица окончаний</h2>
-<table>
+<div class="table-filter" data-table-filter="noun-plural" aria-label="Фильтр колонок большой таблицы">
+<span>Показать:</span>
+<button type="button" class="is-active" data-columns="">Все</button>
+<button type="button" data-columns="1,2,3,4,5,6,10">Муж. лично-муж.</button>
+<button type="button" data-columns="1,2,3,4,5,7,10">Женский</button>
+<button type="button" data-columns="1,2,3,4,5,8,10">Средний</button>
+<button type="button" data-columns="1,2,3,4,5,9,10">Муж. неличный / животные</button>
+<button type="button" data-columns="1,2,3,4,5,7,8,9,10">Немужсколичная форма</button>
+</div>
+<table class="filterable-summary sticky-3" data-filterable-table="noun-plural">
 <thead>
 <tr>
 <th>№</th>
@@ -344,6 +353,7 @@ Dopełniacz, остальные = Mianownik.</li>
 непредсказуем (<code>kobiet</code>, <code>okien</code>,
 <code>koni</code>), поэтому белорусская аналогия помогает понять падеж,
 но не всегда даёт точное польское окончание.</p>
+<script src="table-filter.js"></script>
 </main>
 </body>
 </html>
