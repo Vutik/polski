@@ -39,6 +39,8 @@ id="сводная-таблица-склонения-существительн�
 падежей, единственное и множественное число, мужской, женский и средний
 род, а также самые частые варианты окончаний.</p>
 <h2 id="большая-таблица-окончаний">Большая таблица окончаний</h2>
+<!-- markdownlint-disable MD033 -->
+
 <div class="table-filter" data-table-filter="noun-declension" aria-label="Фильтр колонок большой таблицы">
 <span>Показать:</span>
 <button type="button" class="is-active" data-columns="">Все</button>
@@ -131,17 +133,18 @@ id="сводная-таблица-склонения-существительн�
 <td>Celownik</td>
 <td>Komu? Czemu?</td>
 <td><code>Daję/pomagam...</code><br>m. <code>-owi/-u</code>:
-<code>Daję studentowi/psu/panu.</code><br>ż. <code>-e/-i</code>:
-<code>Pomagam kobiecie/książce/mamie.</code><br>n. <code>-u</code>:
-<code>Przyglądam się oknu/morzu.</code></td>
+<code>Daję studentowi/psu/panu.</code><br>ż. <code>-e/-y/-i</code>:
+<code>Pomagam kobiecie/książce/pracy/ziemi.</code><br>n.
+<code>-u</code>: <code>Przyglądam się oknu/morzu.</code></td>
 <td><code>dzięki</code>, <code>ku</code>, <code>przeciw</code>,
 <code>wbrew</code></td>
 <td><code>-owi</code>, реже <code>-u</code>: <code>domowi</code>,
 <code>panu</code></td>
 <td><code>-owi</code>, реже <code>-u</code>: <code>kotowi</code>,
 <code>psu</code></td>
-<td><code>-e</code> / <code>-i</code>: <code>kobiecie</code>,
-<code>książce</code></td>
+<td><code>-e</code> / <code>-y</code> / <code>-i</code>:
+<code>kobiecie</code>, <code>książce</code>, <code>pracy</code>,
+<code>ziemi</code></td>
 <td><code>-y</code> / <code>-i</code>: <code>nocy</code>,
 <code>kości</code></td>
 <td><code>-u</code>: <code>oknu</code></td>
@@ -213,17 +216,19 @@ id="сводная-таблица-склонения-существительн�
 <td>Miejscownik</td>
 <td>O kim? O czym?</td>
 <td><code>Mówię/myślę o...</code><br>m. <code>-e/-u</code>:
-<code>o kocie</code>, <code>o domu/panu</code><br>ż. <code>-e/-i</code>:
-<code>o kobiecie/książce/nocy</code><br>n. <code>-e/-u</code>:
-<code>w oknie</code>, <code>o morzu/imieniu</code></td>
+<code>o kocie</code>, <code>o domu/panu</code><br>ż.
+<code>-e/-y/-i</code>: <code>o kobiecie/książce/pracy/ziemi</code><br>n.
+<code>-e/-u</code>: <code>w oknie</code>,
+<code>o morzu/imieniu</code></td>
 <td><code>w</code> (где), <code>na</code> (где), <code>o</code>,
 <code>po</code>, <code>przy</code></td>
 <td><code>-e</code> / <code>-u</code>: <code>w domu</code>,
 <code>o serze</code></td>
 <td><code>-e</code> / <code>-u</code>: <code>o kocie</code>,
 <code>o panu</code></td>
-<td><code>-e</code> / <code>-i</code>: <code>o kobiecie</code>,
-<code>o książce</code></td>
+<td><code>-e</code> / <code>-y</code> / <code>-i</code>:
+<code>o kobiecie</code>, <code>o książce</code>, <code>o pracy</code>,
+<code>o ziemi</code></td>
 <td><code>-y</code> / <code>-i</code>: <code>o nocy</code>,
 <code>o kości</code></td>
 <td><code>-e</code> / <code>-u</code>: <code>w oknie</code>,
@@ -269,6 +274,8 @@ id="сводная-таблица-склонения-существительн�
 </tr>
 </tbody>
 </table>
+<!-- markdownlint-enable MD033 -->
+
 <h2 id="как-читать-таблицу">Как читать таблицу</h2>
 <ul>
 <li><strong>Mianownik</strong> — форма из словаря: <code>dom</code>,
@@ -343,10 +350,22 @@ id="dopełniacz-единственного-числа-мужского-рода-
 </tr>
 </tbody>
 </table>
-<p>Это не полностью предсказуемое правило. Для мужских неодушевлённых
-слов форму Dopełniacz лучше учить сразу: <code>dom</code> →
-<code>domu</code>, <code>ser</code> → <code>sera</code>,
-<code>stół</code> → <code>stołu</code>.</p>
+<p>Алгоритм выбора:</p>
+<ol type="1">
+<li>Если это человек или животное, почти всегда бери <code>-a</code>:
+<code>studenta</code>, <code>kota</code>, <code>psa</code>.</li>
+<li>Если это месяц, день недели, инструмент, часть тела или многие
+конкретные предметы, часто будет <code>-a</code>: <code>marca</code>,
+<code>poniedziałka</code>, <code>noża</code>, <code>brzucha</code>.</li>
+<li>Если это вещество, абстрактное понятие, место, процесс,
+заимствование или многие неличные предметы, часто будет <code>-u</code>:
+<code>cukru</code>, <code>spokoju</code>, <code>lasu</code>,
+<code>internetu</code>.</li>
+<li>Если слово мужское неодушевлённое и не попадает явно в пункт 2 или
+3, форму лучше учить со словом: <code>dom</code> → <code>domu</code>, но
+<code>ser</code> → <code>sera</code>, <code>stół</code> →
+<code>stołu</code>.</li>
+</ol>
 <h3 id="женский-род--y-или--i">Женский род: <code>-y</code> или
 <code>-i</code></h3>
 <table>
@@ -373,8 +392,10 @@ id="dopełniacz-единственного-числа-мужского-рода-
 </table>
 <h3 id="женский-род-на--a-celownik-и-miejscownik">Женский род на
 <code>-a</code>: Celownik и Miejscownik</h3>
-<p>В Celownik и Miejscownik часто появляется окончание <code>-e</code>,
-но согласная перед ним меняется.</p>
+<p>В Celownik и Miejscownik у слов женского рода на <code>-a</code>
+бывают окончания <code>-e</code>, <code>-y</code> и <code>-i</code>.
+Очень часто появляется <code>-e</code>, и согласная перед ним
+меняется.</p>
 <table>
 <thead>
 <tr>
@@ -421,6 +442,95 @@ id="dopełniacz-единственного-числа-мужского-рода-
 </tr>
 </tbody>
 </table>
+<p>Но после некоторых основ вместо <code>-e</code> будет <code>-y</code>
+или <code>-i</code>.</p>
+<table>
+<thead>
+<tr>
+<th>Окончание</th>
+<th>Когда часто встречается</th>
+<th>Примеры</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>-e</code></td>
+<td>после многих твёрдых согласных, часто с чередованием</td>
+<td><code>kobieta</code> → <code>kobiecie</code>, <code>książka</code> →
+<code>książce</code>, <code>droga</code> → <code>drodze</code></td>
+</tr>
+<tr>
+<td><code>-y</code></td>
+<td>после отвердевших согласных типа <code>c</code>, <code>cz</code>,
+<code>sz</code>, <code>ż/rz</code></td>
+<td><code>praca</code> → <code>pracy</code>, <code>ulica</code> →
+<code>ulicy</code>, <code>dusza</code> → <code>duszy</code>,
+<code>róża</code> → <code>róży</code></td>
+</tr>
+<tr>
+<td><code>-i</code></td>
+<td>после мягких согласных, часто в словах на <code>-ia</code>,
+<code>-ja</code>, <code>-cia</code></td>
+<td><code>ziemia</code> → <code>ziemi</code>, <code>babcia</code> →
+<code>babci</code>, <code>lekcja</code> → <code>lekcji</code>,
+<code>historia</code> → <code>historii</code></td>
+</tr>
+</tbody>
+</table>
+<p>Алгоритм выбора:</p>
+<ol type="1">
+<li>Сначала попробуй модель на <code>-e</code> с чередованием:
+<code>kobieta</code> → <code>kobiecie</code>, <code>książka</code> →
+<code>książce</code>.</li>
+<li>Если основа заканчивается на отвердевший звук (<code>c</code>,
+<code>cz</code>, <code>sz</code>, <code>ż/rz</code>), чаще будет
+<code>-y</code>: <code>praca</code> → <code>pracy</code>,
+<code>ulica</code> → <code>ulicy</code>.</li>
+<li>Если слово заканчивается на мягкую основу или на
+<code>-ia/-ja/-cia</code>, чаще будет <code>-i</code>:
+<code>ziemia</code> → <code>ziemi</code>, <code>lekcja</code> →
+<code>lekcji</code>, <code>babcia</code> → <code>babci</code>.</li>
+</ol>
+<h3 id="miejscownik-мужского-и-среднего-рода--e-или--u">Miejscownik
+мужского и среднего рода: <code>-e</code> или <code>-u</code></h3>
+<table>
+<thead>
+<tr>
+<th>Окончание</th>
+<th>Когда часто встречается</th>
+<th>Примеры</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>-e</code></td>
+<td>после многих твёрдых согласных, обычно с чередованием</td>
+<td><code>kot</code> → <code>o kocie</code>, <code>stół</code> →
+<code>na stole</code>, <code>miasto</code> → <code>w mieście</code></td>
+</tr>
+<tr>
+<td><code>-u</code></td>
+<td>после мягких, отвердевших и заднеязычных согласных, а также у многих
+слов с исторически мягкой основой</td>
+<td><code>dom</code> → <code>w domu</code>, <code>pan</code> →
+<code>o panu</code>, <code>morze</code> → <code>o morzu</code>,
+<code>rok</code> → <code>w roku</code></td>
+</tr>
+</tbody>
+</table>
+<p>Алгоритм выбора:</p>
+<ol type="1">
+<li>Если слово уже имеет мягкую/шипящую основу или заканчивается на
+<code>-e</code>, часто будет <code>-u</code>: <code>morze</code> →
+<code>morzu</code>, <code>pole</code> → <code>polu</code>.</li>
+<li>Если перед окончанием возможна типичная мягкая замена, часто будет
+<code>-e</code>: <code>kot</code> → <code>kocie</code>,
+<code>stół</code> → <code>stole</code>, <code>miasto</code> →
+<code>mieście</code>.</li>
+<li>Для многих мужских неодушевлённых слов выбор <code>-e/-u</code>
+нужно запоминать: <code>dom</code> → <code>domu</code>, но
+<code>ser</code> → <code>serze</code>.</li>
+</ol>
 <h3 id="средний-род-на--um">Средний род на <code>-um</code></h3>
 <p>Существительные среднего рода на <code>-um</code> не склоняются в
 единственном числе:</p>
