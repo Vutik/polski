@@ -1,0 +1,257 @@
+- generic [ref=e2]:
+  - link "Перейти к содержимому" [ref=e3] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e8]:
+        - link " Просмотреть профиль propolskiblog на Facebook" [ref=e9] [cursor=pointer]:
+          - /url: https://www.facebook.com/propolskiblog/
+          - text: 
+          - generic [ref=e10]: Просмотреть профиль propolskiblog на Facebook
+        - link " Просмотреть профиль PROpolski_com на Twitter" [ref=e11] [cursor=pointer]:
+          - /url: https://twitter.com/PROpolski_com/
+          - text: 
+          - generic [ref=e12]: Просмотреть профиль PROpolski_com на Twitter
+        - link " Просмотреть профиль propolski на Instagram" [ref=e13] [cursor=pointer]:
+          - /url: https://www.instagram.com/propolski/
+          - text: 
+          - generic [ref=e14]: Просмотреть профиль propolski на Instagram
+        - link " Просмотреть профиль propolskiblog на Pinterest" [ref=e15] [cursor=pointer]:
+          - /url: https://www.pinterest.com/propolskiblog/
+          - text: 
+          - generic [ref=e16]: Просмотреть профиль propolskiblog на Pinterest
+        - link " Просмотреть профиль kateryna-lukianova-78b0a2ab на LinkedIn" [ref=e17] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/kateryna-lukianova-78b0a2ab/
+          - text: 
+          - generic [ref=e18]: Просмотреть профиль kateryna-lukianova-78b0a2ab на LinkedIn
+        - link " Просмотреть профиль UCg0djfCucaVv9spNr2yPv-A на YouTube" [ref=e19] [cursor=pointer]:
+          - /url: https://www.youtube.com/channel/UCg0djfCucaVv9spNr2yPv-A/
+          - text: 
+          - generic [ref=e20]: Просмотреть профиль UCg0djfCucaVv9spNr2yPv-A на YouTube
+        - link " Просмотреть профиль propolskiblog на Telegram" [ref=e21] [cursor=pointer]:
+          - /url: https://www.t.me/propolski_kurs/
+          - text: 
+          - generic [ref=e22]: Просмотреть профиль propolskiblog на Telegram
+      - navigation [ref=e23]:
+        - generic:
+          - list:
+            - listitem [ref=e24]:
+              - link "Українська" [ref=e25] [cursor=pointer]:
+                - /url: https://propolski.com/uk/?s=odmiana+przymiotnik%C3%B3w
+            - listitem [ref=e26]:
+              - link "Русский" [ref=e27] [cursor=pointer]:
+                - /url: https://propolski.com/?s=odmiana+przymiotnik%C3%B3w
+    - generic [ref=e30]:
+      - generic [ref=e31]:
+        - link "ProPolski - блог о польском языке" [ref=e33] [cursor=pointer]:
+          - /url: https://propolski.com/
+          - img "ProPolski - блог о польском языке" [ref=e34]
+        - generic [ref=e35]:
+          - heading "ProPolski" [level=3] [ref=e36]:
+            - link "ProPolski" [ref=e37] [cursor=pointer]:
+              - /url: https://propolski.com/
+          - paragraph [ref=e38]: Блог о польском языке
+      - generic [ref=e39]:
+        - complementary [ref=e41]:
+          - generic [ref=e43]:
+            - textbox "Поиск" [ref=e44]
+            - button "" [ref=e45] [cursor=pointer]
+        - navigation [ref=e46]:
+          - text: ≡
+          - generic [ref=e47]:
+            - text: 
+            - list [ref=e48]:
+              - listitem [ref=e49]:
+                - link "ВСЕ СТАТЬИ" [ref=e50] [cursor=pointer]:
+                  - /url: https://propolski.com/sitemap/
+              - listitem [ref=e51]:
+                - link "Учить" [ref=e52] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Учить
+                  - generic [ref=e53]: 
+              - listitem [ref=e54]:
+                - link "Читать" [ref=e55] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Читать
+                  - generic [ref=e56]: 
+              - listitem [ref=e57]:
+                - link "Смотреть/слушать" [ref=e58] [cursor=pointer]:
+                  - /url: https://propolski.com/wideo-audio-po-polsku/
+                  - text: Смотреть/слушать
+                  - generic [ref=e59]: 
+              - listitem [ref=e60]:
+                - link "Польшa" [ref=e61] [cursor=pointer]:
+                  - /url: https://propolski.com/polska/
+              - listitem [ref=e62]:
+                - link "Подписка" [ref=e63] [cursor=pointer]:
+                  - /url: https://propolski.com/kontakt/
+              - listitem [ref=e64]:
+                - link "КУРС" [ref=e65] [cursor=pointer]:
+                  - /url: https://kursy.propolski.com/uk/
+    - generic [ref=e66]:
+      - generic:
+        - heading "Результаты поиска" [level=1] [ref=e68]
+        - generic [ref=e69]:
+          - text: "Вы здесь:"
+          - generic [ref=e70]:
+            - link "Главная" [ref=e72] [cursor=pointer]:
+              - /url: https://propolski.com/
+            - text: »
+            - strong [ref=e74]: Вы искали odmiana przymiotników
+  - article [ref=e78]:
+    - heading "Спряжение глаголов в польском языке, таблица настоящего времени" [level=2] [ref=e80]:
+      - link "Спряжение глаголов в польском языке, таблица настоящего времени" [ref=e81] [cursor=pointer]:
+        - /url: https://propolski.com/2015/12/16/koniugacja-czasownikow-polskich/
+    - figure [ref=e82]:
+      - 'link "Cпряжение глаголов в польском языке: таблица настоящего времени" [ref=e83] [cursor=pointer]':
+        - /url: https://propolski.com/2015/12/16/koniugacja-czasownikow-polskich/
+        - 'img "Cпряжение глаголов в польском языке: таблица настоящего времени" [ref=e84]'
+    - generic [ref=e85]:
+      - paragraph [ref=e86]: Вы можете учить польский язык в среде, ходить на языковые курсы, а может быть даже решили изучить польский язык самостоятельно. В любом случае вы скорее всего дойдете до такого важного аспекта, как спряжение глаголов в польском языке. Эта статья является
+      - generic [ref=e88]:
+        - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e89]
+        - list [ref=e91]:
+          - listitem [ref=e92]:
+            - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e93] [cursor=pointer]:
+              - /url: https://propolski.com/2015/12/16/koniugacja-czasownikow-polskich/?share=facebook&nb=1
+              - text: 
+          - listitem [ref=e94]:
+            - link "Поделиться в Pinterest (Открывается в новом окне) 30" [ref=e95] [cursor=pointer]:
+              - /url: https://propolski.com/2015/12/16/koniugacja-czasownikow-polskich/?share=pinterest&nb=1
+              - text: 
+          - listitem [ref=e96]:
+            - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e97] [cursor=pointer]:
+              - /url: https://propolski.com/2015/12/16/koniugacja-czasownikow-polskich/?share=telegram&nb=1
+              - text: 
+          - listitem [ref=e98]:
+            - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e99] [cursor=pointer]:
+              - /url: https://propolski.com/2015/12/16/koniugacja-czasownikow-polskich/?share=jetpack-whatsapp&nb=1
+              - text: 
+          - listitem [ref=e100]:
+            - link "Поделиться в Х (Открывается в новом окне)" [ref=e101] [cursor=pointer]:
+              - /url: https://propolski.com/2015/12/16/koniugacja-czasownikow-polskich/?share=x&nb=1
+              - text: 
+          - listitem [ref=e102]:
+            - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e103] [cursor=pointer]:
+              - /url: https://propolski.com/2015/12/16/koniugacja-czasownikow-polskich/?share=linkedin&nb=1
+              - text: 
+          - listitem [ref=e104]:
+            - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e105] [cursor=pointer]:
+              - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20%D0%A1%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%20%D0%B2%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5%2C%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B3%D0%BE%20%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8&body=https%3A%2F%2Fpropolski.com%2F2015%2F12%2F16%2Fkoniugacja-czasownikow-polskich%2F&share=email&nb=1
+              - text: 
+          - listitem [ref=e106]:
+            - link "Печать (Открывается в новом окне)" [ref=e107] [cursor=pointer]:
+              - /url: https://propolski.com/2015/12/16/koniugacja-czasownikow-polskich/?share=print&nb=1
+              - text: 
+          - listitem
+    - generic [ref=e109]:
+      - generic [ref=e110]:
+        - text: 
+        - link "Катерина Лук'янова" [ref=e111] [cursor=pointer]:
+          - /url: https://propolski.com/author/kettibellya/
+      - generic [ref=e112]:
+        - text: 
+        - link "16 декабря 2015" [ref=e113] [cursor=pointer]:
+          - /url: https://propolski.com/2015/12/16/koniugacja-czasownikow-polskich/
+          - time [ref=e114]: 16 декабря 2015
+      - generic [ref=e115]:
+        - text: 
+        - link "Времена в польском языке" [ref=e116] [cursor=pointer]:
+          - /url: https://propolski.com/category/polskaia-grammatika/czasownik/czasy/
+        - text: ","
+        - link "Глагол в польском" [ref=e117] [cursor=pointer]:
+          - /url: https://propolski.com/category/polskaia-grammatika/czasownik/
+        - text: ","
+        - link "Польская грамматика" [ref=e118] [cursor=pointer]:
+          - /url: https://propolski.com/category/polskaia-grammatika/
+        - text: ","
+        - link "Спряжения в польском языке" [ref=e119] [cursor=pointer]:
+          - /url: https://propolski.com/category/polskaia-grammatika/czasownik/koniugacje/
+      - generic [ref=e120]:
+        - text: 
+        - link "43 комментария" [ref=e121] [cursor=pointer]:
+          - /url: https://propolski.com/2015/12/16/koniugacja-czasownikow-polskich/#comments
+      - link "Читать далее" [ref=e123] [cursor=pointer]:
+        - /url: https://propolski.com/2015/12/16/koniugacja-czasownikow-polskich/
+  - contentinfo [ref=e124]:
+    - generic [ref=e127]:
+      - complementary [ref=e129]:
+        - heading "Полезные ссылки" [level=3] [ref=e130]
+        - list [ref=e132]:
+          - listitem [ref=e133]:
+            - link "Тесты по польскому языку" [ref=e134] [cursor=pointer]:
+              - /url: https://testy.propolski.com/
+          - listitem [ref=e135]:
+            - link "Статьи о Польше" [ref=e136] [cursor=pointer]:
+              - /url: https://insidepl.com/
+          - listitem [ref=e137]:
+            - link "Лучший хостинг" [ref=e138] [cursor=pointer]:
+              - /url: https://www.lh.pl/?ref=kettibellya
+      - complementary [ref=e140]:
+        - heading "Что такое ProPolski" [level=3] [ref=e141]
+        - list [ref=e143]:
+          - listitem [ref=e144]:
+            - link "Об авторе" [ref=e145] [cursor=pointer]:
+              - /url: https://propolski.com/autor/
+          - listitem [ref=e146]:
+            - link "Мои ответы на вопросы" [ref=e147] [cursor=pointer]:
+              - /url: https://propolski.com/?p=1811
+          - listitem [ref=e148]:
+            - link "Курс для начинающих" [ref=e149] [cursor=pointer]:
+              - /url: https://kursy.propolski.com/
+          - listitem [ref=e150]:
+            - link "Бесплатная подписка" [ref=e151] [cursor=pointer]:
+              - /url: https://propolski.com/kontakt/
+          - listitem [ref=e152]:
+            - link "Политика конфиденциальности" [ref=e153] [cursor=pointer]:
+              - /url: https://propolski.com/privacy-policy-2/
+      - complementary [ref=e155]:
+        - heading "Блог был для вас полезен?" [level=3] [ref=e156]
+        - generic [ref=e157]:
+          - paragraph [ref=e158]: Если вам понравилось, если было полезно, то ваша финансовая поддержка поможет мне писать чаще и еще интереснее!
+          - link "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e160] [cursor=pointer]:
+            - /url: https://www.patreon.com/propolski
+            - img "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e161]
+          - link "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e163] [cursor=pointer]:
+            - /url: https://www.paypal.me/propolski
+            - img "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e164]
+      - complementary [ref=e166]:
+        - paragraph [ref=e168]:
+          - text: Запроектировано с помощью Freepik.com
+          - strong [ref=e169]: Все права защищены.
+          - text: Материалы
+          - strong [ref=e170]: не копировать
+          - text: для использования на других страницах, для этого внизу каждой статьи есть кнопочка «поделиться».
+    - generic [ref=e171]:
+      - generic:
+        - generic:
+          - generic [ref=e172]:
+            - text: Copyright © 2026
+            - link "ProPolski" [ref=e173] [cursor=pointer]:
+              - /url: https://propolski.com/
+            - text: . Все права защищены. Тема
+            - link "Spacious" [ref=e174] [cursor=pointer]:
+              - /url: https://themegrill.com/themes/spacious
+            - text: "от ThemeGrill. На платформе:"
+            - link "WordPress" [ref=e175] [cursor=pointer]:
+              - /url: https://wordpress.org
+            - text: .
+          - navigation [ref=e176]:
+            - generic:
+              - list:
+                - listitem [ref=e177]:
+                  - link "Об авторе" [ref=e178] [cursor=pointer]:
+                    - /url: https://propolski.com/autor/
+                - listitem [ref=e179]:
+                  - link "Мои ответы на вопросы" [ref=e180] [cursor=pointer]:
+                    - /url: https://propolski.com/?p=1811
+                - listitem [ref=e181]:
+                  - link "Курс для начинающих" [ref=e182] [cursor=pointer]:
+                    - /url: https://kursy.propolski.com/
+                - listitem [ref=e183]:
+                  - link "Бесплатная подписка" [ref=e184] [cursor=pointer]:
+                    - /url: https://propolski.com/kontakt/
+                - listitem [ref=e185]:
+                  - link "Политика конфиденциальности" [ref=e186] [cursor=pointer]:
+                    - /url: https://propolski.com/privacy-policy-2/
+  - text: 

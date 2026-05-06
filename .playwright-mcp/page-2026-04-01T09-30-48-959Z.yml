@@ -1,0 +1,2509 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - link "Перейти к содержимому" [ref=e3] [cursor=pointer]:
+      - /url: "#main"
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - generic [ref=e8]:
+          - link " Просмотреть профиль propolskiblog на Facebook" [ref=e9] [cursor=pointer]:
+            - /url: https://www.facebook.com/propolskiblog/
+            - text: 
+            - generic [ref=e10]: Просмотреть профиль propolskiblog на Facebook
+          - link " Просмотреть профиль PROpolski_com на Twitter" [ref=e11] [cursor=pointer]:
+            - /url: https://twitter.com/PROpolski_com/
+            - text: 
+            - generic [ref=e12]: Просмотреть профиль PROpolski_com на Twitter
+          - link " Просмотреть профиль propolski на Instagram" [ref=e13] [cursor=pointer]:
+            - /url: https://www.instagram.com/propolski/
+            - text: 
+            - generic [ref=e14]: Просмотреть профиль propolski на Instagram
+          - link " Просмотреть профиль propolskiblog на Pinterest" [ref=e15] [cursor=pointer]:
+            - /url: https://www.pinterest.com/propolskiblog/
+            - text: 
+            - generic [ref=e16]: Просмотреть профиль propolskiblog на Pinterest
+          - link " Просмотреть профиль kateryna-lukianova-78b0a2ab на LinkedIn" [ref=e17] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/kateryna-lukianova-78b0a2ab/
+            - text: 
+            - generic [ref=e18]: Просмотреть профиль kateryna-lukianova-78b0a2ab на LinkedIn
+          - link " Просмотреть профиль UCg0djfCucaVv9spNr2yPv-A на YouTube" [ref=e19] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCg0djfCucaVv9spNr2yPv-A/
+            - text: 
+            - generic [ref=e20]: Просмотреть профиль UCg0djfCucaVv9spNr2yPv-A на YouTube
+          - link " Просмотреть профиль propolskiblog на Telegram" [ref=e21] [cursor=pointer]:
+            - /url: https://www.t.me/propolski_kurs/
+            - text: 
+            - generic [ref=e22]: Просмотреть профиль propolskiblog на Telegram
+        - navigation [ref=e23]:
+          - generic:
+            - list:
+              - listitem [ref=e24]:
+                - link "Українська" [ref=e25] [cursor=pointer]:
+                  - /url: https://propolski.com/uk/2023/02/06/mynulyi-chas-u-polskii-movi/
+              - listitem [ref=e26]:
+                - link "Русский" [ref=e27] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - link "ProPolski - блог о польском языке" [ref=e33] [cursor=pointer]:
+            - /url: https://propolski.com/
+            - img "ProPolski - блог о польском языке" [ref=e34]
+          - generic [ref=e35]:
+            - heading "ProPolski" [level=3] [ref=e36]:
+              - link "ProPolski" [ref=e37] [cursor=pointer]:
+                - /url: https://propolski.com/
+            - paragraph [ref=e38]: Блог о польском языке
+        - generic [ref=e39]:
+          - complementary [ref=e41]:
+            - generic [ref=e43]:
+              - textbox "Поиск" [ref=e44]
+              - button "" [ref=e45] [cursor=pointer]
+          - navigation [ref=e46]:
+            - text: ≡
+            - generic [ref=e47]:
+              - text: 
+              - list [ref=e48]:
+                - listitem [ref=e49]:
+                  - link "ВСЕ СТАТЬИ" [ref=e50] [cursor=pointer]:
+                    - /url: https://propolski.com/sitemap/
+                - listitem [ref=e51]:
+                  - link "Учить" [ref=e52] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Учить
+                    - generic [ref=e53]: 
+                - listitem [ref=e54]:
+                  - link "Читать" [ref=e55] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Читать
+                    - generic [ref=e56]: 
+                - listitem [ref=e57]:
+                  - link "Смотреть/слушать" [ref=e58] [cursor=pointer]:
+                    - /url: https://propolski.com/wideo-audio-po-polsku/
+                    - text: Смотреть/слушать
+                    - generic [ref=e59]: 
+                - listitem [ref=e60]:
+                  - link "Польшa" [ref=e61] [cursor=pointer]:
+                    - /url: https://propolski.com/polska/
+                - listitem [ref=e62]:
+                  - link "Подписка" [ref=e63] [cursor=pointer]:
+                    - /url: https://propolski.com/kontakt/
+                - listitem [ref=e64]:
+                  - link "КУРС" [ref=e65] [cursor=pointer]:
+                    - /url: https://kursy.propolski.com/uk/
+      - generic [ref=e66]:
+        - generic:
+          - 'heading "Прошедшее время в польском языке: таблица" [level=1] [ref=e68]'
+          - generic [ref=e69]:
+            - text: "Вы здесь:"
+            - generic [ref=e70]:
+              - link "Главная" [ref=e72] [cursor=pointer]:
+                - /url: https://propolski.com/
+              - text: »
+              - link "Польская грамматика" [ref=e74] [cursor=pointer]:
+                - /url: https://propolski.com/category/polskaia-grammatika/
+              - text: »
+              - link "Глагол в польском" [ref=e76] [cursor=pointer]:
+                - /url: https://propolski.com/category/polskaia-grammatika/czasownik/
+              - text: »
+              - strong [ref=e78]: "Прошедшее время в польском языке: таблица"
+    - insertion [ref=e80]
+    - generic [ref=e84]:
+      - article [ref=e85]:
+        - generic [ref=e86]:
+          - generic [ref=e87]:
+            - generic [ref=e88]:
+              - paragraph [ref=e89]: "Содержание:"
+              - link "Toggle Table of Content" [ref=e90] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e93]:
+                  - img [ref=e94]
+                  - img [ref=e96]
+            - navigation [ref=e98]:
+              - list [ref=e99]:
+                - listitem [ref=e100]:
+                  - link "Прошедшее время в польском языке" [ref=e101] [cursor=pointer]:
+                    - /url: "#%D0%9F%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5"
+                  - list [ref=e102]:
+                    - listitem [ref=e103]:
+                      - link "Таблицы спряжения прошедшего времени регулярных глаголов польского языка" [ref=e104] [cursor=pointer]:
+                        - /url: "#%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B_%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B3%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8_%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D1%85_%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0"
+                    - listitem [ref=e105]:
+                      - link "О -łom и -łoś, формы первого и второго лица среднего рода ед. числа" [ref=e106] [cursor=pointer]:
+                        - /url: "#%D0%9E_-lom_%D0%B8_-los_%D1%84%D0%BE%D1%80%D0%BC%D1%8B_%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B8_%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B3%D0%BE_%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B3%D0%BE_%D1%80%D0%BE%D0%B4%D0%B0_%D0%B5%D0%B4_%D1%87%D0%B8%D1%81%D0%BB%D0%B0"
+                    - listitem [ref=e107]:
+                      - link "Прошедшее время польских глаголов на -eć" [ref=e108] [cursor=pointer]:
+                        - /url: "#%D0%9F%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D1%85_%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2_%D0%BD%D0%B0_-ec"
+                      - list [ref=e109]:
+                        - listitem [ref=e110]:
+                          - link "Глагол musieć в прошедшем времени" [ref=e111] [cursor=pointer]:
+                            - /url: "#%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB_musiec_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"
+                        - listitem [ref=e112]:
+                          - link "Спряжение глагола chcieć в прошедшем времени" [ref=e113] [cursor=pointer]:
+                            - /url: "#%D0%A1%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%B0_chciec_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"
+                    - listitem [ref=e114]:
+                      - link "Прошедшее время польских глаголов на -ąć" [ref=e115] [cursor=pointer]:
+                        - /url: "#%D0%9F%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D1%85_%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2_%D0%BD%D0%B0_-ac"
+                      - list [ref=e116]:
+                        - listitem [ref=e117]:
+                          - link "Глагол ciągnąć в прошедшем времени" [ref=e118] [cursor=pointer]:
+                            - /url: "#%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB_ciagnac_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"
+                        - listitem [ref=e119]:
+                          - link "Глагол wziąć в прошедшем времени" [ref=e120] [cursor=pointer]:
+                            - /url: "#%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB_wziac_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"
+                        - listitem [ref=e121]:
+                          - link "Спряжение глагола dąć в прошедшем времени" [ref=e122] [cursor=pointer]:
+                            - /url: "#%D0%A1%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%B0_dac_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"
+                        - listitem [ref=e123]:
+                          - link "Глагол ciąć в прошедшем времени" [ref=e124] [cursor=pointer]:
+                            - /url: "#%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB_ciac_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"
+                    - listitem [ref=e125]:
+                      - link "Прошедшее время польских глаголов на -c" [ref=e126] [cursor=pointer]:
+                        - /url: "#%D0%9F%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D1%85_%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2_%D0%BD%D0%B0_-c"
+                      - list [ref=e127]:
+                        - listitem [ref=e128]:
+                          - link "Прошедшее время глагола móc (ja mogę в настоящем времени)" [ref=e129] [cursor=pointer]:
+                            - /url: "#%D0%9F%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F_%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%B0_moc_ja_moge_%D0%B2_%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"
+                        - listitem [ref=e130]:
+                          - link "Спряжение в прошедшем времени глагола piec (ja piekę в настоящем времени)" [ref=e131] [cursor=pointer]:
+                            - /url: "#%D0%A1%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8_%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%B0_piec_ja_pieke_%D0%B2_%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"
+                    - listitem [ref=e132]:
+                      - link "Прошедшее время польских глаголов на согласный+ć (-źć, -ść)" [ref=e133] [cursor=pointer]:
+                        - /url: "#%D0%9F%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D1%85_%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2_%D0%BD%D0%B0_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B9c_-zc_-sc"
+                      - list [ref=e134]:
+                        - listitem [ref=e135]:
+                          - link "Пример спряжение глагола nieść (ja niosę в настоящем времени) во времени прошедшем" [ref=e136] [cursor=pointer]:
+                            - /url: "#%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80_%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%B0_niesc_ja_niose_%D0%B2_%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8_%D0%B2%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8_%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%BC"
+                        - listitem [ref=e137]:
+                          - link "Глагол wieźć в прошедшем времени (ja wiozę в настоящем времени):" [ref=e138] [cursor=pointer]:
+                            - /url: "#%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB_wiezc_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8_ja_wioze_%D0%B2_%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"
+                        - listitem [ref=e139]:
+                          - link "Глагол rość (устарел)=rosnąć (ja rosnę в настоящем времени)" [ref=e140] [cursor=pointer]:
+                            - /url: "#%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB_rosc_%D1%83%D1%81%D1%82%D0%B0%D1%80%D0%B5%D0%BBrosnac_ja_rosne_%D0%B2_%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"
+                        - listitem [ref=e141]:
+                          - link "Глагол paść — выпасать животное на лугу (ja pasę в настоящем времени):" [ref=e142] [cursor=pointer]:
+                            - /url: "#%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB_pasc_%E2%80%94_%D0%B2%D1%8B%D0%BF%D0%B0%D1%81%D0%B0%D1%82%D1%8C_%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D0%BE%D0%B5_%D0%BD%D0%B0_%D0%BB%D1%83%D0%B3%D1%83_ja_pase_%D0%B2_%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"
+                    - listitem [ref=e143]:
+                      - link "Нерегулярные глаголы в прошедшем времени" [ref=e144] [cursor=pointer]:
+                        - /url: "#%D0%9D%D0%B5%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5_%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D1%8B_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"
+                      - list [ref=e145]:
+                        - listitem [ref=e146]:
+                          - link "Глагол jeść в прошедшем времени" [ref=e147] [cursor=pointer]:
+                            - /url: "#%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB_jesc_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"
+                        - listitem [ref=e148]:
+                          - link "Глагол iść в прошедшем времени" [ref=e149] [cursor=pointer]:
+                            - /url: "#%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB_isc_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"
+                        - listitem [ref=e150]:
+                          - link "Глагол usiąść в прошедшем времени" [ref=e151] [cursor=pointer]:
+                            - /url: "#%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB_usiasc_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"
+                        - listitem [ref=e152]:
+                          - link "Глагол znaleźć в прошедшем времени" [ref=e153] [cursor=pointer]:
+                            - /url: "#%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB_znalezc_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"
+                        - listitem [ref=e154]:
+                          - link "Глагол biec/biegnąć (ja biegnę в настоящем времени), который относится к нерегулярным" [ref=e155] [cursor=pointer]:
+                            - /url: "#%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB_biecbiegnac_ja_biegne_%D0%B2_%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8_%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9_%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D1%81%D1%8F_%D0%BA_%D0%BD%D0%B5%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%BC"
+                        - listitem [ref=e156]:
+                          - link "Глаголы lec и polec в прошедшем времени" [ref=e157] [cursor=pointer]:
+                            - /url: "#%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D1%8B_lec_%D0%B8_polec_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"
+                        - listitem [ref=e158]:
+                          - link "Глагол uciec (ja ucieknę в простом будущем времени)" [ref=e159] [cursor=pointer]:
+                            - /url: "#%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB_uciec_ja_uciekne_%D0%B2_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%BC_%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"
+                        - listitem [ref=e160]:
+                          - link "Глагол kraść (ja kradnę в настоящем времени)" [ref=e161] [cursor=pointer]:
+                            - /url: "#%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB_krasc_ja_kradne_%D0%B2_%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"
+                - listitem [ref=e162]:
+                  - link "Ударение в прошедшем времени польского языка" [ref=e163] [cursor=pointer]:
+                    - /url: "#%D0%A3%D0%B4%D0%B0%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0"
+                - listitem [ref=e164]:
+                  - link "Прошедшее время в предложении" [ref=e165] [cursor=pointer]:
+                    - /url: "#%D0%9F%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F_%D0%B2_%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8"
+                - listitem [ref=e166]:
+                  - link "Тесты и упражнения" [ref=e167] [cursor=pointer]:
+                    - /url: "#%D0%A2%D0%B5%D1%81%D1%82%D1%8B_%D0%B8_%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F"
+                - listitem [ref=e168]:
+                  - link "Заключение и итог" [ref=e169] [cursor=pointer]:
+                    - /url: "#%D0%97%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%B8%D1%82%D0%BE%D0%B3"
+          - generic [ref=e170]:
+            - list [ref=e171]:
+              - listitem [ref=e172]:
+                - link "Об авторе" [ref=e173] [cursor=pointer]:
+                  - /url: "#abh_about"
+              - listitem [ref=e174]:
+                - link "Недавние публикации" [ref=e175] [cursor=pointer]:
+                  - /url: "#abh_posts"
+            - generic [ref=e177]:
+              - generic [ref=e178]:
+                - link "Катерина Лук'янова":
+                  - /url: https://propolski.com/
+                  - img "Катерина Лук'янова" [ref=e179] [cursor=pointer]
+              - link "" [ref=e181] [cursor=pointer]:
+                - /url: https://www.facebook.com/kate.lukianova.propolski
+              - generic [ref=e182]:
+                - link "Катерина Лук'янова" [ref=e184] [cursor=pointer]:
+                  - /url: https://propolski.com/
+                - generic [ref=e185]: Здравствуйте.Меня зовут Екатерина Лукьянова, я - автор блога о польском языке ProPolski.com и сайта о Польше insidePL.com. Живу в Польше. Свободное от основной работы время всецело посвящаю ProPolski.com и insidePL.com.
+          - paragraph [ref=e186]: Последнее обновление 6 февраля 2023
+          - paragraph [ref=e187]: Я всегда пребывала в убеждении, что прошедшее время в польском языке имеет очень простые правила образования. Не пугайтесь, в основном так и есть, поскольку очень много общего есть между польским прошедшим и русским. Так-то оно так, но некоторые нюансы о нём всё-таки стоит знать.
+          - insertion [ref=e188]
+          - heading "Прошедшее время в польском языке" [level=2] [ref=e190]: Прошедшее время в польском языке
+          - paragraph [ref=e191]: В моей любимой книге о грамматике Piotra Bąka настоящее время занимает шесть страниц, будущее полторы страницы, а вот прошедшее — целых шестнадцать…
+          - blockquote [ref=e192]:
+            - text: 💡
+            - paragraph [ref=e193]:
+              - strong [ref=e194]:
+                - text: "Читайте также:"
+                - 'link "Будущее время в польском языке: таблица, примеры, объяснение" [ref=e195] [cursor=pointer]':
+                  - /url: https://propolski.com/2017/08/17/czas-przyszly/
+          - paragraph [ref=e196]: Конечно, я прочла все эти шестнадцать страниц, и скажу, что вам они — совсем не нужны. Иностранцу, желающему научиться правильно говорить и писать, без надобности происхождение окончаний прошедшего времени, их связь с основами настоящего, деепричастиями и всяким таким прочим. Думаю, все это нужно оставить филологам. В этой статье мы с вами рассмотрим более практические и полезные примеры. Проще говоря — научимся творить прошедшее время польского языка и ставить правильно ударения (этот абзац — в самом конце статьи).
+          - insertion [ref=e197]
+          - heading "Таблицы спряжения прошедшего времени регулярных глаголов польского языка" [level=3] [ref=e199]: Таблицы спряжения прошедшего времени регулярных глаголов польского языка
+          - paragraph [ref=e200]:
+            - text: Одной из проблем спряжений является то, что глаголы могут быть регулярными (правильными), то есть, спрягаться без каких-либо исключений и по правилам (и большинство глаголов — регулярные), а могут быть
+            - link "нерегулярными" [ref=e201] [cursor=pointer]:
+              - /url: https://pl.wiktionary.org/wiki/Aneks:J%C4%99zyk_polski_-_czasowniki_nieregularne
+            - text: (неправильными), грубо говоря, спрягаясь так, как им заблагорассудится.
+          - paragraph [ref=e202]: "Я начну с регулярного примера (напишем формы прошедшего времени глагола brać):"
+          - table [ref=e203]:
+            - rowgroup [ref=e204]:
+              - row "Liczba pojedyncza" [ref=e205]:
+                - cell "Liczba pojedyncza" [ref=e206]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e207]:
+                - cell "Rodzaj męski" [ref=e208]
+                - cell "Rodzaj żeński" [ref=e209]
+                - cell "Rodzaj nijaki" [ref=e210]
+              - row "JA brałem JA brałam JA -łom" [ref=e211]:
+                - cell "JA" [ref=e212]
+                - cell "brałem" [ref=e213]
+                - cell "JA" [ref=e214]
+                - cell "brałam" [ref=e215]
+                - cell "JA" [ref=e216]
+                - cell "-łom" [ref=e217]
+              - row "TY brałeś TY brałaś TY -łoś" [ref=e218]:
+                - cell "TY" [ref=e219]
+                - cell "brałeś" [ref=e220]
+                - cell "TY" [ref=e221]
+                - cell "brałaś" [ref=e222]
+                - cell "TY" [ref=e223]
+                - cell "-łoś" [ref=e224]
+              - row "ON / PAN brał ONA / PANI brała ONO brało" [ref=e225]:
+                - cell "ON / PAN" [ref=e226]
+                - cell "brał" [ref=e227]
+                - cell "ONA / PANI" [ref=e228]
+                - cell "brała" [ref=e229]
+                - cell "ONO" [ref=e230]
+                - cell "brało" [ref=e231]
+              - row "Liczba mnoga" [ref=e232]:
+                - cell "Liczba mnoga" [ref=e233]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e234]:
+                - cell "Rodzaj męskoosobowy" [ref=e235]
+                - cell "Rodzaj niemęskoosobowy" [ref=e236]
+              - row "MY braliśmy MY brałyśmy" [ref=e237]:
+                - cell "MY" [ref=e238]
+                - cell "braliśmy" [ref=e239]
+                - cell "MY" [ref=e240]
+                - cell "brałyśmy" [ref=e241]
+              - row "WY braliście WY brałyście" [ref=e242]:
+                - cell "WY" [ref=e243]
+                - cell "braliście" [ref=e244]
+                - cell "WY" [ref=e245]
+                - cell "brałyście" [ref=e246]
+              - row "ONI / PANOWIE / PAŃSTWO brali ONE / PANIE brały" [ref=e247]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e248]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "brali" [ref=e249]
+                - cell "ONE / PANIE" [ref=e250]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "brały" [ref=e251]
+          - paragraph [ref=e252]: "В польской грамматике происхождение основы спряжения по лицам прошедшего времени объясняется долго и обстоятельно, и иностранцу знать это для письма и разговора, мне кажется, не стоит. Поэтому объясню так:"
+          - list [ref=e253]:
+            - listitem [ref=e254]:
+              - text: Если
+              - link "инфинитив" [ref=e255] [cursor=pointer]:
+                - /url: https://pl.wikipedia.org/wiki/Bezokolicznik_w_j%C4%99zyku_polskim
+              - text: (
+              - link "безличный глагол" [ref=e256] [cursor=pointer]:
+                - /url: https://pl.wikipedia.org/wiki/Bezokolicznik_w_j%C4%99zyku_polskim
+              - text: ) заканчивается на -ć, то в большинстве случаев основой в прошедшем времени является часть инфинитива без последней буквы -ć. То есть, у инфинитива brać основой будет bra-, у czytać — czyta-, pływać — pływa-, chodzić — chodzi-, nosić — nosi-, tańczyć — tańczy-. Я написала «в большинстве», потому что не всегда. К примеру, такая простота характерна
+              - link "третьему спряжению" [ref=e258] [cursor=pointer]:
+                - /url: https://propolski.com/2015/12/21/koniugacja-3/
+              - text: (кроме слова mieć),
+              - generic [ref=e259]:
+                - link "второму спряжению" [ref=e260] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/01/07/koniugacja-2/
+                - text: на -ić/-yć/-ać,
+              - generic [ref=e261]:
+                - link "первому спряжению" [ref=e262] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/01/08/koniugacja-1/
+                - text: на -ać/-ować/-iwać/-ywać/
+              - text: и всех односложных глаголов первого спряжения на -ić/-yć/-uć.
+            - listitem [ref=e263]: Окончания, выделенные красным цветом, ВСЕГДА одинаковы для прошедшего времени, любого слова. Любого. Без исключений.
+          - heading "О -łom и -łoś, формы первого и второго лица среднего рода ед. числа" [level=3] [ref=e264]: О -łom и -łoś, формы первого и второго лица среднего рода ед. числа
+          - paragraph [ref=e265]:
+            - text: Формы первого и второго лица среднего рода обозначены светло-серым, как видите, потому что они очень редко употребляемы. Формы первого лица практически не существует, потому что предметы среднего рода не говорят, а младенцы, когда начинают говорить, сразу же употребляют женский или мужской род (niemowlę — в польском языке младенец — среднего рода, собственно, как и ребенок — dziecko). Однако в теории такие формы все же есть, и они могут быть употреблены в литературе. К примеру, если солнце (słońce) будет разговаривать, то оно может говорить о себе в первом лице — ja brałom. Чаще в литературе попадаются формы второго лица. Повторяю — в жизни и речи эти формы не употребляются и подчеркиваются автопроверкой. И еще раз об этом на польском читайте в
+            - link "этой статье" [ref=e266] [cursor=pointer]:
+              - /url: https://blog.dobryslownik.pl/sloneczko-wstalos-nie-zaspalom-o-tajemniczym-rodzaju-nijakim-czasownikow/
+            - text: .
+          - paragraph [ref=e267]: Что делать с остальными глаголами, которые мы не внесли в перечень, как с ними находить прошедшее время? Можно точно так же разделить их на подгруппы.
+          - insertion [ref=e268]
+          - heading "Прошедшее время польских глаголов на -eć" [level=3] [ref=e270]: Прошедшее время польских глаголов на -eć
+          - paragraph [ref=e271]: Кажется, в любом учебнике обучения польскому языку иностранцев, конечно же, приводят эту группу сразу после основной. Слова на -eć есть в каждом спряжении, согласитесь, значит, это весьма важная группа.
+          - heading "Глагол musieć в прошедшем времени" [level=4] [ref=e272]:
+            - text: Глагол
+            - strong [ref=e274]: musieć
+            - strong [ref=e275]
+            - text: в прошедшем времени
+          - table [ref=e276]:
+            - rowgroup [ref=e277]:
+              - row "Liczba pojedyncza" [ref=e278]:
+                - cell "Liczba pojedyncza" [ref=e279]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e280]:
+                - cell "Rodzaj męski" [ref=e281]
+                - cell "Rodzaj żeński" [ref=e282]
+                - cell "Rodzaj nijaki" [ref=e283]
+              - row "JA musiałem JA musiałam JA -łom" [ref=e284]:
+                - cell "JA" [ref=e285]
+                - cell "musiałem" [ref=e286]
+                - cell "JA" [ref=e287]
+                - cell "musiałam" [ref=e288]
+                - cell "JA" [ref=e289]
+                - cell "-łom" [ref=e290]
+              - row "TY musiałeś TY musiałaś TY -łoś" [ref=e291]:
+                - cell "TY" [ref=e292]
+                - cell "musiałeś" [ref=e293]
+                - cell "TY" [ref=e294]
+                - cell "musiałaś" [ref=e295]
+                - cell "TY" [ref=e296]
+                - cell "-łoś" [ref=e297]
+              - row "ON / PAN musiał ONA / PANI musiała ONO musiało" [ref=e298]:
+                - cell "ON / PAN" [ref=e299]
+                - cell "musiał" [ref=e300]
+                - cell "ONA / PANI" [ref=e301]
+                - cell "musiała" [ref=e302]
+                - cell "ONO" [ref=e303]
+                - cell "musiało" [ref=e304]
+              - row "Liczba mnoga" [ref=e305]:
+                - cell "Liczba mnoga" [ref=e306]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e307]:
+                - cell "Rodzaj męskoosobowy" [ref=e308]
+                - cell "Rodzaj niemęskoosobowy" [ref=e309]
+              - row "MY musieliśmy MY musiałyśmy" [ref=e310]:
+                - cell "MY" [ref=e311]
+                - cell "musieliśmy" [ref=e312]
+                - cell "MY" [ref=e313]
+                - cell "musiałyśmy" [ref=e314]
+              - row "WY musieliście WY musiałyście" [ref=e315]:
+                - cell "WY" [ref=e316]
+                - cell "musieliście" [ref=e317]
+                - cell "WY" [ref=e318]
+                - cell "musiałyście" [ref=e319]
+              - row "ONI / PANOWIE / PAŃSTWO musieli ONE / PANIE musiały" [ref=e320]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e321]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "musieli" [ref=e322]
+                - cell "ONE / PANIE" [ref=e323]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "musiały" [ref=e324]
+          - paragraph [ref=e325]: "В глаголах с окончанием на -eć происходит следующее: во всех лицах, кроме множественного лично-мужского (l.mn. r. męskoosobowy), буква «е» в суффиксе меняется на «а». И все, больше никаких фокусов."
+          - heading "Спряжение глагола chcieć в прошедшем времени" [level=4] [ref=e326]:
+            - text: Спряжение глагола
+            - strong [ref=e328]: chcieć
+            - strong [ref=e329]
+            - text: в прошедшем времени
+          - table [ref=e330]:
+            - rowgroup [ref=e331]:
+              - row "Liczba pojedyncza" [ref=e332]:
+                - cell "Liczba pojedyncza" [ref=e333]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e334]:
+                - cell "Rodzaj męski" [ref=e335]
+                - cell "Rodzaj żeński" [ref=e336]
+                - cell "Rodzaj nijaki" [ref=e337]
+              - row "JA chciałem JA chciałam JA -łom" [ref=e338]:
+                - cell "JA" [ref=e339]
+                - cell "chciałem" [ref=e340]
+                - cell "JA" [ref=e341]
+                - cell "chciałam" [ref=e342]
+                - cell "JA" [ref=e343]
+                - cell "-łom" [ref=e344]
+              - row "TY chciałeś TY chciałaś TY -łoś" [ref=e345]:
+                - cell "TY" [ref=e346]
+                - cell "chciałeś" [ref=e347]
+                - cell "TY" [ref=e348]
+                - cell "chciałaś" [ref=e349]
+                - cell "TY" [ref=e350]
+                - cell "-łoś" [ref=e351]
+              - row "ON / PAN chciał ONA / PANI chciała ONO chciało" [ref=e352]:
+                - cell "ON / PAN" [ref=e353]
+                - cell "chciał" [ref=e354]
+                - cell "ONA / PANI" [ref=e355]
+                - cell "chciała" [ref=e356]
+                - cell "ONO" [ref=e357]
+                - cell "chciało" [ref=e358]
+              - row "Liczba mnoga" [ref=e359]:
+                - cell "Liczba mnoga" [ref=e360]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e361]:
+                - cell "Rodzaj męskoosobowy" [ref=e362]
+                - cell "Rodzaj niemęskoosobowy" [ref=e363]
+              - row "MY chcieliśmy MY chciałyśmy" [ref=e364]:
+                - cell "MY" [ref=e365]
+                - cell "chcieliśmy" [ref=e366]
+                - cell "MY" [ref=e367]
+                - cell "chciałyśmy" [ref=e368]
+              - row "WY chcieliście WY chciałyście" [ref=e369]:
+                - cell "WY" [ref=e370]
+                - cell "chcieliście" [ref=e371]
+                - cell "WY" [ref=e372]
+                - cell "chciałyście" [ref=e373]
+              - row "ONI / PANOWIE / PAŃSTWO chcieli ONE / PANIE chciały" [ref=e374]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e375]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "chcieli" [ref=e376]
+                - cell "ONE / PANIE" [ref=e377]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "chciały" [ref=e378]
+          - paragraph [ref=e379]:
+            - text: "Суммируем: к данной группе относятся все глаголы, имеющие в окончании —eć: оставшееся одно слово с"
+            - link "третьего спряжения" [ref=e380] [cursor=pointer]:
+              - /url: https://propolski.com/2015/12/21/koniugacja-3/
+            - text: (
+            - emphasis [ref=e381]:
+              - generic [ref=e382]: mieć — miał
+            - text: ), часть глаголов
+            - link "второго спряжения" [ref=e383] [cursor=pointer]:
+              - /url: https://propolski.com/2016/01/07/koniugacja-2/
+            - text: "(такие как:"
+            - emphasis [ref=e384]:
+              - generic [ref=e385]: boleć — bolał, słyszeć — słyszał, leżeć — leżał, widzieć — widział, myśleć — myślał, musieć — musiał
+            - text: и т.д.), часть глаголов
+            - link "первого спряжения" [ref=e386] [cursor=pointer]:
+              - /url: https://propolski.com/2016/01/08/koniugacja-1/
+            - text: (
+            - emphasis [ref=e387]:
+              - generic [ref=e388]: chcieć — chciał, istnieć — istniał, bieleć — bielał
+            - text: ), и четыре из пяти (кроме jeść) слов
+            - link "четвертого спряжения" [ref=e389] [cursor=pointer]:
+              - /url: https://propolski.com/2015/12/21/koniugacja-4/
+            - text: (
+            - emphasis [ref=e390]:
+              - generic [ref=e391]: rozumieć — rozumiał, umieć — umiał, śmieć — śmiał, wiedzieć — wiedział
+            - text: ).
+          - insertion [ref=e392]
+          - heading "Прошедшее время польских глаголов на -ąć" [level=3] [ref=e394]: Прошедшее время польских глаголов на -ąć
+          - paragraph [ref=e395]: Это довольно увесистая группа глаголов первого спряжения, к которой тоже есть своя схема.
+          - blockquote [ref=e396]:
+            - text: 💡
+            - paragraph [ref=e397]:
+              - strong [ref=e398]: "Читайте также:"
+              - link "Спряжение польских глаголов на -nąć" [ref=e399] [cursor=pointer]:
+                - /url: https://propolski.com/2019/04/07/odmiana-czasownikow-nac/
+                - strong [ref=e400]: Спряжение польских глаголов на -nąć
+              - strong
+          - paragraph [ref=e401]: "Следите по таблицам:"
+          - heading "Глагол ciągnąć в прошедшем времени" [level=4] [ref=e402]:
+            - text: Глагол
+            - strong [ref=e404]: ciągnąć
+            - strong [ref=e405]
+            - text: в прошедшем времени
+          - table [ref=e406]:
+            - rowgroup [ref=e407]:
+              - row "Liczba pojedyncza" [ref=e408]:
+                - cell "Liczba pojedyncza" [ref=e409]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e410]:
+                - cell "Rodzaj męski" [ref=e411]
+                - cell "Rodzaj żeński" [ref=e412]
+                - cell "Rodzaj nijaki" [ref=e413]
+              - row "JA ciągnąłem JA ciągnęłam JA -łom" [ref=e414]:
+                - cell "JA" [ref=e415]
+                - cell "ciągnąłem" [ref=e416]
+                - cell "JA" [ref=e417]
+                - cell "ciągnęłam" [ref=e418]
+                - cell "JA" [ref=e419]
+                - cell "-łom" [ref=e420]
+              - row "TY ciągnąłeś TY ciągnęłaś TY -łoś" [ref=e421]:
+                - cell "TY" [ref=e422]
+                - cell "ciągnąłeś" [ref=e423]
+                - cell "TY" [ref=e424]
+                - cell "ciągnęłaś" [ref=e425]
+                - cell "TY" [ref=e426]
+                - cell "-łoś" [ref=e427]
+              - row "ON / PAN ciągnął ONA / PANI ciągnęła ONO ciągnęło" [ref=e428]:
+                - cell "ON / PAN" [ref=e429]
+                - cell "ciągnął" [ref=e430]
+                - cell "ONA / PANI" [ref=e431]
+                - cell "ciągnęła" [ref=e432]
+                - cell "ONO" [ref=e433]
+                - cell "ciągnęło" [ref=e434]
+              - row "Liczba mnoga" [ref=e435]:
+                - cell "Liczba mnoga" [ref=e436]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e437]:
+                - cell "Rodzaj męskoosobowy" [ref=e438]
+                - cell "Rodzaj niemęskoosobowy" [ref=e439]
+              - row "MY ciągnęliśmy MY ciągnęłyśmy" [ref=e440]:
+                - cell "MY" [ref=e441]
+                - cell "ciągnęliśmy" [ref=e442]
+                - cell "MY" [ref=e443]
+                - cell "ciągnęłyśmy" [ref=e444]
+              - row "WY ciągnęliście WY ciągnęłyście" [ref=e445]:
+                - cell "WY" [ref=e446]
+                - cell "ciągnęliście" [ref=e447]
+                - cell "WY" [ref=e448]
+                - cell "ciągnęłyście" [ref=e449]
+              - row "ONI / PANOWIE / PAŃSTWO ciągnęli ONE / PANIE ciągnęły" [ref=e450]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e451]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "ciągnęli" [ref=e452]
+                - cell "ONE / PANIE" [ref=e453]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "ciągnęły" [ref=e454]
+          - heading "Глагол wziąć в прошедшем времени" [level=4] [ref=e455]:
+            - text: Глагол
+            - strong [ref=e457]: wziąć
+            - strong [ref=e458]
+            - text: в прошедшем времени
+          - table [ref=e459]:
+            - rowgroup [ref=e460]:
+              - row "Liczba pojedyncza" [ref=e461]:
+                - cell "Liczba pojedyncza" [ref=e462]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e463]:
+                - cell "Rodzaj męski" [ref=e464]
+                - cell "Rodzaj żeński" [ref=e465]
+                - cell "Rodzaj nijaki" [ref=e466]
+              - row "JA wziąłem JA wzięłam JA -łom" [ref=e467]:
+                - cell "JA" [ref=e468]
+                - cell "wziąłem" [ref=e469]
+                - cell "JA" [ref=e470]
+                - cell "wzięłam" [ref=e471]
+                - cell "JA" [ref=e472]
+                - cell "-łom" [ref=e473]
+              - row "TY wziąłeś TY wzięłaś TY -łoś" [ref=e474]:
+                - cell "TY" [ref=e475]
+                - cell "wziąłeś" [ref=e476]
+                - cell "TY" [ref=e477]
+                - cell "wzięłaś" [ref=e478]
+                - cell "TY" [ref=e479]
+                - cell "-łoś" [ref=e480]
+              - row "ON / PAN wziął ONA / PANI wzięła ONO wzięło" [ref=e481]:
+                - cell "ON / PAN" [ref=e482]
+                - cell "wziął" [ref=e483]
+                - cell "ONA / PANI" [ref=e484]
+                - cell "wzięła" [ref=e485]
+                - cell "ONO" [ref=e486]
+                - cell "wzięło" [ref=e487]
+              - row "Liczba mnoga" [ref=e488]:
+                - cell "Liczba mnoga" [ref=e489]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e490]:
+                - cell "Rodzaj męskoosobowy" [ref=e491]
+                - cell "Rodzaj niemęskoosobowy" [ref=e492]
+              - row "MY wzięliśmy MY wzięłyśmy" [ref=e493]:
+                - cell "MY" [ref=e494]
+                - cell "wzięliśmy" [ref=e495]
+                - cell "MY" [ref=e496]
+                - cell "wzięłyśmy" [ref=e497]
+              - row "WY wzięliście WY wzięłyście" [ref=e498]:
+                - cell "WY" [ref=e499]
+                - cell "wzięliście" [ref=e500]
+                - cell "WY" [ref=e501]
+                - cell "wzięłyście" [ref=e502]
+              - row "ONI / PANOWIE / PAŃSTWO wzięli ONE / PANIE wzięły" [ref=e503]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e504]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "wzięli" [ref=e505]
+                - cell "ONE / PANIE" [ref=e506]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "wzięły" [ref=e507]
+          - heading "Спряжение глагола dąć в прошедшем времени" [level=4] [ref=e508]:
+            - text: Спряжение глагола
+            - strong [ref=e510]: dąć
+            - strong [ref=e511]
+            - text: в прошедшем времени
+          - table [ref=e512]:
+            - rowgroup [ref=e513]:
+              - row "Liczba pojedyncza" [ref=e514]:
+                - cell "Liczba pojedyncza" [ref=e515]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e516]:
+                - cell "Rodzaj męski" [ref=e517]
+                - cell "Rodzaj żeński" [ref=e518]
+                - cell "Rodzaj nijaki" [ref=e519]
+              - row "JA dąłem JA dęłam JA -łom" [ref=e520]:
+                - cell "JA" [ref=e521]
+                - cell "dąłem" [ref=e522]
+                - cell "JA" [ref=e523]
+                - cell "dęłam" [ref=e524]
+                - cell "JA" [ref=e525]
+                - cell "-łom" [ref=e526]
+              - row "TY dąłeś TY dęłaś TY -łoś" [ref=e527]:
+                - cell "TY" [ref=e528]
+                - cell "dąłeś" [ref=e529]
+                - cell "TY" [ref=e530]
+                - cell "dęłaś" [ref=e531]
+                - cell "TY" [ref=e532]
+                - cell "-łoś" [ref=e533]
+              - row "ON / PAN dął ONO / PANI dęła ONO dęło" [ref=e534]:
+                - cell "ON / PAN" [ref=e535]
+                - cell "dął" [ref=e536]
+                - cell "ONO / PANI" [ref=e537]
+                - cell "dęła" [ref=e538]
+                - cell "ONO" [ref=e539]
+                - cell "dęło" [ref=e540]
+              - row "Liczba mnoga" [ref=e541]:
+                - cell "Liczba mnoga" [ref=e542]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e543]:
+                - cell "Rodzaj męskoosobowy" [ref=e544]
+                - cell "Rodzaj niemęskoosobowy" [ref=e545]
+              - row "MY dęliśmy MY dęłyśmy" [ref=e546]:
+                - cell "MY" [ref=e547]
+                - cell "dęliśmy" [ref=e548]
+                - cell "MY" [ref=e549]
+                - cell "dęłyśmy" [ref=e550]
+              - row "WY dęliście WY dęłyście" [ref=e551]:
+                - cell "WY" [ref=e552]
+                - cell "dęliście" [ref=e553]
+                - cell "WY" [ref=e554]
+                - cell "dęłyście" [ref=e555]
+              - row "ONI / PANOWIE / PAŃSTWO dęli ONE / PANIE dęły" [ref=e556]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e557]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "dęli" [ref=e558]
+                - cell "ONE / PANIE" [ref=e559]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "dęły" [ref=e560]
+          - heading "Глагол ciąć в прошедшем времени" [level=4] [ref=e561]:
+            - text: Глагол
+            - strong [ref=e563]: ciąć
+            - strong [ref=e564]
+            - text: в прошедшем времени
+          - table [ref=e565]:
+            - rowgroup [ref=e566]:
+              - row "Liczba pojedyncza" [ref=e567]:
+                - cell "Liczba pojedyncza" [ref=e568]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e569]:
+                - cell "Rodzaj męski" [ref=e570]
+                - cell "Rodzaj żeński" [ref=e571]
+                - cell "Rodzaj nijaki" [ref=e572]
+              - row "JA ciąłem JA cięłam JA -łom" [ref=e573]:
+                - cell "JA" [ref=e574]
+                - cell "ciąłem" [ref=e575]
+                - cell "JA" [ref=e576]
+                - cell "cięłam" [ref=e577]
+                - cell "JA" [ref=e578]
+                - cell "-łom" [ref=e579]
+              - row "TY ciąłeś TY cięłaś TY -łoś" [ref=e580]:
+                - cell "TY" [ref=e581]
+                - cell "ciąłeś" [ref=e582]
+                - cell "TY" [ref=e583]
+                - cell "cięłaś" [ref=e584]
+                - cell "TY" [ref=e585]
+                - cell "-łoś" [ref=e586]
+              - row "ON / PAN ciął ONA / PANI cięła ONO cięło" [ref=e587]:
+                - cell "ON / PAN" [ref=e588]
+                - cell "ciął" [ref=e589]
+                - cell "ONA / PANI" [ref=e590]
+                - cell "cięła" [ref=e591]
+                - cell "ONO" [ref=e592]
+                - cell "cięło" [ref=e593]
+              - row "Liczba mnoga" [ref=e594]:
+                - cell "Liczba mnoga" [ref=e595]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e596]:
+                - cell "Rodzaj męskoosobowy" [ref=e597]
+                - cell "Rodzaj niemęskoosobowy" [ref=e598]
+              - row "MY cięliśmy MY cięłyśmy" [ref=e599]:
+                - cell "MY" [ref=e600]
+                - cell "cięliśmy" [ref=e601]
+                - cell "MY" [ref=e602]
+                - cell "cięłyśmy" [ref=e603]
+              - row "WY cięliście WY cięłyście" [ref=e604]:
+                - cell "WY" [ref=e605]
+                - cell "cięliście" [ref=e606]
+                - cell "WY" [ref=e607]
+                - cell "cięłyście" [ref=e608]
+              - row "ONI / PANOWIE / PAŃSTWO cięli ONE / PANIE cięły" [ref=e609]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e610]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "cięli" [ref=e611]
+                - cell "ONE / PANIE" [ref=e612]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "cięły" [ref=e613]
+          - paragraph [ref=e614]: В глаголах такого типа меняем в суффиксе букву «ą» на «ę» во всех лицах и числах, кроме единственного мужского. Я надеюсь, что вы успели это отметить в примерах. Исключением будет слово biegnąć, спряжение которого в польском языке полностью совпадает со спряжением слова biec (по сути — это одно и то же). Его рассмотрим дальше.
+          - insertion [ref=e615]
+          - heading "Прошедшее время польских глаголов на -c" [level=3] [ref=e617]: Прошедшее время польских глаголов на -c
+          - paragraph [ref=e618]: "Странная и трудная для спряжения группка. Глаголы такого вида в настоящем времени относятся к первому спряжению. К сожалению, чтобы проспрягать их во времени прошедшем, вам нужно будет знать их спряжение в настоящем. Потому что делается оно из формы первого лица единственного числа — ja. Примеры:"
+          - heading "Прошедшее время глагола móc (ja mogę в настоящем времени)" [level=4] [ref=e619]:
+            - text: Прошедшее время глагола
+            - strong [ref=e621]: móc
+            - strong [ref=e622]
+            - text: (
+            - emphasis [ref=e624]: ja mogę
+            - text: в настоящем времени)
+          - table [ref=e625]:
+            - rowgroup [ref=e626]:
+              - row "Liczba pojedyncza" [ref=e627]:
+                - cell "Liczba pojedyncza" [ref=e628]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e629]:
+                - cell "Rodzaj męski" [ref=e630]
+                - cell "Rodzaj żeński" [ref=e631]
+                - cell "Rodzaj nijaki" [ref=e632]
+              - row "JA mogłem JA mogłam JA -łom" [ref=e633]:
+                - cell "JA" [ref=e634]
+                - cell "mogłem" [ref=e635]
+                - cell "JA" [ref=e636]
+                - cell "mogłam" [ref=e637]
+                - cell "JA" [ref=e638]
+                - cell "-łom" [ref=e639]
+              - row "TY mogłeś TY mogłaś TY -łoś" [ref=e640]:
+                - cell "TY" [ref=e641]
+                - cell "mogłeś" [ref=e642]
+                - cell "TY" [ref=e643]
+                - cell "mogłaś" [ref=e644]
+                - cell "TY" [ref=e645]
+                - cell "-łoś" [ref=e646]
+              - row "ON / PAN mógł ONA / PANI mogła ONO mogło" [ref=e647]:
+                - cell "ON / PAN" [ref=e648]
+                - cell "mógł" [ref=e649]
+                - cell "ONA / PANI" [ref=e650]
+                - cell "mogła" [ref=e651]
+                - cell "ONO" [ref=e652]
+                - cell "mogło" [ref=e653]
+              - row "Liczba mnoga" [ref=e654]:
+                - cell "Liczba mnoga" [ref=e655]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e656]:
+                - cell "Rodzaj męskoosobowy" [ref=e657]
+                - cell "Rodzaj niemęskoosobowy" [ref=e658]
+              - row "MY mogliśmy MY mogłyśmy" [ref=e659]:
+                - cell "MY" [ref=e660]
+                - cell "mogliśmy" [ref=e661]
+                - cell "MY" [ref=e662]
+                - cell "mogłyśmy" [ref=e663]
+              - row "WY mogliście WY mogłyście" [ref=e664]:
+                - cell "WY" [ref=e665]
+                - cell "mogliście" [ref=e666]
+                - cell "WY" [ref=e667]
+                - cell "mogłyście" [ref=e668]
+              - row "ONI / PANOWIE / PAŃSTWO mogli ONE / PANIE mogły" [ref=e669]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e670]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "mogli" [ref=e671]
+                - cell "ONE / PANIE" [ref=e672]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "mogły" [ref=e673]
+          - heading "Спряжение в прошедшем времени глагола piec (ja piekę в настоящем времени)" [level=4] [ref=e674]:
+            - text: Спряжение в прошедшем времени глагола
+            - strong [ref=e676]: piec
+            - strong [ref=e677]
+            - text: (
+            - emphasis [ref=e679]: ja piekę
+            - text: в настоящем времени)
+          - table [ref=e680]:
+            - rowgroup [ref=e681]:
+              - row "Liczba pojedyncza" [ref=e682]:
+                - cell "Liczba pojedyncza" [ref=e683]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e684]:
+                - cell "Rodzaj męski" [ref=e685]
+                - cell "Rodzaj żeński" [ref=e686]
+                - cell "Rodzaj nijaki" [ref=e687]
+              - row "JA piekłem JA piekłam JA -łom" [ref=e688]:
+                - cell "JA" [ref=e689]
+                - cell "piekłem" [ref=e690]
+                - cell "JA" [ref=e691]
+                - cell "piekłam" [ref=e692]
+                - cell "JA" [ref=e693]
+                - cell "-łom" [ref=e694]
+              - row "TY piekłeś TY piekłaś TY -łoś" [ref=e695]:
+                - cell "TY" [ref=e696]
+                - cell "piekłeś" [ref=e697]
+                - cell "TY" [ref=e698]
+                - cell "piekłaś" [ref=e699]
+                - cell "TY" [ref=e700]
+                - cell "-łoś" [ref=e701]
+              - row "ON / PAN piekł ONA / PANI piekła ONO piekło" [ref=e702]:
+                - cell "ON / PAN" [ref=e703]
+                - cell "piekł" [ref=e704]
+                - cell "ONA / PANI" [ref=e705]
+                - cell "piekła" [ref=e706]
+                - cell "ONO" [ref=e707]
+                - cell "piekło" [ref=e708]
+              - row "Liczba mnoga" [ref=e709]:
+                - cell "Liczba mnoga" [ref=e710]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e711]:
+                - cell "Rodzaj męskoosobowy" [ref=e712]
+                - cell "Rodzaj niemęskoosobowy" [ref=e713]
+              - row "MY piekliśmy MY piekłyśmy" [ref=e714]:
+                - cell "MY" [ref=e715]
+                - cell "piekliśmy" [ref=e716]
+                - cell "MY" [ref=e717]
+                - cell "piekłyśmy" [ref=e718]
+              - row "WY piekliście WY piekłyście" [ref=e719]:
+                - cell "WY" [ref=e720]
+                - cell "piekliście" [ref=e721]
+                - cell "WY" [ref=e722]
+                - cell "piekłyście" [ref=e723]
+              - row "ONI / PANOWIE / PAŃSTWO piekli ONE / PANIE piekły" [ref=e724]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e725]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "piekli" [ref=e726]
+                - cell "ONE / PANIE" [ref=e727]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "piekły" [ref=e728]
+          - insertion [ref=e729]
+          - heading "Прошедшее время польских глаголов на согласный+ć (-źć, -ść)" [level=3] [ref=e731]: Прошедшее время польских глаголов на согласный+ć (-źć, -ść)
+          - paragraph [ref=e732]: Данные глаголы тоже относятся к первому спряжению. И их формы прошедшего времени тоже создаются при помощи форм времени настоящего, для первого лица. Или, если посмотреть с другой стороны, во всех родах, кроме oni, происходит чередование e->o, и ś (ź) становится твердой s (z) за счет появления после нее твердой буквы ł.
+          - heading "Пример спряжение глагола nieść (ja niosę в настоящем времени) во времени прошедшем" [level=4] [ref=e733]:
+            - text: Пример спряжение глагола
+            - strong [ref=e735]: nieść
+            - strong [ref=e736]
+            - text: (
+            - emphasis [ref=e738]: ja niosę
+            - text: в настоящем времени) во времени прошедшем
+          - table [ref=e739]:
+            - rowgroup [ref=e740]:
+              - row "Liczba pojedyncza" [ref=e741]:
+                - cell "Liczba pojedyncza" [ref=e742]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e743]:
+                - cell "Rodzaj męski" [ref=e744]
+                - cell "Rodzaj żeński" [ref=e745]
+                - cell "Rodzaj nijaki" [ref=e746]
+              - row "JA niosłem JA niosłam JA -łom" [ref=e747]:
+                - cell "JA" [ref=e748]
+                - cell "niosłem" [ref=e749]
+                - cell "JA" [ref=e750]
+                - cell "niosłam" [ref=e751]
+                - cell "JA" [ref=e752]
+                - cell "-łom" [ref=e753]
+              - row "TY niosłeś TY niosłaś TY -łoś" [ref=e754]:
+                - cell "TY" [ref=e755]
+                - cell "niosłeś" [ref=e756]
+                - cell "TY" [ref=e757]
+                - cell "niosłaś" [ref=e758]
+                - cell "TY" [ref=e759]
+                - cell "-łoś" [ref=e760]
+              - row "ON / PAN niósł ONA / PANI niosła ONO niosło" [ref=e761]:
+                - cell "ON / PAN" [ref=e762]
+                - cell "niósł" [ref=e763]
+                - cell "ONA / PANI" [ref=e764]
+                - cell "niosła" [ref=e765]
+                - cell "ONO" [ref=e766]
+                - cell "niosło" [ref=e767]
+              - row "Liczba mnoga" [ref=e768]:
+                - cell "Liczba mnoga" [ref=e769]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e770]:
+                - cell "Rodzaj męskoosobowy" [ref=e771]
+                - cell "Rodzaj niemęskoosobowy" [ref=e772]
+              - row "MY nieśliśmy MY niosłyśmy" [ref=e773]:
+                - cell "MY" [ref=e774]
+                - cell "nieśliśmy" [ref=e775]
+                - cell "MY" [ref=e776]
+                - cell "niosłyśmy" [ref=e777]
+              - row "WY nieśliście WY niosłyście" [ref=e778]:
+                - cell "WY" [ref=e779]
+                - cell "nieśliście" [ref=e780]
+                - cell "WY" [ref=e781]
+                - cell "niosłyście" [ref=e782]
+              - row "ONI / PANOWIE / PAŃSTWO nieśli ONE / PANIE niosły" [ref=e783]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e784]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "nieśli" [ref=e785]
+                - cell "ONE / PANIE" [ref=e786]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "niosły" [ref=e787]
+          - heading "Глагол wieźć в прошедшем времени (ja wiozę в настоящем времени):" [level=4] [ref=e788]:
+            - text: Глагол
+            - strong [ref=e790]: wieźć
+            - strong [ref=e791]
+            - text: в прошедшем времени
+            - strong [ref=e792]
+            - text: (
+            - emphasis [ref=e794]: ja wiozę
+            - text: "в настоящем времени):"
+          - table [ref=e795]:
+            - rowgroup [ref=e796]:
+              - row "Liczba pojedyncza" [ref=e797]:
+                - cell "Liczba pojedyncza" [ref=e798]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e799]:
+                - cell "Rodzaj męski" [ref=e800]
+                - cell "Rodzaj żeński" [ref=e801]
+                - cell "Rodzaj nijaki" [ref=e802]
+              - row "JA wiozłem JA wiozłam JA -łom" [ref=e803]:
+                - cell "JA" [ref=e804]
+                - cell "wiozłem" [ref=e805]
+                - cell "JA" [ref=e806]
+                - cell "wiozłam" [ref=e807]
+                - cell "JA" [ref=e808]
+                - cell "-łom" [ref=e809]
+              - row "TY wiozłeś TY wiozłaś TY -łoś" [ref=e810]:
+                - cell "TY" [ref=e811]
+                - cell "wiozłeś" [ref=e812]
+                - cell "TY" [ref=e813]
+                - cell "wiozłaś" [ref=e814]
+                - cell "TY" [ref=e815]
+                - cell "-łoś" [ref=e816]
+              - row "ON / PAN wiózł ONA / PANI wiozła ONO wiozło" [ref=e817]:
+                - cell "ON / PAN" [ref=e818]
+                - cell "wiózł" [ref=e819]
+                - cell "ONA / PANI" [ref=e820]
+                - cell "wiozła" [ref=e821]
+                - cell "ONO" [ref=e822]
+                - cell "wiozło" [ref=e823]
+              - row "Liczba mnoga" [ref=e824]:
+                - cell "Liczba mnoga" [ref=e825]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e826]:
+                - cell "Rodzaj męskoosobowy" [ref=e827]
+                - cell "Rodzaj niemęskoosobowy" [ref=e828]
+              - row "MY wieźliśmy MY wiozłyśmy" [ref=e829]:
+                - cell "MY" [ref=e830]
+                - cell "wieźliśmy" [ref=e831]
+                - cell "MY" [ref=e832]
+                - cell "wiozłyśmy" [ref=e833]
+              - row "WY wieźliście WY wiozłyście" [ref=e834]:
+                - cell "WY" [ref=e835]
+                - cell "wieźliście" [ref=e836]
+                - cell "WY" [ref=e837]
+                - cell "wiozłyście" [ref=e838]
+              - row "ONI / PANOWIE / PAŃSTWO wieźli ONE / PANIE wiozły" [ref=e839]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e840]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "wieźli" [ref=e841]
+                - cell "ONE / PANIE" [ref=e842]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "wiozły" [ref=e843]
+          - heading "Глагол rość (устарел)=rosnąć (ja rosnę в настоящем времени)" [level=4] [ref=e844]:
+            - text: Глагол
+            - generic [ref=e845]:
+              - strong [ref=e846]: rość
+              - text: (устарел)=
+              - strong [ref=e847]: rosnąć
+            - strong [ref=e848]
+            - text: (
+            - emphasis [ref=e850]: ja rosnę
+            - text: в настоящем времени)
+          - table [ref=e851]:
+            - rowgroup [ref=e852]:
+              - row "Liczba pojedyncza" [ref=e853]:
+                - cell "Liczba pojedyncza" [ref=e854]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e855]:
+                - cell "Rodzaj męski" [ref=e856]
+                - cell "Rodzaj żeński" [ref=e857]
+                - cell "Rodzaj nijaki" [ref=e858]
+              - row "JA rosłem JA rosłam JA -łom" [ref=e859]:
+                - cell "JA" [ref=e860]
+                - cell "rosłem" [ref=e861]
+                - cell "JA" [ref=e862]
+                - cell "rosłam" [ref=e863]
+                - cell "JA" [ref=e864]
+                - cell "-łom" [ref=e865]
+              - row "TY rosłeś TY rosłaś TY -łoś" [ref=e866]:
+                - cell "TY" [ref=e867]
+                - cell "rosłeś" [ref=e868]
+                - cell "TY" [ref=e869]
+                - cell "rosłaś" [ref=e870]
+                - cell "TY" [ref=e871]
+                - cell "-łoś" [ref=e872]
+              - row "ON / PAN rósł ONA / PANI rosła ONO rosło" [ref=e873]:
+                - cell "ON / PAN" [ref=e874]
+                - cell "rósł" [ref=e875]
+                - cell "ONA / PANI" [ref=e876]
+                - cell "rosła" [ref=e877]
+                - cell "ONO" [ref=e878]
+                - cell "rosło" [ref=e879]
+              - row "Liczba mnoga" [ref=e880]:
+                - cell "Liczba mnoga" [ref=e881]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e882]:
+                - cell "Rodzaj męskoosobowy" [ref=e883]
+                - cell "Rodzaj niemęskoosobowy" [ref=e884]
+              - row "MY rośliśmy MY rosłyśmy" [ref=e885]:
+                - cell "MY" [ref=e886]
+                - cell "rośliśmy" [ref=e887]
+                - cell "MY" [ref=e888]
+                - cell "rosłyśmy" [ref=e889]
+              - row "WY rośliście WY rosłyście" [ref=e890]:
+                - cell "WY" [ref=e891]
+                - cell "rośliście" [ref=e892]
+                - cell "WY" [ref=e893]
+                - cell "rosłyście" [ref=e894]
+              - row "ONI / PANOWIE / PAŃSTWO rośli ONE / PANIE rosły" [ref=e895]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e896]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "rośli" [ref=e897]
+                - cell "ONE / PANIE" [ref=e898]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "rosły" [ref=e899]
+          - heading "Глагол paść — выпасать животное на лугу (ja pasę в настоящем времени):" [level=4] [ref=e900]:
+            - text: Глагол
+            - strong [ref=e902]: paść
+            - text: — выпасать животное на лугу (
+            - emphasis [ref=e904]: ja pasę
+            - text: "в настоящем времени):"
+          - table [ref=e905]:
+            - rowgroup [ref=e906]:
+              - row "Liczba pojedyncza" [ref=e907]:
+                - cell "Liczba pojedyncza" [ref=e908]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e909]:
+                - cell "Rodzaj męski" [ref=e910]
+                - cell "Rodzaj żeński" [ref=e911]
+                - cell "Rodzaj nijaki" [ref=e912]
+              - row "JA pasłem JA pasłam JA -łom" [ref=e913]:
+                - cell "JA" [ref=e914]
+                - cell "pasłem" [ref=e915]
+                - cell "JA" [ref=e916]
+                - cell "pasłam" [ref=e917]
+                - cell "JA" [ref=e918]
+                - cell "-łom" [ref=e919]
+              - row "TY pasłeś TY pasłaś TY -łoś" [ref=e920]:
+                - cell "TY" [ref=e921]
+                - cell "pasłeś" [ref=e922]
+                - cell "TY" [ref=e923]
+                - cell "pasłaś" [ref=e924]
+                - cell "TY" [ref=e925]
+                - cell "-łoś" [ref=e926]
+              - row "ON / PAN pasł ONA / PANI pasła ONO pasło" [ref=e927]:
+                - cell "ON / PAN" [ref=e928]
+                - cell "pasł" [ref=e929]
+                - cell "ONA / PANI" [ref=e930]
+                - cell "pasła" [ref=e931]
+                - cell "ONO" [ref=e932]
+                - cell "pasło" [ref=e933]
+              - row "Liczba mnoga" [ref=e934]:
+                - cell "Liczba mnoga" [ref=e935]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e936]:
+                - cell "Rodzaj męskoosobowy" [ref=e937]
+                - cell "Rodzaj niemęskoosobowy" [ref=e938]
+              - row "MY paśliśmy MY pasłyśmy" [ref=e939]:
+                - cell "MY" [ref=e940]
+                - cell "paśliśmy" [ref=e941]
+                - cell "MY" [ref=e942]
+                - cell "pasłyśmy" [ref=e943]
+              - row "WY paśliście WY pasłyście" [ref=e944]:
+                - cell "WY" [ref=e945]
+                - cell "paśliście" [ref=e946]
+                - cell "WY" [ref=e947]
+                - cell "pasłyście" [ref=e948]
+              - row "ONI / PANOWIE / PAŃSTWO paśli ONE / PANIE pasły" [ref=e949]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e950]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "paśli" [ref=e951]
+                - cell "ONE / PANIE" [ref=e952]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "pasły" [ref=e953]
+          - paragraph [ref=e954]:
+            - text: "Вы должны были проследить следующую закономерность: для создания форм всех лиц, кроме множественного мужского (l.mn. r. męskoosobowy), требуется форма спряжения настоящего времени для первого лица единственного числа ("
+            - emphasis [ref=e956]: ja niosę, ja wiozę
+            - text: ). Для создания множественного мужского (l.mn. r. męskoosobowy) следует отбросить от инфинитива -ć и к тому, что осталось, дописывать окончания.
+          - insertion [ref=e957]
+          - heading "Нерегулярные глаголы в прошедшем времени" [level=3] [ref=e959]: Нерегулярные глаголы в прошедшем времени
+          - paragraph [ref=e960]:
+            - text: Выше я уже пару раз такие вот
+            - link "нерегулярные глаголы" [ref=e961] [cursor=pointer]:
+              - /url: https://pl.wiktionary.org/wiki/Aneks:J%C4%99zyk_polski_-_czasowniki_nieregularne
+            - text: упомянула, а теперь стоит рассмотреть их подробнее. Нерегулярные — значит, совсем даже не регулярно спрягающиеся (
+            - link "суплетивизм" [ref=e962] [cursor=pointer]:
+              - /url: https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BF%D0%BF%D0%BB%D0%B5%D1%82%D0%B8%D0%B2%D0%B8%D0%B7%D0%BC
+            - text: — если кто хочет терминов).
+          - heading "Глагол jeść в прошедшем времени" [level=4] [ref=e963]:
+            - text: Глагол
+            - strong [ref=e965]: jeść
+            - strong [ref=e966]
+            - text: в прошедшем времени
+          - table [ref=e967]:
+            - rowgroup [ref=e968]:
+              - row "Liczba pojedyncza" [ref=e969]:
+                - cell "Liczba pojedyncza" [ref=e970]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e971]:
+                - cell "Rodzaj męski" [ref=e972]
+                - cell "Rodzaj żeński" [ref=e973]
+                - cell "Rodzaj nijaki" [ref=e974]
+              - row "JA jadłem JA jadłam JA -łom" [ref=e975]:
+                - cell "JA" [ref=e976]
+                - cell "jadłem" [ref=e977]
+                - cell "JA" [ref=e978]
+                - cell "jadłam" [ref=e979]
+                - cell "JA" [ref=e980]
+                - cell "-łom" [ref=e981]
+              - row "TY jadłeś TY jadłaś TY -łoś" [ref=e982]:
+                - cell "TY" [ref=e983]
+                - cell "jadłeś" [ref=e984]
+                - cell "TY" [ref=e985]
+                - cell "jadłaś" [ref=e986]
+                - cell "TY" [ref=e987]
+                - cell "-łoś" [ref=e988]
+              - row "ON / PAN jadł ONA / PANI jadła ONO jadło" [ref=e989]:
+                - cell "ON / PAN" [ref=e990]
+                - cell "jadł" [ref=e991]
+                - cell "ONA / PANI" [ref=e992]
+                - cell "jadła" [ref=e993]
+                - cell "ONO" [ref=e994]
+                - cell "jadło" [ref=e995]
+              - row "Liczba mnoga" [ref=e996]:
+                - cell "Liczba mnoga" [ref=e997]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e998]:
+                - cell "Rodzaj męskoosobowy" [ref=e999]
+                - cell "Rodzaj niemęskoosobowy" [ref=e1000]
+              - row "MY jedliśmy MY jadłyśmy" [ref=e1001]:
+                - cell "MY" [ref=e1002]
+                - cell "jedliśmy" [ref=e1003]
+                - cell "MY" [ref=e1004]
+                - cell "jadłyśmy" [ref=e1005]
+              - row "WY jedliście WY jadłyście" [ref=e1006]:
+                - cell "WY" [ref=e1007]
+                - cell "jedliście" [ref=e1008]
+                - cell "WY" [ref=e1009]
+                - cell "jadłyście" [ref=e1010]
+              - row "ONI / PANOWIE / PAŃSTWO jedli ONE / PANIE jadły" [ref=e1011]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e1012]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "jedli" [ref=e1013]
+                - cell "ONE / PANIE" [ref=e1014]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "jadły" [ref=e1015]
+          - heading "Глагол iść в прошедшем времени" [level=4] [ref=e1016]:
+            - text: Глагол
+            - strong [ref=e1017]: iść
+            - emphasis [ref=e1018]:
+              - strong [ref=e1019]
+            - text: в прошедшем времени
+          - table [ref=e1020]:
+            - rowgroup [ref=e1021]:
+              - row "Liczba pojedyncza" [ref=e1022]:
+                - cell "Liczba pojedyncza" [ref=e1023]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e1024]:
+                - cell "Rodzaj męski" [ref=e1025]
+                - cell "Rodzaj żeński" [ref=e1026]
+                - cell "Rodzaj nijaki" [ref=e1027]
+              - row "JA szedłem JA szłam JA -łom" [ref=e1028]:
+                - cell "JA" [ref=e1029]
+                - cell "szedłem" [ref=e1030]
+                - cell "JA" [ref=e1031]
+                - cell "szłam" [ref=e1032]
+                - cell "JA" [ref=e1033]
+                - cell "-łom" [ref=e1034]
+              - row "TY szedłeś TY szłaś TY -łoś" [ref=e1035]:
+                - cell "TY" [ref=e1036]
+                - cell "szedłeś" [ref=e1037]
+                - cell "TY" [ref=e1038]
+                - cell "szłaś" [ref=e1039]
+                - cell "TY" [ref=e1040]
+                - cell "-łoś" [ref=e1041]
+              - row "ON / PAN szedł ONA / PANI szła ONO szło" [ref=e1042]:
+                - cell "ON / PAN" [ref=e1043]
+                - cell "szedł" [ref=e1044]
+                - cell "ONA / PANI" [ref=e1045]
+                - cell "szła" [ref=e1046]
+                - cell "ONO" [ref=e1047]
+                - cell "szło" [ref=e1048]
+              - row "Liczba mnoga" [ref=e1049]:
+                - cell "Liczba mnoga" [ref=e1050]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e1051]:
+                - cell "Rodzaj męskoosobowy" [ref=e1052]
+                - cell "Rodzaj niemęskoosobowy" [ref=e1053]
+              - row "MY szliśmy MY szłyśmy" [ref=e1054]:
+                - cell "MY" [ref=e1055]
+                - cell "szliśmy" [ref=e1056]
+                - cell "MY" [ref=e1057]
+                - cell "szłyśmy" [ref=e1058]
+              - row "WY szliście WY szłyście" [ref=e1059]:
+                - cell "WY" [ref=e1060]
+                - cell "szliście" [ref=e1061]
+                - cell "WY" [ref=e1062]
+                - cell "szłyście" [ref=e1063]
+              - row "ONI / PANOWIE / PAŃSTWO szli ONE / PANIE szły" [ref=e1064]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e1065]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "szli" [ref=e1066]
+                - cell "ONE / PANIE" [ref=e1067]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "szły" [ref=e1068]
+          - heading "Глагол usiąść в прошедшем времени" [level=4] [ref=e1069]:
+            - text: Глагол
+            - strong [ref=e1071]: usiąść
+            - strong [ref=e1072]
+            - text: в прошедшем времени
+          - table [ref=e1073]:
+            - rowgroup [ref=e1074]:
+              - row "Liczba pojedyncza" [ref=e1075]:
+                - cell "Liczba pojedyncza" [ref=e1076]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e1077]:
+                - cell "Rodzaj męski" [ref=e1078]
+                - cell "Rodzaj żeński" [ref=e1079]
+                - cell "Rodzaj nijaki" [ref=e1080]
+              - row "JA usiadłem JA usiadłam JA -łom" [ref=e1081]:
+                - cell "JA" [ref=e1082]
+                - cell "usiadłem" [ref=e1083]
+                - cell "JA" [ref=e1084]
+                - cell "usiadłam" [ref=e1085]
+                - cell "JA" [ref=e1086]
+                - cell "-łom" [ref=e1087]
+              - row "TY usiadłeś TY usiadłaś TY -łoś" [ref=e1088]:
+                - cell "TY" [ref=e1089]
+                - cell "usiadłeś" [ref=e1090]
+                - cell "TY" [ref=e1091]
+                - cell "usiadłaś" [ref=e1092]
+                - cell "TY" [ref=e1093]
+                - cell "-łoś" [ref=e1094]
+              - row "ON / PAN usiadł ONA / PANI usiadła ONO usiadło" [ref=e1095]:
+                - cell "ON / PAN" [ref=e1096]
+                - cell "usiadł" [ref=e1097]
+                - cell "ONA / PANI" [ref=e1098]
+                - cell "usiadła" [ref=e1099]
+                - cell "ONO" [ref=e1100]
+                - cell "usiadło" [ref=e1101]
+              - row "Liczba mnoga" [ref=e1102]:
+                - cell "Liczba mnoga" [ref=e1103]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e1104]:
+                - cell "Rodzaj męskoosobowy" [ref=e1105]
+                - cell "Rodzaj niemęskoosobowy" [ref=e1106]
+              - row "MY usiedliśmy MY usiadłyśmy" [ref=e1107]:
+                - cell "MY" [ref=e1108]
+                - cell "usiedliśmy" [ref=e1109]
+                - cell "MY" [ref=e1110]
+                - cell "usiadłyśmy" [ref=e1111]
+              - row "WY usiedliście WY usiadłyście" [ref=e1112]:
+                - cell "WY" [ref=e1113]
+                - cell "usiedliście" [ref=e1114]
+                - cell "WY" [ref=e1115]
+                - cell "usiadłyście" [ref=e1116]
+              - row "ONI / PANOWIE / PAŃSTWO usiedli ONE / PANIE usiadły" [ref=e1117]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e1118]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "usiedli" [ref=e1119]
+                - cell "ONE / PANIE" [ref=e1120]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "usiadły" [ref=e1121]
+          - heading "Глагол znaleźć в прошедшем времени" [level=4] [ref=e1122]:
+            - text: Глагол
+            - strong [ref=e1123]: znaleźć
+            - text: в прошедшем времени
+          - table [ref=e1124]:
+            - rowgroup [ref=e1125]:
+              - row "Liczba pojedyncza" [ref=e1126]:
+                - cell "Liczba pojedyncza" [ref=e1127]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e1128]:
+                - cell "Rodzaj męski" [ref=e1129]
+                - cell "Rodzaj żeński" [ref=e1130]
+                - cell "Rodzaj nijaki" [ref=e1131]
+              - row "JA znalazłem JA znalazłam JA -łom" [ref=e1132]:
+                - cell "JA" [ref=e1133]
+                - cell "znalazłem" [ref=e1134]
+                - cell "JA" [ref=e1135]
+                - cell "znalazłam" [ref=e1136]
+                - cell "JA" [ref=e1137]
+                - cell "-łom" [ref=e1138]
+              - row "TY znalazłeś TY znalazłaś TY -łoś" [ref=e1139]:
+                - cell "TY" [ref=e1140]
+                - cell "znalazłeś" [ref=e1141]
+                - cell "TY" [ref=e1142]
+                - cell "znalazłaś" [ref=e1143]
+                - cell "TY" [ref=e1144]
+                - cell "-łoś" [ref=e1145]
+              - row "ON / PAN znalazł ONA / PANI znalazła ONO znalazło" [ref=e1146]:
+                - cell "ON / PAN" [ref=e1147]
+                - cell "znalazł" [ref=e1148]
+                - cell "ONA / PANI" [ref=e1149]
+                - cell "znalazła" [ref=e1150]
+                - cell "ONO" [ref=e1151]
+                - cell "znalazło" [ref=e1152]
+              - row "Liczba mnoga" [ref=e1153]:
+                - cell "Liczba mnoga" [ref=e1154]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e1155]:
+                - cell "Rodzaj męskoosobowy" [ref=e1156]
+                - cell "Rodzaj niemęskoosobowy" [ref=e1157]
+              - row "MY znaleźliśmy MY znalazłyśmy" [ref=e1158]:
+                - cell "MY" [ref=e1159]
+                - cell "znaleźliśmy" [ref=e1160]
+                - cell "MY" [ref=e1161]
+                - cell "znalazłyśmy" [ref=e1162]
+              - row "WY znaleźliście WY znalazłyście" [ref=e1163]:
+                - cell "WY" [ref=e1164]
+                - cell "znaleźliście" [ref=e1165]
+                - cell "WY" [ref=e1166]
+                - cell "znalazłyście" [ref=e1167]
+              - row "ONI / PANOWIE / PAŃSTWO znaleźli ONE / PANIE znalazły" [ref=e1168]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e1169]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "znaleźli" [ref=e1170]
+                - cell "ONE / PANIE" [ref=e1171]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "znalazły" [ref=e1172]
+          - heading "Глагол biec/biegnąć (ja biegnę в настоящем времени), который относится к нерегулярным" [level=4] [ref=e1173]:
+            - text: Глагол
+            - strong [ref=e1175]: biec/biegnąć
+            - strong [ref=e1176]
+            - text: (
+            - emphasis [ref=e1178]: ja biegnę
+            - text: в настоящем времени), который относится к нерегулярным
+          - table [ref=e1179]:
+            - rowgroup [ref=e1180]:
+              - row "Liczba pojedyncza" [ref=e1181]:
+                - cell "Liczba pojedyncza" [ref=e1182]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e1183]:
+                - cell "Rodzaj męski" [ref=e1184]
+                - cell "Rodzaj żeński" [ref=e1185]
+                - cell "Rodzaj nijaki" [ref=e1186]
+              - row "JA biegłem JA biegłam JA -łom" [ref=e1187]:
+                - cell "JA" [ref=e1188]
+                - cell "biegłem" [ref=e1189]
+                - cell "JA" [ref=e1190]
+                - cell "biegłam" [ref=e1191]
+                - cell "JA" [ref=e1192]
+                - cell "-łom" [ref=e1193]
+              - row "TY biegłeś TY biegłaś TY -łoś" [ref=e1194]:
+                - cell "TY" [ref=e1195]
+                - cell "biegłeś" [ref=e1196]
+                - cell "TY" [ref=e1197]
+                - cell "biegłaś" [ref=e1198]
+                - cell "TY" [ref=e1199]
+                - cell "-łoś" [ref=e1200]
+              - row "ON / PAN biegł ONA / PANI biegła ONO biegło" [ref=e1201]:
+                - cell "ON / PAN" [ref=e1202]
+                - cell "biegł" [ref=e1203]
+                - cell "ONA / PANI" [ref=e1204]
+                - cell "biegła" [ref=e1205]
+                - cell "ONO" [ref=e1206]
+                - cell "biegło" [ref=e1207]
+              - row "Liczba mnoga" [ref=e1208]:
+                - cell "Liczba mnoga" [ref=e1209]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e1210]:
+                - cell "Rodzaj męskoosobowy" [ref=e1211]
+                - cell "Rodzaj niemęskoosobowy" [ref=e1212]
+              - row "MY biegliśmy MY biegłyśmy" [ref=e1213]:
+                - cell "MY" [ref=e1214]
+                - cell "biegliśmy" [ref=e1215]
+                - cell "MY" [ref=e1216]
+                - cell "biegłyśmy" [ref=e1217]
+              - row "WY biegliście WY biegłyście" [ref=e1218]:
+                - cell "WY" [ref=e1219]
+                - cell "biegliście" [ref=e1220]
+                - cell "WY" [ref=e1221]
+                - cell "biegłyście" [ref=e1222]
+              - row "ONI / PANOWIE / PAŃSTWO biegli ONE / PANIE biegły" [ref=e1223]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e1224]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "biegli" [ref=e1225]
+                - cell "ONE / PANIE" [ref=e1226]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "biegły" [ref=e1227]
+          - paragraph [ref=e1228]: Этот глагол очень странный. Честно, пока я не знаю, почему он такой, я только знаю, что biec и biegnąć спрягаются идентично — и в настоящем, и в прошедшем. Наверное, поэтому часть букв потерялась…
+          - insertion [ref=e1229]
+          - heading "Глаголы lec и polec в прошедшем времени" [level=4] [ref=e1231]:
+            - text: Глаголы
+            - strong [ref=e1233]: lec
+            - strong [ref=e1234]
+            - text: и
+            - strong [ref=e1236]: polec
+            - strong [ref=e1237]
+            - text: в прошедшем времени
+          - paragraph [ref=e1238]:
+            - text: Рассмотрим «два-в-одном» (
+            - strong [ref=e1239]:
+              - emphasis [ref=e1240]: ja legnę
+            - text: в настоящем времени
+            - strong [ref=e1241]:
+              - emphasis [ref=e1242]: ", ja polegnę"
+            - text: в простом будущем времени), которые так же относятся к нерегулярным.
+          - table [ref=e1243]:
+            - rowgroup [ref=e1244]:
+              - row "Liczba pojedyncza" [ref=e1245]:
+                - cell "Liczba pojedyncza" [ref=e1246]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e1247]:
+                - cell "Rodzaj męski" [ref=e1248]
+                - cell "Rodzaj żeński" [ref=e1249]
+                - cell "Rodzaj nijaki" [ref=e1250]
+              - row "JA poległem JA poległam JA -łom" [ref=e1251]:
+                - cell "JA" [ref=e1252]
+                - cell "poległem" [ref=e1253]
+                - cell "JA" [ref=e1254]
+                - cell "poległam" [ref=e1255]
+                - cell "JA" [ref=e1256]
+                - cell "-łom" [ref=e1257]
+              - row "TY poległeś TY poległaś TY -łoś" [ref=e1258]:
+                - cell "TY" [ref=e1259]
+                - cell "poległeś" [ref=e1260]
+                - cell "TY" [ref=e1261]
+                - cell "poległaś" [ref=e1262]
+                - cell "TY" [ref=e1263]
+                - cell "-łoś" [ref=e1264]
+              - row "ON / PAN poległ ONA / PANI poległa ONO poległo" [ref=e1265]:
+                - cell "ON / PAN" [ref=e1266]
+                - cell "poległ" [ref=e1267]
+                - cell "ONA / PANI" [ref=e1268]
+                - cell "poległa" [ref=e1269]
+                - cell "ONO" [ref=e1270]
+                - cell "poległo" [ref=e1271]
+              - row "Liczba mnoga" [ref=e1272]:
+                - cell "Liczba mnoga" [ref=e1273]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e1274]:
+                - cell "Rodzaj męskoosobowy" [ref=e1275]
+                - cell "Rodzaj niemęskoosobowy" [ref=e1276]
+              - row "MY polegliśmy MY poległyśmy" [ref=e1277]:
+                - cell "MY" [ref=e1278]
+                - cell "polegliśmy" [ref=e1279]
+                - cell "MY" [ref=e1280]
+                - cell "poległyśmy" [ref=e1281]
+              - row "WY polegliście WY poległyście" [ref=e1282]:
+                - cell "WY" [ref=e1283]
+                - cell "polegliście" [ref=e1284]
+                - cell "WY" [ref=e1285]
+                - cell "poległyście" [ref=e1286]
+              - row "ONI / PANOWIE / PAŃSTWO polegli ONE / PANIE poległy" [ref=e1287]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e1288]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "polegli" [ref=e1289]
+                - cell "ONE / PANIE" [ref=e1290]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "poległy" [ref=e1291]
+          - heading "Глагол uciec (ja ucieknę в простом будущем времени)" [level=4] [ref=e1292]:
+            - text: Глагол
+            - strong [ref=e1294]: uciec
+            - strong [ref=e1295]
+            - text: (
+            - emphasis [ref=e1296]: ja ucieknę
+            - text: в простом будущем времени)
+          - table [ref=e1297]:
+            - rowgroup [ref=e1298]:
+              - row "Liczba pojedyncza" [ref=e1299]:
+                - cell "Liczba pojedyncza" [ref=e1300]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e1301]:
+                - cell "Rodzaj męski" [ref=e1302]
+                - cell "Rodzaj żeński" [ref=e1303]
+                - cell "Rodzaj nijaki" [ref=e1304]
+              - row "JA uciekłem JA uciekłam JA -łom" [ref=e1305]:
+                - cell "JA" [ref=e1306]
+                - cell "uciekłem" [ref=e1307]
+                - cell "JA" [ref=e1308]
+                - cell "uciekłam" [ref=e1309]
+                - cell "JA" [ref=e1310]
+                - cell "-łom" [ref=e1311]
+              - row "TY uciekłeś TY uciekłaś TY -łoś" [ref=e1312]:
+                - cell "TY" [ref=e1313]
+                - cell "uciekłeś" [ref=e1314]
+                - cell "TY" [ref=e1315]
+                - cell "uciekłaś" [ref=e1316]
+                - cell "TY" [ref=e1317]
+                - cell "-łoś" [ref=e1318]
+              - row "ON / PAN uciekł ONA / PANI uciekła ONO uciekło" [ref=e1319]:
+                - cell "ON / PAN" [ref=e1320]
+                - cell "uciekł" [ref=e1321]
+                - cell "ONA / PANI" [ref=e1322]
+                - cell "uciekła" [ref=e1323]
+                - cell "ONO" [ref=e1324]
+                - cell "uciekło" [ref=e1325]
+              - row "Liczba mnoga" [ref=e1326]:
+                - cell "Liczba mnoga" [ref=e1327]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e1328]:
+                - cell "Rodzaj męskoosobowy" [ref=e1329]
+                - cell "Rodzaj niemęskoosobowy" [ref=e1330]
+              - row "MY uciekliśmy MY uciekłyśmy" [ref=e1331]:
+                - cell "MY" [ref=e1332]
+                - cell "uciekliśmy" [ref=e1333]
+                - cell "MY" [ref=e1334]
+                - cell "uciekłyśmy" [ref=e1335]
+              - row "WY uciekliście WY uciekłyście" [ref=e1336]:
+                - cell "WY" [ref=e1337]
+                - cell "uciekliście" [ref=e1338]
+                - cell "WY" [ref=e1339]
+                - cell "uciekłyście" [ref=e1340]
+              - row "ONI / PANOWIE / PAŃSTWO uciekli ONE / PANIE uciekły" [ref=e1341]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e1342]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "uciekli" [ref=e1343]
+                - cell "ONE / PANIE" [ref=e1344]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "uciekły" [ref=e1345]
+          - heading "Глагол kraść (ja kradnę в настоящем времени)" [level=4] [ref=e1346]:
+            - text: Глагол
+            - strong [ref=e1348]: kraść
+            - strong [ref=e1349]
+            - text: (
+            - emphasis [ref=e1351]: ja kradnę
+            - text: в настоящем времени)
+          - table [ref=e1352]:
+            - rowgroup [ref=e1353]:
+              - row "Liczba pojedyncza" [ref=e1354]:
+                - cell "Liczba pojedyncza" [ref=e1355]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e1356]:
+                - cell "Rodzaj męski" [ref=e1357]
+                - cell "Rodzaj żeński" [ref=e1358]
+                - cell "Rodzaj nijaki" [ref=e1359]
+              - row "JA kradłem JA kradłam JA -łom" [ref=e1360]:
+                - cell "JA" [ref=e1361]
+                - cell "kradłem" [ref=e1362]
+                - cell "JA" [ref=e1363]
+                - cell "kradłam" [ref=e1364]
+                - cell "JA" [ref=e1365]
+                - cell "-łom" [ref=e1366]
+              - row "TY kradłeś TY kradłaś TY -łoś" [ref=e1367]:
+                - cell "TY" [ref=e1368]
+                - cell "kradłeś" [ref=e1369]
+                - cell "TY" [ref=e1370]
+                - cell "kradłaś" [ref=e1371]
+                - cell "TY" [ref=e1372]
+                - cell "-łoś" [ref=e1373]
+              - row "ON / PAN kradł ONA / PANI kradła ONO kradło" [ref=e1374]:
+                - cell "ON / PAN" [ref=e1375]
+                - cell "kradł" [ref=e1376]
+                - cell "ONA / PANI" [ref=e1377]
+                - cell "kradła" [ref=e1378]
+                - cell "ONO" [ref=e1379]
+                - cell "kradło" [ref=e1380]
+              - row "Liczba mnoga" [ref=e1381]:
+                - cell "Liczba mnoga" [ref=e1382]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e1383]:
+                - cell "Rodzaj męskoosobowy" [ref=e1384]
+                - cell "Rodzaj niemęskoosobowy" [ref=e1385]
+              - row "MY kradliśmy MY kradłyśmy" [ref=e1386]:
+                - cell "MY" [ref=e1387]
+                - cell "kradliśmy" [ref=e1388]
+                - cell "MY" [ref=e1389]
+                - cell "kradłyśmy" [ref=e1390]
+              - row "WY kradliście WY ukradłyście" [ref=e1391]:
+                - cell "WY" [ref=e1392]
+                - cell "kradliście" [ref=e1393]
+                - cell "WY" [ref=e1394]
+                - cell "ukradłyście" [ref=e1395]
+              - row "ONI / PANOWIE / PAŃSTWO kradli ONE / PANIE kradły" [ref=e1396]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e1397]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "kradli" [ref=e1398]
+                - cell "ONE / PANIE" [ref=e1399]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "kradły" [ref=e1400]
+          - insertion [ref=e1401]
+          - paragraph [ref=e1403]:
+            - text: Ранее в статье уже рассматривался глагол paść, но в значении «выпасать кого-то». Но кроме этого, данный глагол имеет еще второе значение — «пасть», как «пасть на поле боя», которые в настоящем времени имеет форму
+            - emphasis [ref=e1405]: ja padnę
+            - text: ". Его спряжение в прошедшем времени относится к нерегулярным:"
+          - table [ref=e1406]:
+            - rowgroup [ref=e1407]:
+              - row "Liczba pojedyncza" [ref=e1408]:
+                - cell "Liczba pojedyncza" [ref=e1409]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e1410]:
+                - cell "Rodzaj męski" [ref=e1411]
+                - cell "Rodzaj żeński" [ref=e1412]
+                - cell "Rodzaj nijaki" [ref=e1413]
+              - row "JA padłem JA padłam JA -łom" [ref=e1414]:
+                - cell "JA" [ref=e1415]
+                - cell "padłem" [ref=e1416]
+                - cell "JA" [ref=e1417]
+                - cell "padłam" [ref=e1418]
+                - cell "JA" [ref=e1419]
+                - cell "-łom" [ref=e1420]
+              - row "TY padłeś TY padłaś TY -łoś" [ref=e1421]:
+                - cell "TY" [ref=e1422]
+                - cell "padłeś" [ref=e1423]
+                - cell "TY" [ref=e1424]
+                - cell "padłaś" [ref=e1425]
+                - cell "TY" [ref=e1426]
+                - cell "-łoś" [ref=e1427]
+              - row "ON / PAN padł ONA / PANI padła ONO padło" [ref=e1428]:
+                - cell "ON / PAN" [ref=e1429]
+                - cell "padł" [ref=e1430]
+                - cell "ONA / PANI" [ref=e1431]
+                - cell "padła" [ref=e1432]
+                - cell "ONO" [ref=e1433]
+                - cell "padło" [ref=e1434]
+              - row "Liczba mnoga" [ref=e1435]:
+                - cell "Liczba mnoga" [ref=e1436]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e1437]:
+                - cell "Rodzaj męskoosobowy" [ref=e1438]
+                - cell "Rodzaj niemęskoosobowy" [ref=e1439]
+              - row "MY padliśmy MY padłyśmy" [ref=e1440]:
+                - cell "MY" [ref=e1441]
+                - cell "padliśmy" [ref=e1442]
+                - cell "MY" [ref=e1443]
+                - cell "padłyśmy" [ref=e1444]
+              - row "WY padliście WY upadłyście" [ref=e1445]:
+                - cell "WY" [ref=e1446]
+                - cell "padliście" [ref=e1447]
+                - cell "WY" [ref=e1448]
+                - cell "upadłyście" [ref=e1449]
+              - row "ONI / PANOWIE / PAŃSTWO padli ONE / PANIE padły" [ref=e1450]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e1451]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "padli" [ref=e1452]
+                - cell "ONE / PANIE" [ref=e1453]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "padły" [ref=e1454]
+          - paragraph [ref=e1455]:
+            - text: То есть, если в настоящем времени в первом лице ед. числа (ja) есть буква «n» в конце (
+            - emphasis [ref=e1457]: biegnę, ucieknę, legnę, polegnę, kradnę, rosnę, padnę
+            - text: ) — она исчезнет в прошедшем времени. И эти нерегулярные глаголы — «на согласный +с» и на окончание «с». То есть, если вам попадается слово на согласный +с или на с, и в первом лице ед. числа настоящего времени у него есть …nę, можете смело спрягать по примерам выше. Что касается глагола rość, он спрягается как глагол móc или nieść в одном флаконе — появляется ó в ОN и в ONI основа из инфинитива. По факту глаголы móc или nieść/wieźć — тоже нерегулярные, но я уже о них написала раньше, так что зачем дублировать-то.
+          - blockquote [ref=e1458]:
+            - text: 💡
+            - paragraph [ref=e1459]:
+              - strong [ref=e1460]:
+                - text: "Читайте также:"
+                - 'link "Cпряжение глаголов в польском языке: таблица настоящего времени" [ref=e1461] [cursor=pointer]':
+                  - /url: https://propolski.com/2015/12/16/koniugacja-czasownikow-polskich/
+          - paragraph [ref=e1462]: Относительно спряжений в прошедшем времени кажется, что это все. Возможно, что я потеряла какой-то интересный пример из нерегулярных глаголов (потому что здесь, конечно, не все), но раз потеряла — значит, это было не так важно. Сами видите — здесь и так рассмотрено много таких глаголов, которыми вы не пользуетесь каждый день.
+          - paragraph [ref=e1463]:
+            - text: Как тренировать прошедшее время польского языка? Видите какой-либо глагол — в инфинитиве, уже в
+            - link "форме настоящего времени" [ref=e1464] [cursor=pointer]:
+              - /url: https://propolski.com/2015/12/16/koniugacja-czasownikow-polskich/
+            - text: — попробуйте сделать про себя его в прошедшем. И проверьте свою правоту
+            - link "Викисловарем" [ref=e1465] [cursor=pointer]:
+              - /url: https://pl.wiktionary.org/
+            - text: .
+          - insertion [ref=e1466]
+          - heading "Ударение в прошедшем времени польского языка" [level=2] [ref=e1468]: Ударение в прошедшем времени польского языка
+          - paragraph [ref=e1469]:
+            - text: Еще одна важная тема, относящаяся к прошедшему времени польского языка и о которой постоянно забывают, это
+            - link "ударение" [ref=e1470] [cursor=pointer]:
+              - /url: https://propolski.com/2016/11/11/polskie-akcentowanie/
+            - text: . Да, вы знаете, и я знаю, что ударение стоит всегда на втором слоге с конца — и благодаря этому правилу польский уже кажется более привлекательным чем русский. Но «всегда» — это не всегда, а в большинстве случаев.
+          - paragraph [ref=e1471]:
+            - text: Одними из исключений являются глаголы прошедшего времени для лиц «мы — MY» и «вы — WY». Там
+            - strong [ref=e1472]: ударение
+            - text: стоит
+            - strong [ref=e1473]: на третьем слоге с конца
+            - text: .
+          - paragraph [ref=e1474]:
+            - text: То есть, читаем b
+            - generic [ref=e1475]: "y"
+            - text: liśmy, czyt
+            - generic [ref=e1476]: a
+            - text: liśmy, pis
+            - generic [ref=e1477]: a
+            - text: liśmy, br
+            - generic [ref=e1478]: a
+            - text: liście, ogląd
+            - generic [ref=e1479]: a
+            - text: liście, wzi
+            - generic [ref=e1480]: ę
+            - text: liśmy, kr
+            - generic [ref=e1481]: a
+            - text: dliście и т.д.
+          - paragraph [ref=e1482]: Происходит это потому, что ударение — это своего рода выделение, подчеркивание чего-нибудь. И подчеркивать нужно важное, а не какое-то там «liśmy/liście», которое вообще никакой смысловой нагрузки не несет. Если подытожить, то ударение прошедшего времени в польском языке никогда не переходит границу буквы «ł» (или «l«), оно всегда будет до.
+          - heading "Прошедшее время в предложении" [level=2] [ref=e1483]: Прошедшее время в предложении
+          - paragraph [ref=e1484]: "Всё выше рассмотренное — это очень круто, конечно же, но кроме самого словообразования, еще важно поговорить об употреблении прошедшего времени в предложении, о его месте там. По привычке русскоязычной (и согласно примерам из учебников polskiego jako obcego) — всё супер-просто: Kiedy wyjechaliście? (когда вы выехали?). И можно так и оставить, так и говорить, так и писать. И ошибок совсем при этом не будет!"
+          - paragraph [ref=e1485]: Но! Как всегда, есть «но». Вот эти вот окончания -m, -ś, -śmy, -ście прошедшего времени — они движимые. То есть, они могут «отрываться» от глагола и «приклеиваться» к другим членам предложения. Чаще всего это слышно в разговорной речи, но и в книгах, особенно в диалогах, это также вы найдете.
+          - paragraph [ref=e1486]:
+            - text: Если сказать чуть более по-научному, то глаголы прошедшего времени имеют движимые окончания-
+            - link "энклитики" [ref=e1487] [cursor=pointer]:
+              - /url: https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%BA%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0
+            - text: ":"
+            - strong [ref=e1488]:
+              - emphasis [ref=e1489]: "-m, -ś, -śmy, -ście"
+            - text: . Это означает, что они имеют способность соединяться либо с самими глаголами, либо с первым словом в предложении. Это, кстати, объясняет и правило ударения, почему оно тут не на втором слоге с конца, а на третьем. Потому что оно должно сохраниться на том же месте, даже если окончание оторвется и пойдет приклеиваться к чему-нибудь другому =).
+          - paragraph [ref=e1490]:
+            - text: Поэтому можно сказать rob
+            - strong [ref=e1491]: i
+            - text: liśmy также иначе — m
+            - strong [ref=e1492]: "y"
+            - text: śmy rob
+            - strong [ref=e1493]: i
+            - text: li. А pis
+            - strong [ref=e1494]: a
+            - text: liście — w
+            - strong [ref=e1495]: "y"
+            - text: ście pis
+            - strong [ref=e1496]: a
+            - text: li. И так далее.
+          - paragraph [ref=e1497]:
+            - text: "Еще пример: классическое (по учебникам) Kiedy wyjechali"
+            - strong [ref=e1498]: ście
+            - text: "? превращается в Kiedy"
+            - strong [ref=e1499]: ście
+            - text: wyjechali?, что, кстати, с точки зрения «польского уха» — намного лучше звучит.
+          - paragraph [ref=e1500]: "И еще примеры, где можно говорить и так, и так:"
+          - list [ref=e1501]:
+            - listitem [ref=e1502]: Dawno się nie widzieliśmy. = Dawnośmy się nie widzieli.
+            - listitem [ref=e1503]: Jak się zmieniłeś przez te lata! = Jakeś się zmienił przez te lata!
+          - paragraph [ref=e1504]: Важно отметить, что примеры после = (равно) всё-таки более разговорные, чем те, что перед = (равно). Иногда их даже принимают за диалект, что на самом деле не так. Но иметь в виду стоит. Потому что вам может попадаться любой из вариантов прошедшего времени, где будет окончание как с глаголом, так и с другим словом. Вам важно научиться определять, что это — именно прошедшее время, а не что-то другое.
+          - heading "Тесты и упражнения" [level=2] [ref=e1505]: Тесты и упражнения
+          - list [ref=e1506]:
+            - listitem [ref=e1507]:
+              - link "Польский язык. Смешанный тест на прошедшее время" [ref=e1508] [cursor=pointer]:
+                - /url: https://testy.propolski.com/smeshannyj-test-na-proshedshee-vremya/
+            - listitem [ref=e1509]:
+              - link "Тесты на глагол być / быть в прошедшем времени" [ref=e1510] [cursor=pointer]:
+                - /url: https://testy.propolski.com/testy-na-glagol-byc-v-proshedshem-vremeni/
+            - listitem [ref=e1511]:
+              - 'link "Тесты на сертификат B1: спряжение глагола в прошедшем времени" [ref=e1512] [cursor=pointer]':
+                - /url: https://testy.propolski.com/sertifikat-b1-spryazhenie-glagola-v-proshedshem-vremeni/
+          - heading "Заключение и итог" [level=2] [ref=e1513]: Заключение и итог
+          - paragraph [ref=e1514]: "Тем, кто выдержал и дочитал до конца, скажу: «Спасибо! И — вы теперь наверняка лучше разобрались с прошедшим временем в польском». Я не писала слишком много примеров употребления здесь. Статья и так получилась слишком длинная (зато полная), и не хочется еще грузить ее примерами. Все просто, как в русском, только в русском говорим: «я был, ты был, он был», а в польском «ja byłem, ty byłeś, on był», в русском — «мы были, вы были, они были» — в польском «my byliśmy/byłyśmy, wy byliście/byłyście, oni byli/były». Анализируйте лицо, которое у вас выполняет действие, и ставьте правильную форму. Мне кажется, это очень просто. Если вы не согласны, и вам нужны примеры, пишите в комментариях, я сделаю P.S. к статье."
+          - separator [ref=e1515]
+          - paragraph [ref=e1516]:
+            - text: Ваша Катерина Лукьянова, автор блога о польском языке
+            - link "ProPolski.com" [ref=e1517] [cursor=pointer]:
+              - /url: https://propolski.com
+            - text: ","
+            - link "Testy.ProPolski" [ref=e1518] [cursor=pointer]:
+              - /url: https://testy.propolski.com/
+            - text: и сайта
+            - link "insidePL.com" [ref=e1519] [cursor=pointer]:
+              - /url: https://insidepl.com/
+          - separator [ref=e1520]
+          - paragraph [ref=e1521]: Если материал был интересен и полезен, я буду рада поддержке моих проектов 🙂
+          - generic [ref=e1522]:
+            - figure [ref=e1527]:
+              - link "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e1528] [cursor=pointer]:
+                - /url: https://www.patreon.com/propolski
+                - img "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e1529]
+            - figure [ref=e1533]:
+              - link "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e1534] [cursor=pointer]:
+                - /url: https://www.paypal.me/propolski
+                - img "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e1535]
+          - paragraph [ref=e1537]:
+            - link "Как еще поддержать блог ProPolski" [ref=e1538] [cursor=pointer]:
+              - /url: https://propolski.com/subscribe-and-help/
+              - strong [ref=e1539]: Как еще поддержать блог ProPolski
+          - insertion [ref=e1540]
+          - generic [ref=e1543]:
+            - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e1544]
+            - list [ref=e1546]:
+              - listitem [ref=e1547]:
+                - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e1548] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/?share=facebook&nb=1
+                  - text: 
+              - listitem [ref=e1549]:
+                - link "Поделиться в Pinterest (Открывается в новом окне) 371" [ref=e1550] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/?share=pinterest&nb=1
+                  - text: 
+              - listitem [ref=e1551]:
+                - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e1552] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/?share=telegram&nb=1
+                  - text: 
+              - listitem [ref=e1553]:
+                - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e1554] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/?share=jetpack-whatsapp&nb=1
+                  - text: 
+              - listitem [ref=e1555]:
+                - link "Поделиться в Х (Открывается в новом окне)" [ref=e1556] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/?share=x&nb=1
+                  - text: 
+              - listitem [ref=e1557]:
+                - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e1558] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/?share=linkedin&nb=1
+                  - text: 
+              - listitem [ref=e1559]:
+                - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e1560] [cursor=pointer]:
+                  - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20%D0%9F%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B5%20%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%20%D0%B2%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5%3A%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0&body=https%3A%2F%2Fpropolski.com%2F2016%2F09%2F28%2Fczas-przeszly%2F&share=email&nb=1
+                  - text: 
+              - listitem [ref=e1561]:
+                - link "Печать (Открывается в новом окне)" [ref=e1562] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/#print?share=print&nb=1
+                  - text: 
+              - listitem
+          - generic [ref=e1563]:
+            - heading "Это может вас заинтересовать:" [level=3] [ref=e1564]:
+              - emphasis [ref=e1565]: "Это может вас заинтересовать:"
+            - generic:
+              - generic [ref=e1566]:
+                - link "Времена глаголов в польском языке" [ref=e1567] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/
+                  - img "Времена глаголов в польском языке" [ref=e1568]
+                - 'heading "Времена глаголов в польском языке: таблица и правила" [level=4] [ref=e1569]':
+                  - 'link "Времена глаголов в польском языке: таблица и правила" [ref=e1570] [cursor=pointer]':
+                    - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/
+                - paragraph [ref=e1571]: В "Времена в польском языке"
+              - generic [ref=e1572]:
+                - 'link "Будущее время в польском языке: таблица, примеры, объяснение" [ref=e1573] [cursor=pointer]':
+                  - /url: https://propolski.com/2017/08/17/czas-przyszly/
+                  - 'img "Будущее время в польском языке: таблица, примеры, объяснение" [ref=e1574]'
+                - 'heading "Будущее время в польском языке: таблица, примеры, объяснение" [level=4] [ref=e1575]':
+                  - 'link "Будущее время в польском языке: таблица, примеры, объяснение" [ref=e1576] [cursor=pointer]':
+                    - /url: https://propolski.com/2017/08/17/czas-przyszly/
+                - paragraph [ref=e1577]: В "Времена в польском языке"
+              - generic [ref=e1578]:
+                - link "Сослагательное (условное) наклонение в польском языке | Tryb warunkowy" [ref=e1579] [cursor=pointer]:
+                  - /url: https://propolski.com/2020/09/03/tryb-warunkowy/
+                  - img "Сослагательное (условное) наклонение в польском языке | Tryb warunkowy" [ref=e1580]
+                - heading "Сослагательное (условное) наклонение в польском языке | Tryb warunkowy" [level=4] [ref=e1581]:
+                  - link "Сослагательное (условное) наклонение в польском языке | Tryb warunkowy" [ref=e1582] [cursor=pointer]:
+                    - /url: https://propolski.com/2020/09/03/tryb-warunkowy/
+                - paragraph [ref=e1583]: В "Глагол в польском"
+          - generic [ref=e1584]:
+            - text: "Метки:"
+            - link "A1" [ref=e1585] [cursor=pointer]:
+              - /url: https://propolski.com/tag/a1/
+            - link "czasownik" [ref=e1586] [cursor=pointer]:
+              - /url: https://propolski.com/tag/czasownik/
+            - link "А2" [ref=e1587] [cursor=pointer]:
+              - /url: https://propolski.com/tag/a2/
+            - link "времена" [ref=e1588] [cursor=pointer]:
+              - /url: https://propolski.com/tag/czasy/
+        - generic [ref=e1590]:
+          - generic [ref=e1591]:
+            - text: 
+            - link "Катерина Лук'янова" [ref=e1592] [cursor=pointer]:
+              - /url: https://propolski.com/author/kettibellya/
+          - generic [ref=e1593]:
+            - text: 
+            - link "28 сентября 2016" [ref=e1594] [cursor=pointer]:
+              - /url: https://propolski.com/2016/09/28/czas-przeszly/
+              - time [ref=e1595]: 28 сентября 2016
+          - generic [ref=e1596]:
+            - text: 
+            - link "Времена в польском языке" [ref=e1597] [cursor=pointer]:
+              - /url: https://propolski.com/category/polskaia-grammatika/czasownik/czasy/
+            - text: ","
+            - link "Глагол в польском" [ref=e1598] [cursor=pointer]:
+              - /url: https://propolski.com/category/polskaia-grammatika/czasownik/
+            - text: ","
+            - link "Польская грамматика" [ref=e1599] [cursor=pointer]:
+              - /url: https://propolski.com/category/polskaia-grammatika/
+          - generic [ref=e1600]:
+            - text: 
+            - link "32 комментария" [ref=e1601] [cursor=pointer]:
+              - /url: https://propolski.com/2016/09/28/czas-przeszly/#comments
+      - list [ref=e1602]:
+        - listitem [ref=e1603]:
+          - 'link "← Времена глаголов в польском языке: таблица и правила" [ref=e1604] [cursor=pointer]':
+            - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/
+        - listitem [ref=e1605]:
+          - link "Польские глаголы видения — oglądać, patrzeć, widzieć и др. →" [ref=e1606] [cursor=pointer]:
+            - /url: https://propolski.com/2016/09/30/ogladac-patrzec-widziec-zobaczyc/
+      - generic [ref=e1607]:
+        - 'heading "32 мыслей о “Прошедшее время в польском языке: таблица”" [level=3] [ref=e1608]'
+        - list [ref=e1609]:
+          - listitem [ref=e1610]:
+            - article [ref=e1611]:
+              - generic [ref=e1612]:
+                - generic [ref=e1613]:
+                  - text: 
+                  - link "sashafromrussia" [ref=e1614] [cursor=pointer]:
+                    - /url: http://sashafromrussiablog.wordpress.com
+                - generic [ref=e1615]:  28 сентября 2016 в 14:14
+                - link " Постоянная ссылка" [ref=e1616] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-208
+              - generic [ref=e1617]:
+                - paragraph [ref=e1618]: Катя, отличная идея цветового кодирования!
+                - link "Комментарий к записи sashafromrussia" [ref=e1619] [cursor=pointer]:
+                  - /url: "#comment-208"
+                  - text:  Ответ
+            - list [ref=e1620]:
+              - listitem [ref=e1621]:
+                - article [ref=e1622]:
+                  - generic [ref=e1623]:
+                    - generic [ref=e1624]:  Екатерина ЛукьяноваАвтор записи
+                    - generic [ref=e1625]:  28 сентября 2016 в 21:48
+                    - link " Постоянная ссылка" [ref=e1626] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-209
+                  - generic [ref=e1627]:
+                    - paragraph [ref=e1628]: Спасибо) Я грамматику так и хочу делать) А вообще — в статье много труда, не только цветового кодирования, надеюсь, она пригодится каждому, кто изучает польский и кто попадет на мой сайт)
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1629] [cursor=pointer]:
+                      - /url: "#comment-209"
+                      - text:  Ответ
+                - list [ref=e1630]:
+                  - listitem [ref=e1631]:
+                    - article [ref=e1632]:
+                      - generic [ref=e1633]:
+                        - generic [ref=e1634]:
+                          - text: 
+                          - link "sashafromrussia" [ref=e1635] [cursor=pointer]:
+                            - /url: http://sashafromrussiablog.wordpress.com
+                        - generic [ref=e1636]:  29 сентября 2016 в 10:05
+                        - link " Постоянная ссылка" [ref=e1637] [cursor=pointer]:
+                          - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-211
+                      - generic [ref=e1638]:
+                        - paragraph [ref=e1639]: Одному изучающему уже точно понравилось — моему сыну!
+                        - link "Комментарий к записи sashafromrussia" [ref=e1640] [cursor=pointer]:
+                          - /url: "#comment-211"
+                          - text:  Ответ
+                    - list [ref=e1641]:
+                      - listitem [ref=e1642]:
+                        - article [ref=e1643]:
+                          - generic [ref=e1644]:
+                            - generic [ref=e1645]:  Екатерина ЛукьяноваАвтор записи
+                            - generic [ref=e1646]:  29 сентября 2016 в 10:28
+                            - link " Постоянная ссылка" [ref=e1647] [cursor=pointer]:
+                              - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-212
+                          - generic [ref=e1648]:
+                            - paragraph [ref=e1649]: Супер!!!
+                            - link "Комментарий к записи Екатерина Лукьянова" [ref=e1650] [cursor=pointer]:
+                              - /url: "#comment-212"
+                              - text:  Ответ
+          - listitem [ref=e1651]:
+            - article [ref=e1652]:
+              - generic [ref=e1653]:
+                - generic [ref=e1654]:
+                  - text: 
+                  - link "Olga Ukr Pol" [ref=e1655] [cursor=pointer]:
+                    - /url: https://plus.google.com/110994969319699200562
+                - generic [ref=e1656]:  29 сентября 2016 в 21:17
+                - link " Постоянная ссылка" [ref=e1657] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-213
+              - generic [ref=e1658]:
+                - paragraph [ref=e1659]:
+                  - text: Хороший труд! Спасибо! Продоожайте в том же духе. Интересно получается.
+                  - text: П.с. Я давно цветами «балуюсь»…
+                - link "Комментарий к записи Olga Ukr Pol" [ref=e1660] [cursor=pointer]:
+                  - /url: "#comment-213"
+                  - text:  Ответ
+            - list [ref=e1661]:
+              - listitem [ref=e1662]:
+                - article [ref=e1663]:
+                  - generic [ref=e1664]:
+                    - generic [ref=e1665]:  Екатерина ЛукьяноваАвтор записи
+                    - generic [ref=e1666]:  29 сентября 2016 в 22:42
+                    - link " Постоянная ссылка" [ref=e1667] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-214
+                  - generic [ref=e1668]:
+                    - paragraph [ref=e1669]: Оля, спасибо!! Тружусь дальше)))
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1670] [cursor=pointer]:
+                      - /url: "#comment-214"
+                      - text:  Ответ
+                - list [ref=e1671]:
+                  - listitem [ref=e1672]:
+                    - article [ref=e1673]:
+                      - generic [ref=e1674]:
+                        - generic [ref=e1675]:  Anna
+                        - generic [ref=e1676]:  13 января 2017 в 21:43
+                        - link " Постоянная ссылка" [ref=e1677] [cursor=pointer]:
+                          - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-331
+                      - generic [ref=e1678]:
+                        - paragraph [ref=e1679]: Спасибо огромное за то что вы делаете! Все доступно, понятно. Продолжайте пожалуйста!
+                        - link "Комментарий к записи Anna" [ref=e1680] [cursor=pointer]:
+                          - /url: "#comment-331"
+                          - text:  Ответ
+          - listitem [ref=e1681]:
+            - article [ref=e1682]:
+              - generic [ref=e1683]:
+                - generic [ref=e1684]:  Елена
+                - generic [ref=e1685]:  14 марта 2018 в 09:22
+                - link " Постоянная ссылка" [ref=e1686] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-855
+              - generic [ref=e1687]:
+                - paragraph [ref=e1688]: "Очень нравится четкое изложение, как раз сейчас начала учить прошедшее время. Спасибо! Мне непонятен такой момент : В таблице , в колонке, где указан женский род, написано on/pan везде. Глагол стоит в женском роде."
+                - link "Комментарий к записи Елена" [ref=e1689] [cursor=pointer]:
+                  - /url: "#comment-855"
+                  - text:  Ответ
+            - list [ref=e1690]:
+              - listitem [ref=e1691]:
+                - article [ref=e1692]:
+                  - generic [ref=e1693]:
+                    - generic [ref=e1694]:  Екатерина ЛукьяноваАвтор записи
+                    - generic [ref=e1695]:  14 марта 2018 в 09:39
+                    - link " Постоянная ссылка" [ref=e1696] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-856
+                  - generic [ref=e1697]:
+                    - paragraph [ref=e1698]:
+                      - text: Спасибо))
+                      - text: Мне тоже непонятен этот момент что статье уже полтора года, а опечатки до сих пор никто не заметил))) Спасибо, Елена, побежала исправлять 🙂
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1699] [cursor=pointer]:
+                      - /url: "#comment-856"
+                      - text:  Ответ
+          - listitem [ref=e1700]:
+            - article [ref=e1701]:
+              - generic [ref=e1702]:
+                - generic [ref=e1703]:  Елена
+                - generic [ref=e1704]:  14 марта 2018 в 10:48
+                - link " Постоянная ссылка" [ref=e1705] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-857
+              - generic [ref=e1706]:
+                - paragraph [ref=e1707]: Очень оперативно, спасибо, уже отправила ссылку на ваш урок своим соратникам по изучению языка. Отличный сайт у Вас.
+                - link "Комментарий к записи Елена" [ref=e1708] [cursor=pointer]:
+                  - /url: "#comment-857"
+                  - text:  Ответ
+            - list [ref=e1709]:
+              - listitem [ref=e1710]:
+                - article [ref=e1711]:
+                  - generic [ref=e1712]:
+                    - generic [ref=e1713]:  Екатерина ЛукьяноваАвтор записи
+                    - generic [ref=e1714]:  14 марта 2018 в 10:59
+                    - link " Постоянная ссылка" [ref=e1715] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-858
+                  - generic [ref=e1716]:
+                    - paragraph [ref=e1717]: Спасибо 🙂 привет передавайте соратникам 🙂
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1718] [cursor=pointer]:
+                      - /url: "#comment-858"
+                      - text:  Ответ
+          - listitem [ref=e1719]:
+            - article [ref=e1720]:
+              - generic [ref=e1721]:
+                - generic [ref=e1722]:  Ольга
+                - generic [ref=e1723]:  7 мая 2018 в 22:13
+                - link " Постоянная ссылка" [ref=e1724] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-891
+              - generic [ref=e1725]:
+                - paragraph [ref=e1726]:
+                  - text: Вообще потрясающе сгруппированный материал! Спасибо огромное!
+                  - text: Единственное — нет формы rość — есть только rosnąć. И в том же глаголе — on rósł (там должна быть кресечка)
+                - link "Комментарий к записи Ольга" [ref=e1727] [cursor=pointer]:
+                  - /url: "#comment-891"
+                  - text:  Ответ
+            - list [ref=e1728]:
+              - listitem [ref=e1729]:
+                - article [ref=e1730]:
+                  - generic [ref=e1731]:
+                    - generic [ref=e1732]:  Екатерина ЛукьяноваАвтор записи
+                    - generic [ref=e1733]:  7 мая 2018 в 22:45
+                    - link " Постоянная ссылка" [ref=e1734] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-892
+                  - generic [ref=e1735]:
+                    - paragraph [ref=e1736]:
+                      - text: Спасибо большое 🙂
+                      - text: Вообще-то его не то, чтобы нет, просто он старенький 🙂
+                      - link "https://sjp.pwn.pl/doroszewski/rosc;5490576.html" [ref=e1737] [cursor=pointer]:
+                        - /url: https://sjp.pwn.pl/doroszewski/rosc;5490576.html
+                      - text: Я его брала из учебника, признаю, старого, наверное, стоит актуализировать…
+                    - paragraph [ref=e1738]: А кресочка потерялась, верно, спасибо большое, что заметили 🙂
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1739] [cursor=pointer]:
+                      - /url: "#comment-892"
+                      - text:  Ответ
+                - list [ref=e1740]:
+                  - listitem [ref=e1741]:
+                    - article [ref=e1742]:
+                      - generic [ref=e1743]:
+                        - generic [ref=e1744]:  Ольга
+                        - generic [ref=e1745]:  5 июня 2018 в 22:20
+                        - link " Постоянная ссылка" [ref=e1746] [cursor=pointer]:
+                          - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-946
+                      - generic [ref=e1747]:
+                        - paragraph [ref=e1748]:
+                          - text: Интересно, поизучала, спасибо за ссылку!
+                          - text: Не знала раньше о таком слове! 🙂 узнала новое для себя)))
+                          - text: В той же табличке, в rodzaju niemęskoosobowym 2 os.lm. urosłyście вместо rosłyście.
+                        - link "Комментарий к записи Ольга" [ref=e1749] [cursor=pointer]:
+                          - /url: "#comment-946"
+                          - text:  Ответ
+                    - list [ref=e1750]:
+                      - listitem [ref=e1751]:
+                        - article [ref=e1752]:
+                          - generic [ref=e1753]:
+                            - generic [ref=e1754]:  Екатерина ЛукьяноваАвтор записи
+                            - generic [ref=e1755]:  6 июня 2018 в 09:35
+                            - link " Постоянная ссылка" [ref=e1756] [cursor=pointer]:
+                              - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-947
+                          - generic [ref=e1757]:
+                            - paragraph [ref=e1758]: Исправила..)) И откуда оно все берется… )))
+                            - link "Комментарий к записи Екатерина Лукьянова" [ref=e1759] [cursor=pointer]:
+                              - /url: "#comment-947"
+                              - text:  Ответ
+          - listitem [ref=e1760]:
+            - article [ref=e1761]:
+              - generic [ref=e1762]:
+                - generic [ref=e1763]:  Egor
+                - generic [ref=e1764]:  4 января 2019 в 16:41
+                - link " Постоянная ссылка" [ref=e1765] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-1287
+              - generic [ref=e1766]:
+                - paragraph [ref=e1767]: А будет статья про спряжение глаголов при неизвестных именных.Пример:Читайте книги.Здесь не ясно,какой род имеется в виду.
+                - link "Комментарий к записи Egor" [ref=e1768] [cursor=pointer]:
+                  - /url: "#comment-1287"
+                  - text:  Ответ
+            - list [ref=e1769]:
+              - listitem [ref=e1770]:
+                - article [ref=e1771]:
+                  - generic [ref=e1772]:
+                    - generic [ref=e1773]:  Екатерина ЛукьяноваАвтор записи
+                    - generic [ref=e1774]:  5 января 2019 в 12:05
+                    - link " Постоянная ссылка" [ref=e1775] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-1288
+                  - generic [ref=e1776]:
+                    - paragraph [ref=e1777]: Здравствуйте! Приведенный Вами пример — это повелительное наклонение, и лицо здесь известно — второе множественного числа. Статья о повелительном наклонении обязательно будет 🙂
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1778] [cursor=pointer]:
+                      - /url: "#comment-1288"
+                      - text:  Ответ
+          - listitem [ref=e1779]:
+            - article [ref=e1780]:
+              - generic [ref=e1781]:
+                - generic [ref=e1782]:  Вика
+                - generic [ref=e1783]:  5 сентября 2020 в 13:10
+                - link " Постоянная ссылка" [ref=e1784] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-2365
+              - generic [ref=e1785]:
+                - paragraph [ref=e1786]: Сначала статья «пугает» обилием букв. Просто прочтения мне было мало. Решила законспектировать. Пока писала, все встало на свои места. Повторюсь, как Екатерина замечательно «разжевывает» материал. Нужно всего лишь потрудиться «проглотить» его. Лучшей подачи мне не попадалось.
+                - link "Комментарий к записи Вика" [ref=e1787] [cursor=pointer]:
+                  - /url: "#comment-2365"
+                  - text:  Ответ
+            - list [ref=e1788]:
+              - listitem [ref=e1789]:
+                - article [ref=e1790]:
+                  - generic [ref=e1791]:
+                    - generic [ref=e1792]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e1793] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e1794]:  6 сентября 2020 в 11:19
+                    - link " Постоянная ссылка" [ref=e1795] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-2366
+                  - generic [ref=e1796]:
+                    - paragraph [ref=e1797]:
+                      - text: Спасибо, пани Вика! Мне очень приятно! Кстати, сейчас собралась статью дополнить — чуть расширить момент об «отрывании» окончаний и «приклеивании» их к другим членам предложения 🙂
+                      - text: Прямо сейчас собралась и начать, потому, возможно, конспект придется дополнить 🙂
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1798] [cursor=pointer]:
+                      - /url: "#comment-2366"
+                      - text:  Ответ
+          - listitem [ref=e1799]:
+            - article [ref=e1800]:
+              - generic [ref=e1801]:
+                - generic [ref=e1802]:  Вика
+                - generic [ref=e1803]:  10 сентября 2020 в 10:10
+                - link " Постоянная ссылка" [ref=e1804] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-2369
+              - generic [ref=e1805]:
+                - paragraph [ref=e1806]: Жду с нетерпением!!! Хочу воспользоваться случаем и ещё раз поблагодарить за сайт!!! Он, как Эрмитаж в Петербурге. Наверное, жизни не хватит, чтоб все-все статьи прочитать, проработать. А вы его все расширяет и дополняет. Удивительно, как в такой маленькой, хрупкой девушке столько работоспособности, энергии, идей и знаний!!!
+                - link "Комментарий к записи Вика" [ref=e1807] [cursor=pointer]:
+                  - /url: "#comment-2369"
+                  - text:  Ответ
+            - list [ref=e1808]:
+              - listitem [ref=e1809]:
+                - article [ref=e1810]:
+                  - generic [ref=e1811]:
+                    - generic [ref=e1812]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e1813] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e1814]:  10 сентября 2020 в 12:27
+                    - link " Постоянная ссылка" [ref=e1815] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-2371
+                  - generic [ref=e1816]:
+                    - paragraph [ref=e1817]:
+                      - text: Так уже как несколько дней готово, проверьте, появился новый заголовок 🙂
+                      - text: СПАСИБО за теплые слова 🙂 А идеи все — они пока только вокруг польского вертятся, не такая уж и большая область 🙂
+                      - text: Жизни — хватит. Максимум — лет 5, именно столько сайту исполняется в ноябре 😀 И это если читать его столько, сколько я его писала — а пишу я медленно 🙂
+                      - text: СПАСИБО, пани Вика! Вы бываете на прямых эфирах? Если да, то как я могу Вас там узнать, какой у Вас ник?
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1818] [cursor=pointer]:
+                      - /url: "#comment-2371"
+                      - text:  Ответ
+          - listitem [ref=e1819]:
+            - article [ref=e1820]:
+              - generic [ref=e1821]:
+                - generic [ref=e1822]:  Вика
+                - generic [ref=e1823]:  12 сентября 2020 в 19:08
+                - link " Постоянная ссылка" [ref=e1824] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-2372
+              - generic [ref=e1825]:
+                - paragraph [ref=e1826]: Я дремучий человек, у которого нет аккаунта в Инсте (жизнь моя настолько скучна и однообразная, что постить туда нечего). Но оказывается, вы там с народом читаете «Пеппи» — одну из любимых книг детства. Ради такого зарегестрируюсь и присоединюсь!!! )))
+                - link "Комментарий к записи Вика" [ref=e1827] [cursor=pointer]:
+                  - /url: "#comment-2372"
+                  - text:  Ответ
+            - list [ref=e1828]:
+              - listitem [ref=e1829]:
+                - article [ref=e1830]:
+                  - generic [ref=e1831]:
+                    - generic [ref=e1832]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e1833] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e1834]:  13 сентября 2020 в 13:59
+                    - link " Постоянная ссылка" [ref=e1835] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-2373
+                  - generic [ref=e1836]:
+                    - paragraph [ref=e1837]:
+                      - text: Первую книгу о Пеппи мы уже дочитали, и я ее скоро всю на сайт выложу. Но будем читать еще две оставшиеся части, чуть позже 🙂
+                      - text: Конечно же присоединяйтесь! И в Инстаграме необязательно что-то самому выкладывать, можно следить за другими аккаунтами, к примеру, учить польский 🙂
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1838] [cursor=pointer]:
+                      - /url: "#comment-2373"
+                      - text:  Ответ
+          - listitem [ref=e1839]:
+            - article [ref=e1840]:
+              - generic [ref=e1841]:
+                - generic [ref=e1842]:  Alina
+                - generic [ref=e1843]:  26 марта 2021 в 18:09
+                - link " Постоянная ссылка" [ref=e1844] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-2566
+              - generic [ref=e1845]:
+                - paragraph [ref=e1846]: Благодарю за ваш труд! В учебниках типа Krok po kroku или Hurra рассматривается максимум одно исключение mieć. Я даже и не знала, что глаголы могут склоняться как-то иначе, пока не начала делать упражнения из учебника Czas na czasownik. О, Боже мой! Как оказалось, тут куча разных видов и ещё мои любимые исключения 🤯 Короче говоря, я очень люблю такие статьи, когда всё самое полезное собрано в одном месте. Спасибо ещё раз Вам!!! Вы очень сильно помогли и не одному человеку 🥰
+                - link "Комментарий к записи Alina" [ref=e1847] [cursor=pointer]:
+                  - /url: "#comment-2566"
+                  - text:  Ответ
+            - list [ref=e1848]:
+              - listitem [ref=e1849]:
+                - article [ref=e1850]:
+                  - generic [ref=e1851]:
+                    - generic [ref=e1852]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e1853] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e1854]:  29 марта 2021 в 11:05
+                    - link " Постоянная ссылка" [ref=e1855] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-2570
+                  - generic [ref=e1856]:
+                    - paragraph [ref=e1857]: Спасибо большое, Алина! Рада, что помогла 🙂
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1858] [cursor=pointer]:
+                      - /url: "#comment-2570"
+                      - text:  Ответ
+          - listitem [ref=e1859]:
+            - article [ref=e1860]:
+              - generic [ref=e1861]:
+                - generic [ref=e1862]:  Никита
+                - generic [ref=e1863]:  14 марта 2022 в 01:15
+                - link " Постоянная ссылка" [ref=e1864] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-2807
+              - generic [ref=e1865]:
+                - paragraph [ref=e1866]:
+                  - text: Катерина, труд читать очень сложно, тк написан вообще не структурированно, к сожалению он в топе гугла и из-за него найти что-то другое просто сложно.
+                  - text: Пожалуйста добавляйте определения в свой труд, не копируйте вы текст из вашей «любимой» книжки.
+                  - text: Если вы сами пишете, что регулярные глаголы ранее не упоминались, то почему вы не добавите хотя бы ссылку на информацию о том, что это?
+                  - text: Аналогично в другой статье про личные формы глагола, добавьте вы ссылку, пожалуйста.
+                  - text: Сложно читать и искать определения .
+                - link "Комментарий к записи Никита" [ref=e1867] [cursor=pointer]:
+                  - /url: "#comment-2807"
+                  - text:  Ответ
+            - list [ref=e1868]:
+              - listitem [ref=e1869]:
+                - article [ref=e1870]:
+                  - generic [ref=e1871]:
+                    - generic [ref=e1872]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e1873] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e1874]:  15 марта 2022 в 16:34
+                    - link " Постоянная ссылка" [ref=e1875] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-2808
+                  - generic [ref=e1876]:
+                    - paragraph [ref=e1877]:
+                      - text: Никита, в Гугле миллионы страниц, и если эта в топе, то там после нее осталось еще миллион минус одна. Пожалуйста, махните мышкой и откройте какую-нибудь другую ссылку.
+                      - text: Я пишу и структурирую так, как мне кажется удобным. И невозможно, чтобы этот способ подходил и нравился всем. Со временем некоторые статьи я переписываю и обновляю, если что-то мне кажется устаревшим или корявым. У меня нет редактора, который сразу же после публикации вычитывал бы все мои огрехи и корявости и добавлял ссылки на все определения.
+                      - text: Я практически не добавляю их, так как это не труды, а мой личный блог. Я ни разу не филолог и не учитель польского. Я не копирую текст из книжек («любимых», и в Вашем комментарии эти кавычки кажутся оскорбительными), а пишу, исходя из опыта и прочитанного, используя максимально простые, на мой, конечно, взгляд, слова.
+                      - text: Мне казались очевидными и простыми слова «регулярные и нерегулярные», так же, как «правильные и неправильные» для тех, кто изучает грамматику. Для Вас добавила ссылки на Википедию.
+                      - text: Я не могу знать, сколько читателей не знают, что такое «лицо» в понятии грамматики, а сколько из них не знают, что такое, к примеру, «падеж». Идея добавлять на все такого рода определения хороша, и я делаю это в меру своих возможностей, но в 100% не считаю это возможным, так как это не Википедия, а блог. Данная статья была написана довольно давно и, возможно, ей в то время не было уделено столько внимания касательно определений, и никто не просил этого сделать до Вас. Вы попросили — я добавила. Про личные формы глагола — в какую статью нужно добавить ссылку на определение лица?
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1878] [cursor=pointer]:
+                      - /url: "#comment-2808"
+                      - text:  Ответ
+          - listitem [ref=e1879]:
+            - article [ref=e1880]:
+              - generic [ref=e1881]:
+                - generic [ref=e1882]:  Георгий
+                - generic [ref=e1883]:  20 ноября 2022 в 12:27
+                - link " Постоянная ссылка" [ref=e1884] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-2887
+              - generic [ref=e1885]:
+                - paragraph [ref=e1886]: Добрий день! Подскажите а движимие окончания глаголов прошедщего времени применимьі ко всем лицам? К 1 лицу тоже можно лепить окончания к я?
+                - link "Комментарий к записи Георгий" [ref=e1887] [cursor=pointer]:
+                  - /url: "#comment-2887"
+                  - text:  Ответ
+            - list [ref=e1888]:
+              - listitem [ref=e1889]:
+                - article [ref=e1890]:
+                  - generic [ref=e1891]:
+                    - generic [ref=e1892]:
+                      - text: 
+                      - link "Катерина Лук'янова" [ref=e1893] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e1894]:  20 ноября 2022 в 16:16
+                    - link " Постоянная ссылка" [ref=e1895] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-2888
+                  - generic [ref=e1896]:
+                    - paragraph [ref=e1897]:
+                      - text: "Добрий день! Да, к самому местоимению (ja + -m) тоже можно. Хоть это уже и непопулярно, грамматически является правильным. Почитайте эту короткую заметку:"
+                      - link "https://24kurier.pl/blogi/ewa-kolodziejek/jam-tys-wyscie/" [ref=e1898] [cursor=pointer]:
+                        - /url: https://24kurier.pl/blogi/ewa-kolodziejek/jam-tys-wyscie/
+                    - link "Комментарий к записи Катерина Лук'янова" [ref=e1899] [cursor=pointer]:
+                      - /url: "#comment-2888"
+                      - text:  Ответ
+          - listitem [ref=e1900]:
+            - article [ref=e1901]:
+              - generic [ref=e1902]:
+                - generic [ref=e1903]:  Георгий
+                - generic [ref=e1904]:  22 ноября 2022 в 19:24
+                - link " Постоянная ссылка" [ref=e1905] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-2891
+              - generic [ref=e1906]:
+                - paragraph [ref=e1907]: Cпасибо огромное:))) И вопрос немного не в тему:) Глаголи Wieźć и wozić. в русс и укр оба глагола несовершенного вида, но вот на вики словаре почему-то wiezc пишут dokonany от wozic. Все да ничего но как строить будущее с глаголом byc или самостоятельно. Если они считают его совершенним то по сути переводить надо не везти а привезти. Как-то не понятно)
+                - link "Комментарий к записи Георгий" [ref=e1908] [cursor=pointer]:
+                  - /url: "#comment-2891"
+                  - text:  Ответ
+          - listitem [ref=e1909]:
+            - article [ref=e1910]:
+              - generic [ref=e1911]:
+                - generic [ref=e1912]:  Aнна
+                - generic [ref=e1913]:  20 февраля 2023 в 22:25
+                - link " Постоянная ссылка" [ref=e1914] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-2907
+              - generic [ref=e1915]:
+                - paragraph [ref=e1916]:
+                  - text: Вы объяснили просто великолепно! Неоднократно пыталась разобраться с прошедшим временем и только после этой статьи все стало на свои места. Особенно «путешествия» окончаний)))) Спасибо за Ваш труд
+                  - text: "!"
+                - link "Комментарий к записи Aнна" [ref=e1917] [cursor=pointer]:
+                  - /url: "#comment-2907"
+                  - text:  Ответ
+            - list [ref=e1918]:
+              - listitem [ref=e1919]:
+                - article [ref=e1920]:
+                  - generic [ref=e1921]:
+                    - generic [ref=e1922]:
+                      - text: 
+                      - link "Катерина Лук'янова" [ref=e1923] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e1924]:  21 февраля 2023 в 22:37
+                    - link " Постоянная ссылка" [ref=e1925] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/09/28/czas-przeszly/#comment-2909
+                  - generic [ref=e1926]:
+                    - paragraph [ref=e1927]: Dziękuję 🙂
+                    - link "Комментарий к записи Катерина Лук'янова" [ref=e1928] [cursor=pointer]:
+                      - /url: "#comment-2909"
+                      - text:  Ответ
+        - generic [ref=e1929]:
+          - heading "Добавить комментарий" [level=3] [ref=e1930]: Добавить комментарий
+          - iframe [ref=e1932]:
+            
+    - contentinfo [ref=e1933]:
+      - generic [ref=e1936]:
+        - complementary [ref=e1938]:
+          - heading "Полезные ссылки" [level=3] [ref=e1939]
+          - list [ref=e1941]:
+            - listitem [ref=e1942]:
+              - link "Тесты по польскому языку" [ref=e1943] [cursor=pointer]:
+                - /url: https://testy.propolski.com/
+            - listitem [ref=e1944]:
+              - link "Статьи о Польше" [ref=e1945] [cursor=pointer]:
+                - /url: https://insidepl.com/
+            - listitem [ref=e1946]:
+              - link "Лучший хостинг" [ref=e1947] [cursor=pointer]:
+                - /url: https://www.lh.pl/?ref=kettibellya
+        - complementary [ref=e1949]:
+          - heading "Что такое ProPolski" [level=3] [ref=e1950]
+          - list [ref=e1952]:
+            - listitem [ref=e1953]:
+              - link "Об авторе" [ref=e1954] [cursor=pointer]:
+                - /url: https://propolski.com/autor/
+            - listitem [ref=e1955]:
+              - link "Мои ответы на вопросы" [ref=e1956] [cursor=pointer]:
+                - /url: https://propolski.com/?p=1811
+            - listitem [ref=e1957]:
+              - link "Курс для начинающих" [ref=e1958] [cursor=pointer]:
+                - /url: https://kursy.propolski.com/
+            - listitem [ref=e1959]:
+              - link "Бесплатная подписка" [ref=e1960] [cursor=pointer]:
+                - /url: https://propolski.com/kontakt/
+            - listitem [ref=e1961]:
+              - link "Политика конфиденциальности" [ref=e1962] [cursor=pointer]:
+                - /url: https://propolski.com/privacy-policy-2/
+        - complementary [ref=e1964]:
+          - heading "Блог был для вас полезен?" [level=3] [ref=e1965]
+          - generic [ref=e1966]:
+            - paragraph [ref=e1967]: Если вам понравилось, если было полезно, то ваша финансовая поддержка поможет мне писать чаще и еще интереснее!
+            - link "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e1969] [cursor=pointer]:
+              - /url: https://www.patreon.com/propolski
+              - img "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e1970]
+            - link "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e1972] [cursor=pointer]:
+              - /url: https://www.paypal.me/propolski
+              - img "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e1973]
+        - complementary [ref=e1975]:
+          - paragraph [ref=e1977]:
+            - text: Запроектировано с помощью Freepik.com
+            - strong [ref=e1978]: Все права защищены.
+            - text: Материалы
+            - strong [ref=e1979]: не копировать
+            - text: для использования на других страницах, для этого внизу каждой статьи есть кнопочка «поделиться».
+      - generic [ref=e1980]:
+        - generic:
+          - generic:
+            - generic [ref=e1981]:
+              - text: Copyright © 2026
+              - link "ProPolski" [ref=e1982] [cursor=pointer]:
+                - /url: https://propolski.com/
+              - text: . Все права защищены. Тема
+              - link "Spacious" [ref=e1983] [cursor=pointer]:
+                - /url: https://themegrill.com/themes/spacious
+              - text: "от ThemeGrill. На платформе:"
+              - link "WordPress" [ref=e1984] [cursor=pointer]:
+                - /url: https://wordpress.org
+              - text: .
+            - navigation [ref=e1985]:
+              - generic:
+                - list:
+                  - listitem [ref=e1986]:
+                    - link "Об авторе" [ref=e1987] [cursor=pointer]:
+                      - /url: https://propolski.com/autor/
+                  - listitem [ref=e1988]:
+                    - link "Мои ответы на вопросы" [ref=e1989] [cursor=pointer]:
+                      - /url: https://propolski.com/?p=1811
+                  - listitem [ref=e1990]:
+                    - link "Курс для начинающих" [ref=e1991] [cursor=pointer]:
+                      - /url: https://kursy.propolski.com/
+                  - listitem [ref=e1992]:
+                    - link "Бесплатная подписка" [ref=e1993] [cursor=pointer]:
+                      - /url: https://propolski.com/kontakt/
+                  - listitem [ref=e1994]:
+                    - link "Политика конфиденциальности" [ref=e1995] [cursor=pointer]:
+                      - /url: https://propolski.com/privacy-policy-2/
+    - text: 
+  - dialog "propolski.com asks for your consent to use your personal data to:" [active] [ref=e1999]:
+    - generic [ref=e2001]:
+      - generic [ref=e2002]:
+        - paragraph [ref=e2004]: Welcome to propolski.com
+        - heading "propolski.com asks for your consent to use your personal data to:" [level=1] [ref=e2005]
+      - list [ref=e2007]:
+        - listitem [ref=e2008]:
+          - img [ref=e2011]
+          - generic [ref=e2013]: Personalised advertising and content, advertising and content measurement, audience research and services development
+        - listitem [ref=e2014]:
+          - img [ref=e2017]
+          - generic [ref=e2019]: Store and/or access information on a device
+      - button "Learn more" [ref=e2020] [cursor=pointer]:
+        - img [ref=e2023]
+        - generic [ref=e2025]: Learn more
+      - generic [ref=e2026]:
+        - paragraph [ref=e2027]:
+          - text: Your personal data will be processed and information from your device (cookies, unique identifiers, and other device data) may be stored by, accessed by and shared with 211 partners, or used specifically by this site. We and our partners may use precise geolocation data.
+          - button "List of partners." [ref=e2028] [cursor=pointer]
+        - paragraph [ref=e2029]: Some vendors may process your personal data on the basis of legitimate interest, which you can object to by managing your options below. Look for a link at the bottom of this page or in the site menu to manage or withdraw consent in privacy and cookie settings.
+    - generic [ref=e2030]:
+      - generic [ref=e2032]:
+        - button "Consent" [ref=e2033] [cursor=pointer]:
+          - paragraph [ref=e2035]: Consent
+        - button "Do not consent" [ref=e2036] [cursor=pointer]:
+          - paragraph [ref=e2038]: Do not consent
+      - button "Manage options" [ref=e2039] [cursor=pointer]:
+        - paragraph [ref=e2040]: Manage options

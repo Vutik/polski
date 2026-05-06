@@ -1,0 +1,1001 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Перейти к содержимому" [ref=e3] [cursor=pointer]:
+      - /url: "#main"
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - generic [ref=e8]:
+          - link " Просмотреть профиль propolskiblog на Facebook" [ref=e9] [cursor=pointer]:
+            - /url: https://www.facebook.com/propolskiblog/
+            - text: 
+            - generic [ref=e10]: Просмотреть профиль propolskiblog на Facebook
+          - link " Просмотреть профиль PROpolski_com на Twitter" [ref=e11] [cursor=pointer]:
+            - /url: https://twitter.com/PROpolski_com/
+            - text: 
+            - generic [ref=e12]: Просмотреть профиль PROpolski_com на Twitter
+          - link " Просмотреть профиль propolski на Instagram" [ref=e13] [cursor=pointer]:
+            - /url: https://www.instagram.com/propolski/
+            - text: 
+            - generic [ref=e14]: Просмотреть профиль propolski на Instagram
+          - link " Просмотреть профиль propolskiblog на Pinterest" [ref=e15] [cursor=pointer]:
+            - /url: https://www.pinterest.com/propolskiblog/
+            - text: 
+            - generic [ref=e16]: Просмотреть профиль propolskiblog на Pinterest
+          - link " Просмотреть профиль kateryna-lukianova-78b0a2ab на LinkedIn" [ref=e17] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/kateryna-lukianova-78b0a2ab/
+            - text: 
+            - generic [ref=e18]: Просмотреть профиль kateryna-lukianova-78b0a2ab на LinkedIn
+          - link " Просмотреть профиль UCg0djfCucaVv9spNr2yPv-A на YouTube" [ref=e19] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCg0djfCucaVv9spNr2yPv-A/
+            - text: 
+            - generic [ref=e20]: Просмотреть профиль UCg0djfCucaVv9spNr2yPv-A на YouTube
+          - link " Просмотреть профиль propolskiblog на Telegram" [ref=e21] [cursor=pointer]:
+            - /url: https://www.t.me/propolski_kurs/
+            - text: 
+            - generic [ref=e22]: Просмотреть профиль propolskiblog на Telegram
+        - navigation [ref=e23]:
+          - generic:
+            - list:
+              - listitem [ref=e24]:
+                - link "Українська" [ref=e25] [cursor=pointer]:
+                  - /url: https://propolski.com/uk/2022/11/15/chasy-diiesliv-u-polskii-movi/
+              - listitem [ref=e26]:
+                - link "Русский" [ref=e27] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - link "ProPolski - блог о польском языке" [ref=e33] [cursor=pointer]:
+            - /url: https://propolski.com/
+            - img "ProPolski - блог о польском языке" [ref=e34]
+          - generic [ref=e35]:
+            - heading "ProPolski" [level=3] [ref=e36]:
+              - link "ProPolski" [ref=e37] [cursor=pointer]:
+                - /url: https://propolski.com/
+            - paragraph [ref=e38]: Блог о польском языке
+        - generic [ref=e39]:
+          - complementary [ref=e41]:
+            - generic [ref=e43]:
+              - textbox "Поиск" [ref=e44]
+              - button "" [ref=e45] [cursor=pointer]
+          - navigation [ref=e46]:
+            - text: ≡
+            - generic [ref=e47]:
+              - text: 
+              - list [ref=e48]:
+                - listitem [ref=e49]:
+                  - link "ВСЕ СТАТЬИ" [ref=e50] [cursor=pointer]:
+                    - /url: https://propolski.com/sitemap/
+                - listitem [ref=e51]:
+                  - link "Учить" [ref=e52] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Учить
+                    - generic [ref=e53]: 
+                - listitem [ref=e54]:
+                  - link "Читать" [ref=e55] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Читать
+                    - generic [ref=e56]: 
+                - listitem [ref=e57]:
+                  - link "Смотреть/слушать" [ref=e58] [cursor=pointer]:
+                    - /url: https://propolski.com/wideo-audio-po-polsku/
+                    - text: Смотреть/слушать
+                    - generic [ref=e59]: 
+                - listitem [ref=e60]:
+                  - link "Польшa" [ref=e61] [cursor=pointer]:
+                    - /url: https://propolski.com/polska/
+                - listitem [ref=e62]:
+                  - link "Подписка" [ref=e63] [cursor=pointer]:
+                    - /url: https://propolski.com/kontakt/
+                - listitem [ref=e64]:
+                  - link "КУРС" [ref=e65] [cursor=pointer]:
+                    - /url: https://kursy.propolski.com/uk/
+      - generic [ref=e66]:
+        - generic:
+          - 'heading "Времена глаголов в польском языке: таблица и правила" [level=1] [ref=e68]'
+          - generic [ref=e69]:
+            - text: "Вы здесь:"
+            - generic [ref=e70]:
+              - link "Главная" [ref=e72] [cursor=pointer]:
+                - /url: https://propolski.com/
+              - text: »
+              - link "Польская грамматика" [ref=e74] [cursor=pointer]:
+                - /url: https://propolski.com/category/polskaia-grammatika/
+              - text: »
+              - link "Глагол в польском" [ref=e76] [cursor=pointer]:
+                - /url: https://propolski.com/category/polskaia-grammatika/czasownik/
+              - text: »
+              - strong [ref=e78]: "Времена глаголов в польском языке: таблица и правила"
+    - insertion [ref=e80]:
+      - iframe [ref=e82]:
+        - generic [active] [ref=f93e1]:
+          - generic [ref=f93e6]:
+            - generic [ref=f93e7]:
+              - generic "GetResponse" [ref=f93e9]:
+                - link "Zacznij za darmo" [ref=f93e10] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CyCAowurMaZryFoKCnboPzJee4AjbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_QFzWY3lkUpV8a1bF_0k58Rq5eyoZ5ufcHZgw3gtmyLio0sQijyWv1WsMeUWaBCvH6hCw0H2f3i0piC4GqW61WugQ_5rtkpMoK_kT4HQNi-ekvxCJgqinPl5OsT7DKcLVO4ZmBQSuuWkJIUNgw0rEyCujS5nWTis14TgGy_W5yGOIe5lFDMXl1TjQdxbS4U7hkfASv7YKAeSd3c21MPztL7Mh_1H3rQ7y-_sVgngnrvLdn8cXj0xudiVrt_lr6HrE8hFzKW06RR3UU6_dG17THqh_QhBsMgDR5RE00w4AiNL_AjnsrLSZdCvTJco2tMAbdwATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WOHLjsmwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCKbgkcmwzJMDFQJBRwEdzIsHjPANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICgE8YASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMImtuRybDMkwMVAkFHAR3MiweMEAEYASAAEgIUJvD_BwE&num=1&cid=CAQSbwAFq6B90WSf6bdtedr190r_-cCZxS63jgt69uHePd2PbM_UTmUE0vnyZRBXdQDua4Z4wY2-2Z4Lbh00tM8bn2ESEcUPQk9LPdS_8B33TS2wnIszM9fL8rjK-FjMtAa3HHJaGqsst6JvBGzuwz7f5RgB&sig=AOD64_3lkFzOnfjQXQAfCbRVJhegN9ycgw&client=ca-pub-6525291204356869&rf=1&nb=0&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMImtuRybDMkwMVAkFHAR3MiweMEAEYASAAEgIUJvD_BwE
+              - generic [ref=f93e11]:
+                - link "85% szybsze tworzenie emaili dzięki AI, które wspiera Twój głos, a nie go zastępuje." [ref=f93e13] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CyCAowurMaZryFoKCnboPzJee4AjbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_QFzWY3lkUpV8a1bF_0k58Rq5eyoZ5ufcHZgw3gtmyLio0sQijyWv1WsMeUWaBCvH6hCw0H2f3i0piC4GqW61WugQ_5rtkpMoK_kT4HQNi-ekvxCJgqinPl5OsT7DKcLVO4ZmBQSuuWkJIUNgw0rEyCujS5nWTis14TgGy_W5yGOIe5lFDMXl1TjQdxbS4U7hkfASv7YKAeSd3c21MPztL7Mh_1H3rQ7y-_sVgngnrvLdn8cXj0xudiVrt_lr6HrE8hFzKW06RR3UU6_dG17THqh_QhBsMgDR5RE00w4AiNL_AjnsrLSZdCvTJco2tMAbdwATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WOHLjsmwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCKbgkcmwzJMDFQJBRwEdzIsHjPANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICgE8YASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMImtuRybDMkwMVAkFHAR3MiweMEAEYASAAEgIUJvD_BwE&num=1&cid=CAQSbwAFq6B90WSf6bdtedr190r_-cCZxS63jgt69uHePd2PbM_UTmUE0vnyZRBXdQDua4Z4wY2-2Z4Lbh00tM8bn2ESEcUPQk9LPdS_8B33TS2wnIszM9fL8rjK-FjMtAa3HHJaGqsst6JvBGzuwz7f5RgB&sig=AOD64_3lkFzOnfjQXQAfCbRVJhegN9ycgw&client=ca-pub-6525291204356869&rf=1&nb=7&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMImtuRybDMkwMVAkFHAR3MiweMEAEYASAAEgIUJvD_BwE
+                - link [ref=f93e14] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CyCAowurMaZryFoKCnboPzJee4AjbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_QFzWY3lkUpV8a1bF_0k58Rq5eyoZ5ufcHZgw3gtmyLio0sQijyWv1WsMeUWaBCvH6hCw0H2f3i0piC4GqW61WugQ_5rtkpMoK_kT4HQNi-ekvxCJgqinPl5OsT7DKcLVO4ZmBQSuuWkJIUNgw0rEyCujS5nWTis14TgGy_W5yGOIe5lFDMXl1TjQdxbS4U7hkfASv7YKAeSd3c21MPztL7Mh_1H3rQ7y-_sVgngnrvLdn8cXj0xudiVrt_lr6HrE8hFzKW06RR3UU6_dG17THqh_QhBsMgDR5RE00w4AiNL_AjnsrLSZdCvTJco2tMAbdwATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WOHLjsmwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCKbgkcmwzJMDFQJBRwEdzIsHjPANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICgE8YASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMImtuRybDMkwMVAkFHAR3MiweMEAEYASAAEgIUJvD_BwE&num=1&cid=CAQSbwAFq6B90WSf6bdtedr190r_-cCZxS63jgt69uHePd2PbM_UTmUE0vnyZRBXdQDua4Z4wY2-2Z4Lbh00tM8bn2ESEcUPQk9LPdS_8B33TS2wnIszM9fL8rjK-FjMtAa3HHJaGqsst6JvBGzuwz7f5RgB&sig=AOD64_3lkFzOnfjQXQAfCbRVJhegN9ycgw&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMImtuRybDMkwMVAkFHAR3MiweMEAEYASAAEgIUJvD_BwE
+                  - img [ref=f93e15]
+            - generic "GetResponse" [ref=f93e17]:
+              - link "GetResponse" [ref=f93e18] [cursor=pointer]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CyCAowurMaZryFoKCnboPzJee4AjbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_QFzWY3lkUpV8a1bF_0k58Rq5eyoZ5ufcHZgw3gtmyLio0sQijyWv1WsMeUWaBCvH6hCw0H2f3i0piC4GqW61WugQ_5rtkpMoK_kT4HQNi-ekvxCJgqinPl5OsT7DKcLVO4ZmBQSuuWkJIUNgw0rEyCujS5nWTis14TgGy_W5yGOIe5lFDMXl1TjQdxbS4U7hkfASv7YKAeSd3c21MPztL7Mh_1H3rQ7y-_sVgngnrvLdn8cXj0xudiVrt_lr6HrE8hFzKW06RR3UU6_dG17THqh_QhBsMgDR5RE00w4AiNL_AjnsrLSZdCvTJco2tMAbdwATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WOHLjsmwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCKbgkcmwzJMDFQJBRwEdzIsHjPANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICgE8YASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMImtuRybDMkwMVAkFHAR3MiweMEAEYASAAEgIUJvD_BwE&num=1&cid=CAQSbwAFq6B90WSf6bdtedr190r_-cCZxS63jgt69uHePd2PbM_UTmUE0vnyZRBXdQDua4Z4wY2-2Z4Lbh00tM8bn2ESEcUPQk9LPdS_8B33TS2wnIszM9fL8rjK-FjMtAa3HHJaGqsst6JvBGzuwz7f5RgB&sig=AOD64_3lkFzOnfjQXQAfCbRVJhegN9ycgw&client=ca-pub-6525291204356869&rf=1&nb=1&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMImtuRybDMkwMVAkFHAR3MiweMEAEYASAAEgIUJvD_BwE
+          - img [ref=f93e22] [cursor=pointer]
+          - button [ref=f93e24] [cursor=pointer]:
+            - img [ref=f93e25]
+          - iframe
+    - generic [ref=e85]:
+      - article [ref=e86]:
+        - generic [ref=e87]:
+          - generic [ref=e88]:
+            - generic [ref=e89]:
+              - paragraph [ref=e90]: "Содержание:"
+              - link "Toggle Table of Content" [ref=e91] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e94]:
+                  - img [ref=e95]
+                  - img [ref=e97]
+            - navigation [ref=e99]:
+              - list [ref=e100]:
+                - listitem [ref=e101]:
+                  - link "Сколько времен глаголов в польском языке?" [ref=e102] [cursor=pointer]:
+                    - /url: "#%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD_%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5"
+                - listitem [ref=e103]:
+                  - link "Времена глаголов в польском языке" [ref=e104] [cursor=pointer]:
+                    - /url: "#%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0_%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5"
+                - listitem [ref=e105]:
+                  - link "Настоящее время глаголов польского языка (czas teraźniejszy)" [ref=e106] [cursor=pointer]:
+                    - /url: "#%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F_%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0_czas_terazniejszy"
+                  - list [ref=e107]:
+                    - listitem [ref=e108]:
+                      - link "Таблица окончаний спряжений настоящего времени польского языка:" [ref=e109] [cursor=pointer]:
+                        - /url: "#%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D0%BD%D0%B8%D0%B9_%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B3%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0"
+                - listitem [ref=e110]:
+                  - link "Прошедшее время глаголов польского языка (czas przeszły)" [ref=e111] [cursor=pointer]:
+                    - /url: "#%D0%9F%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F_%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0_czas_przeszly"
+                - listitem [ref=e112]:
+                  - link "Будущее время (czas przyszły) глаголов польского языка" [ref=e113] [cursor=pointer]:
+                    - /url: "#%D0%91%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F_czas_przyszly_%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0"
+                  - list [ref=e114]:
+                    - listitem [ref=e115]:
+                      - link "Таблица сложенного будущего времени (czas przyszły złożony)" [ref=e116] [cursor=pointer]:
+                        - /url: "#%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B3%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8_czas_przyszly_zlozony"
+                - listitem [ref=e117]:
+                  - link "Стилистическое употребление времен в польского языке" [ref=e118] [cursor=pointer]:
+                    - /url: "#%D0%A1%D1%82%D0%B8%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%83%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5"
+          - generic [ref=e119]:
+            - list [ref=e120]:
+              - listitem [ref=e121]:
+                - link "Об авторе" [ref=e122] [cursor=pointer]:
+                  - /url: "#abh_about"
+              - listitem [ref=e123]:
+                - link "Недавние публикации" [ref=e124] [cursor=pointer]:
+                  - /url: "#abh_posts"
+            - insertion [ref=e126]:
+              - iframe [ref=e128]:
+                - generic [active] [ref=f111e1]:
+                  - generic [ref=f111e6]:
+                    - generic [ref=f111e7]:
+                      - generic "GetResponse" [ref=f111e9]:
+                        - link "Zacznij za darmo" [ref=f111e10] [cursor=pointer]:
+                          - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C-deUw-rMaaXfMcHOnboP57Lz-ATbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_Q_MTIUulj0G9ll8KnihQZZgYEjI5dR6tE-mnHkpRBF0DjOJWvR02pYUVPDouFwUVOQIpNNHtgXemXZ24MHLxE5PBVQdZ7te5p72kVeMRgLMC4FtVD5kS283UJdKeTj0xS1kyNJuRF1VyIOI_bvMKZLLyXcThcseHSJB63Ct20DqWYdtPOsJSZiaISy4s5oFrVLoHOLcjPjSEbGl88mBkRG_7i4WKSHYN7cbnToBspBJarYWJOWXf1wO0dd8cXLGKF0aBQ-ytbabvWSMzi9U2V85EwVP_sSbFnUkAdSY_cy8avj1VRGzn52oyT7SwW7x3rwATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WJWr5smwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCI7V6cmwzJMDFUFnRwEdZ9kcT_ANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICgE8YASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMI5czpybDMkwMVQWdHAR1n2RxPEAEYASAAEgIIrvD_BwE&num=1&cid=CAQSbwAFq6B9l8JigzWtxpZfPbpa60FXp_cm2mrKMKgNxYjewBaTLSzky032xxtXXZwrj-Y-qRoBGhNp4p0vu_0SjYAXmKflc-k-gEVRlJ_eq1w0D91tRhXiN009Z5JNMwbLxp22ruVsBznbUwmVyifvNhgB&sig=AOD64_072YJwYSymc3o1l6f3qaEvbx79tg&client=ca-pub-6525291204356869&rf=1&nb=0&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMI5czpybDMkwMVQWdHAR1n2RxPEAEYASAAEgIIrvD_BwE
+                      - generic [ref=f111e11]:
+                        - link "Rozwijaj biznes na swoich zasadach dzięki emailom i automatyzacji opartych na AI." [ref=f111e13] [cursor=pointer]:
+                          - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C-deUw-rMaaXfMcHOnboP57Lz-ATbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_Q_MTIUulj0G9ll8KnihQZZgYEjI5dR6tE-mnHkpRBF0DjOJWvR02pYUVPDouFwUVOQIpNNHtgXemXZ24MHLxE5PBVQdZ7te5p72kVeMRgLMC4FtVD5kS283UJdKeTj0xS1kyNJuRF1VyIOI_bvMKZLLyXcThcseHSJB63Ct20DqWYdtPOsJSZiaISy4s5oFrVLoHOLcjPjSEbGl88mBkRG_7i4WKSHYN7cbnToBspBJarYWJOWXf1wO0dd8cXLGKF0aBQ-ytbabvWSMzi9U2V85EwVP_sSbFnUkAdSY_cy8avj1VRGzn52oyT7SwW7x3rwATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WJWr5smwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCI7V6cmwzJMDFUFnRwEdZ9kcT_ANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICgE8YASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMI5czpybDMkwMVQWdHAR1n2RxPEAEYASAAEgIIrvD_BwE&num=1&cid=CAQSbwAFq6B9l8JigzWtxpZfPbpa60FXp_cm2mrKMKgNxYjewBaTLSzky032xxtXXZwrj-Y-qRoBGhNp4p0vu_0SjYAXmKflc-k-gEVRlJ_eq1w0D91tRhXiN009Z5JNMwbLxp22ruVsBznbUwmVyifvNhgB&sig=AOD64_072YJwYSymc3o1l6f3qaEvbx79tg&client=ca-pub-6525291204356869&rf=1&nb=7&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMI5czpybDMkwMVQWdHAR1n2RxPEAEYASAAEgIIrvD_BwE
+                        - link [ref=f111e14] [cursor=pointer]:
+                          - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C-deUw-rMaaXfMcHOnboP57Lz-ATbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_Q_MTIUulj0G9ll8KnihQZZgYEjI5dR6tE-mnHkpRBF0DjOJWvR02pYUVPDouFwUVOQIpNNHtgXemXZ24MHLxE5PBVQdZ7te5p72kVeMRgLMC4FtVD5kS283UJdKeTj0xS1kyNJuRF1VyIOI_bvMKZLLyXcThcseHSJB63Ct20DqWYdtPOsJSZiaISy4s5oFrVLoHOLcjPjSEbGl88mBkRG_7i4WKSHYN7cbnToBspBJarYWJOWXf1wO0dd8cXLGKF0aBQ-ytbabvWSMzi9U2V85EwVP_sSbFnUkAdSY_cy8avj1VRGzn52oyT7SwW7x3rwATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WJWr5smwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCI7V6cmwzJMDFUFnRwEdZ9kcT_ANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICgE8YASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMI5czpybDMkwMVQWdHAR1n2RxPEAEYASAAEgIIrvD_BwE&num=1&cid=CAQSbwAFq6B9l8JigzWtxpZfPbpa60FXp_cm2mrKMKgNxYjewBaTLSzky032xxtXXZwrj-Y-qRoBGhNp4p0vu_0SjYAXmKflc-k-gEVRlJ_eq1w0D91tRhXiN009Z5JNMwbLxp22ruVsBznbUwmVyifvNhgB&sig=AOD64_072YJwYSymc3o1l6f3qaEvbx79tg&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMI5czpybDMkwMVQWdHAR1n2RxPEAEYASAAEgIIrvD_BwE
+                          - img [ref=f111e15]
+                    - generic "GetResponse" [ref=f111e17]:
+                      - link "GetResponse" [ref=f111e18] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C-deUw-rMaaXfMcHOnboP57Lz-ATbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_Q_MTIUulj0G9ll8KnihQZZgYEjI5dR6tE-mnHkpRBF0DjOJWvR02pYUVPDouFwUVOQIpNNHtgXemXZ24MHLxE5PBVQdZ7te5p72kVeMRgLMC4FtVD5kS283UJdKeTj0xS1kyNJuRF1VyIOI_bvMKZLLyXcThcseHSJB63Ct20DqWYdtPOsJSZiaISy4s5oFrVLoHOLcjPjSEbGl88mBkRG_7i4WKSHYN7cbnToBspBJarYWJOWXf1wO0dd8cXLGKF0aBQ-ytbabvWSMzi9U2V85EwVP_sSbFnUkAdSY_cy8avj1VRGzn52oyT7SwW7x3rwATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WJWr5smwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCI7V6cmwzJMDFUFnRwEdZ9kcT_ANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICgE8YASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMI5czpybDMkwMVQWdHAR1n2RxPEAEYASAAEgIIrvD_BwE&num=1&cid=CAQSbwAFq6B9l8JigzWtxpZfPbpa60FXp_cm2mrKMKgNxYjewBaTLSzky032xxtXXZwrj-Y-qRoBGhNp4p0vu_0SjYAXmKflc-k-gEVRlJ_eq1w0D91tRhXiN009Z5JNMwbLxp22ruVsBznbUwmVyifvNhgB&sig=AOD64_072YJwYSymc3o1l6f3qaEvbx79tg&client=ca-pub-6525291204356869&rf=1&nb=1&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMI5czpybDMkwMVQWdHAR1n2RxPEAEYASAAEgIIrvD_BwE
+                  - img [ref=f111e22] [cursor=pointer]
+                  - button [ref=f111e24] [cursor=pointer]:
+                    - img [ref=f111e25]
+                  - iframe
+            - generic [ref=e130]:
+              - generic [ref=e131]:
+                - link "Катерина Лук'янова":
+                  - /url: https://propolski.com/
+                  - img "Катерина Лук'янова" [ref=e132] [cursor=pointer]
+              - link "" [ref=e134] [cursor=pointer]:
+                - /url: https://www.facebook.com/kate.lukianova.propolski
+              - generic [ref=e135]:
+                - link "Катерина Лук'янова" [ref=e137] [cursor=pointer]:
+                  - /url: https://propolski.com/
+                - generic [ref=e138]: Здравствуйте.Меня зовут Екатерина Лукьянова, я - автор блога о польском языке ProPolski.com и сайта о Польше insidePL.com. Живу в Польше. Свободное от основной работы время всецело посвящаю ProPolski.com и insidePL.com.
+          - paragraph [ref=e139]: Последнее обновление 11 марта 2023
+          - paragraph [ref=e140]: В самом начале скажу замечательную весть начинающим обучение про времена глаголов в польском языке.
+          - heading "Сколько времен глаголов в польском языке?" [level=2] [ref=e141]: Сколько времен глаголов в польском языке?
+          - figure [ref=e142]:
+            - img "Времена глаголов в польском языке" [ref=e143]
+          - paragraph [ref=e144]:
+            - text: Практически все, кто когда-то задумывался учить английский, в ужасе думали о том количестве времен глаголов, которыми может похвастаться этот язык. Но ведь мы все живем на одной и той же планете, у всех есть вчера, сегодня и завтра, почему тогда кто-то может иметь каких-то 16 или даже больше времен? Времен всегда три! Не больше и не меньше –
+            - link "прошедшее" [ref=e145] [cursor=pointer]:
+              - /url: /2016/09/28/czas-przeszly/
+            - text: ","
+            - link "настоящее" [ref=e146] [cursor=pointer]:
+              - /url: https://propolski.com/2015/12/16/koniugacja-czasownikow-polskich/
+            - text: и
+            - link "будущее" [ref=e147] [cursor=pointer]:
+              - /url: /2017/08/17/czas-przyszly/
+            - text: . И в английском, и в польском языке. Все остальное – только аспекты.
+          - paragraph [ref=e148]: Хорошо, хорошо, есть еще так называемое «время четвертое» — предпрошедшее, czas zaprzeszły — увы и ах, но радость в том, что он мне еще ни разу не пригодился, и вообще поляки практически перестали его употреблять. Так что я его тоже спокойно отношу к аспектам. 🙂
+          - heading "Времена глаголов в польском языке" [level=2] [ref=e149]: Времена глаголов в польском языке
+          - figure [ref=e150]:
+            - 'img "Времена в польском языке: таблица и правила" [ref=e151]'
+          - paragraph [ref=e152]: Система времен глаголов польского языка подобна к русской/украинской/белорусской, точнее говоря – она точно такая же.
+          - paragraph [ref=e153]:
+            - text: Есть три времени и два аспекта – совершенный и несовершенный вид (aspekt dokonany i aspekt niedokonany соответственно), как и в русском языке. Кроме этого, существуют еще наклонения — изъявительное (tryb oznajmujący),
+            - link "повелительное (tryb rozkazujący)" [ref=e154] [cursor=pointer]:
+              - /url: https://propolski.com/2021/03/11/tryb-rozkazujacy/
+            - text: и
+            - link "сослагательное (tryb warunkowy)" [ref=e155] [cursor=pointer]:
+              - /url: https://propolski.com/2020/09/03/tryb-warunkowy/
+            - text: ". Именно tryb oznajmujący (изъявительное наклонение) и имеет три времени:"
+            - link "прошедшее (czas przeszły)" [ref=e156] [cursor=pointer]:
+              - /url: /2016/09/28/czas-przeszly/
+              - emphasis [ref=e157]: прошедшее (czas przeszły)
+            - text: ","
+            - link "настоящее (czas teraźniejszy)" [ref=e158] [cursor=pointer]:
+              - /url: /2015/12/16/koniugacja-czasownikow-polskich/
+              - emphasis [ref=e159]: настоящее (czas teraźniejszy)
+            - text: и
+            - link "будущее (czas przyszły)" [ref=e160] [cursor=pointer]:
+              - /url: /2017/08/17/czas-przyszly/
+              - emphasis [ref=e161]: будущее (czas przyszły)
+            - text: . Причем любое из трех времен может иметь несовершенный вид (aspekt niedokonany), а вот свершившийся вид (aspekt dokonany) бывает только в прошедшем и в будущем.
+          - paragraph [ref=e162]: "Формы времени информируют нас о том, в каком времени происходит действие:"
+          - list [ref=e163]:
+            - listitem [ref=e164]:
+              - text: Формы глаголов настоящего времени информируют о том, что действие происходит в то самое время, когда об этом действии говорится или думается. Формы
+              - strong [ref=e165]:
+                - emphasis [ref=e166]: ja czytam, piszę, siedzę, idę
+              - text: (я читаю, пишу, сижу, иду) сообщают о том, что мое действие происходит
+              - emphasis [ref=e167]: одновременно
+              - text: с разговором о нем.
+            - listitem [ref=e168]:
+              - text: Формы глаголов прошедшего времени говорят нам о том, что действие происходило перед временем, в котором об этом действии говорилось. Конструкция
+              - strong [ref=e169]:
+                - emphasis [ref=e170]: ja czytałаm
+              - text: (я читала) сообщает, что процесс чтения происходил перед временем, в котором было сказано вышенаписанное предложение.
+            - listitem [ref=e171]:
+              - text: "Форма будущего времени сообщает, что действие произойдет во времени, которое наступит позже чем то, когда об этом действии говорится, например:"
+              - strong [ref=e172]:
+                - emphasis [ref=e173]: będę czytałа i pisałа
+              - text: (я буду читать и писать).
+          - insertion [ref=e174]:
+            - iframe [ref=e176]:
+              - generic [active] [ref=f88e1]:
+                - generic [ref=f88e6]:
+                  - generic [ref=f88e7]:
+                    - generic "GetResponse" [ref=f88e9]:
+                      - link "Zacznij za darmo" [ref=f88e10] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C4k_lwurMaY-BF9CDnboPtKrEuAXbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_QiA5Sy0rKneQKrMA4fhekZ3QLGMt1DPO14IVDzMR3gCPe7X9Wd6VNRqgSuzl6lzU0yH0soq34NtXYWpdrsOXC2sv-oyJHj_XpiPi3OoESLrJPj9Z4HcnjhGTMWSLxIz9WkiuvG8PL8LOyM2bamKRhyno2w-Xw6iTmtBMFBskxM_ZiuuEE0JP8-VP1YoiH5Rl7Iz5qiJuZrUUMDZYJ_l_hTuyIXGWmAuzNJHhGCjZKAvwksLsECAalGML_IvgAUbFo92Z6Ymwgcy1e2Q7meenXLQWfnb95eDQmYbEmA8sFaqEquAnIOL7mJpffH_hwwAYiwATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WKnUjsmwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCOrxkcmwzJMDFdBBRwEdNBURV_ANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXEBgBKgoxMDQwMTAyODY5UAa6FwI4AaoYFwkAAAAABFwWQRIKMTA0MDEwMjg2ORgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIj-qRybDMkwMV0EFHAR00FRFXEAEYASAAEgKeSfD_BwE&num=1&cid=CAQSbwAFq6B9TPCsbxAsVo7p5gFM52GHdj8QYkacaeo6SDLUxeeFCIpcIJA9Jl7FGsDtV3QBzh8aGpY-S5nTNyP1OrPg8Lj1K2U3ldXImHyvG88-7MLWdKOR3vGTOqQX2io5FvX7_8OG11pveYwXIxXFhhgB&sig=AOD64_2lxAaSUJlYsg8KQLZmKYv_PRhyBQ&client=ca-pub-6525291204356869&rf=1&nb=0&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMIj-qRybDMkwMV0EFHAR00FRFXEAEYASAAEgKeSfD_BwE
+                    - generic [ref=f88e11]:
+                      - link "Rozwijaj biznes na swoich zasadach dzięki emailom i automatyzacji opartych na AI." [ref=f88e13] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C4k_lwurMaY-BF9CDnboPtKrEuAXbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_QiA5Sy0rKneQKrMA4fhekZ3QLGMt1DPO14IVDzMR3gCPe7X9Wd6VNRqgSuzl6lzU0yH0soq34NtXYWpdrsOXC2sv-oyJHj_XpiPi3OoESLrJPj9Z4HcnjhGTMWSLxIz9WkiuvG8PL8LOyM2bamKRhyno2w-Xw6iTmtBMFBskxM_ZiuuEE0JP8-VP1YoiH5Rl7Iz5qiJuZrUUMDZYJ_l_hTuyIXGWmAuzNJHhGCjZKAvwksLsECAalGML_IvgAUbFo92Z6Ymwgcy1e2Q7meenXLQWfnb95eDQmYbEmA8sFaqEquAnIOL7mJpffH_hwwAYiwATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WKnUjsmwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCOrxkcmwzJMDFdBBRwEdNBURV_ANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXEBgBKgoxMDQwMTAyODY5UAa6FwI4AaoYFwkAAAAABFwWQRIKMTA0MDEwMjg2ORgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIj-qRybDMkwMV0EFHAR00FRFXEAEYASAAEgKeSfD_BwE&num=1&cid=CAQSbwAFq6B9TPCsbxAsVo7p5gFM52GHdj8QYkacaeo6SDLUxeeFCIpcIJA9Jl7FGsDtV3QBzh8aGpY-S5nTNyP1OrPg8Lj1K2U3ldXImHyvG88-7MLWdKOR3vGTOqQX2io5FvX7_8OG11pveYwXIxXFhhgB&sig=AOD64_2lxAaSUJlYsg8KQLZmKYv_PRhyBQ&client=ca-pub-6525291204356869&rf=1&nb=7&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMIj-qRybDMkwMV0EFHAR00FRFXEAEYASAAEgKeSfD_BwE
+                      - link [ref=f88e14] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C4k_lwurMaY-BF9CDnboPtKrEuAXbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_QiA5Sy0rKneQKrMA4fhekZ3QLGMt1DPO14IVDzMR3gCPe7X9Wd6VNRqgSuzl6lzU0yH0soq34NtXYWpdrsOXC2sv-oyJHj_XpiPi3OoESLrJPj9Z4HcnjhGTMWSLxIz9WkiuvG8PL8LOyM2bamKRhyno2w-Xw6iTmtBMFBskxM_ZiuuEE0JP8-VP1YoiH5Rl7Iz5qiJuZrUUMDZYJ_l_hTuyIXGWmAuzNJHhGCjZKAvwksLsECAalGML_IvgAUbFo92Z6Ymwgcy1e2Q7meenXLQWfnb95eDQmYbEmA8sFaqEquAnIOL7mJpffH_hwwAYiwATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WKnUjsmwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCOrxkcmwzJMDFdBBRwEdNBURV_ANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXEBgBKgoxMDQwMTAyODY5UAa6FwI4AaoYFwkAAAAABFwWQRIKMTA0MDEwMjg2ORgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIj-qRybDMkwMV0EFHAR00FRFXEAEYASAAEgKeSfD_BwE&num=1&cid=CAQSbwAFq6B9TPCsbxAsVo7p5gFM52GHdj8QYkacaeo6SDLUxeeFCIpcIJA9Jl7FGsDtV3QBzh8aGpY-S5nTNyP1OrPg8Lj1K2U3ldXImHyvG88-7MLWdKOR3vGTOqQX2io5FvX7_8OG11pveYwXIxXFhhgB&sig=AOD64_2lxAaSUJlYsg8KQLZmKYv_PRhyBQ&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMIj-qRybDMkwMV0EFHAR00FRFXEAEYASAAEgKeSfD_BwE
+                        - img [ref=f88e15]
+                  - generic "GetResponse" [ref=f88e17]:
+                    - link "GetResponse" [ref=f88e18] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C4k_lwurMaY-BF9CDnboPtKrEuAXbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_QiA5Sy0rKneQKrMA4fhekZ3QLGMt1DPO14IVDzMR3gCPe7X9Wd6VNRqgSuzl6lzU0yH0soq34NtXYWpdrsOXC2sv-oyJHj_XpiPi3OoESLrJPj9Z4HcnjhGTMWSLxIz9WkiuvG8PL8LOyM2bamKRhyno2w-Xw6iTmtBMFBskxM_ZiuuEE0JP8-VP1YoiH5Rl7Iz5qiJuZrUUMDZYJ_l_hTuyIXGWmAuzNJHhGCjZKAvwksLsECAalGML_IvgAUbFo92Z6Ymwgcy1e2Q7meenXLQWfnb95eDQmYbEmA8sFaqEquAnIOL7mJpffH_hwwAYiwATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WKnUjsmwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCOrxkcmwzJMDFdBBRwEdNBURV_ANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXEBgBKgoxMDQwMTAyODY5UAa6FwI4AaoYFwkAAAAABFwWQRIKMTA0MDEwMjg2ORgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIj-qRybDMkwMV0EFHAR00FRFXEAEYASAAEgKeSfD_BwE&num=1&cid=CAQSbwAFq6B9TPCsbxAsVo7p5gFM52GHdj8QYkacaeo6SDLUxeeFCIpcIJA9Jl7FGsDtV3QBzh8aGpY-S5nTNyP1OrPg8Lj1K2U3ldXImHyvG88-7MLWdKOR3vGTOqQX2io5FvX7_8OG11pveYwXIxXFhhgB&sig=AOD64_2lxAaSUJlYsg8KQLZmKYv_PRhyBQ&client=ca-pub-6525291204356869&rf=1&nb=1&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMIj-qRybDMkwMV0EFHAR00FRFXEAEYASAAEgKeSfD_BwE
+                - img [ref=f88e22] [cursor=pointer]
+                - button [ref=f88e24] [cursor=pointer]:
+                  - img [ref=f88e25]
+                - iframe
+          - heading "Настоящее время глаголов польского языка (czas teraźniejszy)" [level=2] [ref=e177]: Настоящее время глаголов польского языка (czas teraźniejszy)
+          - paragraph [ref=e178]:
+            - text: Не все глаголы склоняются одинаково. Большое разнообразие прослеживается особенно в настоящем времени изъявительного наклонения (
+            - strong [ref=e179]:
+              - emphasis [ref=e180]: czas teraźniejszy tryb oznajmujący
+            - text: ). В качестве основы разделения глаголов по типам спряжений служат окончания настоящего времени.
+          - paragraph [ref=e181]:
+            - text: Глаголы польского языка склоняются по четырем типам спряжений. Более подробно данная тема описана в ранее опубликованной статье
+            - link "о всех типах спряжений польского языка" [ref=e182] [cursor=pointer]:
+              - /url: https://propolski.com/2015/12/16/koniugacja-czasownikow-polskich/
+            - text: .
+          - heading "Таблица окончаний спряжений настоящего времени польского языка:" [level=3] [ref=e183]: "Таблица окончаний спряжений настоящего времени польского языка:"
+          - table [ref=e184]:
+            - rowgroup [ref=e185]:
+              - row "Osoba I koniugacja II k-ja III k-ja IV k-ja" [ref=e186]:
+                - cell "Osoba" [ref=e187]
+                - cell "I koniugacja" [ref=e188]
+                - cell "II k-ja" [ref=e189]
+                - cell "III k-ja" [ref=e190]
+                - cell "IV k-ja" [ref=e191]
+              - row "JA -Ę -Ę —aM —eM" [ref=e192]:
+                - cell "JA" [ref=e193]
+                - cell "-Ę" [ref=e194]
+                - cell "-Ę" [ref=e195]
+                - cell "—aM" [ref=e196]:
+                  - generic [ref=e197]: —aM
+                - cell "—eM" [ref=e198]:
+                  - generic [ref=e199]: —eM
+              - row "TY —eSZ —iSZ/ —ySZ —aSZ —eSZ" [ref=e200]:
+                - cell "TY" [ref=e201]
+                - cell "—eSZ" [ref=e202]:
+                  - generic [ref=e203]: —eSZ
+                - cell "—iSZ/ —ySZ" [ref=e204]:
+                  - generic [ref=e205]:
+                    - text: —iSZ/
+                    - text: —ySZ
+                - cell "—aSZ" [ref=e206]:
+                  - generic [ref=e207]: —aSZ
+                - cell "—eSZ" [ref=e208]:
+                  - generic [ref=e209]: —eSZ
+              - row "ON / ONA / ONO / PAN / PANI —e —i —y —a —e" [ref=e210]:
+                - cell "ON / ONA / ONO / PAN / PANI" [ref=e211]
+                - cell "—e" [ref=e212]:
+                  - generic [ref=e213]: —e
+                - cell "—i —y" [ref=e214]:
+                  - generic [ref=e215]:
+                    - text: —i
+                    - text: —y
+                - cell "—a" [ref=e216]:
+                  - generic [ref=e217]: —a
+                - cell "—e" [ref=e218]:
+                  - generic [ref=e219]: —e
+              - row "MY —eMY —iMY/ —yMY —aMY —eMY" [ref=e220]:
+                - cell "MY" [ref=e221]
+                - cell "—eMY" [ref=e222]:
+                  - generic [ref=e223]: —eMY
+                - cell "—iMY/ —yMY" [ref=e224]:
+                  - generic [ref=e225]:
+                    - text: —iMY/
+                    - text: —yMY
+                - cell "—aMY" [ref=e226]:
+                  - generic [ref=e227]: —aMY
+                - cell "—eMY" [ref=e228]:
+                  - generic [ref=e229]: —eMY
+              - row "WY —eCIE —iCIE/ —yCIE —aCIE —eCIE" [ref=e230]:
+                - cell "WY" [ref=e231]
+                - cell "—eCIE" [ref=e232]:
+                  - generic [ref=e233]: —eCIE
+                - cell "—iCIE/ —yCIE" [ref=e234]:
+                  - generic [ref=e235]:
+                    - text: —iCIE/
+                    - text: —yCIE
+                - cell "—aCIE" [ref=e236]:
+                  - generic [ref=e237]: —aCIE
+                - cell "—eCIE" [ref=e238]:
+                  - generic [ref=e239]: —eCIE
+              - row "ONI / PANOWIE / PAŃSTWO -Ą —iĄ/ -Ą —aJĄ —eJĄ/ —eDZĄ" [ref=e240]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e241]
+                - cell "-Ą" [ref=e242]
+                - cell "—iĄ/ -Ą" [ref=e243]:
+                  - generic [ref=e244]:
+                    - text: —iĄ/
+                    - text: "-Ą"
+                - cell "—aJĄ" [ref=e245]:
+                  - generic [ref=e246]: —aJĄ
+                - cell "—eJĄ/ —eDZĄ" [ref=e247]:
+                  - generic [ref=e248]:
+                    - text: —eJĄ/
+                    - text: —eDZĄ
+          - insertion [ref=e249]:
+            - iframe [ref=e251]:
+              - generic [active] [ref=f89e1]:
+                - generic [ref=f89e6]:
+                  - generic [ref=f89e7]:
+                    - generic "GetResponse" [ref=f89e9]:
+                      - link "Zacznij za darmo" [ref=f89e10] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C5OfZwurMafvhFt2bnboP2_GD4QfbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_QEVlMbbXg5XNobdcOn32fNHd066Z23YoiVjh_x7Y9qSopGw-ssP3VALU8RT9j0siNw9NEnSWSS8MAfyZyBtzAiW3yDxYq8kmIgqC1JpTmDExtki1vB5wkk-I4uJdz1PQNkwoRr36GFflqT8RM28XChzI9eLJn_ej4PBuirjvNbwypes6I0bnCVL4Tl2rFHB3CNdiOBAeX9eqopsIq9FBvHnrXGZpXMCUx3P5RH8mNVcYgvJrGsEhjQX7AlvAU3eEY4DBwQlMkrntuEFWofKKgfi-57lmnYMnMUppGP-daBw0ZhwxV6A5GCDf-J4UPU-_9wATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WNPKjsmwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCNLQkcmwzJMDFd1NRwEd2_ggfPANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXEBgBKgoxMDQwMTAyODY5UAa6FwI4AaoYFwkAAAAAuLMFQRIKMTA0MDEwMjg2ORgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI-8qRybDMkwMV3U1HAR3b-CB8EAEYASAAEgIYI_D_BwE&num=1&cid=CAQSbwAFq6B91g7I5zjxLJ3lBF-3Jol1gxTLSenP33ZEhcZwtT2gQcbOyLhQcIQACf5BnGoqhoYDgHJSQOkQlJwBt2ASJBj20izlrrBp1Y_3zAM9p7Ftp7ZAbEz2QwBefL4UK9rgz7fxw7UZ_yPvQRdyAxgB&sig=AOD64_0EKlPkRHBsA6lfvxh0a_pqA51wvA&client=ca-pub-6525291204356869&rf=1&nb=0&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMI-8qRybDMkwMV3U1HAR3b-CB8EAEYASAAEgIYI_D_BwE
+                    - generic [ref=f89e11]:
+                      - link "Rozwijaj biznes na swoich zasadach dzięki emailom i automatyzacji opartych na AI." [ref=f89e13] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C5OfZwurMafvhFt2bnboP2_GD4QfbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_QEVlMbbXg5XNobdcOn32fNHd066Z23YoiVjh_x7Y9qSopGw-ssP3VALU8RT9j0siNw9NEnSWSS8MAfyZyBtzAiW3yDxYq8kmIgqC1JpTmDExtki1vB5wkk-I4uJdz1PQNkwoRr36GFflqT8RM28XChzI9eLJn_ej4PBuirjvNbwypes6I0bnCVL4Tl2rFHB3CNdiOBAeX9eqopsIq9FBvHnrXGZpXMCUx3P5RH8mNVcYgvJrGsEhjQX7AlvAU3eEY4DBwQlMkrntuEFWofKKgfi-57lmnYMnMUppGP-daBw0ZhwxV6A5GCDf-J4UPU-_9wATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WNPKjsmwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCNLQkcmwzJMDFd1NRwEd2_ggfPANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXEBgBKgoxMDQwMTAyODY5UAa6FwI4AaoYFwkAAAAAuLMFQRIKMTA0MDEwMjg2ORgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI-8qRybDMkwMV3U1HAR3b-CB8EAEYASAAEgIYI_D_BwE&num=1&cid=CAQSbwAFq6B91g7I5zjxLJ3lBF-3Jol1gxTLSenP33ZEhcZwtT2gQcbOyLhQcIQACf5BnGoqhoYDgHJSQOkQlJwBt2ASJBj20izlrrBp1Y_3zAM9p7Ftp7ZAbEz2QwBefL4UK9rgz7fxw7UZ_yPvQRdyAxgB&sig=AOD64_0EKlPkRHBsA6lfvxh0a_pqA51wvA&client=ca-pub-6525291204356869&rf=1&nb=7&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMI-8qRybDMkwMV3U1HAR3b-CB8EAEYASAAEgIYI_D_BwE
+                      - link [ref=f89e14] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C5OfZwurMafvhFt2bnboP2_GD4QfbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_QEVlMbbXg5XNobdcOn32fNHd066Z23YoiVjh_x7Y9qSopGw-ssP3VALU8RT9j0siNw9NEnSWSS8MAfyZyBtzAiW3yDxYq8kmIgqC1JpTmDExtki1vB5wkk-I4uJdz1PQNkwoRr36GFflqT8RM28XChzI9eLJn_ej4PBuirjvNbwypes6I0bnCVL4Tl2rFHB3CNdiOBAeX9eqopsIq9FBvHnrXGZpXMCUx3P5RH8mNVcYgvJrGsEhjQX7AlvAU3eEY4DBwQlMkrntuEFWofKKgfi-57lmnYMnMUppGP-daBw0ZhwxV6A5GCDf-J4UPU-_9wATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WNPKjsmwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCNLQkcmwzJMDFd1NRwEd2_ggfPANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXEBgBKgoxMDQwMTAyODY5UAa6FwI4AaoYFwkAAAAAuLMFQRIKMTA0MDEwMjg2ORgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI-8qRybDMkwMV3U1HAR3b-CB8EAEYASAAEgIYI_D_BwE&num=1&cid=CAQSbwAFq6B91g7I5zjxLJ3lBF-3Jol1gxTLSenP33ZEhcZwtT2gQcbOyLhQcIQACf5BnGoqhoYDgHJSQOkQlJwBt2ASJBj20izlrrBp1Y_3zAM9p7Ftp7ZAbEz2QwBefL4UK9rgz7fxw7UZ_yPvQRdyAxgB&sig=AOD64_0EKlPkRHBsA6lfvxh0a_pqA51wvA&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMI-8qRybDMkwMV3U1HAR3b-CB8EAEYASAAEgIYI_D_BwE
+                        - img [ref=f89e15]
+                  - generic "GetResponse" [ref=f89e17]:
+                    - link "GetResponse" [ref=f89e18] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C5OfZwurMafvhFt2bnboP2_GD4QfbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_QEVlMbbXg5XNobdcOn32fNHd066Z23YoiVjh_x7Y9qSopGw-ssP3VALU8RT9j0siNw9NEnSWSS8MAfyZyBtzAiW3yDxYq8kmIgqC1JpTmDExtki1vB5wkk-I4uJdz1PQNkwoRr36GFflqT8RM28XChzI9eLJn_ej4PBuirjvNbwypes6I0bnCVL4Tl2rFHB3CNdiOBAeX9eqopsIq9FBvHnrXGZpXMCUx3P5RH8mNVcYgvJrGsEhjQX7AlvAU3eEY4DBwQlMkrntuEFWofKKgfi-57lmnYMnMUppGP-daBw0ZhwxV6A5GCDf-J4UPU-_9wATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WNPKjsmwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCNLQkcmwzJMDFd1NRwEd2_ggfPANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXEBgBKgoxMDQwMTAyODY5UAa6FwI4AaoYFwkAAAAAuLMFQRIKMTA0MDEwMjg2ORgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI-8qRybDMkwMV3U1HAR3b-CB8EAEYASAAEgIYI_D_BwE&num=1&cid=CAQSbwAFq6B91g7I5zjxLJ3lBF-3Jol1gxTLSenP33ZEhcZwtT2gQcbOyLhQcIQACf5BnGoqhoYDgHJSQOkQlJwBt2ASJBj20izlrrBp1Y_3zAM9p7Ftp7ZAbEz2QwBefL4UK9rgz7fxw7UZ_yPvQRdyAxgB&sig=AOD64_0EKlPkRHBsA6lfvxh0a_pqA51wvA&client=ca-pub-6525291204356869&rf=1&nb=1&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMI-8qRybDMkwMV3U1HAR3b-CB8EAEYASAAEgIYI_D_BwE
+                - img [ref=f89e22] [cursor=pointer]
+                - button [ref=f89e24] [cursor=pointer]:
+                  - img [ref=f89e25]
+                - iframe
+          - heading "Прошедшее время глаголов польского языка (czas przeszły)" [level=2] [ref=e252]: Прошедшее время глаголов польского языка (czas przeszły)
+          - paragraph [ref=e253]:
+            - text: Для
+            - link "прошедшего времени" [ref=e254] [cursor=pointer]:
+              - /url: /2016/09/28/czas-przeszly/
+            - text: "существуют отдельные формы для трех родов единственного числа и двух родов множественного. Окончания всех глаголов прошедшего времени выглядят следующим образом:"
+          - table [ref=e255]:
+            - rowgroup [ref=e256]:
+              - row "Liczba pojedyncza" [ref=e257]:
+                - cell "Liczba pojedyncza" [ref=e258]
+              - row "Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e259]:
+                - cell "Rodzaj męski" [ref=e260]
+                - cell "Rodzaj żeński" [ref=e261]
+                - cell "Rodzaj nijaki" [ref=e262]
+              - row "JA -łem JA -łam JA -łom" [ref=e263]:
+                - cell "JA" [ref=e264]
+                - cell "-łem" [ref=e265]
+                - cell "JA" [ref=e266]
+                - cell "-łam" [ref=e267]
+                - cell "JA" [ref=e268]
+                - cell "-łom" [ref=e269]
+              - row "TY -łeś TY -łaś TY -łoś" [ref=e270]:
+                - cell "TY" [ref=e271]
+                - cell "-łeś" [ref=e272]
+                - cell "TY" [ref=e273]
+                - cell "-łaś" [ref=e274]
+                - cell "TY" [ref=e275]
+                - cell "-łoś" [ref=e276]
+              - row "ON / PAN -ł ON / PAN -ła ON / PAN -ło" [ref=e277]:
+                - cell "ON / PAN" [ref=e278]
+                - cell "-ł" [ref=e279]
+                - cell "ON / PAN" [ref=e280]
+                - cell "-ła" [ref=e281]
+                - cell "ON / PAN" [ref=e282]
+                - cell "-ło" [ref=e283]
+              - row "Liczba mnoga" [ref=e284]:
+                - cell "Liczba mnoga" [ref=e285]
+              - row "Rodzaj męskoosobowy Rodzaj niemęskoosobowy" [ref=e286]:
+                - cell "Rodzaj męskoosobowy" [ref=e287]
+                - cell "Rodzaj niemęskoosobowy" [ref=e288]
+              - row "MY -liśmy MY -łyśmy" [ref=e289]:
+                - cell "MY" [ref=e290]
+                - cell "-liśmy" [ref=e291]
+                - cell "MY" [ref=e292]
+                - cell "-łyśmy" [ref=e293]
+              - row "WY -liście WY -łyście" [ref=e294]:
+                - cell "WY" [ref=e295]
+                - cell "-liście" [ref=e296]
+                - cell "WY" [ref=e297]
+                - cell "-łyście" [ref=e298]
+              - row "ONI / PANOWIE / PAŃSTWO -li ONE / PANIE -ły" [ref=e299]:
+                - cell "ONI / PANOWIE / PAŃSTWO" [ref=e300]:
+                  - text: ONI /
+                  - text: PANOWIE /
+                  - text: PAŃSTWO
+                - cell "-li" [ref=e301]
+                - cell "ONE / PANIE" [ref=e302]:
+                  - text: ONE /
+                  - text: PANIE
+                - cell "-ły" [ref=e303]
+          - paragraph [ref=e304]:
+            - text: "На первый взгляд изучение прошедшего времени легче настоящего — окончания всегда, для всех слов, любого спряжения, одинаковы. Стоит только отбросить окончание -ć у глагола — и добавить нужное из таблички — и готово. Вроде бы все так… Или почти все. 🙂 Более детально это время я разобрала в отдельной статье: «"
+            - link "Прошедшее время в польском языке" [ref=e305] [cursor=pointer]:
+              - /url: /2016/09/28/czas-przeszly/
+            - text: «.
+          - insertion [ref=e306]:
+            - iframe [ref=e308]:
+              - generic [active] [ref=f90e1]:
+                - generic [ref=f90e6]:
+                  - generic [ref=f90e7]:
+                    - generic "GetResponse" [ref=f90e9]:
+                      - link "Zacznij za darmo" [ref=f90e10] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CloiEwurMacPOGZefnboPucSk-QLbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_QkeHsKMNpEcBdqyfpYCLgJFgBeRz0pnVX9vBFL333VB9Q8LeMtLLkEI316_DHAKPBUqQpEk5tQGS02fpoXNxW6l8FNh7FbnnScygayDNmHIi8jOwMuxNtJdzVmGbuUreA3ZTQPg1jIaMLYKgWBobxyECLz7I7Fn_5nGZhlkyfNQzJmOQpJA_cDr9XDs_mXaTszCWTDnA5otqLlIeRBgtuqJ387xI7umNfUcBXzKIbP_O7LFdUX2QOZSgfnnBlq6XNtPLhOVbrRxrN_Zb7LtVPRhCN3E0HETjp-z3DhnygPCfk2GCC9GU-g9hIKJQ6iOM0wATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WMWlkcmwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCK-_lMmwzJMDFZdPRwEdOSIpL_ANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXEBgBKgoxMDQwMTAyODY5UAa6FwI4AaoYFwkAAAAAcDYBQRIKMTA0MDEwMjg2ORgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIw7eUybDMkwMVl09HAR05IikvEAEYASAAEgKOwPD_BwE&num=1&cid=CAQSbwAFq6B9-0ex-YJ7CKpIRqHGLSoUL-Lqwau7BTCfzVYtNvkOZ1vGf3RYypqYEMdFNe1_bZPvxh2yunAuek_o4ClGC3uGpiArTBvvbA1Qocrhd2nC4h7pYvs6JUXLRcOTDYHrGVASFHHQcA2cbi_ilhgB&sig=AOD64_3Q2KaOUKRFz4MzXfPH0JE2qFeNhg&client=ca-pub-6525291204356869&rf=1&nb=0&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMIw7eUybDMkwMVl09HAR05IikvEAEYASAAEgKOwPD_BwE
+                    - generic [ref=f90e11]:
+                      - link "Rozwijaj biznes na swoich zasadach dzięki emailom i automatyzacji opartych na AI." [ref=f90e13] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CloiEwurMacPOGZefnboPucSk-QLbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_QkeHsKMNpEcBdqyfpYCLgJFgBeRz0pnVX9vBFL333VB9Q8LeMtLLkEI316_DHAKPBUqQpEk5tQGS02fpoXNxW6l8FNh7FbnnScygayDNmHIi8jOwMuxNtJdzVmGbuUreA3ZTQPg1jIaMLYKgWBobxyECLz7I7Fn_5nGZhlkyfNQzJmOQpJA_cDr9XDs_mXaTszCWTDnA5otqLlIeRBgtuqJ387xI7umNfUcBXzKIbP_O7LFdUX2QOZSgfnnBlq6XNtPLhOVbrRxrN_Zb7LtVPRhCN3E0HETjp-z3DhnygPCfk2GCC9GU-g9hIKJQ6iOM0wATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WMWlkcmwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCK-_lMmwzJMDFZdPRwEdOSIpL_ANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXEBgBKgoxMDQwMTAyODY5UAa6FwI4AaoYFwkAAAAAcDYBQRIKMTA0MDEwMjg2ORgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIw7eUybDMkwMVl09HAR05IikvEAEYASAAEgKOwPD_BwE&num=1&cid=CAQSbwAFq6B9-0ex-YJ7CKpIRqHGLSoUL-Lqwau7BTCfzVYtNvkOZ1vGf3RYypqYEMdFNe1_bZPvxh2yunAuek_o4ClGC3uGpiArTBvvbA1Qocrhd2nC4h7pYvs6JUXLRcOTDYHrGVASFHHQcA2cbi_ilhgB&sig=AOD64_3Q2KaOUKRFz4MzXfPH0JE2qFeNhg&client=ca-pub-6525291204356869&rf=1&nb=7&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMIw7eUybDMkwMVl09HAR05IikvEAEYASAAEgKOwPD_BwE
+                      - link [ref=f90e14] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CloiEwurMacPOGZefnboPucSk-QLbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_QkeHsKMNpEcBdqyfpYCLgJFgBeRz0pnVX9vBFL333VB9Q8LeMtLLkEI316_DHAKPBUqQpEk5tQGS02fpoXNxW6l8FNh7FbnnScygayDNmHIi8jOwMuxNtJdzVmGbuUreA3ZTQPg1jIaMLYKgWBobxyECLz7I7Fn_5nGZhlkyfNQzJmOQpJA_cDr9XDs_mXaTszCWTDnA5otqLlIeRBgtuqJ387xI7umNfUcBXzKIbP_O7LFdUX2QOZSgfnnBlq6XNtPLhOVbrRxrN_Zb7LtVPRhCN3E0HETjp-z3DhnygPCfk2GCC9GU-g9hIKJQ6iOM0wATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WMWlkcmwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCK-_lMmwzJMDFZdPRwEdOSIpL_ANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXEBgBKgoxMDQwMTAyODY5UAa6FwI4AaoYFwkAAAAAcDYBQRIKMTA0MDEwMjg2ORgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIw7eUybDMkwMVl09HAR05IikvEAEYASAAEgKOwPD_BwE&num=1&cid=CAQSbwAFq6B9-0ex-YJ7CKpIRqHGLSoUL-Lqwau7BTCfzVYtNvkOZ1vGf3RYypqYEMdFNe1_bZPvxh2yunAuek_o4ClGC3uGpiArTBvvbA1Qocrhd2nC4h7pYvs6JUXLRcOTDYHrGVASFHHQcA2cbi_ilhgB&sig=AOD64_3Q2KaOUKRFz4MzXfPH0JE2qFeNhg&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMIw7eUybDMkwMVl09HAR05IikvEAEYASAAEgKOwPD_BwE
+                        - img [ref=f90e15]
+                  - generic "GetResponse" [ref=f90e17]:
+                    - link "GetResponse" [ref=f90e18] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CloiEwurMacPOGZefnboPucSk-QLbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_QkeHsKMNpEcBdqyfpYCLgJFgBeRz0pnVX9vBFL333VB9Q8LeMtLLkEI316_DHAKPBUqQpEk5tQGS02fpoXNxW6l8FNh7FbnnScygayDNmHIi8jOwMuxNtJdzVmGbuUreA3ZTQPg1jIaMLYKgWBobxyECLz7I7Fn_5nGZhlkyfNQzJmOQpJA_cDr9XDs_mXaTszCWTDnA5otqLlIeRBgtuqJ387xI7umNfUcBXzKIbP_O7LFdUX2QOZSgfnnBlq6XNtPLhOVbrRxrN_Zb7LtVPRhCN3E0HETjp-z3DhnygPCfk2GCC9GU-g9hIKJQ6iOM0wATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WMWlkcmwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCK-_lMmwzJMDFZdPRwEdOSIpL_ANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXEBgBKgoxMDQwMTAyODY5UAa6FwI4AaoYFwkAAAAAcDYBQRIKMTA0MDEwMjg2ORgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIw7eUybDMkwMVl09HAR05IikvEAEYASAAEgKOwPD_BwE&num=1&cid=CAQSbwAFq6B9-0ex-YJ7CKpIRqHGLSoUL-Lqwau7BTCfzVYtNvkOZ1vGf3RYypqYEMdFNe1_bZPvxh2yunAuek_o4ClGC3uGpiArTBvvbA1Qocrhd2nC4h7pYvs6JUXLRcOTDYHrGVASFHHQcA2cbi_ilhgB&sig=AOD64_3Q2KaOUKRFz4MzXfPH0JE2qFeNhg&client=ca-pub-6525291204356869&rf=1&nb=1&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMIw7eUybDMkwMVl09HAR05IikvEAEYASAAEgKOwPD_BwE
+                - img [ref=f90e22] [cursor=pointer]
+                - button [ref=f90e24] [cursor=pointer]:
+                  - img [ref=f90e25]
+                - iframe
+          - heading "Будущее время (czas przyszły) глаголов польского языка" [level=2] [ref=e309]: Будущее время (czas przyszły) глаголов польского языка
+          - paragraph [ref=e310]:
+            - link "Будущее время" [ref=e311] [cursor=pointer]:
+              - /url: /2017/08/17/czas-przyszly/
+            - text: ", как и прошедшее в польском языке, так же имеет отдельные формы для трех родов единственного числа и двух родов множественного. Кроме этого, будущего времени в польском — целых два (ого, а я же говорила, что одно будущее…), то есть, фактически, оно одно, но имеет два способа создания: сложенным ("
+            - strong [ref=e312]:
+              - emphasis [ref=e313]: czas przyszły złożony
+            - text: ) и простым способом (
+            - emphasis [ref=e314]:
+              - strong [ref=e315]: czas przyszły prosty
+            - text: "). Причем по факту — сложенное будущее время — легче простого. Смотрите сами:"
+          - heading "Таблица сложенного будущего времени (czas przyszły złożony)" [level=3] [ref=e316]: Таблица сложенного будущего времени (czas przyszły złożony)
+          - paragraph [ref=e317]: "В основе – инфинитивы несовершенного вида:"
+          - table [ref=e318]:
+            - rowgroup [ref=e319]:
+              - row "będę + bezokolicznik czytać = będę + Forma czasu przeszłego III osoba l.p. czytał czytała" [ref=e320]:
+                - cell "będę" [ref=e321]
+                - cell "+ bezokolicznik czytać" [ref=e322]:
+                  - generic [ref=e323]:
+                    - text: +
+                    - text: bezokolicznik
+                    - text: czytać
+                - cell "=" [ref=e324]
+                - cell "będę" [ref=e325]
+                - cell "+ Forma czasu przeszłego III osoba l.p. czytał czytała" [ref=e326]:
+                  - generic [ref=e327]:
+                    - text: +
+                    - text: Forma czasu
+                    - text: przeszłego
+                    - text: III osoba l.p.
+                    - text: czytał
+                    - text: czytała
+              - row "będziesz będziesz" [ref=e328]:
+                - cell "będziesz" [ref=e329]
+                - cell "będziesz" [ref=e330]
+              - row "będzie będzie" [ref=e331]:
+                - cell "będzie" [ref=e332]
+                - cell "będzie" [ref=e333]
+              - row "będziemy + bezokolicznik czytać = będziemy + Forma czasu przeszłego III osoba l.mn. czytali czytały" [ref=e334]:
+                - cell "będziemy" [ref=e335]
+                - cell "+ bezokolicznik czytać" [ref=e336]:
+                  - generic [ref=e337]:
+                    - text: +
+                    - text: bezokolicznik
+                    - text: czytać
+                - cell "=" [ref=e338]
+                - cell "będziemy" [ref=e339]
+                - cell "+ Forma czasu przeszłego III osoba l.mn. czytali czytały" [ref=e340]:
+                  - generic [ref=e341]:
+                    - text: +
+                    - text: Forma czasu
+                    - text: przeszłego
+                    - text: III osoba l.mn.
+                    - text: czytali
+                    - text: czytały
+              - row "będziecie będziecie" [ref=e342]:
+                - cell "będziecie" [ref=e343]
+                - cell "będziecie" [ref=e344]
+              - row "będą będą" [ref=e345]:
+                - cell "będą" [ref=e346]
+                - cell "będą" [ref=e347]
+          - paragraph [ref=e348]:
+            - text: А простое будущее (
+            - strong [ref=e349]:
+              - emphasis [ref=e350]: czas przyszły prosty
+            - text: ) — это будет глагол (одна штука), только в виде совершенном (
+            - emphasis [ref=e351]:
+              - strong [ref=e352]: aspekt dokonany
+            - text: "). К примеру, как в русском языке:"
+          - list [ref=e353]:
+            - listitem [ref=e354]: "Настоящее время: «Я делаю домашнее задание — Robię zadanie domowe. «"
+            - listitem [ref=e355]: "Будущее время (сложное): «Я буду делать домашнее задание. — Będę robiła/robić zadanie domowe.»"
+            - listitem [ref=e356]: "Будущее время (простое): «Я сделаю домашнее задание. — Zrobię zadanie domowe.»"
+          - paragraph [ref=e357]:
+            - text: И сложность этих глаголов в том, что вы будете должны знать все эти совершенные формы глаголов, чтобы строить такое предложение, и не все они делаются с помощью приставок. Но подробнее о будущем времени мы, конечно же, с вами поговорим в отдельной
+            - link "статье о будущем времени" [ref=e358] [cursor=pointer]:
+              - /url: /2017/08/17/czas-przyszly/
+            - text: .
+          - insertion [ref=e359]:
+            - iframe [ref=e361]:
+              - generic [active] [ref=f91e1]:
+                - generic [ref=f91e6]:
+                  - generic [ref=f91e7]:
+                    - generic "GetResponse" [ref=f91e9]:
+                      - link "Zacznij za darmo" [ref=f91e10] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CqIkdwurMacXLGcyDnboPsfq7yAzbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_QtNyLGH4hjaZG_esUV4iUVnyeCV_xEYUhdQ53eguPl1974yqjF-Vw7leMYl3V3NVLeSkfbajo32YjXsmZ4A3u8gke0hdOzkUoYkXmjlRBVChIJdePG2wjfxSYxFXV-JCZYKUmTGnQr9UjrLRNV10Hf7dY01FBtceGi3mSaSbDXP6Uqb9k9gMxXLWjh0B3ejewkj42RwE_Vy1NqwiR3gojEazhNKXYySa0WiYO0ekH8DSkD4xO94ZQ8dgvL-ZSTVZNbR46YaJHSuaj8eL3gDUAG_tkJvnzJVs9Cz8Ligl-Q34uD5AmvNHfLkH0a0MkmV9zwATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WJmikcmwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCNm9lMmwzJMDFcxBRwEdMf0OyfANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXEBgBKgoxMDQwMTAyODY5UAa6FwI4AaoYFwkAAAAAgBb9QBIKMTA0MDEwMjg2ORgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIxbSUybDMkwMVzEFHAR0x_Q7JEAEYASAAEgI5DfD_BwE&num=1&cid=CAQSbwAFq6B98WdUlcyz6jaud7zt9UyrMNkG7Xa8pwO8EGMPyX2AEC0hPLNeFweeLM-ULzrvhQe8tmEjD0yZAdXH_WYKntRN7seIohSy07vfVC0ryZ_qD9V2j7EmscrLj--u1aBI_D4VF8zpddNuItj2SxgB&sig=AOD64_1NLv2AMOupqC1RttUK2JdlWEFtIg&client=ca-pub-6525291204356869&rf=1&nb=0&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMIxbSUybDMkwMVzEFHAR0x_Q7JEAEYASAAEgI5DfD_BwE
+                    - generic [ref=f91e11]:
+                      - link "Rozwijaj biznes na swoich zasadach dzięki emailom i automatyzacji opartych na AI." [ref=f91e13] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CqIkdwurMacXLGcyDnboPsfq7yAzbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_QtNyLGH4hjaZG_esUV4iUVnyeCV_xEYUhdQ53eguPl1974yqjF-Vw7leMYl3V3NVLeSkfbajo32YjXsmZ4A3u8gke0hdOzkUoYkXmjlRBVChIJdePG2wjfxSYxFXV-JCZYKUmTGnQr9UjrLRNV10Hf7dY01FBtceGi3mSaSbDXP6Uqb9k9gMxXLWjh0B3ejewkj42RwE_Vy1NqwiR3gojEazhNKXYySa0WiYO0ekH8DSkD4xO94ZQ8dgvL-ZSTVZNbR46YaJHSuaj8eL3gDUAG_tkJvnzJVs9Cz8Ligl-Q34uD5AmvNHfLkH0a0MkmV9zwATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WJmikcmwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCNm9lMmwzJMDFcxBRwEdMf0OyfANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXEBgBKgoxMDQwMTAyODY5UAa6FwI4AaoYFwkAAAAAgBb9QBIKMTA0MDEwMjg2ORgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIxbSUybDMkwMVzEFHAR0x_Q7JEAEYASAAEgI5DfD_BwE&num=1&cid=CAQSbwAFq6B98WdUlcyz6jaud7zt9UyrMNkG7Xa8pwO8EGMPyX2AEC0hPLNeFweeLM-ULzrvhQe8tmEjD0yZAdXH_WYKntRN7seIohSy07vfVC0ryZ_qD9V2j7EmscrLj--u1aBI_D4VF8zpddNuItj2SxgB&sig=AOD64_1NLv2AMOupqC1RttUK2JdlWEFtIg&client=ca-pub-6525291204356869&rf=1&nb=7&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMIxbSUybDMkwMVzEFHAR0x_Q7JEAEYASAAEgI5DfD_BwE
+                      - link [ref=f91e14] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CqIkdwurMacXLGcyDnboPsfq7yAzbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_QtNyLGH4hjaZG_esUV4iUVnyeCV_xEYUhdQ53eguPl1974yqjF-Vw7leMYl3V3NVLeSkfbajo32YjXsmZ4A3u8gke0hdOzkUoYkXmjlRBVChIJdePG2wjfxSYxFXV-JCZYKUmTGnQr9UjrLRNV10Hf7dY01FBtceGi3mSaSbDXP6Uqb9k9gMxXLWjh0B3ejewkj42RwE_Vy1NqwiR3gojEazhNKXYySa0WiYO0ekH8DSkD4xO94ZQ8dgvL-ZSTVZNbR46YaJHSuaj8eL3gDUAG_tkJvnzJVs9Cz8Ligl-Q34uD5AmvNHfLkH0a0MkmV9zwATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WJmikcmwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCNm9lMmwzJMDFcxBRwEdMf0OyfANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXEBgBKgoxMDQwMTAyODY5UAa6FwI4AaoYFwkAAAAAgBb9QBIKMTA0MDEwMjg2ORgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIxbSUybDMkwMVzEFHAR0x_Q7JEAEYASAAEgI5DfD_BwE&num=1&cid=CAQSbwAFq6B98WdUlcyz6jaud7zt9UyrMNkG7Xa8pwO8EGMPyX2AEC0hPLNeFweeLM-ULzrvhQe8tmEjD0yZAdXH_WYKntRN7seIohSy07vfVC0ryZ_qD9V2j7EmscrLj--u1aBI_D4VF8zpddNuItj2SxgB&sig=AOD64_1NLv2AMOupqC1RttUK2JdlWEFtIg&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMIxbSUybDMkwMVzEFHAR0x_Q7JEAEYASAAEgI5DfD_BwE
+                        - img [ref=f91e15]
+                  - generic "GetResponse" [ref=f91e17]:
+                    - link "GetResponse" [ref=f91e18] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CqIkdwurMacXLGcyDnboPsfq7yAzbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgTyAU_QtNyLGH4hjaZG_esUV4iUVnyeCV_xEYUhdQ53eguPl1974yqjF-Vw7leMYl3V3NVLeSkfbajo32YjXsmZ4A3u8gke0hdOzkUoYkXmjlRBVChIJdePG2wjfxSYxFXV-JCZYKUmTGnQr9UjrLRNV10Hf7dY01FBtceGi3mSaSbDXP6Uqb9k9gMxXLWjh0B3ejewkj42RwE_Vy1NqwiR3gojEazhNKXYySa0WiYO0ekH8DSkD4xO94ZQ8dgvL-ZSTVZNbR46YaJHSuaj8eL3gDUAG_tkJvnzJVs9Cz8Ligl-Q34uD5AmvNHfLkH0a0MkmV9zwATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WJmikcmwzJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCNm9lMmwzJMDFcxBRwEdMf0OyfANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXEBgBKgoxMDQwMTAyODY5UAa6FwI4AaoYFwkAAAAAgBb9QBIKMTA0MDEwMjg2ORgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIxbSUybDMkwMVzEFHAR0x_Q7JEAEYASAAEgI5DfD_BwE&num=1&cid=CAQSbwAFq6B98WdUlcyz6jaud7zt9UyrMNkG7Xa8pwO8EGMPyX2AEC0hPLNeFweeLM-ULzrvhQe8tmEjD0yZAdXH_WYKntRN7seIohSy07vfVC0ryZ_qD9V2j7EmscrLj--u1aBI_D4VF8zpddNuItj2SxgB&sig=AOD64_1NLv2AMOupqC1RttUK2JdlWEFtIg&client=ca-pub-6525291204356869&rf=1&nb=1&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMIxbSUybDMkwMVzEFHAR0x_Q7JEAEYASAAEgI5DfD_BwE
+                - img [ref=f91e22] [cursor=pointer]
+                - button [ref=f91e24] [cursor=pointer]:
+                  - img [ref=f91e25]
+                - iframe
+          - heading "Стилистическое употребление времен в польского языке" [level=2] [ref=e362]: Стилистическое употребление времен в польского языке
+          - paragraph [ref=e363]: На самом деле, как и в русском языке, в живой речи и литературном языке форма времени не всегда выражает время, в котором происходит действие.
+          - paragraph [ref=e364]: "К примеру, настоящее время может выражать действия не только одновременные с моментом разговора, а и действия, которые по убеждению говорящего, наверняка произойдут в будущем: Я завтра иду в театр. — Jutro idę do teatru. В воскресенье мы едем на экскурсию. — W niedzielę jedziemy na wycieczkę."
+          - paragraph [ref=e365]: Все эти действия локализированы во времени с помощью наречий — jutro, pojutrze, w niedzielę. Так же время действия очерчивает ситуация. Если вы встретили друга на улице и говорите ему, что едете в отпуск (wyjeżdżam na wczasy), а при вас нет чемодана, то это автоматически означает, что действие произойдет в будущем.
+          - paragraph [ref=e366]: Остальные тонкости про времена глаголов в польском языке можно вполне соотнести с русским, или украинским, или белорусским языком.
+          - blockquote [ref=e367]:
+            - text: 💡
+            - paragraph [ref=e368]:
+              - strong [ref=e369]:
+                - text: "Читайте также:"
+                - link "Как понять, к какому спряжению относится глагол в польском языке?" [ref=e370] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/06/30/jaka-koniugacja/
+                - text: И разберитесь, наконец, со временем настоящим, выучив
+                - link "спряжения глагола" [ref=e371] [cursor=pointer]:
+                  - /url: https://propolski.com/2015/12/16/koniugacja-czasownikow-polskich/
+                - text: .
+          - separator [ref=e372]
+          - paragraph [ref=e373]:
+            - text: Ваша Катерина Лукьянова, автор блога о польском языке
+            - link "ProPolski.com" [ref=e374] [cursor=pointer]:
+              - /url: https://propolski.com
+            - text: ","
+            - link "Testy.ProPolski" [ref=e375] [cursor=pointer]:
+              - /url: https://testy.propolski.com/
+            - text: и сайта
+            - link "insidePL.com" [ref=e376] [cursor=pointer]:
+              - /url: https://insidepl.com/
+          - separator [ref=e377]
+          - paragraph [ref=e378]: Если материал был интересен и полезен, я буду рада поддержке моих проектов 🙂
+          - generic [ref=e379]:
+            - figure [ref=e384]:
+              - link "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e385] [cursor=pointer]:
+                - /url: https://www.patreon.com/propolski
+                - img "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e386]
+            - figure [ref=e390]:
+              - link "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e391] [cursor=pointer]:
+                - /url: https://www.paypal.me/propolski
+                - img "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e392]
+          - paragraph [ref=e394]:
+            - link "Как еще поддержать блог ProPolski" [ref=e395] [cursor=pointer]:
+              - /url: https://propolski.com/subscribe-and-help/
+              - strong [ref=e396]: Как еще поддержать блог ProPolski
+          - insertion:
+            - generic:
+              - iframe
+          - generic [ref=e398]:
+            - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e399]
+            - list [ref=e401]:
+              - listitem [ref=e402]:
+                - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e403] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/?share=facebook&nb=1
+                  - text: 
+              - listitem [ref=e404]:
+                - link "Поделиться в Pinterest (Открывается в новом окне) 17" [ref=e405] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/?share=pinterest&nb=1
+                  - text: 
+              - listitem [ref=e406]:
+                - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e407] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/?share=telegram&nb=1
+                  - text: 
+              - listitem [ref=e408]:
+                - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e409] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/?share=jetpack-whatsapp&nb=1
+                  - text: 
+              - listitem [ref=e410]:
+                - link "Поделиться в Х (Открывается в новом окне)" [ref=e411] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/?share=x&nb=1
+                  - text: 
+              - listitem [ref=e412]:
+                - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e413] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/?share=linkedin&nb=1
+                  - text: 
+              - listitem [ref=e414]:
+                - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e415] [cursor=pointer]:
+                  - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0%20%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%20%D0%B2%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5%3A%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0&body=https%3A%2F%2Fpropolski.com%2F2016%2F09%2F12%2Fczasy-jezyka-polskiego%2F&share=email&nb=1
+                  - text: 
+              - listitem [ref=e416]:
+                - link "Печать (Открывается в новом окне)" [ref=e417] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/#print?share=print&nb=1
+                  - text: 
+              - listitem
+          - generic [ref=e418]:
+            - heading "Это может вас заинтересовать:" [level=3] [ref=e419]:
+              - emphasis [ref=e420]: "Это может вас заинтересовать:"
+            - generic:
+              - generic [ref=e421]:
+                - 'link "Cпряжение глаголов в польском языке: таблица настоящего времени" [ref=e422] [cursor=pointer]':
+                  - /url: https://propolski.com/2015/12/16/koniugacja-czasownikow-polskich/
+                  - 'img "Cпряжение глаголов в польском языке: таблица настоящего времени" [ref=e423]'
+                - heading "Спряжение глаголов в польском языке, таблица настоящего времени" [level=4] [ref=e424]:
+                  - link "Спряжение глаголов в польском языке, таблица настоящего времени" [ref=e425] [cursor=pointer]:
+                    - /url: https://propolski.com/2015/12/16/koniugacja-czasownikow-polskich/
+                - paragraph [ref=e426]: В "Времена в польском языке"
+              - generic [ref=e427]:
+                - link "Третье спряжение польских глаголов" [ref=e428] [cursor=pointer]:
+                  - /url: https://propolski.com/2015/12/21/koniugacja-3/
+                  - img "Третье спряжение польских глаголов" [ref=e429]
+                - heading "Третье спряжение польских глаголов / Koniugacja III" [level=4] [ref=e430]:
+                  - link "Третье спряжение польских глаголов / Koniugacja III" [ref=e431] [cursor=pointer]:
+                    - /url: https://propolski.com/2015/12/21/koniugacja-3/
+                - paragraph [ref=e432]: В "Глагол в польском"
+              - generic [ref=e433]:
+                - link "Топ-1000 польских слов / Najpopularniejsze słowa języka polskiego" [ref=e434] [cursor=pointer]:
+                  - /url: https://propolski.com/2015/11/23/1000-najpopularniejszych-slow/
+                  - img "Топ-1000 польских слов / Najpopularniejsze słowa języka polskiego" [ref=e435]
+                - heading "Топ-1000 польских слов / Najpopularniejsze słowa języka polskiego" [level=4] [ref=e436]:
+                  - link "Топ-1000 польских слов / Najpopularniejsze słowa języka polskiego" [ref=e437] [cursor=pointer]:
+                    - /url: https://propolski.com/2015/11/23/1000-najpopularniejszych-slow/
+                - paragraph [ref=e438]: В "Словарь на польском языке по темам"
+        - generic [ref=e440]:
+          - generic [ref=e441]:
+            - text: 
+            - link "Катерина Лук'янова" [ref=e442] [cursor=pointer]:
+              - /url: https://propolski.com/author/kettibellya/
+          - generic [ref=e443]:
+            - text: 
+            - link "12 сентября 2016" [ref=e444] [cursor=pointer]:
+              - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/
+              - time [ref=e445]: 12 сентября 2016
+          - generic [ref=e446]:
+            - text: 
+            - link "Времена в польском языке" [ref=e447] [cursor=pointer]:
+              - /url: https://propolski.com/category/polskaia-grammatika/czasownik/czasy/
+            - text: ","
+            - link "Глагол в польском" [ref=e448] [cursor=pointer]:
+              - /url: https://propolski.com/category/polskaia-grammatika/czasownik/
+            - text: ","
+            - link "Польская грамматика" [ref=e449] [cursor=pointer]:
+              - /url: https://propolski.com/category/polskaia-grammatika/
+          - generic [ref=e450]:
+            - text: 
+            - link "11 комментариев" [ref=e451] [cursor=pointer]:
+              - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/#comments
+      - list [ref=e452]:
+        - listitem [ref=e453]:
+          - 'link "← Видеоурок польского языка №4: Świnka Peppa — Lekcja gimnastyki" [ref=e454] [cursor=pointer]':
+            - /url: https://propolski.com/2016/09/07/lekcja-4-swinka-peppa-lekcja-gimnastyki/
+        - listitem [ref=e455]:
+          - 'link "Прошедшее время в польском языке: таблица →" [ref=e456] [cursor=pointer]':
+            - /url: https://propolski.com/2016/09/28/czas-przeszly/
+      - generic [ref=e457]:
+        - insertion [ref=e459]
+        - 'heading "11 мыслей о “Времена глаголов в польском языке: таблица и правила”" [level=3] [ref=e461]'
+        - list [ref=e462]:
+          - listitem [ref=e463]:
+            - article [ref=e464]:
+              - generic [ref=e465]:
+                - generic [ref=e466]:  Виктор
+                - generic [ref=e467]:  7 января 2017 в 19:00
+                - link " Постоянная ссылка" [ref=e468] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/#comment-328
+              - generic [ref=e469]:
+                - paragraph [ref=e470]: Это у Вас, опечатка, или я чего то не понимаю ? Таблица сложного будущего времени (czas przeszły złożony). przeszły это же прошедшее.
+                - link "Комментарий к записи Виктор" [ref=e471] [cursor=pointer]:
+                  - /url: "#comment-328"
+                  - text:  Ответ
+            - list [ref=e472]:
+              - listitem [ref=e473]:
+                - article [ref=e474]:
+                  - generic [ref=e475]:
+                    - generic [ref=e476]:  Екатерина ЛукьяноваАвтор записи
+                    - generic [ref=e477]:  7 января 2017 в 21:50
+                    - link " Постоянная ссылка" [ref=e478] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/#comment-329
+                  - generic [ref=e479]:
+                    - paragraph [ref=e480]: Да, опечатка, спасибо за внимательность! 🙂
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e481] [cursor=pointer]:
+                      - /url: "#comment-329"
+                      - text:  Ответ
+          - listitem [ref=e482]:
+            - article [ref=e483]:
+              - generic [ref=e484]:
+                - generic [ref=e485]:
+                  - text: 
+                  - link "Elena Onishchenko" [ref=e486] [cursor=pointer]:
+                    - /url: https://www.facebook.com/app_scoped_user_id/1254663614571172/
+                - generic [ref=e487]:  5 февраля 2017 в 15:54
+                - link " Постоянная ссылка" [ref=e488] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/#comment-353
+              - generic [ref=e489]:
+                - paragraph [ref=e490]: З нетерпінням чекаю статтю про майбутній час) взагалі, знайшла тут собі найкращий ресурс для вивчення польської. Аи молодець!!!
+                - link "Комментарий к записи Elena Onishchenko" [ref=e491] [cursor=pointer]:
+                  - /url: "#comment-353"
+                  - text:  Ответ
+            - list [ref=e492]:
+              - listitem [ref=e493]:
+                - article [ref=e494]:
+                  - generic [ref=e495]:
+                    - generic [ref=e496]:  Екатерина ЛукьяноваАвтор записи
+                    - generic [ref=e497]:  7 февраля 2017 в 09:47
+                    - link " Постоянная ссылка" [ref=e498] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/#comment-354
+                  - generic [ref=e499]:
+                    - paragraph [ref=e500]: Дякую дуже! 🙂
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e501] [cursor=pointer]:
+                      - /url: "#comment-354"
+                      - text:  Ответ
+              - listitem [ref=e502]:
+                - article [ref=e503]:
+                  - generic [ref=e504]:
+                    - generic [ref=e505]:  Екатерина ЛукьяноваАвтор записи
+                    - generic [ref=e506]:  17 августа 2017 в 13:58
+                    - link " Постоянная ссылка" [ref=e507] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/#comment-587
+                  - generic [ref=e508]:
+                    - paragraph [ref=e509]:
+                      - text: Будущее время
+                      - link "https://propolski.com/2017/08/17/czas-przyszly/" [ref=e510] [cursor=pointer]:
+                        - /url: https://propolski.com/2017/08/17/czas-przyszly/
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e511] [cursor=pointer]:
+                      - /url: "#comment-587"
+                      - text:  Ответ
+          - insertion [ref=e513]
+          - listitem [ref=e515]:
+            - article [ref=e516]:
+              - generic [ref=e517]:
+                - generic [ref=e518]:  Марина
+                - generic [ref=e519]:  3 февраля 2019 в 15:17
+                - link " Постоянная ссылка" [ref=e520] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/#comment-1323
+              - generic [ref=e521]:
+                - paragraph [ref=e522]:
+                  - text: Что-то тут явно лишнее :))
+                  - text: «только прошедшееое и»
+                  - text: «Формы прошедшееого времени»
+                - link "Комментарий к записи Марина" [ref=e523] [cursor=pointer]:
+                  - /url: "#comment-1323"
+                  - text:  Ответ
+            - list [ref=e524]:
+              - listitem [ref=e525]:
+                - article [ref=e526]:
+                  - generic [ref=e527]:
+                    - generic [ref=e528]:  Екатерина ЛукьяноваАвтор записи
+                    - generic [ref=e529]:  4 февраля 2019 в 14:34
+                    - link " Постоянная ссылка" [ref=e530] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/#comment-1325
+                  - generic [ref=e531]:
+                    - paragraph [ref=e532]:
+                      - text: Уууупс, это автозамена )))))
+                      - text: Просто у меня проблема — в письме всё время путаю слова «прошлое» и «прошедшее», уж не знаю, почему. В статье была уйма таких вот опечаток, я в сердцах все и «автозаменила». И не иначе как перегнула палку 🙂
+                      - text: Большое спасибо за внимательность, сейчас исправлю.
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e533] [cursor=pointer]:
+                      - /url: "#comment-1325"
+                      - text:  Ответ
+          - listitem [ref=e534]:
+            - article [ref=e535]:
+              - generic [ref=e536]:
+                - generic [ref=e537]:  Алёна
+                - generic [ref=e538]:  26 февраля 2020 в 08:13
+                - link " Постоянная ссылка" [ref=e539] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/#comment-2094
+              - generic [ref=e540]:
+                - paragraph [ref=e541]: Спасибо огромное за Ваш труд! Четко и по полочкам разложили сам «скелет» польского глагола! теперь буду постигать с Вашей помощью «глубины» ☺
+                - link "Комментарий к записи Алёна" [ref=e542] [cursor=pointer]:
+                  - /url: "#comment-2094"
+                  - text:  Ответ
+            - list [ref=e543]:
+              - listitem [ref=e544]:
+                - article [ref=e545]:
+                  - generic [ref=e546]:
+                    - generic [ref=e547]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e548] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e549]:  27 февраля 2020 в 21:27
+                    - link " Постоянная ссылка" [ref=e550] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/#comment-2096
+                  - generic [ref=e551]:
+                    - paragraph [ref=e552]: Спасибо большое! Постигайте с успехом! 🙂
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e553] [cursor=pointer]:
+                      - /url: "#comment-2096"
+                      - text:  Ответ
+          - listitem [ref=e554]:
+            - article [ref=e555]:
+              - generic [ref=e556]:
+                - generic [ref=e557]:  Юрий
+                - generic [ref=e558]:  27 января 2021 в 03:54
+                - link " Постоянная ссылка" [ref=e559] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/#comment-2479
+              - generic [ref=e560]:
+                - paragraph [ref=e561]: Екатерина, большое спасибо! Глаголы, все же, часто можно найти в словаре и проспрягать. Но причастия и деепричастия, особенно aspekt dokonany (((…просто не понимаю (извините). Нельзя ли написать статью и о них, тоже во видам?! Спасибо!
+                - link "Комментарий к записи Юрий" [ref=e562] [cursor=pointer]:
+                  - /url: "#comment-2479"
+                  - text:  Ответ
+            - list [ref=e563]:
+              - listitem [ref=e564]:
+                - article [ref=e565]:
+                  - generic [ref=e566]:
+                    - generic [ref=e567]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e568] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e569]:  27 января 2021 в 09:46
+                    - link " Постоянная ссылка" [ref=e570] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/09/12/czasy-jezyka-polskiego/#comment-2480
+                  - generic [ref=e571]:
+                    - paragraph [ref=e572]:
+                      - text: Пожалуйста! 🙂
+                      - text: Так и причастия, и деепричастия, и aspekt dokonany — тоже в словарях находятся. В хороших словарях есть практически всё, а вот как спрягать — там обычно не говорят. Статьи о том, что Вы написали, написать, конечно же, можно, и я это когда-нибудь сделаю. Но не могу сообщить, когда именно. Как вдохновение будет 🙂 Всё от него зависит.
+                      - text: И ни в коем случае не извиняйтесь, лучше задавайте вопросы, если что-то непонятно 🙂
+                      - text: Можно в даже группу
+                      - link "https://www.facebook.com/groups/insidePL" [ref=e573] [cursor=pointer]:
+                        - /url: https://www.facebook.com/groups/insidePL
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e574] [cursor=pointer]:
+                      - /url: "#comment-2480"
+                      - text:  Ответ
+        - generic [ref=e575]:
+          - heading "Добавить комментарий" [level=3] [ref=e576]: Добавить комментарий
+          - iframe [ref=e578]:
+            
+    - contentinfo [ref=e579]:
+      - generic [ref=e582]:
+        - complementary [ref=e584]:
+          - heading "Полезные ссылки" [level=3] [ref=e585]
+          - list [ref=e587]:
+            - listitem [ref=e588]:
+              - link "Тесты по польскому языку" [ref=e589] [cursor=pointer]:
+                - /url: https://testy.propolski.com/
+            - listitem [ref=e590]:
+              - link "Статьи о Польше" [ref=e591] [cursor=pointer]:
+                - /url: https://insidepl.com/
+            - listitem [ref=e592]:
+              - link "Лучший хостинг" [ref=e593] [cursor=pointer]:
+                - /url: https://www.lh.pl/?ref=kettibellya
+        - complementary [ref=e595]:
+          - heading "Что такое ProPolski" [level=3] [ref=e596]
+          - list [ref=e598]:
+            - listitem [ref=e599]:
+              - link "Об авторе" [ref=e600] [cursor=pointer]:
+                - /url: https://propolski.com/autor/
+            - listitem [ref=e601]:
+              - link "Мои ответы на вопросы" [ref=e602] [cursor=pointer]:
+                - /url: https://propolski.com/?p=1811
+            - listitem [ref=e603]:
+              - link "Курс для начинающих" [ref=e604] [cursor=pointer]:
+                - /url: https://kursy.propolski.com/
+            - listitem [ref=e605]:
+              - link "Бесплатная подписка" [ref=e606] [cursor=pointer]:
+                - /url: https://propolski.com/kontakt/
+            - listitem [ref=e607]:
+              - link "Политика конфиденциальности" [ref=e608] [cursor=pointer]:
+                - /url: https://propolski.com/privacy-policy-2/
+        - complementary [ref=e610]:
+          - heading "Блог был для вас полезен?" [level=3] [ref=e611]
+          - generic [ref=e612]:
+            - paragraph [ref=e613]: Если вам понравилось, если было полезно, то ваша финансовая поддержка поможет мне писать чаще и еще интереснее!
+            - link "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e615] [cursor=pointer]:
+              - /url: https://www.patreon.com/propolski
+              - img "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e616]
+            - link "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e618] [cursor=pointer]:
+              - /url: https://www.paypal.me/propolski
+              - img "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e619]
+        - complementary [ref=e621]:
+          - paragraph [ref=e623]:
+            - text: Запроектировано с помощью Freepik.com
+            - strong [ref=e624]: Все права защищены.
+            - text: Материалы
+            - strong [ref=e625]: не копировать
+            - text: для использования на других страницах, для этого внизу каждой статьи есть кнопочка «поделиться».
+      - generic [ref=e626]:
+        - generic:
+          - generic:
+            - generic [ref=e627]:
+              - text: Copyright © 2026
+              - link "ProPolski" [ref=e628] [cursor=pointer]:
+                - /url: https://propolski.com/
+              - text: . Все права защищены. Тема
+              - link "Spacious" [ref=e629] [cursor=pointer]:
+                - /url: https://themegrill.com/themes/spacious
+              - text: "от ThemeGrill. На платформе:"
+              - link "WordPress" [ref=e630] [cursor=pointer]:
+                - /url: https://wordpress.org
+              - text: .
+            - navigation [ref=e631]:
+              - generic:
+                - list:
+                  - listitem [ref=e632]:
+                    - link "Об авторе" [ref=e633] [cursor=pointer]:
+                      - /url: https://propolski.com/autor/
+                  - listitem [ref=e634]:
+                    - link "Мои ответы на вопросы" [ref=e635] [cursor=pointer]:
+                      - /url: https://propolski.com/?p=1811
+                  - listitem [ref=e636]:
+                    - link "Курс для начинающих" [ref=e637] [cursor=pointer]:
+                      - /url: https://kursy.propolski.com/
+                  - listitem [ref=e638]:
+                    - link "Бесплатная подписка" [ref=e639] [cursor=pointer]:
+                      - /url: https://propolski.com/kontakt/
+                  - listitem [ref=e640]:
+                    - link "Политика конфиденциальности" [ref=e641] [cursor=pointer]:
+                      - /url: https://propolski.com/privacy-policy-2/
+    - text: 
+    - generic [ref=e643]:
+      - button "Privacy and cookie settings" [ref=e644] [cursor=pointer]
+      - generic [ref=e645]: "Managed by Google. Complies with IAB TCF. CMP ID: 300"
+  - insertion [ref=e646]:
+    - iframe [ref=e649]:
+      - iframe [ref=f113e1]:
+        - generic [active]:
+          - generic [ref=f117e16]:
+            - generic [ref=f117e1]:
+              - generic:
+                - img [ref=f117e5] [cursor=pointer]
+                - button [ref=f117e7] [cursor=pointer]:
+                  - img [ref=f117e8]
+            - generic [ref=f117e17]:
+              - link "Click Here" [ref=f117e18] [cursor=pointer]:
+                - /url: https://googleads.g.doubleclick.net/dbm/clk?sa=L&ai=CZNT6wurMabX0Ge6VnboPhu-aiAP2m6ScgQHUnd3mohXl6quv3gEQASD63eE3YOnkyoXgGqAB_LOazz7IAQmoAwHIA5sEqgTrAU_Qe1Hp7PcFofIgBL9FHUAlHfY7aK0Fa32C_pOBRXWrqjT8ehC3vZ7ogG3PIcoimPXNRrnlbPpAEUTPBB-rAmXpTPLfflcKPPS9bKd4V08IdRZKJS22L9r4R-TkqSANutXI5dUvZ27YQsyZ3sqqt8Fd7bJ-6er_euB5PA3HQ5xfuw8tD-dQ_QRVZbzpsTBQDPuJIh2UV93qpX4ApzZHB5yqNP8SS3RV2XS7LWN0flIC1CkGXeo3tpjJjlNREEgvUfrwwIy2KncqQ6jgKvJOnPvF7Ks0-QOepE5p51u0WcsNcmgRPNIHgYYKjT_ABPqYiY-YBeAEA4gFoZf_91KQBgGgBk2AB_zr6q4ZqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrECqAfn17EC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYvc2RybDMkwOACgGYCwHICwGADAGqDQJQTOoNEwiD5ZTJsMyTAxXuSkcBHYa3BjHwDQGIDgmwE4yfvyHQEwDYEw3YFAHQFQHKFgIKAPgWAYAXAbIXBBgCUAayGAkSAp1jGE0iAQDQGQHYGQE&ae=1&num=1&cid=CAQSbwAFq6B9JSxu0IUl9uu7QhzvUMsZzLZf22d2O-FbDv8-vmvo4LfDPQrIYL8Gtzq15Pvay_tthxE0IVB-gYwfdWu4qBZ_oOK7EC-2fyh4zdILWqHYsr22QedDP5SPnTCzad2U4HArZ3R9AW6eSQhKIxgB&sig=AOD64_3oYQYgFKkkP5T8D0HhbSlvqXhE6g&client=ca-pub-6525291204356869&dbm_c=AKAmf-D6zUQYp4meSlxhjSNYYRLgiiwuhsIGqzxBhkJaHPcIixd-47ZHMHteVKf330aG8ZHo1Fo9NVbb2ZdeJJOC6EzEj9AoCnSsU9WmNybyUHZmDcsMj34d_CBFJ31PhXDr4K-oqRLOBKDmyXLk50e47l8vv88TW_PQZs2ttylGLcS6g39HkEism6YmJYVdMGPv2HIKHKfHyrgCnq4mW-Pxyz9J8RVn7Ec0floIxhK6HcpzF6svRKLEpzkn1KrXSOwHS2u07PP0XOegULY3cowcypkEkSfrJg&cry=1&dbm_d=AKAmf-Cn3Wol6Rq-q88aaVFUOBsCdWNnycIvb_C7F-tZeflb3ZDaiVQxB1gS5Sa3ihGfhANPFxVwys8Vlw6tGXx1cf_KFRlLReCMfEifk_Q7n5RVHotGnTjE0AnjTNocV0Bh2rProN4AmvQDUgCr5VnA1-zZqYPLa6ZePAEJSIH_DdUe5aXYARX-809OEOpUmsPqEN_n4REgOikydG0F0H4IhEqTaJPYFjlRII2OmP1eu4foVvR8BMYUGsY_tJWKYIrjY6pPZU1v-8ZSnsQrQHusDAaZ4jZ3RK3hvlQtj7NmAtJgckqXnWqJuesChuob_owlla6QWcRfQVr0_Nce6THQ06twbA4brpvsYycyJcPEE34UsmjOjKATncLDSx2-YuSndyHHODYSkL_Fx20er5K6nT-YhdiLoJoE69GDQUb18znUOpczoZ0-5MZmzvpl9e1STpb1RzvI8QtOeJ0dm5qmD_h7uO-j0v53Bk_Dra1KIuiAqW9akcIl5TNVmLpS4tfyOphPaw417tx1E8R-jH5LOcl3UR9Tzk3PYKKDQZSLd6vWrEl0gNQCGGY1J6P3ivOmItupfwQ8ERmEFo1fVzBlaKxx0bDrng74it62A9gGF2KXfDr2DGfip4gvhpezP8cNXqY0GLrX41e22ZHObYbsnv3FSIjFX2eVyKBolAQrk9YQ1w77HZhZw6HC9Xw1ezQ7fH2WEV8xCdzhKYNvv00b0LnalNOyIQ&adurl=https://servedby.flashtalking.com/click/1/271278;9331331;5394161;210;0/?us_privacy=!!US_PRIVACY!&gdpr_consent=CQh-8AAQh-8AAEsACBENCYFoAP_gAEPgACgAK3oB_C7EbCFCiDJ3IKMEMAhHABBAYsAwAAYBAwAADBIQIAQCgkEYBASAFCACCAAAKASBAAAgCAAAAUAAIAAFAABAAAwAIBAIIAAAgAAAAEAIAAAACIAAEQCAAAAEAEAAkAgAAAIASEAAAAAAAACBAAAAAAAAAAAAAAAABAEAAQAAQAAAAAAAiAAAAAAAABAIAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAABAAAAAAAQgsIgH8LsRsIUKIMFcgowQwCFcAEABiwDAABgEDAAAMEhAgBAKSQRIEAIAQIAAIAAAgBAEAACgICAAAQAAAABUAAEAADAAgEAgAQACAAABAQAAAAAAIgAARAIAAAAQAQACACAAAAgBIQAAAAAAAAIEAAAAAAAAAAAAAAAAAAQAAIADAAAAAAACIAAAAAAAAEAgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAQAA.ILCIB_C7EbCFCiDJ3IKMEMAhXABBAYsAwAAYBAwAADBIQIAQCkkEaBASAFCACCAAAKASBAAAoCAgAAUAAIAAVAABAAAwAIBAIIEAAgAAAQEAIAAAACIAAEQCAAAAEAEAAkAgAAAIASEAAAAAAAACBAAAAAAAAAAAAAAAABAEAASAAwAAAAAAAiAAAAAAAABAIEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAABAAAAAAAQgAAE&gdpr=1&ft_partnerimpid=ABAjH0h4UKf0Sd89Sqf5m2qKtqK9&ft_impID=730E0251-4BC5-992C-6809-F4ABED59211E&g=6665EF3EBAA31A&random=63743.44894971906&ft_width=728&ft_height=90&url=https://www.adobe.com/pl/products/illustrator.html?sdid=HCS3XFW4&mv=display&mv2=display
+                - img "Click Here" [ref=f117e19]
+              - link "Privacy Notification" [ref=f117e21] [cursor=pointer]:
+                - /url: https://www.flashtalking.com/consumer-privacy
+                - img [ref=f117e22]
+              - link "Privacy Notification" [ref=f117e24] [cursor=pointer]:
+                - /url: https://www.flashtalking.com/consumer-privacy
+                - img [ref=f117e25]
+          - iframe

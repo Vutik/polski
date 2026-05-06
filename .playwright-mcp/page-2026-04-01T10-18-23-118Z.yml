@@ -1,0 +1,1956 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Перейти к содержимому" [ref=e3] [cursor=pointer]:
+      - /url: "#main"
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - generic [ref=e8]:
+          - link " Просмотреть профиль propolskiblog на Facebook" [ref=e9] [cursor=pointer]:
+            - /url: https://www.facebook.com/propolskiblog/
+            - text: 
+            - generic [ref=e10]: Просмотреть профиль propolskiblog на Facebook
+          - link " Просмотреть профиль PROpolski_com на Twitter" [ref=e11] [cursor=pointer]:
+            - /url: https://twitter.com/PROpolski_com/
+            - text: 
+            - generic [ref=e12]: Просмотреть профиль PROpolski_com на Twitter
+          - link " Просмотреть профиль propolski на Instagram" [ref=e13] [cursor=pointer]:
+            - /url: https://www.instagram.com/propolski/
+            - text: 
+            - generic [ref=e14]: Просмотреть профиль propolski на Instagram
+          - link " Просмотреть профиль propolskiblog на Pinterest" [ref=e15] [cursor=pointer]:
+            - /url: https://www.pinterest.com/propolskiblog/
+            - text: 
+            - generic [ref=e16]: Просмотреть профиль propolskiblog на Pinterest
+          - link " Просмотреть профиль kateryna-lukianova-78b0a2ab на LinkedIn" [ref=e17] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/kateryna-lukianova-78b0a2ab/
+            - text: 
+            - generic [ref=e18]: Просмотреть профиль kateryna-lukianova-78b0a2ab на LinkedIn
+          - link " Просмотреть профиль UCg0djfCucaVv9spNr2yPv-A на YouTube" [ref=e19] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCg0djfCucaVv9spNr2yPv-A/
+            - text: 
+            - generic [ref=e20]: Просмотреть профиль UCg0djfCucaVv9spNr2yPv-A на YouTube
+          - link " Просмотреть профиль propolskiblog на Telegram" [ref=e21] [cursor=pointer]:
+            - /url: https://www.t.me/propolski_kurs/
+            - text: 
+            - generic [ref=e22]: Просмотреть профиль propolskiblog на Telegram
+        - navigation [ref=e23]:
+          - generic:
+            - list:
+              - listitem [ref=e24]:
+                - link "Українська" [ref=e25] [cursor=pointer]:
+                  - /url: https://propolski.com/uk/2023/03/24/100-naipopuliarnishykh-prykmetnykiv-polskoi/
+              - listitem [ref=e26]:
+                - link "Русский" [ref=e27] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - link "ProPolski - блог о польском языке" [ref=e33] [cursor=pointer]:
+            - /url: https://propolski.com/
+            - img "ProPolski - блог о польском языке" [ref=e34]
+          - generic [ref=e35]:
+            - heading "ProPolski" [level=3] [ref=e36]:
+              - link "ProPolski" [ref=e37] [cursor=pointer]:
+                - /url: https://propolski.com/
+            - paragraph [ref=e38]: Блог о польском языке
+        - generic [ref=e39]:
+          - complementary [ref=e41]:
+            - generic [ref=e43]:
+              - textbox "Поиск" [ref=e44]
+              - button "" [ref=e45] [cursor=pointer]
+          - navigation [ref=e46]:
+            - text: ≡
+            - generic [ref=e47]:
+              - text: 
+              - list [ref=e48]:
+                - listitem [ref=e49]:
+                  - link "ВСЕ СТАТЬИ" [ref=e50] [cursor=pointer]:
+                    - /url: https://propolski.com/sitemap/
+                - listitem [ref=e51]:
+                  - link "Учить" [ref=e52] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Учить
+                    - generic [ref=e53]: 
+                - listitem [ref=e54]:
+                  - link "Читать" [ref=e55] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Читать
+                    - generic [ref=e56]: 
+                - listitem [ref=e57]:
+                  - link "Смотреть/слушать" [ref=e58] [cursor=pointer]:
+                    - /url: https://propolski.com/wideo-audio-po-polsku/
+                    - text: Смотреть/слушать
+                    - generic [ref=e59]: 
+                - listitem [ref=e60]:
+                  - link "Польшa" [ref=e61] [cursor=pointer]:
+                    - /url: https://propolski.com/polska/
+                - listitem [ref=e62]:
+                  - link "Подписка" [ref=e63] [cursor=pointer]:
+                    - /url: https://propolski.com/kontakt/
+                - listitem [ref=e64]:
+                  - link "КУРС" [ref=e65] [cursor=pointer]:
+                    - /url: https://kursy.propolski.com/uk/
+      - generic [ref=e66]:
+        - generic:
+          - heading "100+ самых популярных прилагательных польского языка" [level=1] [ref=e68]
+          - generic [ref=e69]:
+            - text: "Вы здесь:"
+            - generic [ref=e70]:
+              - link "Главная" [ref=e72] [cursor=pointer]:
+                - /url: https://propolski.com/
+              - text: »
+              - link "Словарь на польском языке по темам" [ref=e74] [cursor=pointer]:
+                - /url: https://propolski.com/category/slowa/
+              - text: »
+              - strong [ref=e76]: 100+ самых популярных прилагательных польского языка
+    - insertion [ref=e78]:
+      - iframe [ref=e80]:
+        - generic [active] [ref=f402e1]:
+          - generic [ref=f402e6]:
+            - link [ref=f402e7] [cursor=pointer]:
+              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CHwFK7PDMadGXOoOG78EPlZiGgQyyt_aMhgGoiobUlhW_r9STugIQASD63eE3YOnkyoXgGqABtvq--SjIAQmoAwHIA8sEqgSFAk_Q3lKOIltjZy0kTAORE3WY8t0ye7SogMFaN0dshBlMsWErZgSi-SzRTAAThDYtoWNmsZmkHj-qFoEQfnfeoCBwMPxTySxDuJVG2tTKPoS2X03t39cueETQebr301VSTOFaoLMJwL8bYnO4VKbWbbU-fkE1ZyxbDT_TSN-wZ-Hah9e2VkrTk7A37RGPlsJWu_PYOOT-5Hcae6iO-QbQvFijbk738wo0TE86jRtpww_3aqWoqoIIHdoruXtYxsLYexXT6NcHsh_maNBchBa61Z8IOyGvi4m_BJKCuoOVMhD2XxtdDSKje7nEAFbvxApCRyXFZ4XagGO4B28BxmZkbpoaZa_5J8AEjZeeuL0FiAXG_YilVKAGLoAHtYew5wOoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCDIIgOGAEBABGJ8DMgiqgoCAgICACDoOgMADgICEgICUruADqAdIvf3BOljr-uy5tsyTA7EJ27T6ZQergAqACgGYCwHICwGADAGqDQJQTMgNAeoNEwjPwe65tsyTAxUDwzsCHRWMIcDwDQKIDgmwDoCTgeAY2BMM0BUByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAvpTGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI0b3uubbMkwMVA8M7Ah0VjCHAEAEYASAAEgJ91PD_BwE&num=1&cid=CAQSbwAFq6B9TZj93rUYzpvlUNiWl6jLEqgnD1O1MM5MEAiV9jIUst_EH696ZwNvD5PQNN52PTadrrqm72LpkNA_9dafEPTEsHa73teYxDkDLA49kPR8onQeEdmXvyGJQACY7HZojfPV319EsFRAjTwDlhgB&sig=AOD64_3waxtIq747m7egb0ubgoTHh9KXbg&client=ca-pub-6525291204356869&rf=1&nb=9&adurl=https://www.getresponse.pl/rozwiazania/ecommerce-marketing%3Fcamp%3DPL_PL_pMAX_Ecommerce%26kw%3D%26type%3D%26crtn%3D%26serv%3Dadwords%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Ecommerce%26hsa_acc%3D1471644613%26hsa_cam%3D22632549743%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D22626320070%26gclid%3DEAIaIQobChMI0b3uubbMkwMVA8M7Ah0VjCHAEAEYASAAEgJ91PD_BwE
+              - img [ref=f402e8]
+            - generic [ref=f402e10]:
+              - generic [ref=f402e13]:
+                - link "Rozkręć sprzedaż w e-sklepie" [ref=f402e16] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CHwFK7PDMadGXOoOG78EPlZiGgQyyt_aMhgGoiobUlhW_r9STugIQASD63eE3YOnkyoXgGqABtvq--SjIAQmoAwHIA8sEqgSFAk_Q3lKOIltjZy0kTAORE3WY8t0ye7SogMFaN0dshBlMsWErZgSi-SzRTAAThDYtoWNmsZmkHj-qFoEQfnfeoCBwMPxTySxDuJVG2tTKPoS2X03t39cueETQebr301VSTOFaoLMJwL8bYnO4VKbWbbU-fkE1ZyxbDT_TSN-wZ-Hah9e2VkrTk7A37RGPlsJWu_PYOOT-5Hcae6iO-QbQvFijbk738wo0TE86jRtpww_3aqWoqoIIHdoruXtYxsLYexXT6NcHsh_maNBchBa61Z8IOyGvi4m_BJKCuoOVMhD2XxtdDSKje7nEAFbvxApCRyXFZ4XagGO4B28BxmZkbpoaZa_5J8AEjZeeuL0FiAXG_YilVKAGLoAHtYew5wOoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCDIIgOGAEBABGJ8DMgiqgoCAgICACDoOgMADgICEgICUruADqAdIvf3BOljr-uy5tsyTA7EJ27T6ZQergAqACgGYCwHICwGADAGqDQJQTMgNAeoNEwjPwe65tsyTAxUDwzsCHRWMIcDwDQKIDgmwDoCTgeAY2BMM0BUByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAvpTGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI0b3uubbMkwMVA8M7Ah0VjCHAEAEYASAAEgJ91PD_BwE&num=1&cid=CAQSbwAFq6B9TZj93rUYzpvlUNiWl6jLEqgnD1O1MM5MEAiV9jIUst_EH696ZwNvD5PQNN52PTadrrqm72LpkNA_9dafEPTEsHa73teYxDkDLA49kPR8onQeEdmXvyGJQACY7HZojfPV319EsFRAjTwDlhgB&sig=AOD64_3waxtIq747m7egb0ubgoTHh9KXbg&client=ca-pub-6525291204356869&rf=1&nb=0&adurl=https://www.getresponse.pl/rozwiazania/ecommerce-marketing%3Fcamp%3DPL_PL_pMAX_Ecommerce%26kw%3D%26type%3D%26crtn%3D%26serv%3Dadwords%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Ecommerce%26hsa_acc%3D1471644613%26hsa_cam%3D22632549743%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D22626320070%26gclid%3DEAIaIQobChMI0b3uubbMkwMVA8M7Ah0VjCHAEAEYASAAEgJ91PD_BwE
+                - link "Pokaż klientowi dokładnie to, czego chce, dzięki automatycznym emailom z rekomendacjami." [ref=f402e19] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CHwFK7PDMadGXOoOG78EPlZiGgQyyt_aMhgGoiobUlhW_r9STugIQASD63eE3YOnkyoXgGqABtvq--SjIAQmoAwHIA8sEqgSFAk_Q3lKOIltjZy0kTAORE3WY8t0ye7SogMFaN0dshBlMsWErZgSi-SzRTAAThDYtoWNmsZmkHj-qFoEQfnfeoCBwMPxTySxDuJVG2tTKPoS2X03t39cueETQebr301VSTOFaoLMJwL8bYnO4VKbWbbU-fkE1ZyxbDT_TSN-wZ-Hah9e2VkrTk7A37RGPlsJWu_PYOOT-5Hcae6iO-QbQvFijbk738wo0TE86jRtpww_3aqWoqoIIHdoruXtYxsLYexXT6NcHsh_maNBchBa61Z8IOyGvi4m_BJKCuoOVMhD2XxtdDSKje7nEAFbvxApCRyXFZ4XagGO4B28BxmZkbpoaZa_5J8AEjZeeuL0FiAXG_YilVKAGLoAHtYew5wOoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCDIIgOGAEBABGJ8DMgiqgoCAgICACDoOgMADgICEgICUruADqAdIvf3BOljr-uy5tsyTA7EJ27T6ZQergAqACgGYCwHICwGADAGqDQJQTMgNAeoNEwjPwe65tsyTAxUDwzsCHRWMIcDwDQKIDgmwDoCTgeAY2BMM0BUByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAvpTGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI0b3uubbMkwMVA8M7Ah0VjCHAEAEYASAAEgJ91PD_BwE&num=1&cid=CAQSbwAFq6B9TZj93rUYzpvlUNiWl6jLEqgnD1O1MM5MEAiV9jIUst_EH696ZwNvD5PQNN52PTadrrqm72LpkNA_9dafEPTEsHa73teYxDkDLA49kPR8onQeEdmXvyGJQACY7HZojfPV319EsFRAjTwDlhgB&sig=AOD64_3waxtIq747m7egb0ubgoTHh9KXbg&client=ca-pub-6525291204356869&rf=1&nb=7&adurl=https://www.getresponse.pl/rozwiazania/ecommerce-marketing%3Fcamp%3DPL_PL_pMAX_Ecommerce%26kw%3D%26type%3D%26crtn%3D%26serv%3Dadwords%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Ecommerce%26hsa_acc%3D1471644613%26hsa_cam%3D22632549743%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D22626320070%26gclid%3DEAIaIQobChMI0b3uubbMkwMVA8M7Ah0VjCHAEAEYASAAEgJ91PD_BwE
+                  - text: Pokaż klientowi dokładnie to, czego chce, dzięki automatycznym emailom z
+                  - text: rekomendacjami.
+              - generic [ref=f402e22]:
+                - link:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CHwFK7PDMadGXOoOG78EPlZiGgQyyt_aMhgGoiobUlhW_r9STugIQASD63eE3YOnkyoXgGqABtvq--SjIAQmoAwHIA8sEqgSFAk_Q3lKOIltjZy0kTAORE3WY8t0ye7SogMFaN0dshBlMsWErZgSi-SzRTAAThDYtoWNmsZmkHj-qFoEQfnfeoCBwMPxTySxDuJVG2tTKPoS2X03t39cueETQebr301VSTOFaoLMJwL8bYnO4VKbWbbU-fkE1ZyxbDT_TSN-wZ-Hah9e2VkrTk7A37RGPlsJWu_PYOOT-5Hcae6iO-QbQvFijbk738wo0TE86jRtpww_3aqWoqoIIHdoruXtYxsLYexXT6NcHsh_maNBchBa61Z8IOyGvi4m_BJKCuoOVMhD2XxtdDSKje7nEAFbvxApCRyXFZ4XagGO4B28BxmZkbpoaZa_5J8AEjZeeuL0FiAXG_YilVKAGLoAHtYew5wOoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCDIIgOGAEBABGJ8DMgiqgoCAgICACDoOgMADgICEgICUruADqAdIvf3BOljr-uy5tsyTA7EJ27T6ZQergAqACgGYCwHICwGADAGqDQJQTMgNAeoNEwjPwe65tsyTAxUDwzsCHRWMIcDwDQKIDgmwDoCTgeAY2BMM0BUByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAvpTGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI0b3uubbMkwMVA8M7Ah0VjCHAEAEYASAAEgJ91PD_BwE&num=1&cid=CAQSbwAFq6B9TZj93rUYzpvlUNiWl6jLEqgnD1O1MM5MEAiV9jIUst_EH696ZwNvD5PQNN52PTadrrqm72LpkNA_9dafEPTEsHa73teYxDkDLA49kPR8onQeEdmXvyGJQACY7HZojfPV319EsFRAjTwDlhgB&sig=AOD64_3waxtIq747m7egb0ubgoTHh9KXbg&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://www.getresponse.pl/rozwiazania/ecommerce-marketing%3Fcamp%3DPL_PL_pMAX_Ecommerce%26kw%3D%26type%3D%26crtn%3D%26serv%3Dadwords%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Ecommerce%26hsa_acc%3D1471644613%26hsa_cam%3D22632549743%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D22626320070%26gclid%3DEAIaIQobChMI0b3uubbMkwMVA8M7Ah0VjCHAEAEYASAAEgJ91PD_BwE
+                - link "GetResponse" [ref=f402e24] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CHwFK7PDMadGXOoOG78EPlZiGgQyyt_aMhgGoiobUlhW_r9STugIQASD63eE3YOnkyoXgGqABtvq--SjIAQmoAwHIA8sEqgSFAk_Q3lKOIltjZy0kTAORE3WY8t0ye7SogMFaN0dshBlMsWErZgSi-SzRTAAThDYtoWNmsZmkHj-qFoEQfnfeoCBwMPxTySxDuJVG2tTKPoS2X03t39cueETQebr301VSTOFaoLMJwL8bYnO4VKbWbbU-fkE1ZyxbDT_TSN-wZ-Hah9e2VkrTk7A37RGPlsJWu_PYOOT-5Hcae6iO-QbQvFijbk738wo0TE86jRtpww_3aqWoqoIIHdoruXtYxsLYexXT6NcHsh_maNBchBa61Z8IOyGvi4m_BJKCuoOVMhD2XxtdDSKje7nEAFbvxApCRyXFZ4XagGO4B28BxmZkbpoaZa_5J8AEjZeeuL0FiAXG_YilVKAGLoAHtYew5wOoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCDIIgOGAEBABGJ8DMgiqgoCAgICACDoOgMADgICEgICUruADqAdIvf3BOljr-uy5tsyTA7EJ27T6ZQergAqACgGYCwHICwGADAGqDQJQTMgNAeoNEwjPwe65tsyTAxUDwzsCHRWMIcDwDQKIDgmwDoCTgeAY2BMM0BUByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAvpTGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI0b3uubbMkwMVA8M7Ah0VjCHAEAEYASAAEgJ91PD_BwE&num=1&cid=CAQSbwAFq6B9TZj93rUYzpvlUNiWl6jLEqgnD1O1MM5MEAiV9jIUst_EH696ZwNvD5PQNN52PTadrrqm72LpkNA_9dafEPTEsHa73teYxDkDLA49kPR8onQeEdmXvyGJQACY7HZojfPV319EsFRAjTwDlhgB&sig=AOD64_3waxtIq747m7egb0ubgoTHh9KXbg&client=ca-pub-6525291204356869&rf=1&nb=1&adurl=https://www.getresponse.pl/rozwiazania/ecommerce-marketing%3Fcamp%3DPL_PL_pMAX_Ecommerce%26kw%3D%26type%3D%26crtn%3D%26serv%3Dadwords%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Ecommerce%26hsa_acc%3D1471644613%26hsa_cam%3D22632549743%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D22626320070%26gclid%3DEAIaIQobChMI0b3uubbMkwMVA8M7Ah0VjCHAEAEYASAAEgJ91PD_BwE
+                - link "Otwórz" [ref=f402e26] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CHwFK7PDMadGXOoOG78EPlZiGgQyyt_aMhgGoiobUlhW_r9STugIQASD63eE3YOnkyoXgGqABtvq--SjIAQmoAwHIA8sEqgSFAk_Q3lKOIltjZy0kTAORE3WY8t0ye7SogMFaN0dshBlMsWErZgSi-SzRTAAThDYtoWNmsZmkHj-qFoEQfnfeoCBwMPxTySxDuJVG2tTKPoS2X03t39cueETQebr301VSTOFaoLMJwL8bYnO4VKbWbbU-fkE1ZyxbDT_TSN-wZ-Hah9e2VkrTk7A37RGPlsJWu_PYOOT-5Hcae6iO-QbQvFijbk738wo0TE86jRtpww_3aqWoqoIIHdoruXtYxsLYexXT6NcHsh_maNBchBa61Z8IOyGvi4m_BJKCuoOVMhD2XxtdDSKje7nEAFbvxApCRyXFZ4XagGO4B28BxmZkbpoaZa_5J8AEjZeeuL0FiAXG_YilVKAGLoAHtYew5wOoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCDIIgOGAEBABGJ8DMgiqgoCAgICACDoOgMADgICEgICUruADqAdIvf3BOljr-uy5tsyTA7EJ27T6ZQergAqACgGYCwHICwGADAGqDQJQTMgNAeoNEwjPwe65tsyTAxUDwzsCHRWMIcDwDQKIDgmwDoCTgeAY2BMM0BUByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAvpTGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI0b3uubbMkwMVA8M7Ah0VjCHAEAEYASAAEgJ91PD_BwE&num=1&cid=CAQSbwAFq6B9TZj93rUYzpvlUNiWl6jLEqgnD1O1MM5MEAiV9jIUst_EH696ZwNvD5PQNN52PTadrrqm72LpkNA_9dafEPTEsHa73teYxDkDLA49kPR8onQeEdmXvyGJQACY7HZojfPV319EsFRAjTwDlhgB&sig=AOD64_3waxtIq747m7egb0ubgoTHh9KXbg&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://www.getresponse.pl/rozwiazania/ecommerce-marketing%3Fcamp%3DPL_PL_pMAX_Ecommerce%26kw%3D%26type%3D%26crtn%3D%26serv%3Dadwords%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Ecommerce%26hsa_acc%3D1471644613%26hsa_cam%3D22632549743%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D22626320070%26gclid%3DEAIaIQobChMI0b3uubbMkwMVA8M7Ah0VjCHAEAEYASAAEgJ91PD_BwE
+                - link [ref=f402e27] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CHwFK7PDMadGXOoOG78EPlZiGgQyyt_aMhgGoiobUlhW_r9STugIQASD63eE3YOnkyoXgGqABtvq--SjIAQmoAwHIA8sEqgSFAk_Q3lKOIltjZy0kTAORE3WY8t0ye7SogMFaN0dshBlMsWErZgSi-SzRTAAThDYtoWNmsZmkHj-qFoEQfnfeoCBwMPxTySxDuJVG2tTKPoS2X03t39cueETQebr301VSTOFaoLMJwL8bYnO4VKbWbbU-fkE1ZyxbDT_TSN-wZ-Hah9e2VkrTk7A37RGPlsJWu_PYOOT-5Hcae6iO-QbQvFijbk738wo0TE86jRtpww_3aqWoqoIIHdoruXtYxsLYexXT6NcHsh_maNBchBa61Z8IOyGvi4m_BJKCuoOVMhD2XxtdDSKje7nEAFbvxApCRyXFZ4XagGO4B28BxmZkbpoaZa_5J8AEjZeeuL0FiAXG_YilVKAGLoAHtYew5wOoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCDIIgOGAEBABGJ8DMgiqgoCAgICACDoOgMADgICEgICUruADqAdIvf3BOljr-uy5tsyTA7EJ27T6ZQergAqACgGYCwHICwGADAGqDQJQTMgNAeoNEwjPwe65tsyTAxUDwzsCHRWMIcDwDQKIDgmwDoCTgeAY2BMM0BUByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAvpTGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI0b3uubbMkwMVA8M7Ah0VjCHAEAEYASAAEgJ91PD_BwE&num=1&cid=CAQSbwAFq6B9TZj93rUYzpvlUNiWl6jLEqgnD1O1MM5MEAiV9jIUst_EH696ZwNvD5PQNN52PTadrrqm72LpkNA_9dafEPTEsHa73teYxDkDLA49kPR8onQeEdmXvyGJQACY7HZojfPV319EsFRAjTwDlhgB&sig=AOD64_3waxtIq747m7egb0ubgoTHh9KXbg&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://www.getresponse.pl/rozwiazania/ecommerce-marketing%3Fcamp%3DPL_PL_pMAX_Ecommerce%26kw%3D%26type%3D%26crtn%3D%26serv%3Dadwords%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Ecommerce%26hsa_acc%3D1471644613%26hsa_cam%3D22632549743%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D22626320070%26gclid%3DEAIaIQobChMI0b3uubbMkwMVA8M7Ah0VjCHAEAEYASAAEgJ91PD_BwE
+                  - generic [ref=f402e29]:
+                    - img [ref=f402e30]
+                    - img [ref=f402e32]
+          - img [ref=f402e40] [cursor=pointer]
+          - button [ref=f402e42] [cursor=pointer]:
+            - img [ref=f402e43]
+          - iframe
+    - generic [ref=e83]:
+      - article [ref=e84]:
+        - generic [ref=e85]:
+          - generic [ref=e86]:
+            - generic [ref=e87]:
+              - paragraph [ref=e88]: "Содержание:"
+              - link "Toggle Table of Content" [ref=e89] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e92]:
+                  - img [ref=e93]
+                  - img [ref=e95]
+            - navigation [ref=e97]:
+              - list [ref=e98]:
+                - listitem [ref=e99]:
+                  - link "100+ самых популярных прилагательных польского языка" [ref=e100] [cursor=pointer]:
+                    - /url: "#100_%D1%81%D0%B0%D0%BC%D1%8B%D1%85_%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D1%85_%D0%BF%D1%80%D0%B8%D0%BB%D0%B0%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0"
+                  - list [ref=e101]:
+                    - listitem [ref=e102]:
+                      - link "Самые популярные прилагательные польского языка" [ref=e103] [cursor=pointer]:
+                        - /url: "#%D0%A1%D0%B0%D0%BC%D1%8B%D0%B5_%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B8%D0%BB%D0%B0%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0"
+                    - listitem [ref=e104]:
+                      - link "Другие популярные прилагательные польского языка" [ref=e105] [cursor=pointer]:
+                        - /url: "#%D0%94%D1%80%D1%83%D0%B3%D0%B8%D0%B5_%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B8%D0%BB%D0%B0%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0"
+                    - listitem [ref=e106]:
+                      - link "Цвета на польском языке" [ref=e107] [cursor=pointer]:
+                        - /url: "#%D0%A6%D0%B2%D0%B5%D1%82%D0%B0_%D0%BD%D0%B0_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5"
+                    - listitem [ref=e108]:
+                      - link "Интернационализмы польского языка + характер человека" [ref=e109] [cursor=pointer]:
+                        - /url: "#%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC%D1%8B_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0_%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0"
+          - generic [ref=e110]:
+            - list [ref=e111]:
+              - listitem [ref=e112]:
+                - link "Об авторе" [ref=e113] [cursor=pointer]:
+                  - /url: "#abh_about"
+              - listitem [ref=e114]:
+                - link "Недавние публикации" [ref=e115] [cursor=pointer]:
+                  - /url: "#abh_posts"
+            - generic [ref=e117]:
+              - generic [ref=e118]:
+                - link "Катерина Лук'янова":
+                  - /url: https://propolski.com/
+                  - img "Катерина Лук'янова" [ref=e119]
+              - link "" [ref=e121] [cursor=pointer]:
+                - /url: https://www.facebook.com/kate.lukianova.propolski
+              - generic [ref=e122]:
+                - link "Катерина Лук'янова" [ref=e124] [cursor=pointer]:
+                  - /url: https://propolski.com/
+                - generic [ref=e125]: Здравствуйте.Меня зовут Екатерина Лукьянова, я - автор блога о польском языке ProPolski.com и сайта о Польше insidePL.com. Живу в Польше. Свободное от основной работы время всецело посвящаю ProPolski.com и insidePL.com.
+          - paragraph [ref=e126]: Последнее обновление 24 марта 2023
+          - paragraph [ref=e127]:
+            - text: В продолжении темы «ТОП 100+», популярным и, что главное, нужным представителем которого стал список
+            - link "самых популярных и употребляемых глаголов польского языка" [ref=e128] [cursor=pointer]:
+              - /url: /2017/01/28/100-najbardziej-uzywanych-czasownikow/
+            - text: ", и по просьбам читателей — перед вами следующая позиция «100+ самых популярных прилагательных польского языка»:"
+          - insertion [ref=e129]:
+            - iframe [ref=e131]:
+              - generic [active] [ref=f393e1]:
+                - generic [ref=f393e3]:
+                  - link:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CwUXi7PDMabOFOpGQ78EP29GwgQGrkvydhgGun_TAwhWqsb3wr0IQASD63eE3YOnkyoXgGqABr_eg0APIAQKpAn4B59oQHJI-qAMByAPJBKoEgAJP0DqLycifajOxxHDeCTQr4vtPovb_g56Oc6OOKWF8VsfL1ttLZkzta7wfZzHNS9gv-f9X9a4IPY7WiON9hNyQiwnSrLPJJmIRDAyp2lDqq7KNiLZNUimb9qDIUnUVgOwuSA0LANEVyp4h0Pi96DmDryk_Pj5jqcR_WR_sXnR3593jztjUMsZUKMT-HzjFR3MIwShrl14B6bWLsrZAvyXyccwrd02N8XoMbWq1PmES7unEPw2hbUq-6lSYfIQTkrVGXwvtZy1_qItQPPVGJ3Ks6Lk7ai-8CQWvAuWJiWejG-18efLEXckd0GI3fhsjdhQr-cvN-15_Dmx3d9TOxWsBwATErZGi1gWIBber2ItYoAYCgAeL2ZUnqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYzuHsubbMkwOxCV2OEYf-xXTCgAoBmAsByAsBqg0CUEzIDQHqDRMI2bDuubbMkwMVEcg7Ah3bKCwQ8A0CiA4J2BMC0BUByhYCCgD4FgGAFwGyFxAYASoKMTA0MDEwMjg2OVAGuhcCOAGqGBcJAAAAAPD_-kASCjEwNDAxMDI4NjkYAbIYCRICqlEYAiIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIs6vuubbMkwMVEcg7Ah3bKCwQEAEYASAAEgKXJfD_BwE&num=1&cid=CAQSbwAFq6B9EFzSMAqKze-B5Z2biEA6zW9B8LWUS7GIG6Jt96e8bYfJpRnctzsoHheTXmF7zkyfeRgi7Ew4wH6A7aI47aIL5v1ZeEkLP4A3G4BoSNnbbA5oY5E9AFw_onjWhhKtyM1iSuowuUyzQ4bh3RgB&sig=AOD64_2mHAmTe_vjt9FlGileWDY7ra0DEw&client=ca-pub-6525291204356869&rf=2&nb=2&adurl=https://www.mediaexpert.pl/lp,29388-bosch-swiateczne-gotowanie%3Fgad_source%3D5%26gad_campaignid%3D23646836151%26gclid%3DEAIaIQobChMIs6vuubbMkwMVEcg7Ah3bKCwQEAEYASAAEgKXJfD_BwE
+                  - img [ref=f393e7] [cursor=pointer]
+                  - button [ref=f393e9] [cursor=pointer]:
+                    - img [ref=f393e10]
+                - iframe
+          - heading "100+ самых популярных прилагательных польского языка" [level=2] [ref=e132]: 100+ самых популярных прилагательных польского языка
+          - figure [ref=e133]:
+            - img "100+ самых популярных прилагательных польского языка" [ref=e134]
+          - paragraph [ref=e135]: "Теперь к структуре списков:"
+          - list [ref=e136]:
+            - listitem [ref=e137]:
+              - text: первый был собран на основе
+              - link "топов всех слов польского языка" [ref=e138] [cursor=pointer]:
+                - /url: /2015/11/23/1000-najpopularniejszych-slow/
+              - text: ", но это не значит, что употребляются только эти прилагательные. Просто на большее не хватило моих глаз :);"
+            - listitem [ref=e139]: второй список — это почти все прилагательные с учебника Krok po kroku А1. Опять же — почти все, потому что, как мне кажется, остальные не представляют такой уж ценности, вы выучите их из прочитанных книг;
+            - listitem [ref=e140]: третий список — это цвета на польском языка, которые тоже, конечно же, являются прилагательными;
+            - listitem [ref=e141]: четвертый — интернационализмы и прилагательные для описания внешности и характера человека, некоторые из них.
+          - paragraph [ref=e142]: Каждая таблица содержит в себе прилагательное в мужском роде, колонку окончаний женского рода и среднего, колонку прилагательный для ONE и колонку для ONI, а также перевод прилагательного.
+          - blockquote [ref=e143]:
+            - text: 💡
+            - paragraph [ref=e144]:
+              - strong [ref=e145]:
+                - text: "Читайте также:"
+                - link "100+ самых популярных и употребляемых глаголов польского языка" [ref=e146] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/01/28/100-najbardziej-uzywanych-czasownikow/
+          - heading "Самые популярные прилагательные польского языка" [level=3] [ref=e147]: Самые популярные прилагательные польского языка
+          - paragraph [ref=e148]:
+            - strong [ref=e149]: Если вы просматриваете сайт на мобильном устройстве
+            - text: ", то, скорее всего, вам нужно будет пальцем перетаскивать табличку влево, чтобы увидеть ее полностью."
+          - figure [ref=e150]:
+            - table [ref=e151]:
+              - rowgroup [ref=e152]:
+                - row "Прил., м.р. Ж.р. и с.р. One Oni Перевод" [ref=e153]:
+                  - columnheader "Прил., м.р." [ref=e154]
+                  - columnheader "Ж.р. и с.р." [ref=e155]
+                  - columnheader "One" [ref=e156]
+                  - columnheader "Oni" [ref=e157]
+                  - columnheader "Перевод" [ref=e158]
+              - rowgroup [ref=e159]:
+                - row "stary -a/-e stare starzy старый" [ref=e160]:
+                  - cell "stary" [ref=e161]
+                  - cell "-a/-e" [ref=e162]
+                  - cell "stare" [ref=e163]
+                  - cell "starzy" [ref=e164]
+                  - cell "старый" [ref=e165]
+                - row "mały -a/-e małe mali маленький" [ref=e166]:
+                  - cell "mały" [ref=e167]
+                  - cell "-a/-e" [ref=e168]
+                  - cell "małe" [ref=e169]
+                  - cell "mali" [ref=e170]
+                  - cell "маленький" [ref=e171]
+                - row "inny -a/-e inne inni другой, иной" [ref=e172]:
+                  - cell "inny" [ref=e173]
+                  - cell "-a/-e" [ref=e174]
+                  - cell "inne" [ref=e175]
+                  - cell "inni" [ref=e176]
+                  - cell "другой, иной" [ref=e177]
+                - row "ważny -a/-e ważne ważni важный" [ref=e178]:
+                  - cell "ważny" [ref=e179]
+                  - cell "-a/-e" [ref=e180]
+                  - cell "ważne" [ref=e181]
+                  - cell "ważni" [ref=e182]
+                  - cell "важный" [ref=e183]
+                - row "pewny -a/-e pewne pewni уверенный, определенный" [ref=e184]:
+                  - cell "pewny" [ref=e185]
+                  - cell "-a/-e" [ref=e186]
+                  - cell "pewne" [ref=e187]
+                  - cell "pewni" [ref=e188]
+                  - cell "уверенный, определенный" [ref=e189]
+                - row "zły -a/-e złe źli плохой, злой" [ref=e190]:
+                  - cell "zły" [ref=e191]
+                  - cell "-a/-e" [ref=e192]
+                  - cell "złe" [ref=e193]
+                  - cell "źli" [ref=e194]
+                  - cell "плохой, злой" [ref=e195]
+                - row "drugi -a/-ie drugie drudzy другой, второй" [ref=e196]:
+                  - cell "drugi" [ref=e197]
+                  - cell "-a/-ie" [ref=e198]
+                  - cell "drugie" [ref=e199]
+                  - cell "drudzy" [ref=e200]
+                  - cell "другой, второй" [ref=e201]
+                - row "najlepszy -a/-e najlepsze najlepsi самый лучший" [ref=e202]:
+                  - cell "najlepszy" [ref=e203]
+                  - cell "-a/-e" [ref=e204]
+                  - cell "najlepsze" [ref=e205]
+                  - cell "najlepsi" [ref=e206]
+                  - cell "самый лучший" [ref=e207]
+                - row "ostatni -a/-ie ostatnie ostatni последний" [ref=e208]:
+                  - cell "ostatni" [ref=e209]
+                  - cell "-a/-ie" [ref=e210]
+                  - cell "ostatnie" [ref=e211]
+                  - cell "ostatni" [ref=e212]
+                  - cell "последний" [ref=e213]
+                - row "głupi -a/-ie głupie głupi глупый" [ref=e214]:
+                  - cell "głupi" [ref=e215]
+                  - cell "-a/-ie" [ref=e216]
+                  - cell "głupie" [ref=e217]
+                  - cell "głupi" [ref=e218]
+                  - cell "глупый" [ref=e219]
+                - row "nowy -a/-e nowe nowi новый" [ref=e220]:
+                  - cell "nowy" [ref=e221]
+                  - cell "-a/-e" [ref=e222]
+                  - cell "nowe" [ref=e223]
+                  - cell "nowi" [ref=e224]
+                  - cell "новый" [ref=e225]
+                - row "gotowy -a/-e gotowe gotowi готовый" [ref=e226]:
+                  - cell "gotowy" [ref=e227]
+                  - cell "-a/-e" [ref=e228]
+                  - cell "gotowe" [ref=e229]
+                  - cell "gotowi" [ref=e230]
+                  - cell "готовый" [ref=e231]
+                - row "dobry -a/-e dobre dobrzy хороший, добрый" [ref=e232]:
+                  - cell "dobry" [ref=e233]
+                  - cell "-a/-e" [ref=e234]
+                  - cell "dobre" [ref=e235]
+                  - cell "dobrzy" [ref=e236]
+                  - cell "хороший, добрый" [ref=e237]
+                - row "prawdziwy -a/-e prawdziwe prawdziwi настоящий, правдивый" [ref=e238]:
+                  - cell "prawdziwy" [ref=e239]
+                  - cell "-a/-e" [ref=e240]
+                  - cell "prawdziwe" [ref=e241]
+                  - cell "prawdziwi" [ref=e242]
+                  - cell "настоящий, правдивый" [ref=e243]
+                - row "następny -a/-e następne następni следующий" [ref=e244]:
+                  - cell "następny" [ref=e245]
+                  - cell "-a/-e" [ref=e246]
+                  - cell "następne" [ref=e247]
+                  - cell "następni" [ref=e248]
+                  - cell "следующий" [ref=e249]
+                - row "prosty -a/-e proste prości прямой, простой" [ref=e250]:
+                  - cell "prosty" [ref=e251]
+                  - cell "-a/-e" [ref=e252]
+                  - cell "proste" [ref=e253]
+                  - cell "prości" [ref=e254]
+                  - cell "прямой, простой" [ref=e255]
+                - row "piękny -a/-e piękne piękni красивый" [ref=e256]:
+                  - cell "piękny" [ref=e257]
+                  - cell "-a/-e" [ref=e258]
+                  - cell "piękne" [ref=e259]
+                  - cell "piękni" [ref=e260]
+                  - cell "красивый" [ref=e261]
+                - row "duży -a/-e duże duzi большой" [ref=e262]:
+                  - cell "duży" [ref=e263]
+                  - cell "-a/-e" [ref=e264]
+                  - cell "duże" [ref=e265]
+                  - cell "duzi" [ref=e266]
+                  - cell "большой" [ref=e267]
+                - row "śmieszny -a/-e śmieszne śmieszni смешной" [ref=e268]:
+                  - cell "śmieszny" [ref=e269]
+                  - cell "-a/-e" [ref=e270]
+                  - cell "śmieszne" [ref=e271]
+                  - cell "śmieszni" [ref=e272]
+                  - cell "смешной" [ref=e273]
+                - row "martwy -a/-e martwe martwi мертвый" [ref=e274]:
+                  - cell "martwy" [ref=e275]
+                  - cell "-a/-e" [ref=e276]
+                  - cell "martwe" [ref=e277]
+                  - cell "martwi" [ref=e278]
+                  - cell "мертвый" [ref=e279]
+                - row "kolejny -a/-e kolejne kolejni очередной" [ref=e280]:
+                  - cell "kolejny" [ref=e281]
+                  - cell "-a/-e" [ref=e282]
+                  - cell "kolejne" [ref=e283]
+                  - cell "kolejni" [ref=e284]
+                  - cell "очередной" [ref=e285]
+                - row "niesamowity -a/-e niesamowite niesamowici изумительный" [ref=e286]:
+                  - cell "niesamowity" [ref=e287]
+                  - cell "-a/-e" [ref=e288]
+                  - cell "niesamowite" [ref=e289]
+                  - cell "niesamowici" [ref=e290]
+                  - cell "изумительный" [ref=e291]
+                - row "wspaniały -a/-e wspaniałe wspaniali великолепный" [ref=e292]:
+                  - cell "wspaniały" [ref=e293]
+                  - cell "-a/-e" [ref=e294]
+                  - cell "wspaniałe" [ref=e295]
+                  - cell "wspaniali" [ref=e296]
+                  - cell "великолепный" [ref=e297]
+                - row "lepszy -a/-e lepsze lepsi лучший" [ref=e298]:
+                  - cell "lepszy" [ref=e299]
+                  - cell "-a/-e" [ref=e300]
+                  - cell "lepsze" [ref=e301]
+                  - cell "lepsi" [ref=e302]
+                  - cell "лучший" [ref=e303]
+                - row "szczęśliwy -a/-e szczęśliwe szczęśliwi счастливый" [ref=e304]:
+                  - cell "szczęśliwy" [ref=e305]
+                  - cell "-a/-e" [ref=e306]
+                  - cell "szczęśliwe" [ref=e307]
+                  - cell "szczęśliwi" [ref=e308]
+                  - cell "счастливый" [ref=e309]
+                - row "wolny -a/-e wolne wolni свободный" [ref=e310]:
+                  - cell "wolny" [ref=e311]
+                  - cell "-a/-e" [ref=e312]
+                  - cell "wolne" [ref=e313]
+                  - cell "wolni" [ref=e314]
+                  - cell "свободный" [ref=e315]
+                - row "miły -a/-e miłe mili милый" [ref=e316]:
+                  - cell "miły" [ref=e317]
+                  - cell "-a/-e" [ref=e318]
+                  - cell "miłe" [ref=e319]
+                  - cell "mili" [ref=e320]
+                  - cell "милый" [ref=e321]
+          - insertion [ref=e322]:
+            - iframe [ref=e324]:
+              - generic [active] [ref=f394e1]:
+                - generic [ref=f394e3]:
+                  - link:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CpWEz7PDMacHVOZvi78EPi5-NqQrs3b6ShgGprKnOqhWu84LQ2g8QASD63eE3YOnkyoXgGqABsrjw4wHIAQKpAn4B59oQHJI-qAMByAPJBKoE_wFP0IN1Iw7m5oHQUISRsX2IJFP7f9732ox0kuObU0yulv3x1VuKvVRvh0NCxwnn5Br3PuyaUBntRY7iSyZ_x0XjWpeEGMCORkp9bW8sBIlRVO5Z9xERnBm1kWeMPqin5JUpOL_7c3NzeNcyxr1sTbsdYDpwfvYRHxc29rODB0TLWb6uyiRzr6DSZuYbG0qXY4RUN-N5oAUD06EuFyqJStzmtDWX2D3ra-zzV1L9nqx2r4nK89R2P2x_ToZezSNmxCB-rlkZTWHs0dMO3xeJuZYwWTLkNRD_L5-Y76DCkC5L5wZY-prjvYrBMXQqY2nnbl_BYaebSK1JuW8sVqttJEPABNWl8a3KBYgF-rOhtlegBgKAB9zkvvQEqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYx8TsubbMkwOxCRuG_AtznPc_gAoBmAsByAsBogwDkAEBqg0CUEzIDQHqDRMI7P_tubbMkwMVG_E7Ah2LTyOl8A0CiA4J2BMN0BUBmBYByhYCCgD4FgGAFwGyFxAYASoKMTA0MDEwMjg2OVAGuhcCOAGqGBcJAAAAAECT9kASCjEwNDAxMDI4NjkYAbIYCRICqE4YAiIBANAYAQ&ae=1&gclid=EAIaIQobChMIwfvtubbMkwMVG_E7Ah2LTyOlEAEYASAAEgJ7DfD_BwE&num=1&cid=CAQSbwAFq6B9BsswI_70fZgIuWuedlUh2VCxG5FeNA3879s9QaKVp98iDofjqC5gBeIW7p_N7KlVMxyHsaJCk2zc6IFcZ7Dgz9LUWfmHCOuFNnceEj8AGaGkepsuU8_1J0OxNsFo9tJ0rZcGGDYQ6xPD5RgB&sig=AOD64_3kiR7d8HmJIxCzH1FVhOY21dq6kg&client=ca-pub-6525291204356869&rf=2&nb=2&adurl=https://web.landrover.pl/range-rover-affinity/range-rover-affinity%3Futm_medium%3Ddsp%26utm_source%3Dgoogle%2520display%2520network%26utm_campaign%3Dpl_rr_rr_all_gmc1000_DO_202601-range-rover-affinity-tactic-central%26utm_term%3D%26utm_content%3D%26gad_source%3D5
+                  - img [ref=f394e7] [cursor=pointer]
+                  - button [ref=f394e9] [cursor=pointer]:
+                    - img [ref=f394e10]
+                - iframe
+          - heading "Другие популярные прилагательные польского языка" [level=3] [ref=e325]: Другие популярные прилагательные польского языка
+          - paragraph [ref=e326]: "Из Krok po kroku, отсортированы в алфавитном порядке:"
+          - figure [ref=e327]:
+            - table [ref=e328]:
+              - rowgroup [ref=e329]:
+                - row "Прил., м.р. Ж.р. и с.р. One Oni Перевод" [ref=e330]:
+                  - columnheader "Прил., м.р." [ref=e331]
+                  - columnheader "Ж.р. и с.р." [ref=e332]
+                  - columnheader "One" [ref=e333]
+                  - columnheader "Oni" [ref=e334]
+                  - columnheader "Перевод" [ref=e335]
+              - rowgroup [ref=e336]:
+                - row "aktualny -a/-e aktualne aktualni актуальный" [ref=e337]:
+                  - cell "aktualny" [ref=e338]
+                  - cell "-a/-e" [ref=e339]
+                  - cell "aktualne" [ref=e340]
+                  - cell "aktualni" [ref=e341]
+                  - cell "актуальный" [ref=e342]
+                - row "biedny -a/-e biedne biedni бедный" [ref=e343]:
+                  - cell "biedny" [ref=e344]
+                  - cell "-a/-e" [ref=e345]
+                  - cell "biedne" [ref=e346]
+                  - cell "biedni" [ref=e347]
+                  - cell "бедный" [ref=e348]
+                - row "bogaty -a/-e bogate bogaci богатый" [ref=e349]:
+                  - cell "bogaty" [ref=e350]
+                  - cell "-a/-e" [ref=e351]
+                  - cell "bogate" [ref=e352]
+                  - cell "bogaci" [ref=e353]
+                  - cell "богатый" [ref=e354]
+                - row "brudny -a/-e brudne brudni грязный" [ref=e355]:
+                  - cell "brudny" [ref=e356]
+                  - cell "-a/-e" [ref=e357]
+                  - cell "brudne" [ref=e358]
+                  - cell "brudni" [ref=e359]
+                  - cell "грязный" [ref=e360]
+                - row "brzydki -a/-ie brzydkie brzydcy некрасивый" [ref=e361]:
+                  - cell "brzydki" [ref=e362]
+                  - cell "-a/-ie" [ref=e363]
+                  - cell "brzydkie" [ref=e364]
+                  - cell "brzydcy" [ref=e365]
+                  - cell "некрасивый" [ref=e366]
+                - row "chłodny -a/-e chłodne chłodni холодный" [ref=e367]:
+                  - cell "chłodny" [ref=e368]
+                  - cell "-a/-e" [ref=e369]
+                  - cell "chłodne" [ref=e370]
+                  - cell "chłodni" [ref=e371]
+                  - cell "холодный" [ref=e372]
+                - row "chory -a/-e chore chorzy больной" [ref=e373]:
+                  - cell "chory" [ref=e374]
+                  - cell "-a/-e" [ref=e375]
+                  - cell "chore" [ref=e376]
+                  - cell "chorzy" [ref=e377]
+                  - cell "больной" [ref=e378]
+                - row "chudy -a/-e chude chudzi худой" [ref=e379]:
+                  - cell "chudy" [ref=e380]
+                  - cell "-a/-e" [ref=e381]
+                  - cell "chude" [ref=e382]
+                  - cell "chudzi" [ref=e383]
+                  - cell "худой" [ref=e384]
+                - row "ciekawy -a/-e ciekawe ciekawi интересный" [ref=e385]:
+                  - cell "ciekawy" [ref=e386]
+                  - cell "-a/-e" [ref=e387]
+                  - cell "ciekawe" [ref=e388]
+                  - cell "ciekawi" [ref=e389]
+                  - cell "интересный" [ref=e390]
+                - row "ciemny -a/-e ciemne ciemni темный" [ref=e391]:
+                  - cell "ciemny" [ref=e392]
+                  - cell "-a/-e" [ref=e393]
+                  - cell "ciemne" [ref=e394]
+                  - cell "ciemni" [ref=e395]
+                  - cell "темный" [ref=e396]
+                - row "ciepły -a/-e ciepłe ciepli теплый" [ref=e397]:
+                  - cell "ciepły" [ref=e398]
+                  - cell "-a/-e" [ref=e399]
+                  - cell "ciepłe" [ref=e400]
+                  - cell "ciepli" [ref=e401]
+                  - cell "теплый" [ref=e402]
+                - row "częsty -a/-e częste części частый" [ref=e403]:
+                  - cell "częsty" [ref=e404]
+                  - cell "-a/-e" [ref=e405]
+                  - cell "częste" [ref=e406]
+                  - cell "części" [ref=e407]
+                  - cell "частый" [ref=e408]
+                - row "czysty -a/-e czyste czyści чистый" [ref=e409]:
+                  - cell "czysty" [ref=e410]
+                  - cell "-a/-e" [ref=e411]
+                  - cell "czyste" [ref=e412]
+                  - cell "czyści" [ref=e413]
+                  - cell "чистый" [ref=e414]
+                - row "daleki -a/-ie dalekie dalecy дальний" [ref=e415]:
+                  - cell "daleki" [ref=e416]
+                  - cell "-a/-ie" [ref=e417]
+                  - cell "dalekie" [ref=e418]
+                  - cell "dalecy" [ref=e419]
+                  - cell "дальний" [ref=e420]
+                - row "delikatny -a/-e delikatne delikatni нежный, деликатный" [ref=e421]:
+                  - cell "delikatny" [ref=e422]
+                  - cell "-a/-e" [ref=e423]
+                  - cell "delikatne" [ref=e424]
+                  - cell "delikatni" [ref=e425]
+                  - cell "нежный, деликатный" [ref=e426]
+                - row "długi -a/-ie długie dłudzy длинный" [ref=e427]:
+                  - cell "długi" [ref=e428]
+                  - cell "-a/-ie" [ref=e429]
+                  - cell "długie" [ref=e430]
+                  - cell "dłudzy" [ref=e431]
+                  - cell "длинный" [ref=e432]
+                - row "dojrzały -a/-e dojrzałe dojrzali спелый, зрелый" [ref=e433]:
+                  - cell "dojrzały" [ref=e434]
+                  - cell "-a/-e" [ref=e435]
+                  - cell "dojrzałe" [ref=e436]
+                  - cell "dojrzali" [ref=e437]
+                  - cell "спелый, зрелый" [ref=e438]
+                - row "drogi -a/-ie drogie drodzy дорогой" [ref=e439]:
+                  - cell "drogi" [ref=e440]
+                  - cell "-a/-ie" [ref=e441]
+                  - cell "drogie" [ref=e442]
+                  - cell "drodzy" [ref=e443]
+                  - cell "дорогой" [ref=e444]
+                - row "duszony -a/-e duszone duszoni тушеный" [ref=e445]:
+                  - cell "duszony" [ref=e446]
+                  - cell "-a/-e" [ref=e447]
+                  - cell "duszone" [ref=e448]
+                  - cell "duszoni" [ref=e449]
+                  - cell "тушеный" [ref=e450]
+                - row "fajny -a/-e fajne fajni классный" [ref=e451]:
+                  - cell "fajny" [ref=e452]
+                  - cell "-a/-e" [ref=e453]
+                  - cell "fajne" [ref=e454]
+                  - cell "fajni" [ref=e455]
+                  - cell "классный" [ref=e456]
+                - row "głodny -a/-e głodne głodni голодный" [ref=e457]:
+                  - cell "głodny" [ref=e458]
+                  - cell "-a/-e" [ref=e459]
+                  - cell "głodne" [ref=e460]
+                  - cell "głodni" [ref=e461]
+                  - cell "голодный" [ref=e462]
+                - row "gorący -a/-e gorące gorący горячий" [ref=e463]:
+                  - cell "gorący" [ref=e464]
+                  - cell "-a/-e" [ref=e465]
+                  - cell "gorące" [ref=e466]
+                  - cell "gorący" [ref=e467]
+                  - cell "горячий" [ref=e468]
+                - row "gorzki -a/-ie gorzkie gorzcy горький" [ref=e469]:
+                  - cell "gorzki" [ref=e470]
+                  - cell "-a/-ie" [ref=e471]
+                  - cell "gorzkie" [ref=e472]
+                  - cell "gorzcy" [ref=e473]
+                  - cell "горький" [ref=e474]
+                - row "gotowany -a/-e gotowane gotowani вареный" [ref=e475]:
+                  - cell "gotowany" [ref=e476]
+                  - cell "-a/-e" [ref=e477]
+                  - cell "gotowane" [ref=e478]
+                  - cell "gotowani" [ref=e479]
+                  - cell "вареный" [ref=e480]
+                - row "gruby -a/-e grube grubi полный" [ref=e481]:
+                  - cell "gruby" [ref=e482]
+                  - cell "-a/-e" [ref=e483]
+                  - cell "grube" [ref=e484]
+                  - cell "grubi" [ref=e485]
+                  - cell "полный" [ref=e486]
+                - row "grzeczny -a/-e grzeczne grzeczni вежливый" [ref=e487]:
+                  - cell "grzeczny" [ref=e488]
+                  - cell "-a/-e" [ref=e489]
+                  - cell "grzeczne" [ref=e490]
+                  - cell "grzeczni" [ref=e491]
+                  - cell "вежливый" [ref=e492]
+                - row "handlowy -a/-e handlowe handlowi торговый" [ref=e493]:
+                  - cell "handlowy" [ref=e494]
+                  - cell "-a/-e" [ref=e495]
+                  - cell "handlowe" [ref=e496]
+                  - cell "handlowi" [ref=e497]
+                  - cell "торговый" [ref=e498]
+                - row "intensywny -a/-e intensywne intensywni интенсивный" [ref=e499]:
+                  - cell "intensywny" [ref=e500]
+                  - cell "-a/-e" [ref=e501]
+                  - cell "intensywne" [ref=e502]
+                  - cell "intensywni" [ref=e503]
+                  - cell "интенсивный" [ref=e504]
+                - row "interesujący -a/-e interesujące interesujący интересный" [ref=e505]:
+                  - cell "interesujący" [ref=e506]
+                  - cell "-a/-e" [ref=e507]
+                  - cell "interesujące" [ref=e508]
+                  - cell "interesujący" [ref=e509]
+                  - cell "интересный" [ref=e510]
+                - row "jasny -a/-e jasne jasni ясный, светлый" [ref=e511]:
+                  - cell "jasny" [ref=e512]
+                  - cell "-a/-e" [ref=e513]
+                  - cell "jasne" [ref=e514]
+                  - cell "jasni" [ref=e515]
+                  - cell "ясный, светлый" [ref=e516]
+                - row "kolorowy -a/-e kolorowe kolorowi цветной" [ref=e517]:
+                  - cell "kolorowy" [ref=e518]
+                  - cell "-a/-e" [ref=e519]
+                  - cell "kolorowe" [ref=e520]
+                  - cell "kolorowi" [ref=e521]
+                  - cell "цветной" [ref=e522]
+                - row "konkretny -a/-e konkretne konkretni конкретный" [ref=e523]:
+                  - cell "konkretny" [ref=e524]
+                  - cell "-a/-e" [ref=e525]
+                  - cell "konkretne" [ref=e526]
+                  - cell "konkretni" [ref=e527]
+                  - cell "конкретный" [ref=e528]
+                - row "krótki -a/-ie krótkie krótcy короткий" [ref=e529]:
+                  - cell "krótki" [ref=e530]
+                  - cell "-a/-ie" [ref=e531]
+                  - cell "krótkie" [ref=e532]
+                  - cell "krótcy" [ref=e533]
+                  - cell "короткий" [ref=e534]
+                - row "kulturalny -a/-e kulturalne kulturalni культурный" [ref=e535]:
+                  - cell "kulturalny" [ref=e536]
+                  - cell "-a/-e" [ref=e537]
+                  - cell "kulturalne" [ref=e538]
+                  - cell "kulturalni" [ref=e539]
+                  - cell "культурный" [ref=e540]
+                - row "kwaśny -a/-e kwaśne kwaśni кислый" [ref=e541]:
+                  - cell "kwaśny" [ref=e542]
+                  - cell "-a/-e" [ref=e543]
+                  - cell "kwaśne" [ref=e544]
+                  - cell "kwaśni" [ref=e545]
+                  - cell "кислый" [ref=e546]
+                - row "lekki -a/-ie lekkie lekcy легкий" [ref=e547]:
+                  - cell "lekki" [ref=e548]
+                  - cell "-a/-ie" [ref=e549]
+                  - cell "lekkie" [ref=e550]
+                  - cell "lekcy" [ref=e551]
+                  - cell "легкий" [ref=e552]
+                - row "leniwy -a/-e leniwe leniwi ленивый" [ref=e553]:
+                  - cell "leniwy" [ref=e554]
+                  - cell "-a/-e" [ref=e555]
+                  - cell "leniwe" [ref=e556]
+                  - cell "leniwi" [ref=e557]
+                  - cell "ленивый" [ref=e558]
+                - row "ładny -a/-e ładne ładni красивый" [ref=e559]:
+                  - cell "ładny" [ref=e560]
+                  - cell "-a/-e" [ref=e561]
+                  - cell "ładne" [ref=e562]
+                  - cell "ładni" [ref=e563]
+                  - cell "красивый" [ref=e564]
+                - row "łagodny -a/-e łagodne łagodni нежный" [ref=e565]:
+                  - cell "łagodny" [ref=e566]
+                  - cell "-a/-e" [ref=e567]
+                  - cell "łagodne" [ref=e568]
+                  - cell "łagodni" [ref=e569]
+                  - cell "нежный" [ref=e570]
+                - row "męski -a/-ie męskie męscy мужской" [ref=e571]:
+                  - cell "męski" [ref=e572]
+                  - cell "-a/-ie" [ref=e573]
+                  - cell "męskie" [ref=e574]
+                  - cell "męscy" [ref=e575]
+                  - cell "мужской" [ref=e576]
+                - row "miękki -a/-ie miękkie miękcy мягкий" [ref=e577]:
+                  - cell "miękki" [ref=e578]
+                  - cell "-a/-ie" [ref=e579]
+                  - cell "miękkie" [ref=e580]
+                  - cell "miękcy" [ref=e581]
+                  - cell "мягкий" [ref=e582]
+          - blockquote [ref=e583]:
+            - text: 💡
+            - paragraph [ref=e584]:
+              - strong [ref=e585]:
+                - text: "Читайте также:"
+                - 'link "Топ-1000 слов: польский язык / 1000 najpopularniejszych słów języka polskiego" [ref=e586] [cursor=pointer]':
+                  - /url: https://propolski.com/2015/11/23/1000-najpopularniejszych-slow/
+          - insertion [ref=e587]:
+            - iframe [ref=e589]:
+              - generic [active] [ref=f395e1]:
+                - generic [ref=f395e3]:
+                  - link:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CYhc97PDMaaqDOvbg78EP3YKagQns3b6ShgGprKnOqhWu84LQ2g8QASD63eE3YOnkyoXgGqABsrjw4wHIAQKpAnyCGqXQGZI-qAMByAPJBKoE_wFP0CFgS01pPZZ3Nsytc_XoA8sJAKi8K7ejTelc6aMcV4fvr2AhoUGjeaTyGWKQlgBnfNQH_oQEv8_WIy8niuZvwbHQU95LJ27TZ525Z1anXgwjstfYKFfIh_4KPYZQp3UkJSLTpSO6nWOLa9kJT241p5eejn73qR8XaPFSeIZTUr5YDEtihtyVO9onTUzA43h0PKzTg0nJP5wo74RfC4itsbxaFuBEtKTXK2SXt0seE9KgROPuxCgpgoGNYRmkoPUVXrqTCQql3ktP9vZ9Vttk_7I-WC5SCkg6uE8u2xfJZX80S1gEU1nsi2x8c6hKpB80Xi2RZeuHTRiVoFX6uaPABNWl8a3KBYgF-rOhtlegBgKAB9zkvvQEqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYtOPsubbMkwOxCRuG_AtznPc_gAoBmAsByAsBogwDkAEBqg0CUEzIDQHqDRMIi6zuubbMkwMVdvA7Ah1dgSaQ8A0CiA4J2BMN0BUBmBYByhYCCgD4FgGAFwGyFxAYASoKMTA0MDEwMjg2OVAGuhcCOAGqGBcJAAAAAHBy9kASCjEwNDAxMDI4NjkYAbIYCRICqE4YAiIBANAYAQ&ae=1&gclid=EAIaIQobChMIqqnuubbMkwMVdvA7Ah1dgSaQEAEYASAAEgJI3fD_BwE&num=1&cid=CAQSbwAFq6B9o0WQuDbxpK6Y04dK_HIt5aqX0UBWeID7WvxZ1PdoAH7b5iDJWX1qcGsFWIYfYE-M6g_BrHAt7SCd1mhAckd0sYLPGOzYT4bmUASZPaDsNQB6ad_krl3Qn4DeprkSfkyOeSEIJg4OrQESTBgB&sig=AOD64_1RqQ5VlSciaOa7pSSgub9ggMAYSQ&client=ca-pub-6525291204356869&rf=2&nb=2&adurl=https://web.landrover.pl/range-rover-affinity/range-rover-affinity%3Futm_medium%3Ddsp%26utm_source%3Dgoogle%2520display%2520network%26utm_campaign%3Dpl_rr_rr_all_gmc1000_DO_202601-range-rover-affinity-tactic-central%26utm_term%3D%26utm_content%3D%26gad_source%3D5
+                  - img [ref=f395e7] [cursor=pointer]
+                  - button [ref=f395e9] [cursor=pointer]:
+                    - img [ref=f395e10]
+                - iframe
+          - figure [ref=e590]:
+            - table [ref=e591]:
+              - rowgroup [ref=e592]:
+                - row "Прил., м.р. Ж.р. и с.р. One Oni Перевод" [ref=e593]:
+                  - columnheader "Прил., м.р." [ref=e594]
+                  - columnheader "Ж.р. и с.р." [ref=e595]
+                  - columnheader "One" [ref=e596]
+                  - columnheader "Oni" [ref=e597]
+                  - columnheader "Перевод" [ref=e598]
+              - rowgroup [ref=e599]:
+                - row "młody -a/-e młode młodzi молодой" [ref=e600]:
+                  - cell "młody" [ref=e601]
+                  - cell "-a/-e" [ref=e602]
+                  - cell "młode" [ref=e603]
+                  - cell "młodzi" [ref=e604]
+                  - cell "молодой" [ref=e605]
+                - row "mocny -a/-e mocne mocni крепкий" [ref=e606]:
+                  - cell "mocny" [ref=e607]
+                  - cell "-a/-e" [ref=e608]
+                  - cell "mocne" [ref=e609]
+                  - cell "mocni" [ref=e610]
+                  - cell "крепкий" [ref=e611]
+                - row "modny -a/-e modne modni модный" [ref=e612]:
+                  - cell "modny" [ref=e613]
+                  - cell "-a/-e" [ref=e614]
+                  - cell "modne" [ref=e615]
+                  - cell "modni" [ref=e616]
+                  - cell "модный" [ref=e617]
+                - row "naturalny -a/-e naturalne naturalni натуральный" [ref=e618]:
+                  - cell "naturalny" [ref=e619]
+                  - cell "-a/-e" [ref=e620]
+                  - cell "naturalne" [ref=e621]
+                  - cell "naturalni" [ref=e622]
+                  - cell "натуральный" [ref=e623]
+                - row "niedrogi -a/-ie niedrogie niedrodzy недорогой" [ref=e624]:
+                  - cell "niedrogi" [ref=e625]
+                  - cell "-a/-ie" [ref=e626]
+                  - cell "niedrogie" [ref=e627]
+                  - cell "niedrodzy" [ref=e628]
+                  - cell "недорогой" [ref=e629]
+                - row "nieoficjalny -a/-e nieoficjalne nieoficjalni неофициальный" [ref=e630]:
+                  - cell "nieoficjalny" [ref=e631]
+                  - cell "-a/-e" [ref=e632]
+                  - cell "nieoficjalne" [ref=e633]
+                  - cell "nieoficjalni" [ref=e634]
+                  - cell "неофициальный" [ref=e635]
+                - row "niski -a/-ie niskie niscy низкий" [ref=e636]:
+                  - cell "niski" [ref=e637]
+                  - cell "-a/-ie" [ref=e638]
+                  - cell "niskie" [ref=e639]
+                  - cell "niscy" [ref=e640]
+                  - cell "низкий" [ref=e641]
+                - row "normalny -a/-e normalne normalni нормальный" [ref=e642]:
+                  - cell "normalny" [ref=e643]
+                  - cell "-a/-e" [ref=e644]
+                  - cell "normalne" [ref=e645]
+                  - cell "normalni" [ref=e646]
+                  - cell "нормальный" [ref=e647]
+                - row "obcy -a/-e obce obcy чужой" [ref=e648]:
+                  - cell "obcy" [ref=e649]
+                  - cell "-a/-e" [ref=e650]
+                  - cell "obce" [ref=e651]
+                  - cell "obcy" [ref=e652]
+                  - cell "чужой" [ref=e653]
+                - row "oficjalny -a/-e oficjalne oficjalni официальный" [ref=e654]:
+                  - cell "oficjalny" [ref=e655]
+                  - cell "-a/-e" [ref=e656]
+                  - cell "oficjalne" [ref=e657]
+                  - cell "oficjalni" [ref=e658]
+                  - cell "официальный" [ref=e659]
+                - row "okrągły -a/-e okrągłe okrągli круглый" [ref=e660]:
+                  - cell "okrągły" [ref=e661]
+                  - cell "-a/-e" [ref=e662]
+                  - cell "okrągłe" [ref=e663]
+                  - cell "okrągli" [ref=e664]
+                  - cell "круглый" [ref=e665]
+                - row "okropny -a/-e okropne okropni ужасный" [ref=e666]:
+                  - cell "okropny" [ref=e667]
+                  - cell "-a/-e" [ref=e668]
+                  - cell "okropne" [ref=e669]
+                  - cell "okropni" [ref=e670]
+                  - cell "ужасный" [ref=e671]
+                - row "ostry -a/-e ostre ostrzy острый" [ref=e672]:
+                  - cell "ostry" [ref=e673]
+                  - cell "-a/-e" [ref=e674]
+                  - cell "ostre" [ref=e675]
+                  - cell "ostrzy" [ref=e676]
+                  - cell "острый" [ref=e677]
+                - row "owalny -a/-e owalne owalni овальный" [ref=e678]:
+                  - cell "owalny" [ref=e679]
+                  - cell "-a/-e" [ref=e680]
+                  - cell "owalne" [ref=e681]
+                  - cell "owalni" [ref=e682]
+                  - cell "овальный" [ref=e683]
+                - row "podłużny -a/-e podłużne podłużni продолговатый" [ref=e684]:
+                  - cell "podłużny" [ref=e685]
+                  - cell "-a/-e" [ref=e686]
+                  - cell "podłużne" [ref=e687]
+                  - cell "podłużni" [ref=e688]
+                  - cell "продолговатый" [ref=e689]
+                - row "popularny -a/-e popularne popularni популярный" [ref=e690]:
+                  - cell "popularny" [ref=e691]
+                  - cell "-a/-e" [ref=e692]
+                  - cell "popularne" [ref=e693]
+                  - cell "popularni" [ref=e694]
+                  - cell "популярный" [ref=e695]
+                - row "pracowity -a/-e pracowite pracowici работящий" [ref=e696]:
+                  - cell "pracowity" [ref=e697]
+                  - cell "-a/-e" [ref=e698]
+                  - cell "pracowite" [ref=e699]
+                  - cell "pracowici" [ref=e700]
+                  - cell "работящий" [ref=e701]
+                - row "przystojny -a/-e przystojne przystojni красивый (мужчина)" [ref=e702]:
+                  - cell "przystojny" [ref=e703]
+                  - cell "-a/-e" [ref=e704]
+                  - cell "przystojne" [ref=e705]
+                  - cell "przystojni" [ref=e706]
+                  - cell "красивый (мужчина)" [ref=e707]
+                - row "pyszny -a/-e pyszne pyszni вкусный" [ref=e708]:
+                  - cell "pyszny" [ref=e709]
+                  - cell "-a/-e" [ref=e710]
+                  - cell "pyszne" [ref=e711]
+                  - cell "pyszni" [ref=e712]
+                  - cell "вкусный" [ref=e713]
+                - row "regionalny -a/-e regionalne regionalni региональный" [ref=e714]:
+                  - cell "regionalny" [ref=e715]
+                  - cell "-a/-e" [ref=e716]
+                  - cell "regionalne" [ref=e717]
+                  - cell "regionalni" [ref=e718]
+                  - cell "региональный" [ref=e719]
+                - row "rozwiedziony -a/-e rozwiedzione rozwiedzeni разведённый" [ref=e720]:
+                  - cell "rozwiedziony" [ref=e721]
+                  - cell "-a/-e" [ref=e722]
+                  - cell "rozwiedzione" [ref=e723]
+                  - cell "rozwiedzeni" [ref=e724]
+                  - cell "разведённый" [ref=e725]
+          - insertion [ref=e726]:
+            - iframe [ref=e728]:
+              - generic [ref=f396e3]:
+                - img "img" [ref=f396e5]
+                - img "img" [ref=f396e7]
+                - img "img" [ref=f396e9]
+                - img "img" [ref=f396e11]
+                - img "img" [ref=f396e13]
+                - img "img" [ref=f396e15]
+          - blockquote [ref=e729]:
+            - text: 💡
+            - paragraph [ref=e730]:
+              - strong [ref=e731]:
+                - text: "Читайте также:"
+                - link "Страны и национальности на польском языке / Państwa i narodowości" [ref=e732] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/07/panstwa-i-narodowosci/
+          - figure [ref=e733]:
+            - table [ref=e734]:
+              - rowgroup [ref=e735]:
+                - row "Прил., м.р. Ж.р. и с.р. One Oni Перевод" [ref=e736]:
+                  - columnheader "Прил., м.р." [ref=e737]
+                  - columnheader "Ж.р. и с.р." [ref=e738]
+                  - columnheader "One" [ref=e739]
+                  - columnheader "Oni" [ref=e740]
+                  - columnheader "Перевод" [ref=e741]
+              - rowgroup [ref=e742]:
+                - row "silny -a/-e silne silni сильный" [ref=e743]:
+                  - cell "silny" [ref=e744]
+                  - cell "-a/-e" [ref=e745]
+                  - cell "silne" [ref=e746]
+                  - cell "silni" [ref=e747]
+                  - cell "сильный" [ref=e748]
+                - row "skomplikowany -a/-e skomplikowane skomplikowani сложный, трудный" [ref=e749]:
+                  - cell "skomplikowany" [ref=e750]
+                  - cell "-a/-e" [ref=e751]
+                  - cell "skomplikowane" [ref=e752]
+                  - cell "skomplikowani" [ref=e753]
+                  - cell "сложный, трудный" [ref=e754]
+                - row "słodki -a/-ie słodkie słodcy сладкий" [ref=e755]:
+                  - cell "słodki" [ref=e756]
+                  - cell "-a/-ie" [ref=e757]
+                  - cell "słodkie" [ref=e758]
+                  - cell "słodcy" [ref=e759]
+                  - cell "сладкий" [ref=e760]
+                - row "słony -a/-e słone słoni соленый" [ref=e761]:
+                  - cell "słony" [ref=e762]
+                  - cell "-a/-e" [ref=e763]
+                  - cell "słone" [ref=e764]
+                  - cell "słoni" [ref=e765]
+                  - cell "соленый" [ref=e766]
+                - row "smaczny -a/-e smaczne smaczni вкусный" [ref=e767]:
+                  - cell "smaczny" [ref=e768]
+                  - cell "-a/-e" [ref=e769]
+                  - cell "smaczne" [ref=e770]
+                  - cell "smaczni" [ref=e771]
+                  - cell "вкусный" [ref=e772]
+                - row "smażony -a/-e smażone smażoni жареный" [ref=e773]:
+                  - cell "smażony" [ref=e774]
+                  - cell "-a/-e" [ref=e775]
+                  - cell "smażone" [ref=e776]
+                  - cell "smażoni" [ref=e777]
+                  - cell "жареный" [ref=e778]
+                - row "smutny -a/-e smutne smutni грустный" [ref=e779]:
+                  - cell "smutny" [ref=e780]
+                  - cell "-a/-e" [ref=e781]
+                  - cell "smutne" [ref=e782]
+                  - cell "smutni" [ref=e783]
+                  - cell "грустный" [ref=e784]
+                - row "specjalny -a/-e specjalne specjalni специальный" [ref=e785]:
+                  - cell "specjalny" [ref=e786]
+                  - cell "-a/-e" [ref=e787]
+                  - cell "specjalne" [ref=e788]
+                  - cell "specjalni" [ref=e789]
+                  - cell "специальный" [ref=e790]
+                - row "surowy -a/-e surowe surowi сырой" [ref=e791]:
+                  - cell "surowy" [ref=e792]
+                  - cell "-a/-e" [ref=e793]
+                  - cell "surowe" [ref=e794]
+                  - cell "surowi" [ref=e795]
+                  - cell "сырой" [ref=e796]
+                - row "suszony -a/-e suszone suszeni сушеный" [ref=e797]:
+                  - cell "suszony" [ref=e798]
+                  - cell "-a/-e" [ref=e799]
+                  - cell "suszone" [ref=e800]
+                  - cell "suszeni" [ref=e801]
+                  - cell "сушеный" [ref=e802]
+                - row "sympatyczny -a/-e sympatyczne sympatyczni симпатичный" [ref=e803]:
+                  - cell "sympatyczny" [ref=e804]
+                  - cell "-a/-e" [ref=e805]
+                  - cell "sympatyczne" [ref=e806]
+                  - cell "sympatyczni" [ref=e807]
+                  - cell "симпатичный" [ref=e808]
+                - row "szczupły -a/-e szczupłe szczupli щуплый" [ref=e809]:
+                  - cell "szczupły" [ref=e810]
+                  - cell "-a/-e" [ref=e811]
+                  - cell "szczupłe" [ref=e812]
+                  - cell "szczupli" [ref=e813]
+                  - cell "щуплый" [ref=e814]
+                - row "szeroki -a/-ie szerokie szerocy широкий" [ref=e815]:
+                  - cell "szeroki" [ref=e816]
+                  - cell "-a/-ie" [ref=e817]
+                  - cell "szerokie" [ref=e818]
+                  - cell "szerocy" [ref=e819]
+                  - cell "широкий" [ref=e820]
+                - row "szybki -a/-ie szybkie szybcy быстрый" [ref=e821]:
+                  - cell "szybki" [ref=e822]
+                  - cell "-a/-ie" [ref=e823]
+                  - cell "szybkie" [ref=e824]
+                  - cell "szybcy" [ref=e825]
+                  - cell "быстрый" [ref=e826]
+                - row "średni -ia/-ie średnie średni средний" [ref=e827]:
+                  - cell "średni" [ref=e828]
+                  - cell "-ia/-ie" [ref=e829]
+                  - cell "średnie" [ref=e830]
+                  - cell "średni" [ref=e831]
+                  - cell "средний" [ref=e832]
+                - row "świetny -a/-e świetne świetni отличный" [ref=e833]:
+                  - cell "świetny" [ref=e834]
+                  - cell "-a/-e" [ref=e835]
+                  - cell "świetne" [ref=e836]
+                  - cell "świetni" [ref=e837]
+                  - cell "отличный" [ref=e838]
+                - row "świeży -a/-e świeże świeży свежий" [ref=e839]:
+                  - cell "świeży" [ref=e840]
+                  - cell "-a/-e" [ref=e841]
+                  - cell "świeże" [ref=e842]
+                  - cell "świeży" [ref=e843]
+                  - cell "свежий" [ref=e844]
+                - row "tani -ia/-ie tanie tani дешевый" [ref=e845]:
+                  - cell "tani" [ref=e846]
+                  - cell "-ia/-ie" [ref=e847]
+                  - cell "tanie" [ref=e848]
+                  - cell "tani" [ref=e849]
+                  - cell "дешевый" [ref=e850]
+                - row "tłusty -a/-e tłuste tłuści жирный" [ref=e851]:
+                  - cell "tłusty" [ref=e852]
+                  - cell "-a/-e" [ref=e853]
+                  - cell "tłuste" [ref=e854]
+                  - cell "tłuści" [ref=e855]
+                  - cell "жирный" [ref=e856]
+                - row "tradycyjny -a/-e tradycyjne tradycyjni традиционный" [ref=e857]:
+                  - cell "tradycyjny" [ref=e858]
+                  - cell "-a/-e" [ref=e859]
+                  - cell "tradycyjne" [ref=e860]
+                  - cell "tradycyjni" [ref=e861]
+                  - cell "традиционный" [ref=e862]
+                - row "twardy -a/-e twarde twardzi твердый" [ref=e863]:
+                  - cell "twardy" [ref=e864]
+                  - cell "-a/-e" [ref=e865]
+                  - cell "twarde" [ref=e866]
+                  - cell "twardzi" [ref=e867]
+                  - cell "твердый" [ref=e868]
+          - insertion [ref=e869]:
+            - iframe [ref=e871]:
+              - generic [active] [ref=f397e1]:
+                - generic [ref=f397e3]:
+                  - link:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CJfpv7PDMaaWXL-i278EP5o7t6QLs3b6ShgGprKnOqhWu84LQ2g8QASD63eE3YOnkyoXgGqABsrjw4wHIAQKpAo3MgOngF5I-qAMByAPJBKoE_wFP0CJ57nYSjOBqSFzwL6VKkOoAIZR3OCJxe-TeAOeIqRmxcFSv-LjW3E2OVgaPlvoHBEJ3V0GPW-dr9ykwH6bTz7_WNdoM-eFEWfLVeg6Erijd-uXMtSqpSq7jkm-0k-oL81b6iTghZvieGVH5joTzMY7mFkCUEYGiZnki-s85FWmTbMqJSY8JCjtv7d9jeMkr89yAgJmWkPllWahOOSaEOkBsYwsGFgWf8Dm3pWobEcZSK7yK7OmmyDX7HJJXPl9-o40B1LjhDXu9Nh4OqyR6ZhAjL0H1xB9r30lpP_Xe0dQmFOIso9qbaFPBcwrNVg-WgrXr2Mo0HIAPBEzqLQfABNWl8a3KBYgF-rOhtlegBgKAB9zkvvQEqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYg_rhubbMkwOxCRuG_AtznPc_gAoBmAsByAsBogwDkAEBqg0CUEzIDQHqDRMIycLjubbMkwMVaNs7Ah1mRzst8A0CiA4J2BMN0BUBmBYByhYCCgD4FgGAFwGyFxAYASoKMTA0MDEwMjg2OVAGuhcCOAGqGBcJ_____z_b70ASCjEwNDAxMDI4NjkYAbIYCRICqE4YAiIBANAYAQ&ae=1&gclid=EAIaIQobChMIpb3jubbMkwMVaNs7Ah1mRzstEAEYASAAEgK-MPD_BwE&num=1&cid=CAQSbwAFq6B9bcJOtBqBv-xuG1eo0A9yg8_Kn8zksCGvwRFw3vrlpewrqDMnzEGNxxtSjHcRLFlliSQx3o3QXUiG9CqFCVy88tLcltxCJMe0Tp648w2f_1fGSTLI7wQaxexYpgrY9Y3zisn2L5x_YqxqsxgB&sig=AOD64_39WEy1hajBWCAbpRgwcwsIe-Y9mQ&client=ca-pub-6525291204356869&rf=2&nb=2&adurl=https://web.landrover.pl/range-rover-affinity/range-rover-affinity%3Futm_medium%3Ddsp%26utm_source%3Dgoogle%2520display%2520network%26utm_campaign%3Dpl_rr_rr_all_gmc1000_DO_202601-range-rover-affinity-tactic-central%26utm_term%3D%26utm_content%3D%26gad_source%3D5
+                  - img [ref=f397e7] [cursor=pointer]
+                  - button [ref=f397e9] [cursor=pointer]:
+                    - img [ref=f397e10]
+                - iframe
+          - figure [ref=e872]:
+            - table [ref=e873]:
+              - rowgroup [ref=e874]:
+                - row "Прил., м.р. Ж.р. и с.р. One Oni Перевод" [ref=e875]:
+                  - columnheader "Прил., м.р." [ref=e876]
+                  - columnheader "Ж.р. и с.р." [ref=e877]
+                  - columnheader "One" [ref=e878]
+                  - columnheader "Oni" [ref=e879]
+                  - columnheader "Перевод" [ref=e880]
+              - rowgroup [ref=e881]:
+                - row "ulgowy -a/-e ulgowe ulgowi со скидкой, льготный" [ref=e882]:
+                  - cell "ulgowy" [ref=e883]
+                  - cell "-a/-e" [ref=e884]
+                  - cell "ulgowe" [ref=e885]
+                  - cell "ulgowi" [ref=e886]
+                  - cell "со скидкой, льготный" [ref=e887]
+                - row "ulubiony -a/-e ulubione ulubieni любимый" [ref=e888]:
+                  - cell "ulubiony" [ref=e889]
+                  - cell "-a/-e" [ref=e890]
+                  - cell "ulubione" [ref=e891]
+                  - cell "ulubieni" [ref=e892]
+                  - cell "любимый" [ref=e893]
+                - row "wąski -a/-ie wąskie wąscy узкий" [ref=e894]:
+                  - cell "wąski" [ref=e895]
+                  - cell "-a/-ie" [ref=e896]
+                  - cell "wąskie" [ref=e897]
+                  - cell "wąscy" [ref=e898]
+                  - cell "узкий" [ref=e899]
+                - row "wesoły -a/-e wesołe weseli веселый" [ref=e900]:
+                  - cell "wesoły" [ref=e901]
+                  - cell "-a/-e" [ref=e902]
+                  - cell "wesołe" [ref=e903]
+                  - cell "weseli" [ref=e904]
+                  - cell "веселый" [ref=e905]
+                - row "wędzony -a/-e wędzone wędzeni копченый" [ref=e906]:
+                  - cell "wędzony" [ref=e907]
+                  - cell "-a/-e" [ref=e908]
+                  - cell "wędzone" [ref=e909]
+                  - cell "wędzeni" [ref=e910]
+                  - cell "копченый" [ref=e911]
+                - row "wysoki -a/-ie wysokie wysocy высокий" [ref=e912]:
+                  - cell "wysoki" [ref=e913]
+                  - cell "-a/-ie" [ref=e914]
+                  - cell "wysokie" [ref=e915]
+                  - cell "wysocy" [ref=e916]
+                  - cell "высокий" [ref=e917]
+                - row "wysportowany -a/-e wysportowane wysportowani спортивный" [ref=e918]:
+                  - cell "wysportowany" [ref=e919]
+                  - cell "-a/-e" [ref=e920]
+                  - cell "wysportowane" [ref=e921]
+                  - cell "wysportowani" [ref=e922]
+                  - cell "спортивный" [ref=e923]
+                - row "wyśmienity -a/-e wyśmienite wyśmienici шикарный" [ref=e924]:
+                  - cell "wyśmienity" [ref=e925]
+                  - cell "-a/-e" [ref=e926]
+                  - cell "wyśmienite" [ref=e927]
+                  - cell "wyśmienici" [ref=e928]
+                  - cell "шикарный" [ref=e929]
+                - row "zajęty -a/-e zajęte zajęci занятой, занятый" [ref=e930]:
+                  - cell "zajęty" [ref=e931]
+                  - cell "-a/-e" [ref=e932]
+                  - cell "zajęte" [ref=e933]
+                  - cell "zajęci" [ref=e934]
+                  - cell "занятой, занятый" [ref=e935]
+                - row "zaspany -a/-e zaspane zaspani сонный" [ref=e936]:
+                  - cell "zaspany" [ref=e937]
+                  - cell "-a/-e" [ref=e938]
+                  - cell "zaspane" [ref=e939]
+                  - cell "zaspani" [ref=e940]
+                  - cell "сонный" [ref=e941]
+                - row "zdrowy -a/-e zdrowe zdrowi здоровый" [ref=e942]:
+                  - cell "zdrowy" [ref=e943]
+                  - cell "-a/-e" [ref=e944]
+                  - cell "zdrowe" [ref=e945]
+                  - cell "zdrowi" [ref=e946]
+                  - cell "здоровый" [ref=e947]
+                - row "zimny -a/-e zimne zimni ледяной" [ref=e948]:
+                  - cell "zimny" [ref=e949]
+                  - cell "-a/-e" [ref=e950]
+                  - cell "zimne" [ref=e951]
+                  - cell "zimni" [ref=e952]
+                  - cell "ледяной" [ref=e953]
+                - row "zmęczony -a/-e zmęczone zmęczeni уставший" [ref=e954]:
+                  - cell "zmęczony" [ref=e955]
+                  - cell "-a/-e" [ref=e956]
+                  - cell "zmęczone" [ref=e957]
+                  - cell "zmęczeni" [ref=e958]
+                  - cell "уставший" [ref=e959]
+                - row "znakomity -a/-e znakomite znakomici превосходный" [ref=e960]:
+                  - cell "znakomity" [ref=e961]
+                  - cell "-a/-e" [ref=e962]
+                  - cell "znakomite" [ref=e963]
+                  - cell "znakomici" [ref=e964]
+                  - cell "превосходный" [ref=e965]
+                - row "znany -a/-e znane znani известный" [ref=e966]:
+                  - cell "znany" [ref=e967]
+                  - cell "-a/-e" [ref=e968]
+                  - cell "znane" [ref=e969]
+                  - cell "znani" [ref=e970]
+                  - cell "известный" [ref=e971]
+                - row "żeński -a/-ie żeńskie żeńscy женский" [ref=e972]:
+                  - cell "żeński" [ref=e973]
+                  - cell "-a/-ie" [ref=e974]
+                  - cell "żeńskie" [ref=e975]
+                  - cell "żeńscy" [ref=e976]
+                  - cell "женский" [ref=e977]
+          - insertion [ref=e978]:
+            - iframe [ref=e980]:
+              - generic [ref=f398e3]:
+                - img "img" [ref=f398e5]
+                - img "img" [ref=f398e7]
+                - img "img" [ref=f398e9]
+                - img "img" [ref=f398e11]
+                - img "img" [ref=f398e13]
+                - img "img" [ref=f398e15]
+          - heading "Цвета на польском языке" [level=3] [ref=e981]: Цвета на польском языке
+          - figure [ref=e982]:
+            - table [ref=e983]:
+              - rowgroup [ref=e984]:
+                - row "Прил.,м.р. Ж.р. и с.р. One Oni Перевод" [ref=e985]:
+                  - columnheader "Прил.,м.р." [ref=e986]
+                  - columnheader "Ж.р. и с.р." [ref=e987]
+                  - columnheader "One" [ref=e988]
+                  - columnheader "Oni" [ref=e989]
+                  - columnheader "Перевод" [ref=e990]
+              - rowgroup [ref=e991]:
+                - row "biały -a/-e białe biali белый" [ref=e992]:
+                  - cell "biały" [ref=e993]
+                  - cell "-a/-e" [ref=e994]
+                  - cell "białe" [ref=e995]
+                  - cell "biali" [ref=e996]
+                  - cell "белый" [ref=e997]
+                - row "błękitny -a/-e błękitne błękitni голубой" [ref=e998]:
+                  - cell "błękitny" [ref=e999]
+                  - cell "-a/-e" [ref=e1000]
+                  - cell "błękitne" [ref=e1001]
+                  - cell "błękitni" [ref=e1002]
+                  - cell "голубой" [ref=e1003]
+                - row "brązowy -a/-e brązowe brązowi коричневый, бронзовый" [ref=e1004]:
+                  - cell "brązowy" [ref=e1005]
+                  - cell "-a/-e" [ref=e1006]
+                  - cell "brązowe" [ref=e1007]
+                  - cell "brązowi" [ref=e1008]
+                  - cell "коричневый, бронзовый" [ref=e1009]
+                - row "czarny -a/-e czarne czarni черный" [ref=e1010]:
+                  - cell "czarny" [ref=e1011]
+                  - cell "-a/-e" [ref=e1012]
+                  - cell "czarne" [ref=e1013]
+                  - cell "czarni" [ref=e1014]
+                  - cell "черный" [ref=e1015]
+                - row "czerwony -a/-e czerwone czerwoni красный" [ref=e1016]:
+                  - cell "czerwony" [ref=e1017]
+                  - cell "-a/-e" [ref=e1018]
+                  - cell "czerwone" [ref=e1019]
+                  - cell "czerwoni" [ref=e1020]
+                  - cell "красный" [ref=e1021]
+                - row "fioletowy -a/-e fioletowe fioletowi фиолетовый" [ref=e1022]:
+                  - cell "fioletowy" [ref=e1023]
+                  - cell "-a/-e" [ref=e1024]
+                  - cell "fioletowe" [ref=e1025]
+                  - cell "fioletowi" [ref=e1026]
+                  - cell "фиолетовый" [ref=e1027]
+                - row "granatowy -a/-e granatowe granatowi темно-синий" [ref=e1028]:
+                  - cell "granatowy" [ref=e1029]
+                  - cell "-a/-e" [ref=e1030]
+                  - cell "granatowe" [ref=e1031]
+                  - cell "granatowi" [ref=e1032]
+                  - cell "темно-синий" [ref=e1033]
+                - row "niebieski -a/-ie niebieskie niebiescy синий" [ref=e1034]:
+                  - cell "niebieski" [ref=e1035]
+                  - cell "-a/-ie" [ref=e1036]
+                  - cell "niebieskie" [ref=e1037]
+                  - cell "niebiescy" [ref=e1038]
+                  - cell "синий" [ref=e1039]
+                - row "pomarańczowy -a/-e pomarańczowe pomarańczowi оранжевый" [ref=e1040]:
+                  - cell "pomarańczowy" [ref=e1041]
+                  - cell "-a/-e" [ref=e1042]
+                  - cell "pomarańczowe" [ref=e1043]
+                  - cell "pomarańczowi" [ref=e1044]
+                  - cell "оранжевый" [ref=e1045]
+                - row "różowy -a/-e różowe różowi розовый" [ref=e1046]:
+                  - cell "różowy" [ref=e1047]
+                  - cell "-a/-e" [ref=e1048]
+                  - cell "różowe" [ref=e1049]
+                  - cell "różowi" [ref=e1050]
+                  - cell "розовый" [ref=e1051]
+                - row "szary -a/-e szare szarzy серый" [ref=e1052]:
+                  - cell "szary" [ref=e1053]
+                  - cell "-a/-e" [ref=e1054]
+                  - cell "szare" [ref=e1055]
+                  - cell "szarzy" [ref=e1056]
+                  - cell "серый" [ref=e1057]
+                - row "zielony -a/-e zielone zieleni зеленый" [ref=e1058]:
+                  - cell "zielony" [ref=e1059]
+                  - cell "-a/-e" [ref=e1060]
+                  - cell "zielone" [ref=e1061]
+                  - cell "zieleni" [ref=e1062]
+                  - cell "зеленый" [ref=e1063]
+                - row "żółty -a/-e żółte żółci желтый" [ref=e1064]:
+                  - cell "żółty" [ref=e1065]
+                  - cell "-a/-e" [ref=e1066]
+                  - cell "żółte" [ref=e1067]
+                  - cell "żółci" [ref=e1068]
+                  - cell "желтый" [ref=e1069]
+          - heading "Интернационализмы польского языка + характер человека" [level=3] [ref=e1070]: Интернационализмы польского языка + характер человека
+          - figure [ref=e1071]:
+            - table [ref=e1072]:
+              - rowgroup [ref=e1073]:
+                - row "Прил.,м.р. Ж.р. и с.р. One Oni Перевод" [ref=e1074]:
+                  - columnheader "Прил.,м.р." [ref=e1075]
+                  - columnheader "Ж.р. и с.р." [ref=e1076]
+                  - columnheader "One" [ref=e1077]
+                  - columnheader "Oni" [ref=e1078]
+                  - columnheader "Перевод" [ref=e1079]
+              - rowgroup [ref=e1080]:
+                - row "agresywny -a/-e agresywne agresywni агрессивный" [ref=e1081]:
+                  - cell "agresywny" [ref=e1082]
+                  - cell "-a/-e" [ref=e1083]
+                  - cell "agresywne" [ref=e1084]
+                  - cell "agresywni" [ref=e1085]
+                  - cell "агрессивный" [ref=e1086]
+                - row "aktywny -a/-e aktywne aktywni активный" [ref=e1087]:
+                  - cell "aktywny" [ref=e1088]
+                  - cell "-a/-e" [ref=e1089]
+                  - cell "aktywne" [ref=e1090]
+                  - cell "aktywni" [ref=e1091]
+                  - cell "активный" [ref=e1092]
+                - row "ambitny -a/-e ambitne ambitni амбициозный" [ref=e1093]:
+                  - cell "ambitny" [ref=e1094]
+                  - cell "-a/-e" [ref=e1095]
+                  - cell "ambitne" [ref=e1096]
+                  - cell "ambitni" [ref=e1097]
+                  - cell "амбициозный" [ref=e1098]
+                - row "arogancki -a/-ie aroganckie aroganccy высокомерный" [ref=e1099]:
+                  - cell "arogancki" [ref=e1100]
+                  - cell "-a/-ie" [ref=e1101]
+                  - cell "aroganckie" [ref=e1102]
+                  - cell "aroganccy" [ref=e1103]
+                  - cell "высокомерный" [ref=e1104]
+                - row "atrakcyjny -a/-e atrakcyjne atrakcyjni привлекательный" [ref=e1105]:
+                  - cell "atrakcyjny" [ref=e1106]
+                  - cell "-a/-e" [ref=e1107]
+                  - cell "atrakcyjne" [ref=e1108]
+                  - cell "atrakcyjni" [ref=e1109]
+                  - cell "привлекательный" [ref=e1110]
+                - row "dynamiczny -a/-e dynamiczne dynamiczni динамичный" [ref=e1111]:
+                  - cell "dynamiczny" [ref=e1112]
+                  - cell "-a/-e" [ref=e1113]
+                  - cell "dynamiczne" [ref=e1114]
+                  - cell "dynamiczni" [ref=e1115]
+                  - cell "динамичный" [ref=e1116]
+                - row "energiczny -a/-e energiczne energiczni энергичный" [ref=e1117]:
+                  - cell "energiczny" [ref=e1118]
+                  - cell "-a/-e" [ref=e1119]
+                  - cell "energiczne" [ref=e1120]
+                  - cell "energiczni" [ref=e1121]
+                  - cell "энергичный" [ref=e1122]
+                - row "gadatliwy -a/-e gadatliwe gadatliwi болтливый" [ref=e1123]:
+                  - cell "gadatliwy" [ref=e1124]
+                  - cell "-a/-e" [ref=e1125]
+                  - cell "gadatliwe" [ref=e1126]
+                  - cell "gadatliwi" [ref=e1127]
+                  - cell "болтливый" [ref=e1128]
+                - row "idealny -a/-e idealne idealni идеальный" [ref=e1129]:
+                  - cell "idealny" [ref=e1130]
+                  - cell "-a/-e" [ref=e1131]
+                  - cell "idealne" [ref=e1132]
+                  - cell "idealni" [ref=e1133]
+                  - cell "идеальный" [ref=e1134]
+                - row "inteligentny -a/-e inteligentne inteligentni интеллигентный, умный" [ref=e1135]:
+                  - cell "inteligentny" [ref=e1136]
+                  - cell "-a/-e" [ref=e1137]
+                  - cell "inteligentne" [ref=e1138]
+                  - cell "inteligentni" [ref=e1139]
+                  - cell "интеллигентный, умный" [ref=e1140]
+                - row "kreatywny -a/-e kreatywne kreatywni креативный" [ref=e1141]:
+                  - cell "kreatywny" [ref=e1142]
+                  - cell "-a/-e" [ref=e1143]
+                  - cell "kreatywne" [ref=e1144]
+                  - cell "kreatywni" [ref=e1145]
+                  - cell "креативный" [ref=e1146]
+                - row "nerwowy -a/-e nerwowe nerwowi нервный" [ref=e1147]:
+                  - cell "nerwowy" [ref=e1148]
+                  - cell "-a/-e" [ref=e1149]
+                  - cell "nerwowe" [ref=e1150]
+                  - cell "nerwowi" [ref=e1151]
+                  - cell "нервный" [ref=e1152]
+                - row "niezależny -a/-e niezależne niezależni независимый" [ref=e1153]:
+                  - cell "niezależny" [ref=e1154]
+                  - cell "-a/-e" [ref=e1155]
+                  - cell "niezależne" [ref=e1156]
+                  - cell "niezależni" [ref=e1157]
+                  - cell "независимый" [ref=e1158]
+                - row "odważny -a/-e odważne odważni отважный" [ref=e1159]:
+                  - cell "odważny" [ref=e1160]
+                  - cell "-a/-e" [ref=e1161]
+                  - cell "odważne" [ref=e1162]
+                  - cell "odważni" [ref=e1163]
+                  - cell "отважный" [ref=e1164]
+                - row "oryginalny -a/-e oryginalne oryginalni оригинальный" [ref=e1165]:
+                  - cell "oryginalny" [ref=e1166]
+                  - cell "-a/-e" [ref=e1167]
+                  - cell "oryginalne" [ref=e1168]
+                  - cell "oryginalni" [ref=e1169]
+                  - cell "оригинальный" [ref=e1170]
+                - row "otwarty -a/-e otwarte otwarci открытый" [ref=e1171]:
+                  - cell "otwarty" [ref=e1172]
+                  - cell "-a/-e" [ref=e1173]
+                  - cell "otwarte" [ref=e1174]
+                  - cell "otwarci" [ref=e1175]
+                  - cell "открытый" [ref=e1176]
+          - insertion [ref=e1177]:
+            - iframe [ref=e1179]:
+              - generic [ref=f399e3]:
+                - img "img" [ref=f399e5]
+                - img "img" [ref=f399e7]
+                - img "img" [ref=f399e9]
+                - img "img" [ref=f399e11]
+                - img "img" [ref=f399e13]
+                - img "img" [ref=f399e15]
+          - figure [ref=e1180]:
+            - table [ref=e1181]:
+              - rowgroup [ref=e1182]:
+                - row "Прил., м.р. Ж.р. и с.р. One Oni Перевод" [ref=e1183]:
+                  - columnheader "Прил., м.р." [ref=e1184]
+                  - columnheader "Ж.р. и с.р." [ref=e1185]
+                  - columnheader "One" [ref=e1186]
+                  - columnheader "Oni" [ref=e1187]
+                  - columnheader "Перевод" [ref=e1188]
+              - rowgroup [ref=e1189]:
+                - row "punktualny -a/-e punktualne punktualni пунктуальный" [ref=e1190]:
+                  - cell "punktualny" [ref=e1191]
+                  - cell "-a/-e" [ref=e1192]
+                  - cell "punktualne" [ref=e1193]
+                  - cell "punktualni" [ref=e1194]
+                  - cell "пунктуальный" [ref=e1195]
+                - row "romantyczny -a/-e romantyczne romantyczni романтичный" [ref=e1196]:
+                  - cell "romantyczny" [ref=e1197]
+                  - cell "-a/-e" [ref=e1198]
+                  - cell "romantyczne" [ref=e1199]
+                  - cell "romantyczni" [ref=e1200]
+                  - cell "романтичный" [ref=e1201]
+                - row "roztrzepany -a/-e roztrzepane roztrzepani рассеянный" [ref=e1202]:
+                  - cell "roztrzepany" [ref=e1203]
+                  - cell "-a/-e" [ref=e1204]
+                  - cell "roztrzepane" [ref=e1205]
+                  - cell "roztrzepani" [ref=e1206]
+                  - cell "рассеянный" [ref=e1207]
+                - row "sfrustrowany -a/-e sfrustrowane sfrustrowani разочарованный, фрустрированный" [ref=e1208]:
+                  - cell "sfrustrowany" [ref=e1209]
+                  - cell "-a/-e" [ref=e1210]
+                  - cell "sfrustrowane" [ref=e1211]
+                  - cell "sfrustrowani" [ref=e1212]
+                  - cell "разочарованный, фрустрированный" [ref=e1213]
+                - row "spokojny -a/-e spokojne spokojni спокойный" [ref=e1214]:
+                  - cell "spokojny" [ref=e1215]
+                  - cell "-a/-e" [ref=e1216]
+                  - cell "spokojne" [ref=e1217]
+                  - cell "spokojni" [ref=e1218]
+                  - cell "спокойный" [ref=e1219]
+                - row "spontaniczny -a/-e spontaniczne spontaniczni спонтанный" [ref=e1220]:
+                  - cell "spontaniczny" [ref=e1221]
+                  - cell "-a/-e" [ref=e1222]
+                  - cell "spontaniczne" [ref=e1223]
+                  - cell "spontaniczni" [ref=e1224]
+                  - cell "спонтанный" [ref=e1225]
+                - row "systematyczny -a/-e systematyczne systematyczni систематический" [ref=e1226]:
+                  - cell "systematyczny" [ref=e1227]
+                  - cell "-a/-e" [ref=e1228]
+                  - cell "systematyczne" [ref=e1229]
+                  - cell "systematyczni" [ref=e1230]
+                  - cell "систематический" [ref=e1231]
+                - row "towarzyski -a/-ie towarzyskie towarzyscy общительный" [ref=e1232]:
+                  - cell "towarzyski" [ref=e1233]
+                  - cell "-a/-ie" [ref=e1234]
+                  - cell "towarzyskie" [ref=e1235]
+                  - cell "towarzyscy" [ref=e1236]
+                  - cell "общительный" [ref=e1237]
+                - row "utalentowany -a/-e utalentowane utalentowani талантливый" [ref=e1238]:
+                  - cell "utalentowany" [ref=e1239]
+                  - cell "-a/-e" [ref=e1240]
+                  - cell "utalentowane" [ref=e1241]
+                  - cell "utalentowani" [ref=e1242]
+                  - cell "талантливый" [ref=e1243]
+                - row "wrażliwy -a/-e wrażliwe wrażliwi чувствительный" [ref=e1244]:
+                  - cell "wrażliwy" [ref=e1245]
+                  - cell "-a/-e" [ref=e1246]
+                  - cell "wrażliwe" [ref=e1247]
+                  - cell "wrażliwi" [ref=e1248]
+                  - cell "чувствительный" [ref=e1249]
+                - row "wścibski -a/-ie wścibskie wścibscy любопытный" [ref=e1250]:
+                  - cell "wścibski" [ref=e1251]
+                  - cell "-a/-ie" [ref=e1252]
+                  - cell "wścibskie" [ref=e1253]
+                  - cell "wścibscy" [ref=e1254]
+                  - cell "любопытный" [ref=e1255]
+                - row "zabawny -a/-e zabawne zabawni забавный" [ref=e1256]:
+                  - cell "zabawny" [ref=e1257]
+                  - cell "-a/-e" [ref=e1258]
+                  - cell "zabawne" [ref=e1259]
+                  - cell "zabawni" [ref=e1260]
+                  - cell "забавный" [ref=e1261]
+                - row "zamknięty -a/-e zamknięte zamknięci замкнутый" [ref=e1262]:
+                  - cell "zamknięty" [ref=e1263]
+                  - cell "-a/-e" [ref=e1264]
+                  - cell "zamknięte" [ref=e1265]
+                  - cell "zamknięci" [ref=e1266]
+                  - cell "замкнутый" [ref=e1267]
+                - row "zarozumiały -a/-e zarozumiałe zarozumiali самоуверенный, самонадеянный" [ref=e1268]:
+                  - cell "zarozumiały" [ref=e1269]
+                  - cell "-a/-e" [ref=e1270]
+                  - cell "zarozumiałe" [ref=e1271]
+                  - cell "zarozumiali" [ref=e1272]
+                  - cell "самоуверенный, самонадеянный" [ref=e1273]
+                - row "zdecydowany -a/-e zdecydowane zdecydowani решительный" [ref=e1274]:
+                  - cell "zdecydowany" [ref=e1275]
+                  - cell "-a/-e" [ref=e1276]
+                  - cell "zdecydowane" [ref=e1277]
+                  - cell "zdecydowani" [ref=e1278]
+                  - cell "решительный" [ref=e1279]
+                - row "zdyscyplinowany -a/-e zdyscyplinowane zdyscyplinowani дисциплинированный" [ref=e1280]:
+                  - cell "zdyscyplinowany" [ref=e1281]
+                  - cell "-a/-e" [ref=e1282]
+                  - cell "zdyscyplinowane" [ref=e1283]
+                  - cell "zdyscyplinowani" [ref=e1284]
+                  - cell "дисциплинированный" [ref=e1285]
+                - row "zestresowany -a/-e zestresowane zestresowani в стрессе" [ref=e1286]:
+                  - cell "zestresowany" [ref=e1287]
+                  - cell "-a/-e" [ref=e1288]
+                  - cell "zestresowane" [ref=e1289]
+                  - cell "zestresowani" [ref=e1290]
+                  - cell "в стрессе" [ref=e1291]
+                - row "zorganizowany -a/-e zorganizowane zorganizowani организованный" [ref=e1292]:
+                  - cell "zorganizowany" [ref=e1293]
+                  - cell "-a/-e" [ref=e1294]
+                  - cell "zorganizowane" [ref=e1295]
+                  - cell "zorganizowani" [ref=e1296]
+                  - cell "организованный" [ref=e1297]
+          - insertion [ref=e1298]:
+            - iframe [ref=e1300]:
+              - generic [ref=f400e3]:
+                - img "img" [ref=f400e5]
+                - img "img" [ref=f400e7]
+                - img "img" [ref=f400e9]
+                - img "img" [ref=f400e11]
+                - img "img" [ref=f400e13]
+                - img "img" [ref=f400e15]
+          - paragraph [ref=e1301]:
+            - text: Это мой список 100+ самых популярных прилагательных польского языка. Еще была мысль сделать список прилагательных, произведённых от названий стран, но от мысли пришлось отказаться в пользу
+            - link "отдельной статьи." [ref=e1302] [cursor=pointer]:
+              - /url: https://propolski.com/2017/06/07/panstwa-i-narodowosci/
+          - paragraph [ref=e1303]: Ясное дело, что почти в любом словаре многие прилагательные переводились бы не одним словом. В таблицу я помещала те переводы, которые были в моей голове, в следствии чего я считаю их самыми распространёнными и употребляемыми.
+          - paragraph [ref=e1304]: В комментариях оставляйте заказы на следующие ТОПы-100+, конечно, если они разумны.
+          - paragraph [ref=e1305]: Веселой и интересной вам учебы!
+          - paragraph [ref=e1306]: "P.S. Если вам интересна серия ТОП-100, то в нее так же входят такие статьи:"
+          - list [ref=e1307]:
+            - listitem [ref=e1308]:
+              - link "50 книг на польском языке, которые можно скачать бесплатно" [ref=e1309] [cursor=pointer]:
+                - /url: https://propolski.com/2016/10/03/ksiazki-po-polsku-za-darmo/
+            - listitem [ref=e1310]:
+              - link "50 аудиокниг на польском языке – можно скачать или слушать бесплатно" [ref=e1311] [cursor=pointer]:
+                - /url: https://propolski.com/2017/05/09/audiobooks-po-polsku/
+            - listitem [ref=e1312]:
+              - 'link "Топ-1000 слов: польский язык / 1000 najpopularniejszych słów języka polskiego" [ref=e1313] [cursor=pointer]':
+                - /url: https://propolski.com/2015/11/23/1000-najpopularniejszych-slow/
+            - listitem [ref=e1314]:
+              - link "100+ самых употребляемых и популярных глаголов в польском языке" [ref=e1315] [cursor=pointer]:
+                - /url: https://propolski.com/2017/01/28/100-najbardziej-uzywanych-czasownikow/
+          - separator [ref=e1316]
+          - paragraph [ref=e1317]:
+            - text: Ваша Катерина Лукьянова, автор блога о польском языке
+            - link "ProPolski.com" [ref=e1318] [cursor=pointer]:
+              - /url: https://propolski.com
+            - text: ","
+            - link "Testy.ProPolski" [ref=e1319] [cursor=pointer]:
+              - /url: https://testy.propolski.com/
+            - text: и сайта
+            - link "insidePL.com" [ref=e1320] [cursor=pointer]:
+              - /url: https://insidepl.com/
+          - separator [ref=e1321]
+          - paragraph [ref=e1322]: Если материал был интересен и полезен, я буду рада поддержке моих проектов 🙂
+          - generic [ref=e1323]:
+            - figure [ref=e1328]:
+              - link "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e1329] [cursor=pointer]:
+                - /url: https://www.patreon.com/propolski
+                - img "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e1330]
+            - figure [ref=e1334]:
+              - link "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e1335] [cursor=pointer]:
+                - /url: https://www.paypal.me/propolski
+                - img "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e1336]
+          - paragraph [ref=e1338]:
+            - link "Как еще поддержать блог ProPolski" [ref=e1339] [cursor=pointer]:
+              - /url: https://propolski.com/subscribe-and-help/
+              - strong [ref=e1340]: Как еще поддержать блог ProPolski
+          - insertion:
+            - generic:
+              - iframe
+          - generic [ref=e1342]:
+            - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e1343]
+            - list [ref=e1345]:
+              - listitem [ref=e1346]:
+                - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e1347] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/?share=facebook&nb=1
+                  - text: 
+              - listitem [ref=e1348]:
+                - link "Поделиться в Pinterest (Открывается в новом окне) 2" [ref=e1349] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/?share=pinterest&nb=1
+                  - text: 
+              - listitem [ref=e1350]:
+                - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e1351] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/?share=telegram&nb=1
+                  - text: 
+              - listitem [ref=e1352]:
+                - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e1353] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/?share=jetpack-whatsapp&nb=1
+                  - text: 
+              - listitem [ref=e1354]:
+                - link "Поделиться в Х (Открывается в новом окне)" [ref=e1355] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/?share=x&nb=1
+                  - text: 
+              - listitem [ref=e1356]:
+                - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e1357] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/?share=linkedin&nb=1
+                  - text: 
+              - listitem [ref=e1358]:
+                - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e1359] [cursor=pointer]:
+                  - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20100%2B%20%D1%81%D0%B0%D0%BC%D1%8B%D1%85%20%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%BB%D0%B0%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0&body=https%3A%2F%2Fpropolski.com%2F2017%2F06%2F05%2F100-najpopularniejszych-przymiotnikow%2F&share=email&nb=1
+                  - text: 
+              - listitem [ref=e1360]:
+                - link "Печать (Открывается в новом окне)" [ref=e1361] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#print?share=print&nb=1
+                  - text: 
+              - listitem
+          - generic [ref=e1362]:
+            - heading "Это может вас заинтересовать:" [level=3] [ref=e1363]:
+              - emphasis [ref=e1364]: "Это может вас заинтересовать:"
+            - generic:
+              - generic [ref=e1365]:
+                - link "Топ-1000 польских слов / Najpopularniejsze słowa języka polskiego" [ref=e1366] [cursor=pointer]:
+                  - /url: https://propolski.com/2015/11/23/1000-najpopularniejszych-slow/
+                  - img "Топ-1000 польских слов / Najpopularniejsze słowa języka polskiego" [ref=e1367]
+                - heading "Топ-1000 польских слов / Najpopularniejsze słowa języka polskiego" [level=4] [ref=e1368]:
+                  - link "Топ-1000 польских слов / Najpopularniejsze słowa języka polskiego" [ref=e1369] [cursor=pointer]:
+                    - /url: https://propolski.com/2015/11/23/1000-najpopularniejszych-slow/
+                - paragraph [ref=e1370]: В "Словарь на польском языке по темам"
+              - generic [ref=e1371]:
+                - link "Упражнения на все падежи польского языка" [ref=e1372] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/07/27/przypadki-wszystkie-test-1/
+                  - img "Упражнения на все падежи польского языка" [ref=e1373]
+                - heading "Упражнения на все падежи польского языка" [level=4] [ref=e1374]:
+                  - link "Упражнения на все падежи польского языка" [ref=e1375] [cursor=pointer]:
+                    - /url: https://propolski.com/2018/07/27/przypadki-wszystkie-test-1/
+                - paragraph [ref=e1376]: В "Польская грамматика"
+              - generic [ref=e1377]:
+                - link "Дневник как помощь в изучении польского языка" [ref=e1378] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/25/dziennik-po-polsku-ekstra/
+                  - img "Дневник как помощь в изучении польского языка" [ref=e1379]
+                - heading "10 советов о ведении дневника на польском языке" [level=4] [ref=e1380]:
+                  - link "10 советов о ведении дневника на польском языке" [ref=e1381] [cursor=pointer]:
+                    - /url: https://propolski.com/2017/06/25/dziennik-po-polsku-ekstra/
+                - paragraph [ref=e1382]: В "Полезное для польского языка"
+        - generic [ref=e1384]:
+          - generic [ref=e1385]:
+            - text: 
+            - link "Катерина Лук'янова" [ref=e1386] [cursor=pointer]:
+              - /url: https://propolski.com/author/kettibellya/
+          - generic [ref=e1387]:
+            - text: 
+            - link "5 июня 2017" [ref=e1388] [cursor=pointer]:
+              - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/
+              - time [ref=e1389]: 5 июня 2017
+          - generic [ref=e1390]:
+            - text: 
+            - link "Польская грамматика" [ref=e1391] [cursor=pointer]:
+              - /url: https://propolski.com/category/polskaia-grammatika/
+            - text: ","
+            - link "Прилагательное в польском" [ref=e1392] [cursor=pointer]:
+              - /url: https://propolski.com/category/polskaia-grammatika/przymiotnik/
+            - text: ","
+            - link "Словарь на польском языке по темам" [ref=e1393] [cursor=pointer]:
+              - /url: https://propolski.com/category/slowa/
+            - text: ","
+            - link "Топ 100 материалов на польском языке" [ref=e1394] [cursor=pointer]:
+              - /url: https://propolski.com/category/top-100/
+          - generic [ref=e1395]:
+            - text: 
+            - link "21 комментарий" [ref=e1396] [cursor=pointer]:
+              - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comments
+      - list [ref=e1397]:
+        - listitem [ref=e1398]:
+          - link "← Польские глаголы на ować (и некоторые ywać / iwać) 18+" [ref=e1399] [cursor=pointer]:
+            - /url: https://propolski.com/2017/05/23/czasowniki-owac-ywac-iwac/
+        - listitem [ref=e1400]:
+          - link "Страны и национальности на польском языке →" [ref=e1401] [cursor=pointer]:
+            - /url: https://propolski.com/2017/06/07/panstwa-i-narodowosci/
+      - generic [ref=e1402]:
+        - heading "Одна мысль о “100+ самых популярных прилагательных польского языка”" [level=3] [ref=e1403]
+        - list [ref=e1404]:
+          - listitem [ref=e1405]:
+            - article [ref=e1406]:
+              - generic [ref=e1407]:
+                - generic [ref=e1408]:  Александр
+                - generic [ref=e1409]:  5 июня 2017 в 19:47
+                - link " Постоянная ссылка" [ref=e1410] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-508
+              - generic [ref=e1411]:
+                - paragraph [ref=e1412]:
+                  - text: Окончание в ед. числе ср. рода всегда такое-же, как в мн. числе жен. и ср. Важная закономерность, по моему. Катерина,а
+                  - text: когда окончание ie и когда e? Нет здесь какого-нибудь правила?
+                - link "Комментарий к записи Александр" [ref=e1413] [cursor=pointer]:
+                  - /url: "#comment-508"
+                  - text:  Ответ
+            - list [ref=e1414]:
+              - listitem [ref=e1415]:
+                - article [ref=e1416]:
+                  - generic [ref=e1417]:
+                    - generic [ref=e1418]:  Екатерина ЛукьяноваАвтор записи
+                    - generic [ref=e1419]:  5 июня 2017 в 20:53
+                    - link " Постоянная ссылка" [ref=e1420] [cursor=pointer]:
+                      - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-510
+                  - generic [ref=e1421]:
+                    - paragraph [ref=e1422]: Да, закономерность эта есть) Просто для меня она очевидна, потому и не добавила (но исправлю это дело). Про e ie тоже добавлю)
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1423] [cursor=pointer]:
+                      - /url: "#comment-510"
+                      - text:  Ответ
+          - listitem [ref=e1424]:
+            - article [ref=e1425]:
+              - generic [ref=e1426]:
+                - generic [ref=e1427]:  Saszka29
+                - generic [ref=e1428]:  5 июня 2017 в 20:02
+                - link " Постоянная ссылка" [ref=e1429] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-509
+              - generic [ref=e1430]:
+                - paragraph [ref=e1431]: Отличная статья, огромное спасибо)
+                - link "Комментарий к записи Saszka29" [ref=e1432] [cursor=pointer]:
+                  - /url: "#comment-509"
+                  - text:  Ответ
+            - list [ref=e1433]:
+              - listitem [ref=e1434]:
+                - article [ref=e1435]:
+                  - generic [ref=e1436]:
+                    - generic [ref=e1437]:  Екатерина ЛукьяноваАвтор записи
+                    - generic [ref=e1438]:  5 июня 2017 в 20:54
+                    - link " Постоянная ссылка" [ref=e1439] [cursor=pointer]:
+                      - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-511
+                  - generic [ref=e1440]:
+                    - paragraph [ref=e1441]: И Вам спасибо! 🙂
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1442] [cursor=pointer]:
+                      - /url: "#comment-511"
+                      - text:  Ответ
+          - listitem [ref=e1443]:
+            - article [ref=e1444]:
+              - generic [ref=e1445]:
+                - generic [ref=e1446]:  Александр
+                - generic [ref=e1447]:  5 июня 2017 в 22:41
+                - link " Постоянная ссылка" [ref=e1448] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-512
+              - generic [ref=e1449]:
+                - paragraph [ref=e1450]: Ну да. Если на i заканчивается, то ie
+                - link "Комментарий к записи Александр" [ref=e1451] [cursor=pointer]:
+                  - /url: "#comment-512"
+                  - text:  Ответ
+          - listitem [ref=e1452]:
+            - article [ref=e1453]:
+              - generic [ref=e1454]:
+                - generic [ref=e1455]:  Александр
+                - generic [ref=e1456]:  5 июня 2017 в 22:50
+                - link " Постоянная ссылка" [ref=e1457] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-513
+              - generic [ref=e1458]:
+                - paragraph [ref=e1459]: Очень хорошая статья. И прилагательные я не все знал)) основные
+                - link "Комментарий к записи Александр" [ref=e1460] [cursor=pointer]:
+                  - /url: "#comment-513"
+                  - text:  Ответ
+          - listitem [ref=e1461]:
+            - article [ref=e1462]:
+              - generic [ref=e1463]:
+                - generic [ref=e1464]:  Ольга
+                - generic [ref=e1465]:  8 июня 2017 в 21:07
+                - link " Постоянная ссылка" [ref=e1466] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-525
+              - generic [ref=e1467]:
+                - paragraph [ref=e1468]:
+                  - text: "Очень полезно. Спасибо! Ищу лексику на тему: «Кухня, кухонные принадлежности». Не могли бы Вы составить список слов на эту тему?"
+                  - text: Заранее спасибо!
+                - link "Комментарий к записи Ольга" [ref=e1469] [cursor=pointer]:
+                  - /url: "#comment-525"
+                  - text:  Ответ
+            - list [ref=e1470]:
+              - listitem [ref=e1471]:
+                - article [ref=e1472]:
+                  - generic [ref=e1473]:
+                    - generic [ref=e1474]:  Екатерина ЛукьяноваАвтор записи
+                    - generic [ref=e1475]:  8 июня 2017 в 21:23
+                    - link " Постоянная ссылка" [ref=e1476] [cursor=pointer]:
+                      - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-526
+                  - generic [ref=e1477]:
+                    - paragraph [ref=e1478]:
+                      - text: Ольга, посмотрите статьи этой категории —
+                      - link "https://propolski.com/category/kuchnia/" [ref=e1479] [cursor=pointer]:
+                        - /url: https://propolski.com/category/kuchnia/
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1480] [cursor=pointer]:
+                      - /url: "#comment-526"
+                      - text:  Ответ
+          - listitem [ref=e1481]:
+            - article [ref=e1482]:
+              - generic [ref=e1483]:
+                - generic [ref=e1484]:  Ольга
+                - generic [ref=e1485]:  9 июня 2017 в 11:50
+                - link " Постоянная ссылка" [ref=e1486] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-529
+              - generic [ref=e1487]:
+                - paragraph [ref=e1488]: Спасибо!
+                - link "Комментарий к записи Ольга" [ref=e1489] [cursor=pointer]:
+                  - /url: "#comment-529"
+                  - text:  Ответ
+          - listitem [ref=e1490]:
+            - article [ref=e1491]:
+              - generic [ref=e1492]:
+                - generic [ref=e1493]:  Святослав
+                - generic [ref=e1494]:  18 июня 2017 в 18:41
+                - link " Постоянная ссылка" [ref=e1495] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-532
+              - generic [ref=e1496]:
+                - paragraph [ref=e1497]: Спасибо, узнал несколько новых прилагательных.
+                - paragraph [ref=e1498]: Думаю, что «ulgowy» корректней перевести как «льготный». И разве не «zestResowany» вместо «zestrzesowany»?
+                - link "Комментарий к записи Святослав" [ref=e1499] [cursor=pointer]:
+                  - /url: "#comment-532"
+                  - text:  Ответ
+            - list [ref=e1500]:
+              - listitem [ref=e1501]:
+                - article [ref=e1502]:
+                  - generic [ref=e1503]:
+                    - generic [ref=e1504]:  Екатерина ЛукьяноваАвтор записи
+                    - generic [ref=e1505]:  18 июня 2017 в 20:47
+                    - link " Постоянная ссылка" [ref=e1506] [cursor=pointer]:
+                      - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-536
+                  - generic [ref=e1507]:
+                    - paragraph [ref=e1508]: Льготный — да, в запарке в голову не пришло 🙂 А опечатки случаются, знаете ли 🙂 Спасибо, что написали 🙂
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1509] [cursor=pointer]:
+                      - /url: "#comment-536"
+                      - text:  Ответ
+          - listitem [ref=e1510]:
+            - article [ref=e1511]:
+              - generic [ref=e1512]:
+                - generic [ref=e1513]:  Иван
+                - generic [ref=e1514]:  16 февраля 2018 в 00:00
+                - link " Постоянная ссылка" [ref=e1515] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-816
+              - generic [ref=e1516]:
+                - paragraph [ref=e1517]: Я всегда думал, что zimny- это холодный, а «ледяной» — это lodowaty
+                - link "Комментарий к записи Иван" [ref=e1518] [cursor=pointer]:
+                  - /url: "#comment-816"
+                  - text:  Ответ
+          - listitem [ref=e1519]:
+            - article [ref=e1520]:
+              - generic [ref=e1521]:
+                - generic [ref=e1522]:  Ola
+                - generic [ref=e1523]:  7 марта 2018 в 02:35
+                - link " Постоянная ссылка" [ref=e1524] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-843
+              - generic [ref=e1525]:
+                - paragraph [ref=e1526]: Опечатка или ошибка в слове «duzi» у вас там ż вместо z
+                - link "Комментарий к записи Ola" [ref=e1527] [cursor=pointer]:
+                  - /url: "#comment-843"
+                  - text:  Ответ
+            - list [ref=e1528]:
+              - listitem [ref=e1529]:
+                - article [ref=e1530]:
+                  - generic [ref=e1531]:
+                    - generic [ref=e1532]:  Екатерина ЛукьяноваАвтор записи
+                    - generic [ref=e1533]:  7 марта 2018 в 20:52
+                    - link " Постоянная ссылка" [ref=e1534] [cursor=pointer]:
+                      - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-848
+                  - generic [ref=e1535]:
+                    - paragraph [ref=e1536]: Да, опечатка, спасибо! 🙂
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1537] [cursor=pointer]:
+                      - /url: "#comment-848"
+                      - text:  Ответ
+          - listitem [ref=e1538]:
+            - article [ref=e1539]:
+              - generic [ref=e1540]:
+                - generic [ref=e1541]:
+                  - text: 
+                  - link "Oleg" [ref=e1542] [cursor=pointer]:
+                    - /url: http://studentway.org.ua/page/zaklyuchenie-terminy-obshego-haraktera-video/
+                - generic [ref=e1543]:  15 марта 2018 в 10:59
+                - link " Постоянная ссылка" [ref=e1544] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-859
+              - generic [ref=e1545]:
+                - paragraph [ref=e1546]:
+                  - text: Для тех кто, кто хотел бы послушать КАК произносятся ПРИЛАГАТЕЛЬНЫЕ Перейдите по ссылке
+                  - link "http://studentway.org.ua/page/zaklyuchenie-terminy-obshego-haraktera-video/" [ref=e1547] [cursor=pointer]:
+                    - /url: http://studentway.org.ua/page/zaklyuchenie-terminy-obshego-haraktera-video/
+                - link "Комментарий к записи Oleg" [ref=e1548] [cursor=pointer]:
+                  - /url: "#comment-859"
+                  - text:  Ответ
+          - listitem [ref=e1549]:
+            - article [ref=e1550]:
+              - generic [ref=e1551]:
+                - generic [ref=e1552]:  Jan
+                - generic [ref=e1553]:  7 января 2019 в 13:20
+                - link " Постоянная ссылка" [ref=e1554] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-1289
+              - generic [ref=e1555]:
+                - paragraph [ref=e1556]: Здравствуйте,извините пожалуйста…gotowany-готовый или вареный значит?
+                - link "Комментарий к записи Jan" [ref=e1557] [cursor=pointer]:
+                  - /url: "#comment-1289"
+                  - text:  Ответ
+            - list [ref=e1558]:
+              - listitem [ref=e1559]:
+                - article [ref=e1560]:
+                  - generic [ref=e1561]:
+                    - generic [ref=e1562]:  Екатерина ЛукьяноваАвтор записи
+                    - generic [ref=e1563]:  1 февраля 2019 в 22:33
+                    - link " Постоянная ссылка" [ref=e1564] [cursor=pointer]:
+                      - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-1317
+                  - generic [ref=e1565]:
+                    - paragraph [ref=e1566]: Здравствуйте, вареный, приготовленный.
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1567] [cursor=pointer]:
+                      - /url: "#comment-1317"
+                      - text:  Ответ
+          - listitem [ref=e1568]:
+            - article [ref=e1569]:
+              - generic [ref=e1570]:
+                - generic [ref=e1571]:  Ученик
+                - generic [ref=e1572]:  15 июля 2019 в 11:30
+                - link " Постоянная ссылка" [ref=e1573] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-1621
+              - generic [ref=e1574]:
+                - paragraph [ref=e1575]: Интенсивный, там s или с?
+                - link "Комментарий к записи Ученик" [ref=e1576] [cursor=pointer]:
+                  - /url: "#comment-1621"
+                  - text:  Ответ
+            - list [ref=e1577]:
+              - listitem [ref=e1578]:
+                - article [ref=e1579]:
+                  - generic [ref=e1580]:
+                    - generic [ref=e1581]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e1582] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e1583]:  7 ноября 2019 в 13:50
+                    - link " Постоянная ссылка" [ref=e1584] [cursor=pointer]:
+                      - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-1866
+                  - generic [ref=e1585]:
+                    - paragraph [ref=e1586]: S! Опечатка, поправила 🙂 Спасибо!
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1587] [cursor=pointer]:
+                      - /url: "#comment-1866"
+                      - text:  Ответ
+          - listitem [ref=e1588]:
+            - article [ref=e1589]:
+              - generic [ref=e1590]:
+                - generic [ref=e1591]:  Gleb
+                - generic [ref=e1592]:  25 июля 2019 в 20:02
+                - link " Постоянная ссылка" [ref=e1593] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-1629
+              - generic [ref=e1594]:
+                - paragraph [ref=e1595]: Хм, а слова в таблице отсортированы в порядке популярности? Неужели самое частотное — это stary?
+                - link "Комментарий к записи Gleb" [ref=e1596] [cursor=pointer]:
+                  - /url: "#comment-1629"
+                  - text:  Ответ
+            - list [ref=e1597]:
+              - listitem [ref=e1598]:
+                - article [ref=e1599]:
+                  - generic [ref=e1600]:
+                    - generic [ref=e1601]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e1602] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e1603]:  29 июля 2019 в 12:53
+                    - link " Постоянная ссылка" [ref=e1604] [cursor=pointer]:
+                      - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/#comment-1636
+                  - generic [ref=e1605]:
+                    - paragraph [ref=e1606]: Старалась да, но — еще раз просмотрю источники — и напишу Вам здесь 😉
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1607] [cursor=pointer]:
+                      - /url: "#comment-1636"
+                      - text:  Ответ
+        - generic [ref=e1608]:
+          - heading "Добавить комментарий" [level=3] [ref=e1609]: Добавить комментарий
+          - iframe [ref=e1611]:
+            
+    - contentinfo [ref=e1612]:
+      - generic [ref=e1615]:
+        - complementary [ref=e1617]:
+          - heading "Полезные ссылки" [level=3] [ref=e1618]
+          - list [ref=e1620]:
+            - listitem [ref=e1621]:
+              - link "Тесты по польскому языку" [ref=e1622] [cursor=pointer]:
+                - /url: https://testy.propolski.com/
+            - listitem [ref=e1623]:
+              - link "Статьи о Польше" [ref=e1624] [cursor=pointer]:
+                - /url: https://insidepl.com/
+            - listitem [ref=e1625]:
+              - link "Лучший хостинг" [ref=e1626] [cursor=pointer]:
+                - /url: https://www.lh.pl/?ref=kettibellya
+        - complementary [ref=e1628]:
+          - heading "Что такое ProPolski" [level=3] [ref=e1629]
+          - list [ref=e1631]:
+            - listitem [ref=e1632]:
+              - link "Об авторе" [ref=e1633] [cursor=pointer]:
+                - /url: https://propolski.com/autor/
+            - listitem [ref=e1634]:
+              - link "Мои ответы на вопросы" [ref=e1635] [cursor=pointer]:
+                - /url: https://propolski.com/?p=1811
+            - listitem [ref=e1636]:
+              - link "Курс для начинающих" [ref=e1637] [cursor=pointer]:
+                - /url: https://kursy.propolski.com/
+            - listitem [ref=e1638]:
+              - link "Бесплатная подписка" [ref=e1639] [cursor=pointer]:
+                - /url: https://propolski.com/kontakt/
+            - listitem [ref=e1640]:
+              - link "Политика конфиденциальности" [ref=e1641] [cursor=pointer]:
+                - /url: https://propolski.com/privacy-policy-2/
+        - complementary [ref=e1643]:
+          - heading "Блог был для вас полезен?" [level=3] [ref=e1644]
+          - generic [ref=e1645]:
+            - paragraph [ref=e1646]: Если вам понравилось, если было полезно, то ваша финансовая поддержка поможет мне писать чаще и еще интереснее!
+            - link "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e1648] [cursor=pointer]:
+              - /url: https://www.patreon.com/propolski
+              - img "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e1649]
+            - link "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e1651] [cursor=pointer]:
+              - /url: https://www.paypal.me/propolski
+              - img "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e1652]
+        - complementary [ref=e1654]:
+          - paragraph [ref=e1656]:
+            - text: Запроектировано с помощью Freepik.com
+            - strong [ref=e1657]: Все права защищены.
+            - text: Материалы
+            - strong [ref=e1658]: не копировать
+            - text: для использования на других страницах, для этого внизу каждой статьи есть кнопочка «поделиться».
+      - generic [ref=e1659]:
+        - generic:
+          - generic:
+            - generic [ref=e1660]:
+              - text: Copyright © 2026
+              - link "ProPolski" [ref=e1661] [cursor=pointer]:
+                - /url: https://propolski.com/
+              - text: . Все права защищены. Тема
+              - link "Spacious" [ref=e1662] [cursor=pointer]:
+                - /url: https://themegrill.com/themes/spacious
+              - text: "от ThemeGrill. На платформе:"
+              - link "WordPress" [ref=e1663] [cursor=pointer]:
+                - /url: https://wordpress.org
+              - text: .
+            - navigation [ref=e1664]:
+              - generic:
+                - list:
+                  - listitem [ref=e1665]:
+                    - link "Об авторе" [ref=e1666] [cursor=pointer]:
+                      - /url: https://propolski.com/autor/
+                  - listitem [ref=e1667]:
+                    - link "Мои ответы на вопросы" [ref=e1668] [cursor=pointer]:
+                      - /url: https://propolski.com/?p=1811
+                  - listitem [ref=e1669]:
+                    - link "Курс для начинающих" [ref=e1670] [cursor=pointer]:
+                      - /url: https://kursy.propolski.com/
+                  - listitem [ref=e1671]:
+                    - link "Бесплатная подписка" [ref=e1672] [cursor=pointer]:
+                      - /url: https://propolski.com/kontakt/
+                  - listitem [ref=e1673]:
+                    - link "Политика конфиденциальности" [ref=e1674] [cursor=pointer]:
+                      - /url: https://propolski.com/privacy-policy-2/
+    - text: 
+    - generic [ref=e1676]:
+      - button "Privacy and cookie settings" [ref=e1677] [cursor=pointer]
+      - generic [ref=e1678]: "Managed by Google. Complies with IAB TCF. CMP ID: 300"
+  - insertion [ref=e1679]:
+    - iframe [ref=e1682]:
+      - iframe [ref=f422e1]:
+        - generic [ref=f425e1]:
+          - generic:
+            - img [ref=f425e5] [cursor=pointer]
+            - button [ref=f425e7] [cursor=pointer]:
+              - img [ref=f425e8]

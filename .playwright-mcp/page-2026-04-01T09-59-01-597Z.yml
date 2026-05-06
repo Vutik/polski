@@ -1,0 +1,1400 @@
+- generic [ref=e2]:
+  - link "Перейти к содержимому" [ref=e3] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e8]:
+        - link " Просмотреть профиль propolskiblog на Facebook" [ref=e9] [cursor=pointer]:
+          - /url: https://www.facebook.com/propolskiblog/
+          - text: 
+          - generic [ref=e10]: Просмотреть профиль propolskiblog на Facebook
+        - link " Просмотреть профиль PROpolski_com на Twitter" [ref=e11] [cursor=pointer]:
+          - /url: https://twitter.com/PROpolski_com/
+          - text: 
+          - generic [ref=e12]: Просмотреть профиль PROpolski_com на Twitter
+        - link " Просмотреть профиль propolski на Instagram" [ref=e13] [cursor=pointer]:
+          - /url: https://www.instagram.com/propolski/
+          - text: 
+          - generic [ref=e14]: Просмотреть профиль propolski на Instagram
+        - link " Просмотреть профиль propolskiblog на Pinterest" [ref=e15] [cursor=pointer]:
+          - /url: https://www.pinterest.com/propolskiblog/
+          - text: 
+          - generic [ref=e16]: Просмотреть профиль propolskiblog на Pinterest
+        - link " Просмотреть профиль kateryna-lukianova-78b0a2ab на LinkedIn" [ref=e17] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/kateryna-lukianova-78b0a2ab/
+          - text: 
+          - generic [ref=e18]: Просмотреть профиль kateryna-lukianova-78b0a2ab на LinkedIn
+        - link " Просмотреть профиль UCg0djfCucaVv9spNr2yPv-A на YouTube" [ref=e19] [cursor=pointer]:
+          - /url: https://www.youtube.com/channel/UCg0djfCucaVv9spNr2yPv-A/
+          - text: 
+          - generic [ref=e20]: Просмотреть профиль UCg0djfCucaVv9spNr2yPv-A на YouTube
+        - link " Просмотреть профиль propolskiblog на Telegram" [ref=e21] [cursor=pointer]:
+          - /url: https://www.t.me/propolski_kurs/
+          - text: 
+          - generic [ref=e22]: Просмотреть профиль propolskiblog на Telegram
+      - navigation [ref=e23]:
+        - generic:
+          - list:
+            - listitem [ref=e24]:
+              - link "Українська" [ref=e25] [cursor=pointer]:
+                - /url: https://propolski.com/uk/category/polska-gramatyka/
+            - listitem [ref=e26]:
+              - link "Русский" [ref=e27] [cursor=pointer]:
+                - /url: https://propolski.com/category/polskaia-grammatika/
+    - generic [ref=e30]:
+      - generic [ref=e31]:
+        - link "ProPolski - блог о польском языке" [ref=e33] [cursor=pointer]:
+          - /url: https://propolski.com/
+          - img "ProPolski - блог о польском языке" [ref=e34]
+        - generic [ref=e35]:
+          - heading "ProPolski" [level=3] [ref=e36]:
+            - link "ProPolski" [ref=e37] [cursor=pointer]:
+              - /url: https://propolski.com/
+          - paragraph [ref=e38]: Блог о польском языке
+      - generic [ref=e39]:
+        - complementary [ref=e41]:
+          - generic [ref=e43]:
+            - textbox "Поиск" [ref=e44]
+            - button "" [ref=e45] [cursor=pointer]
+        - navigation [ref=e46]:
+          - text: ≡
+          - generic [ref=e47]:
+            - text: 
+            - list [ref=e48]:
+              - listitem [ref=e49]:
+                - link "ВСЕ СТАТЬИ" [ref=e50] [cursor=pointer]:
+                  - /url: https://propolski.com/sitemap/
+              - listitem [ref=e51]:
+                - link "Учить" [ref=e52] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Учить
+                  - generic [ref=e53]: 
+              - listitem [ref=e54]:
+                - link "Читать" [ref=e55] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Читать
+                  - generic [ref=e56]: 
+              - listitem [ref=e57]:
+                - link "Смотреть/слушать" [ref=e58] [cursor=pointer]:
+                  - /url: https://propolski.com/wideo-audio-po-polsku/
+                  - text: Смотреть/слушать
+                  - generic [ref=e59]: 
+              - listitem [ref=e60]:
+                - link "Польшa" [ref=e61] [cursor=pointer]:
+                  - /url: https://propolski.com/polska/
+              - listitem [ref=e62]:
+                - link "Подписка" [ref=e63] [cursor=pointer]:
+                  - /url: https://propolski.com/kontakt/
+              - listitem [ref=e64]:
+                - link "КУРС" [ref=e65] [cursor=pointer]:
+                  - /url: https://kursy.propolski.com/uk/
+    - generic [ref=e66]:
+      - generic:
+        - heading "Польская грамматика" [level=1] [ref=e68]
+        - generic [ref=e69]:
+          - text: "Вы здесь:"
+          - generic [ref=e70]:
+            - link "Главная" [ref=e72] [cursor=pointer]:
+              - /url: https://propolski.com/
+            - text: »
+            - strong [ref=e74]: Польская грамматика
+  - generic [ref=e77]:
+    - article [ref=e78]:
+      - heading "10 полезных прилагательных на польском языке" [level=2] [ref=e80]:
+        - link "10 полезных прилагательных на польском языке" [ref=e81] [cursor=pointer]:
+          - /url: https://propolski.com/2022/02/20/10-poleznyh-prilagatelnyh-na-polskom-yazyke-2/
+      - figure [ref=e82]:
+        - link "10 полезных прилагательных на польском языке" [ref=e83] [cursor=pointer]:
+          - /url: https://propolski.com/2022/02/20/10-poleznyh-prilagatelnyh-na-polskom-yazyke-2/
+          - img "10 полезных прилагательных на польском языке" [ref=e84]
+      - generic [ref=e85]:
+        - paragraph [ref=e86]: Привет! В этой статье я хочу поделиться с вами списком из 10 полезных прилагательных на польском языке с примерами употребления и переводом на русский язык. Прилагательные, надеюсь, пригодятся вам и при чтении книг на польском, и в обычном бытовом разговоре.
+        - generic [ref=e88]:
+          - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e89]
+          - list [ref=e91]:
+            - listitem [ref=e92]:
+              - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e93] [cursor=pointer]:
+                - /url: https://propolski.com/2022/02/20/10-poleznyh-prilagatelnyh-na-polskom-yazyke-2/?share=facebook&nb=1
+                - text: 
+            - listitem [ref=e94]:
+              - link "Поделиться в Pinterest (Открывается в новом окне)" [ref=e95] [cursor=pointer]:
+                - /url: https://propolski.com/2022/02/20/10-poleznyh-prilagatelnyh-na-polskom-yazyke-2/?share=pinterest&nb=1
+                - text: 
+            - listitem [ref=e96]:
+              - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e97] [cursor=pointer]:
+                - /url: https://propolski.com/2022/02/20/10-poleznyh-prilagatelnyh-na-polskom-yazyke-2/?share=telegram&nb=1
+                - text: 
+            - listitem [ref=e98]:
+              - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e99] [cursor=pointer]:
+                - /url: https://propolski.com/2022/02/20/10-poleznyh-prilagatelnyh-na-polskom-yazyke-2/?share=jetpack-whatsapp&nb=1
+                - text: 
+            - listitem [ref=e100]:
+              - link "Поделиться в Х (Открывается в новом окне)" [ref=e101] [cursor=pointer]:
+                - /url: https://propolski.com/2022/02/20/10-poleznyh-prilagatelnyh-na-polskom-yazyke-2/?share=x&nb=1
+                - text: 
+            - listitem [ref=e102]:
+              - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e103] [cursor=pointer]:
+                - /url: https://propolski.com/2022/02/20/10-poleznyh-prilagatelnyh-na-polskom-yazyke-2/?share=linkedin&nb=1
+                - text: 
+            - listitem [ref=e104]:
+              - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e105] [cursor=pointer]:
+                - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%2010%20%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%BB%D0%B0%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BD%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5&body=https%3A%2F%2Fpropolski.com%2F2022%2F02%2F20%2F10-poleznyh-prilagatelnyh-na-polskom-yazyke-2%2F&share=email&nb=1
+                - text: 
+            - listitem [ref=e106]:
+              - link "Печать (Открывается в новом окне)" [ref=e107] [cursor=pointer]:
+                - /url: https://propolski.com/2022/02/20/10-poleznyh-prilagatelnyh-na-polskom-yazyke-2/?share=print&nb=1
+                - text: 
+            - listitem
+      - generic [ref=e109]:
+        - generic [ref=e110]:
+          - text: 
+          - link "Катерина Лук'янова" [ref=e111] [cursor=pointer]:
+            - /url: https://propolski.com/author/kettibellya/
+        - generic [ref=e112]:
+          - text: 
+          - link "20 февраля 2022" [ref=e113] [cursor=pointer]:
+            - /url: https://propolski.com/2022/02/20/10-poleznyh-prilagatelnyh-na-polskom-yazyke-2/
+            - time [ref=e114]: 20 февраля 2022
+        - generic [ref=e115]:
+          - text: 
+          - 'link "Польские прилагательные: словарь" [ref=e116] [cursor=pointer]':
+            - /url: https://propolski.com/category/slowa/polskie-prilagatelnye-slovar/
+          - text: ","
+          - link "Прилагательное в польском" [ref=e117] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/przymiotnik/
+          - text: ","
+          - link "Словарь на польском языке по темам" [ref=e118] [cursor=pointer]:
+            - /url: https://propolski.com/category/slowa/
+        - generic [ref=e119]:
+          - text: 
+          - link "Комментариев нет" [ref=e120] [cursor=pointer]:
+            - /url: https://propolski.com/2022/02/20/10-poleznyh-prilagatelnyh-na-polskom-yazyke-2/#respond
+        - link "Читать далее" [ref=e122] [cursor=pointer]:
+          - /url: https://propolski.com/2022/02/20/10-poleznyh-prilagatelnyh-na-polskom-yazyke-2/
+    - article [ref=e123]:
+      - heading "Предложения с żebym, żebyś, żeby в польском языке" [level=2] [ref=e125]:
+        - link "Предложения с żebym, żebyś, żeby в польском языке" [ref=e126] [cursor=pointer]:
+          - /url: https://propolski.com/2022/02/13/zebym-zebys-zeby-2/
+      - figure [ref=e127]:
+        - link "Предложения с żebym, żebyś, żeby в польском языке" [ref=e128] [cursor=pointer]:
+          - /url: https://propolski.com/2022/02/13/zebym-zebys-zeby-2/
+          - img "Предложения с żebym, żebyś, żeby в польском языке" [ref=e129]
+      - generic [ref=e130]:
+        - paragraph [ref=e131]: В польском языке есть и склонения, и спряжения, и рода, и еще много всякого интересного. Среди этого самого «интересного» всегда найдется тема, которая вроде бы проста, но продолжает вызывать достаточно много путаницы и вопросов. Ярким примером такого случая можно считать
+        - generic [ref=e133]:
+          - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e134]
+          - list [ref=e136]:
+            - listitem [ref=e137]:
+              - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e138] [cursor=pointer]:
+                - /url: https://propolski.com/2022/02/13/zebym-zebys-zeby-2/?share=facebook&nb=1
+                - text: 
+            - listitem [ref=e139]:
+              - link "Поделиться в Pinterest (Открывается в новом окне)" [ref=e140] [cursor=pointer]:
+                - /url: https://propolski.com/2022/02/13/zebym-zebys-zeby-2/?share=pinterest&nb=1
+                - text: 
+            - listitem [ref=e141]:
+              - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e142] [cursor=pointer]:
+                - /url: https://propolski.com/2022/02/13/zebym-zebys-zeby-2/?share=telegram&nb=1
+                - text: 
+            - listitem [ref=e143]:
+              - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e144] [cursor=pointer]:
+                - /url: https://propolski.com/2022/02/13/zebym-zebys-zeby-2/?share=jetpack-whatsapp&nb=1
+                - text: 
+            - listitem [ref=e145]:
+              - link "Поделиться в Х (Открывается в новом окне)" [ref=e146] [cursor=pointer]:
+                - /url: https://propolski.com/2022/02/13/zebym-zebys-zeby-2/?share=x&nb=1
+                - text: 
+            - listitem [ref=e147]:
+              - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e148] [cursor=pointer]:
+                - /url: https://propolski.com/2022/02/13/zebym-zebys-zeby-2/?share=linkedin&nb=1
+                - text: 
+            - listitem [ref=e149]:
+              - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e150] [cursor=pointer]:
+                - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20%D0%9F%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%81%20%C5%BCebym%2C%20%C5%BCeby%C5%9B%2C%20%C5%BCeby%20%D0%B2%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5&body=https%3A%2F%2Fpropolski.com%2F2022%2F02%2F13%2Fzebym-zebys-zeby-2%2F&share=email&nb=1
+                - text: 
+            - listitem [ref=e151]:
+              - link "Печать (Открывается в новом окне)" [ref=e152] [cursor=pointer]:
+                - /url: https://propolski.com/2022/02/13/zebym-zebys-zeby-2/?share=print&nb=1
+                - text: 
+            - listitem
+      - generic [ref=e154]:
+        - generic [ref=e155]:
+          - text: 
+          - link "Катерина Лук'янова" [ref=e156] [cursor=pointer]:
+            - /url: https://propolski.com/author/kettibellya/
+        - generic [ref=e157]:
+          - text: 
+          - link "13 февраля 2022" [ref=e158] [cursor=pointer]:
+            - /url: https://propolski.com/2022/02/13/zebym-zebys-zeby-2/
+            - time [ref=e159]: 13 февраля 2022
+        - generic [ref=e160]:
+          - text: 
+          - link "Польская грамматика" [ref=e161] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/
+          - text: ","
+          - link "Союзы в польском" [ref=e162] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/spojniki/
+        - generic [ref=e163]:
+          - text: 
+          - link "Комментариев нет" [ref=e164] [cursor=pointer]:
+            - /url: https://propolski.com/2022/02/13/zebym-zebys-zeby-2/#respond
+        - link "Читать далее" [ref=e166] [cursor=pointer]:
+          - /url: https://propolski.com/2022/02/13/zebym-zebys-zeby-2/
+    - article [ref=e167]:
+      - heading "Шпаргалка на сертификационный экзамен по польскому языку" [level=2] [ref=e169]:
+        - link "Шпаргалка на сертификационный экзамен по польскому языку" [ref=e170] [cursor=pointer]:
+          - /url: https://propolski.com/2021/10/07/sciaga-egzamin-certyfikatowy-z-jezyka-polskiego-jako-obcego-2/
+      - figure [ref=e171]:
+        - link "Шпаргалка на сертификационный экзамен по польскому языку" [ref=e172] [cursor=pointer]:
+          - /url: https://propolski.com/2021/10/07/sciaga-egzamin-certyfikatowy-z-jezyka-polskiego-jako-obcego-2/
+          - img "Шпаргалка на сертификационный экзамен по польскому языку" [ref=e173]
+      - generic [ref=e174]:
+        - paragraph [ref=e175]: Нас в университете учили, что шпаргалки — это все-таки хорошо (если с собой не брать 🙂 ). Пока будешь писать, выделишь самое главное и большинство запомнишь. С польским языком мне, честно говоря, затруднительно было бы написать внятную шпаргалку по ВСЕМУ
+        - generic [ref=e177]:
+          - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e178]
+          - list [ref=e180]:
+            - listitem [ref=e181]:
+              - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e182] [cursor=pointer]:
+                - /url: https://propolski.com/2021/10/07/sciaga-egzamin-certyfikatowy-z-jezyka-polskiego-jako-obcego-2/?share=facebook&nb=1
+                - text: 
+            - listitem [ref=e183]:
+              - link "Поделиться в Pinterest (Открывается в новом окне)" [ref=e184] [cursor=pointer]:
+                - /url: https://propolski.com/2021/10/07/sciaga-egzamin-certyfikatowy-z-jezyka-polskiego-jako-obcego-2/?share=pinterest&nb=1
+                - text: 
+            - listitem [ref=e185]:
+              - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e186] [cursor=pointer]:
+                - /url: https://propolski.com/2021/10/07/sciaga-egzamin-certyfikatowy-z-jezyka-polskiego-jako-obcego-2/?share=telegram&nb=1
+                - text: 
+            - listitem [ref=e187]:
+              - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e188] [cursor=pointer]:
+                - /url: https://propolski.com/2021/10/07/sciaga-egzamin-certyfikatowy-z-jezyka-polskiego-jako-obcego-2/?share=jetpack-whatsapp&nb=1
+                - text: 
+            - listitem [ref=e189]:
+              - link "Поделиться в Х (Открывается в новом окне)" [ref=e190] [cursor=pointer]:
+                - /url: https://propolski.com/2021/10/07/sciaga-egzamin-certyfikatowy-z-jezyka-polskiego-jako-obcego-2/?share=x&nb=1
+                - text: 
+            - listitem [ref=e191]:
+              - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e192] [cursor=pointer]:
+                - /url: https://propolski.com/2021/10/07/sciaga-egzamin-certyfikatowy-z-jezyka-polskiego-jako-obcego-2/?share=linkedin&nb=1
+                - text: 
+            - listitem [ref=e193]:
+              - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e194] [cursor=pointer]:
+                - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC%D1%83%20%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&body=https%3A%2F%2Fpropolski.com%2F2021%2F10%2F07%2Fsciaga-egzamin-certyfikatowy-z-jezyka-polskiego-jako-obcego-2%2F&share=email&nb=1
+                - text: 
+            - listitem [ref=e195]:
+              - link "Печать (Открывается в новом окне)" [ref=e196] [cursor=pointer]:
+                - /url: https://propolski.com/2021/10/07/sciaga-egzamin-certyfikatowy-z-jezyka-polskiego-jako-obcego-2/?share=print&nb=1
+                - text: 
+            - listitem
+      - generic [ref=e198]:
+        - generic [ref=e199]:
+          - text: 
+          - link "Катерина Лук'янова" [ref=e200] [cursor=pointer]:
+            - /url: https://propolski.com/author/kettibellya/
+        - generic [ref=e201]:
+          - text: 
+          - link "7 октября 2021" [ref=e202] [cursor=pointer]:
+            - /url: https://propolski.com/2021/10/07/sciaga-egzamin-certyfikatowy-z-jezyka-polskiego-jako-obcego-2/
+            - time [ref=e203]: 7 октября 2021
+        - generic [ref=e204]:
+          - text: 
+          - link "Полезное для польского языка" [ref=e205] [cursor=pointer]:
+            - /url: https://propolski.com/category/korzystne/
+          - text: ","
+          - link "Польская грамматика" [ref=e206] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/
+        - generic [ref=e207]:
+          - text: 
+          - link "1 комментарий" [ref=e208] [cursor=pointer]:
+            - /url: https://propolski.com/2021/10/07/sciaga-egzamin-certyfikatowy-z-jezyka-polskiego-jako-obcego-2/#comments
+        - link "Читать далее" [ref=e210] [cursor=pointer]:
+          - /url: https://propolski.com/2021/10/07/sciaga-egzamin-certyfikatowy-z-jezyka-polskiego-jako-obcego-2/
+    - article [ref=e211]:
+      - heading "Youglish — инструмент для тренировки польского произношения" [level=2] [ref=e213]:
+        - link "Youglish — инструмент для тренировки польского произношения" [ref=e214] [cursor=pointer]:
+          - /url: https://propolski.com/2021/09/03/youglish-2/
+      - figure [ref=e215]:
+        - link "Youglish - инструмент для тренировки польского произношения" [ref=e216] [cursor=pointer]:
+          - /url: https://propolski.com/2021/09/03/youglish-2/
+          - img "Youglish - инструмент для тренировки польского произношения" [ref=e217]
+      - generic [ref=e218]:
+        - paragraph [ref=e219]: Знакомы ли вы с Youglish? Если нет, то я очень бы хотела вам порекомендовать данный инструмент для тренировки польского произношения на польском. Увы, проверить лично ваше тут не получится (потому курсы и занятия с преподавателями всё так же остаются актуальными). Но
+        - generic [ref=e221]:
+          - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e222]
+          - list [ref=e224]:
+            - listitem [ref=e225]:
+              - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e226] [cursor=pointer]:
+                - /url: https://propolski.com/2021/09/03/youglish-2/?share=facebook&nb=1
+                - text: 
+            - listitem [ref=e227]:
+              - link "Поделиться в Pinterest (Открывается в новом окне)" [ref=e228] [cursor=pointer]:
+                - /url: https://propolski.com/2021/09/03/youglish-2/?share=pinterest&nb=1
+                - text: 
+            - listitem [ref=e229]:
+              - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e230] [cursor=pointer]:
+                - /url: https://propolski.com/2021/09/03/youglish-2/?share=telegram&nb=1
+                - text: 
+            - listitem [ref=e231]:
+              - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e232] [cursor=pointer]:
+                - /url: https://propolski.com/2021/09/03/youglish-2/?share=jetpack-whatsapp&nb=1
+                - text: 
+            - listitem [ref=e233]:
+              - link "Поделиться в Х (Открывается в новом окне)" [ref=e234] [cursor=pointer]:
+                - /url: https://propolski.com/2021/09/03/youglish-2/?share=x&nb=1
+                - text: 
+            - listitem [ref=e235]:
+              - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e236] [cursor=pointer]:
+                - /url: https://propolski.com/2021/09/03/youglish-2/?share=linkedin&nb=1
+                - text: 
+            - listitem [ref=e237]:
+              - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e238] [cursor=pointer]:
+                - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20Youglish%20-%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%20%D0%B4%D0%BB%D1%8F%20%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F&body=https%3A%2F%2Fpropolski.com%2F2021%2F09%2F03%2Fyouglish-2%2F&share=email&nb=1
+                - text: 
+            - listitem [ref=e239]:
+              - link "Печать (Открывается в новом окне)" [ref=e240] [cursor=pointer]:
+                - /url: https://propolski.com/2021/09/03/youglish-2/?share=print&nb=1
+                - text: 
+            - listitem
+      - generic [ref=e242]:
+        - generic [ref=e243]:
+          - text: 
+          - link "Катерина Лук'янова" [ref=e244] [cursor=pointer]:
+            - /url: https://propolski.com/author/kettibellya/
+        - generic [ref=e245]:
+          - text: 
+          - link "3 сентября 2021" [ref=e246] [cursor=pointer]:
+            - /url: https://propolski.com/2021/09/03/youglish-2/
+            - time [ref=e247]: 3 сентября 2021
+        - generic [ref=e248]:
+          - text: 
+          - link "Польская грамматика" [ref=e249] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/
+        - generic [ref=e250]:
+          - text: 
+          - link "2 комментария" [ref=e251] [cursor=pointer]:
+            - /url: https://propolski.com/2021/09/03/youglish-2/#comments
+        - link "Читать далее" [ref=e253] [cursor=pointer]:
+          - /url: https://propolski.com/2021/09/03/youglish-2/
+    - article [ref=e254]:
+      - heading "Повелительное наклонение в польском языке / Tryb rozkazujący" [level=2] [ref=e256]:
+        - link "Повелительное наклонение в польском языке / Tryb rozkazujący" [ref=e257] [cursor=pointer]:
+          - /url: https://propolski.com/2021/03/11/tryb-rozkazujacy-2/
+      - figure [ref=e258]:
+        - link "Повелительное наклонение в польском языке / Tryb rozkazujący" [ref=e259] [cursor=pointer]:
+          - /url: https://propolski.com/2021/03/11/tryb-rozkazujacy-2/
+          - img "Повелительное наклонение в польском языке / Tryb rozkazujący" [ref=e260]
+      - generic [ref=e261]:
+        - paragraph [ref=e262]: Не знаю, заметили вы или нет, но повелительное наклонение в польском языке используется далеко не так часто и далеко не сразу (если судить по учебникам), как в русском. «Иван Иванович, сделайте то и это», «Принеси мне рюкзак» — в русском
+        - generic [ref=e264]:
+          - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e265]
+          - list [ref=e267]:
+            - listitem [ref=e268]:
+              - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e269] [cursor=pointer]:
+                - /url: https://propolski.com/2021/03/11/tryb-rozkazujacy-2/?share=facebook&nb=1
+                - text: 
+            - listitem [ref=e270]:
+              - link "Поделиться в Pinterest (Открывается в новом окне)" [ref=e271] [cursor=pointer]:
+                - /url: https://propolski.com/2021/03/11/tryb-rozkazujacy-2/?share=pinterest&nb=1
+                - text: 
+            - listitem [ref=e272]:
+              - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e273] [cursor=pointer]:
+                - /url: https://propolski.com/2021/03/11/tryb-rozkazujacy-2/?share=telegram&nb=1
+                - text: 
+            - listitem [ref=e274]:
+              - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e275] [cursor=pointer]:
+                - /url: https://propolski.com/2021/03/11/tryb-rozkazujacy-2/?share=jetpack-whatsapp&nb=1
+                - text: 
+            - listitem [ref=e276]:
+              - link "Поделиться в Х (Открывается в новом окне)" [ref=e277] [cursor=pointer]:
+                - /url: https://propolski.com/2021/03/11/tryb-rozkazujacy-2/?share=x&nb=1
+                - text: 
+            - listitem [ref=e278]:
+              - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e279] [cursor=pointer]:
+                - /url: https://propolski.com/2021/03/11/tryb-rozkazujacy-2/?share=linkedin&nb=1
+                - text: 
+            - listitem [ref=e280]:
+              - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e281] [cursor=pointer]:
+                - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20%D0%9F%D0%BE%D0%B2%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BD%D0%B0%D0%BA%D0%BB%D0%BE%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5%20%2F%20Tryb%20rozkazuj%C4%85cy&body=https%3A%2F%2Fpropolski.com%2F2021%2F03%2F11%2Ftryb-rozkazujacy-2%2F&share=email&nb=1
+                - text: 
+            - listitem [ref=e282]:
+              - link "Печать (Открывается в новом окне)" [ref=e283] [cursor=pointer]:
+                - /url: https://propolski.com/2021/03/11/tryb-rozkazujacy-2/?share=print&nb=1
+                - text: 
+            - listitem
+      - generic [ref=e285]:
+        - generic [ref=e286]:
+          - text: 
+          - link "Катерина Лук'янова" [ref=e287] [cursor=pointer]:
+            - /url: https://propolski.com/author/kettibellya/
+        - generic [ref=e288]:
+          - text: 
+          - link "11 марта 2021" [ref=e289] [cursor=pointer]:
+            - /url: https://propolski.com/2021/03/11/tryb-rozkazujacy-2/
+            - time [ref=e290]: 11 марта 2021
+        - generic [ref=e291]:
+          - text: 
+          - link "Глагол в польском" [ref=e292] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/czasownik/
+          - text: ","
+          - link "Наклонения в польском языке" [ref=e293] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/czasownik/tryby/
+          - text: ","
+          - link "Польская грамматика" [ref=e294] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/
+        - generic [ref=e295]:
+          - text: 
+          - link "3 комментария" [ref=e296] [cursor=pointer]:
+            - /url: https://propolski.com/2021/03/11/tryb-rozkazujacy-2/#comments
+        - link "Читать далее" [ref=e298] [cursor=pointer]:
+          - /url: https://propolski.com/2021/03/11/tryb-rozkazujacy-2/
+    - article [ref=e299]:
+      - heading "Почему dwaj (trzej, czterej), а не dwa (trzy, cztery)" [level=2] [ref=e301]:
+        - link "Почему dwaj (trzej, czterej), а не dwa (trzy, cztery)" [ref=e302] [cursor=pointer]:
+          - /url: https://propolski.com/2020/10/27/dwaj-trzej-czterej-dwa-trzy-cztery-2/
+      - figure [ref=e303]:
+        - link "Почему dwaj (trzej, czterej), а не dwa (trzy, cztery)" [ref=e304] [cursor=pointer]:
+          - /url: https://propolski.com/2020/10/27/dwaj-trzej-czterej-dwa-trzy-cztery-2/
+          - img "Почему dwaj (trzej, czterej), а не dwa (trzy, cztery)" [ref=e305]
+      - generic [ref=e306]:
+        - paragraph [ref=e307]: Название статьи — почему dwaj, trzej, czterej, а не dwa, trzy, cztery — может показаться вам странным, если вы еще только начинаете свое приключение с польским языком. Для чуть более опытных учеников, я надеюсь, объяснение из этой статьи покажется не
+        - generic [ref=e309]:
+          - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e310]
+          - list [ref=e312]:
+            - listitem [ref=e313]:
+              - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e314] [cursor=pointer]:
+                - /url: https://propolski.com/2020/10/27/dwaj-trzej-czterej-dwa-trzy-cztery-2/?share=facebook&nb=1
+                - text: 
+            - listitem [ref=e315]:
+              - link "Поделиться в Pinterest (Открывается в новом окне)" [ref=e316] [cursor=pointer]:
+                - /url: https://propolski.com/2020/10/27/dwaj-trzej-czterej-dwa-trzy-cztery-2/?share=pinterest&nb=1
+                - text: 
+            - listitem [ref=e317]:
+              - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e318] [cursor=pointer]:
+                - /url: https://propolski.com/2020/10/27/dwaj-trzej-czterej-dwa-trzy-cztery-2/?share=telegram&nb=1
+                - text: 
+            - listitem [ref=e319]:
+              - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e320] [cursor=pointer]:
+                - /url: https://propolski.com/2020/10/27/dwaj-trzej-czterej-dwa-trzy-cztery-2/?share=jetpack-whatsapp&nb=1
+                - text: 
+            - listitem [ref=e321]:
+              - link "Поделиться в Х (Открывается в новом окне)" [ref=e322] [cursor=pointer]:
+                - /url: https://propolski.com/2020/10/27/dwaj-trzej-czterej-dwa-trzy-cztery-2/?share=x&nb=1
+                - text: 
+            - listitem [ref=e323]:
+              - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e324] [cursor=pointer]:
+                - /url: https://propolski.com/2020/10/27/dwaj-trzej-czterej-dwa-trzy-cztery-2/?share=linkedin&nb=1
+                - text: 
+            - listitem [ref=e325]:
+              - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e326] [cursor=pointer]:
+                - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20%D0%9F%D0%BE%D1%87%D0%B5%D0%BC%D1%83%20dwaj%20%28trzej%2C%20czterej%29%2C%20%D0%B0%20%D0%BD%D0%B5%20dwa%20%28trzy%2C%20cztery%29&body=https%3A%2F%2Fpropolski.com%2F2020%2F10%2F27%2Fdwaj-trzej-czterej-dwa-trzy-cztery-2%2F&share=email&nb=1
+                - text: 
+            - listitem [ref=e327]:
+              - link "Печать (Открывается в новом окне)" [ref=e328] [cursor=pointer]:
+                - /url: https://propolski.com/2020/10/27/dwaj-trzej-czterej-dwa-trzy-cztery-2/?share=print&nb=1
+                - text: 
+            - listitem
+      - generic [ref=e330]:
+        - generic [ref=e331]:
+          - text: 
+          - link "Катерина Лук'янова" [ref=e332] [cursor=pointer]:
+            - /url: https://propolski.com/author/kettibellya/
+        - generic [ref=e333]:
+          - text: 
+          - link "27 октября 2020" [ref=e334] [cursor=pointer]:
+            - /url: https://propolski.com/2020/10/27/dwaj-trzej-czterej-dwa-trzy-cztery-2/
+            - time [ref=e335]: 27 октября 2020
+        - generic [ref=e336]:
+          - text: 
+          - link "Польская грамматика" [ref=e337] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/
+          - text: ","
+          - link "Числительное в польском" [ref=e338] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/liczebniki/
+        - generic [ref=e339]:
+          - text: 
+          - link "2 комментария" [ref=e340] [cursor=pointer]:
+            - /url: https://propolski.com/2020/10/27/dwaj-trzej-czterej-dwa-trzy-cztery-2/#comments
+        - link "Читать далее" [ref=e342] [cursor=pointer]:
+          - /url: https://propolski.com/2020/10/27/dwaj-trzej-czterej-dwa-trzy-cztery-2/
+    - article [ref=e343]:
+      - heading "Сослагательное (условное) наклонение в польском языке | Tryb warunkowy" [level=2] [ref=e345]:
+        - link "Сослагательное (условное) наклонение в польском языке | Tryb warunkowy" [ref=e346] [cursor=pointer]:
+          - /url: https://propolski.com/2020/09/03/tryb-warunkowy/
+      - figure [ref=e347]:
+        - link "Сослагательное (условное) наклонение в польском языке | Tryb warunkowy" [ref=e348] [cursor=pointer]:
+          - /url: https://propolski.com/2020/09/03/tryb-warunkowy/
+          - img "Сослагательное (условное) наклонение в польском языке | Tryb warunkowy" [ref=e349]
+      - generic [ref=e350]:
+        - paragraph [ref=e351]: После всех koniugacji, времен и аспектов глаголов в польском языке обычно переходят к наклонениям. В этой статье я буду рассматривать, как создавать и употреблять сослагательное (условное) наклонение в польском языке, иначе — tryb warunkowy. Он нужен для того, чтобы подать
+        - generic [ref=e353]:
+          - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e354]
+          - list [ref=e356]:
+            - listitem [ref=e357]:
+              - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e358] [cursor=pointer]:
+                - /url: https://propolski.com/2020/09/03/tryb-warunkowy/?share=facebook&nb=1
+                - text: 
+            - listitem [ref=e359]:
+              - link "Поделиться в Pinterest (Открывается в новом окне) 24" [ref=e360] [cursor=pointer]:
+                - /url: https://propolski.com/2020/09/03/tryb-warunkowy/?share=pinterest&nb=1
+                - text: 
+            - listitem [ref=e361]:
+              - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e362] [cursor=pointer]:
+                - /url: https://propolski.com/2020/09/03/tryb-warunkowy/?share=telegram&nb=1
+                - text: 
+            - listitem [ref=e363]:
+              - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e364] [cursor=pointer]:
+                - /url: https://propolski.com/2020/09/03/tryb-warunkowy/?share=jetpack-whatsapp&nb=1
+                - text: 
+            - listitem [ref=e365]:
+              - link "Поделиться в Х (Открывается в новом окне)" [ref=e366] [cursor=pointer]:
+                - /url: https://propolski.com/2020/09/03/tryb-warunkowy/?share=x&nb=1
+                - text: 
+            - listitem [ref=e367]:
+              - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e368] [cursor=pointer]:
+                - /url: https://propolski.com/2020/09/03/tryb-warunkowy/?share=linkedin&nb=1
+                - text: 
+            - listitem [ref=e369]:
+              - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e370] [cursor=pointer]:
+                - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20%D0%A1%D0%BE%D1%81%D0%BB%D0%B0%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%28%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5%29%20%D0%BD%D0%B0%D0%BA%D0%BB%D0%BE%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5%20%7C%20Tryb%20warunkowy&body=https%3A%2F%2Fpropolski.com%2F2020%2F09%2F03%2Ftryb-warunkowy%2F&share=email&nb=1
+                - text: 
+            - listitem [ref=e371]:
+              - link "Печать (Открывается в новом окне)" [ref=e372] [cursor=pointer]:
+                - /url: https://propolski.com/2020/09/03/tryb-warunkowy/?share=print&nb=1
+                - text: 
+            - listitem
+      - generic [ref=e374]:
+        - generic [ref=e375]:
+          - text: 
+          - link "Катерина Лук'янова" [ref=e376] [cursor=pointer]:
+            - /url: https://propolski.com/author/kettibellya/
+        - generic [ref=e377]:
+          - text: 
+          - link "3 сентября 2020" [ref=e378] [cursor=pointer]:
+            - /url: https://propolski.com/2020/09/03/tryb-warunkowy/
+            - time [ref=e379]: 3 сентября 2020
+        - generic [ref=e380]:
+          - text: 
+          - link "Глагол в польском" [ref=e381] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/czasownik/
+          - text: ","
+          - link "Наклонения в польском языке" [ref=e382] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/czasownik/tryby/
+          - text: ","
+          - link "Польская грамматика" [ref=e383] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/
+        - generic [ref=e384]:
+          - text: 
+          - link "Комментариев нет" [ref=e385] [cursor=pointer]:
+            - /url: https://propolski.com/2020/09/03/tryb-warunkowy/#respond
+        - link "Читать далее" [ref=e387] [cursor=pointer]:
+          - /url: https://propolski.com/2020/09/03/tryb-warunkowy/
+    - article [ref=e388]:
+      - heading "11 друзей польского глагола prosić" [level=2] [ref=e390]:
+        - link "11 друзей польского глагола prosić" [ref=e391] [cursor=pointer]:
+          - /url: https://propolski.com/2020/07/14/polskie-czasowniki-pokrewne-prosic-2/
+      - figure [ref=e392]:
+        - link "11 друзей польского глагола prosić" [ref=e393] [cursor=pointer]:
+          - /url: https://propolski.com/2020/07/14/polskie-czasowniki-pokrewne-prosic-2/
+          - img "11 друзей польского глагола prosić" [ref=e394]
+      - generic [ref=e395]:
+        - paragraph [ref=e396]: Идея статьи была навеяна одной из участниц нашей группы на Фейсбуке insidePL, которая перепутала глагол poprosić с глаголом zaprosić. Так как я однажды я уже писала статью о глаголах-родственниках wiedzieć, мне подумалось, что и о родственниках prosić также стоит и
+        - generic [ref=e398]:
+          - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e399]
+          - list [ref=e401]:
+            - listitem [ref=e402]:
+              - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e403] [cursor=pointer]:
+                - /url: https://propolski.com/2020/07/14/polskie-czasowniki-pokrewne-prosic-2/?share=facebook&nb=1
+                - text: 
+            - listitem [ref=e404]:
+              - link "Поделиться в Pinterest (Открывается в новом окне)" [ref=e405] [cursor=pointer]:
+                - /url: https://propolski.com/2020/07/14/polskie-czasowniki-pokrewne-prosic-2/?share=pinterest&nb=1
+                - text: 
+            - listitem [ref=e406]:
+              - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e407] [cursor=pointer]:
+                - /url: https://propolski.com/2020/07/14/polskie-czasowniki-pokrewne-prosic-2/?share=telegram&nb=1
+                - text: 
+            - listitem [ref=e408]:
+              - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e409] [cursor=pointer]:
+                - /url: https://propolski.com/2020/07/14/polskie-czasowniki-pokrewne-prosic-2/?share=jetpack-whatsapp&nb=1
+                - text: 
+            - listitem [ref=e410]:
+              - link "Поделиться в Х (Открывается в новом окне)" [ref=e411] [cursor=pointer]:
+                - /url: https://propolski.com/2020/07/14/polskie-czasowniki-pokrewne-prosic-2/?share=x&nb=1
+                - text: 
+            - listitem [ref=e412]:
+              - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e413] [cursor=pointer]:
+                - /url: https://propolski.com/2020/07/14/polskie-czasowniki-pokrewne-prosic-2/?share=linkedin&nb=1
+                - text: 
+            - listitem [ref=e414]:
+              - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e415] [cursor=pointer]:
+                - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%2011%20%D0%B4%D1%80%D1%83%D0%B7%D0%B5%D0%B9%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%B0%20prosi%C4%87&body=https%3A%2F%2Fpropolski.com%2F2020%2F07%2F14%2Fpolskie-czasowniki-pokrewne-prosic-2%2F&share=email&nb=1
+                - text: 
+            - listitem [ref=e416]:
+              - link "Печать (Открывается в новом окне)" [ref=e417] [cursor=pointer]:
+                - /url: https://propolski.com/2020/07/14/polskie-czasowniki-pokrewne-prosic-2/?share=print&nb=1
+                - text: 
+            - listitem
+      - generic [ref=e419]:
+        - generic [ref=e420]:
+          - text: 
+          - link "Катерина Лук'янова" [ref=e421] [cursor=pointer]:
+            - /url: https://propolski.com/author/kettibellya/
+        - generic [ref=e422]:
+          - text: 
+          - link "14 июля 2020" [ref=e423] [cursor=pointer]:
+            - /url: https://propolski.com/2020/07/14/polskie-czasowniki-pokrewne-prosic-2/
+            - time [ref=e424]: 14 июля 2020
+        - generic [ref=e425]:
+          - text: 
+          - link "Глагол в польском" [ref=e426] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/czasownik/
+          - text: ","
+          - link "Польская грамматика" [ref=e427] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/
+          - text: ","
+          - 'link "Польские глаголы: словарь" [ref=e428] [cursor=pointer]':
+            - /url: https://propolski.com/category/slowa/polskie-glagoly-slovar/
+          - text: ","
+          - link "Словарь на польском языке по темам" [ref=e429] [cursor=pointer]:
+            - /url: https://propolski.com/category/slowa/
+        - generic [ref=e430]:
+          - text: 
+          - link "2 комментария" [ref=e431] [cursor=pointer]:
+            - /url: https://propolski.com/2020/07/14/polskie-czasowniki-pokrewne-prosic-2/#comments
+        - link "Читать далее" [ref=e433] [cursor=pointer]:
+          - /url: https://propolski.com/2020/07/14/polskie-czasowniki-pokrewne-prosic-2/
+    - article [ref=e434]:
+      - heading "Tysiąc, miesiąc, pieniądz — как запомнить их склонение" [level=2] [ref=e436]:
+        - link "Tysiąc, miesiąc, pieniądz — как запомнить их склонение" [ref=e437] [cursor=pointer]:
+          - /url: https://propolski.com/2020/06/23/tysiac-miesiac-pieniadz/
+      - figure [ref=e438]:
+        - link "Tysiąc, miesiąc, pieniądz - как запомнить их склонение" [ref=e439] [cursor=pointer]:
+          - /url: https://propolski.com/2020/06/23/tysiac-miesiac-pieniadz/
+          - img "Tysiąc, miesiąc, pieniądz - как запомнить их склонение" [ref=e440]
+      - generic [ref=e441]:
+        - paragraph [ref=e442]: "На одном из пабликов наткнулась на вопрос «как запомнить склонение tysiąc??» и ответ к нему: «никак». Действительно, рода у этих слов в наших языках отличаются, наши две тысячи — это совсем не dwie их… А еще есть чередование, кажущееся мигрирующим"
+        - generic [ref=e444]:
+          - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e445]
+          - list [ref=e447]:
+            - listitem [ref=e448]:
+              - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e449] [cursor=pointer]:
+                - /url: https://propolski.com/2020/06/23/tysiac-miesiac-pieniadz/?share=facebook&nb=1
+                - text: 
+            - listitem [ref=e450]:
+              - link "Поделиться в Pinterest (Открывается в новом окне) 7" [ref=e451] [cursor=pointer]:
+                - /url: https://propolski.com/2020/06/23/tysiac-miesiac-pieniadz/?share=pinterest&nb=1
+                - text: 
+            - listitem [ref=e452]:
+              - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e453] [cursor=pointer]:
+                - /url: https://propolski.com/2020/06/23/tysiac-miesiac-pieniadz/?share=telegram&nb=1
+                - text: 
+            - listitem [ref=e454]:
+              - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e455] [cursor=pointer]:
+                - /url: https://propolski.com/2020/06/23/tysiac-miesiac-pieniadz/?share=jetpack-whatsapp&nb=1
+                - text: 
+            - listitem [ref=e456]:
+              - link "Поделиться в Х (Открывается в новом окне)" [ref=e457] [cursor=pointer]:
+                - /url: https://propolski.com/2020/06/23/tysiac-miesiac-pieniadz/?share=x&nb=1
+                - text: 
+            - listitem [ref=e458]:
+              - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e459] [cursor=pointer]:
+                - /url: https://propolski.com/2020/06/23/tysiac-miesiac-pieniadz/?share=linkedin&nb=1
+                - text: 
+            - listitem [ref=e460]:
+              - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e461] [cursor=pointer]:
+                - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20Tysi%C4%85c%2C%20miesi%C4%85c%2C%20pieni%C4%85dz%20-%20%D0%BA%D0%B0%D0%BA%20%D0%B7%D0%B0%D0%BF%D0%BE%D0%BC%D0%BD%D0%B8%D1%82%D1%8C%20%D0%B8%D1%85%20%D1%81%D0%BA%D0%BB%D0%BE%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5&body=https%3A%2F%2Fpropolski.com%2F2020%2F06%2F23%2Ftysiac-miesiac-pieniadz%2F&share=email&nb=1
+                - text: 
+            - listitem [ref=e462]:
+              - link "Печать (Открывается в новом окне)" [ref=e463] [cursor=pointer]:
+                - /url: https://propolski.com/2020/06/23/tysiac-miesiac-pieniadz/?share=print&nb=1
+                - text: 
+            - listitem
+      - generic [ref=e465]:
+        - generic [ref=e466]:
+          - text: 
+          - link "Катерина Лук'янова" [ref=e467] [cursor=pointer]:
+            - /url: https://propolski.com/author/kettibellya/
+        - generic [ref=e468]:
+          - text: 
+          - link "23 июня 2020" [ref=e469] [cursor=pointer]:
+            - /url: https://propolski.com/2020/06/23/tysiac-miesiac-pieniadz/
+            - time [ref=e470]: 23 июня 2020
+        - generic [ref=e471]:
+          - text: 
+          - link "Словарь на польском языке по темам" [ref=e472] [cursor=pointer]:
+            - /url: https://propolski.com/category/slowa/
+          - text: ","
+          - link "Сравнение слов на польском" [ref=e473] [cursor=pointer]:
+            - /url: https://propolski.com/category/slowa/sravnenie-slov-na-polskom/
+          - text: ","
+          - link "Существительное в польском языке" [ref=e474] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/rzeczownik/
+        - generic [ref=e475]:
+          - text: 
+          - link "Комментариев нет" [ref=e476] [cursor=pointer]:
+            - /url: https://propolski.com/2020/06/23/tysiac-miesiac-pieniadz/#respond
+        - link "Читать далее" [ref=e478] [cursor=pointer]:
+          - /url: https://propolski.com/2020/06/23/tysiac-miesiac-pieniadz/
+    - article [ref=e479]:
+      - 'heading "Польские наречия: правила словообразования" [level=2] [ref=e481]':
+        - 'link "Польские наречия: правила словообразования" [ref=e482] [cursor=pointer]':
+          - /url: https://propolski.com/2020/06/04/przyslowki/
+      - figure [ref=e483]:
+        - 'link "Польские наречия: правила словообразования" [ref=e484] [cursor=pointer]':
+          - /url: https://propolski.com/2020/06/04/przyslowki/
+          - 'img "Польские наречия: правила словообразования" [ref=e485]'
+      - generic [ref=e486]:
+        - paragraph [ref=e487]: Польские наречия — это самостоятельная, несклоняемые часть речи. Наречия обозначают признаки глаголов, прилагательных или других наречий. Проще говоря, они называют место (gdzie? / где?), время (kiedy? / когда?), способ выполнения действий (jak? / как?), а также указывают на степень интенсивности
+        - generic [ref=e489]:
+          - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e490]
+          - list [ref=e492]:
+            - listitem [ref=e493]:
+              - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e494] [cursor=pointer]:
+                - /url: https://propolski.com/2020/06/04/przyslowki/?share=facebook&nb=1
+                - text: 
+            - listitem [ref=e495]:
+              - link "Поделиться в Pinterest (Открывается в новом окне) 66" [ref=e496] [cursor=pointer]:
+                - /url: https://propolski.com/2020/06/04/przyslowki/?share=pinterest&nb=1
+                - text: 
+            - listitem [ref=e497]:
+              - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e498] [cursor=pointer]:
+                - /url: https://propolski.com/2020/06/04/przyslowki/?share=telegram&nb=1
+                - text: 
+            - listitem [ref=e499]:
+              - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e500] [cursor=pointer]:
+                - /url: https://propolski.com/2020/06/04/przyslowki/?share=jetpack-whatsapp&nb=1
+                - text: 
+            - listitem [ref=e501]:
+              - link "Поделиться в Х (Открывается в новом окне)" [ref=e502] [cursor=pointer]:
+                - /url: https://propolski.com/2020/06/04/przyslowki/?share=x&nb=1
+                - text: 
+            - listitem [ref=e503]:
+              - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e504] [cursor=pointer]:
+                - /url: https://propolski.com/2020/06/04/przyslowki/?share=linkedin&nb=1
+                - text: 
+            - listitem [ref=e505]:
+              - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e506] [cursor=pointer]:
+                - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BD%D0%B0%D1%80%D0%B5%D1%87%D0%B8%D1%8F%3A%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%20%D1%81%D0%BB%D0%BE%D0%B2%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F&body=https%3A%2F%2Fpropolski.com%2F2020%2F06%2F04%2Fprzyslowki%2F&share=email&nb=1
+                - text: 
+            - listitem [ref=e507]:
+              - link "Печать (Открывается в новом окне)" [ref=e508] [cursor=pointer]:
+                - /url: https://propolski.com/2020/06/04/przyslowki/?share=print&nb=1
+                - text: 
+            - listitem
+      - generic [ref=e510]:
+        - generic [ref=e511]:
+          - text: 
+          - link "Катерина Лук'янова" [ref=e512] [cursor=pointer]:
+            - /url: https://propolski.com/author/kettibellya/
+        - generic [ref=e513]:
+          - text: 
+          - link "4 июня 2020" [ref=e514] [cursor=pointer]:
+            - /url: https://propolski.com/2020/06/04/przyslowki/
+            - time [ref=e515]: 4 июня 2020
+        - generic [ref=e516]:
+          - text: 
+          - link "Наречия в польском языке" [ref=e517] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/narechiya-v-polskom/
+          - text: ","
+          - link "Польская грамматика" [ref=e518] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/
+        - generic [ref=e519]:
+          - text: 
+          - link "2 комментария" [ref=e520] [cursor=pointer]:
+            - /url: https://propolski.com/2020/06/04/przyslowki/#comments
+        - link "Читать далее" [ref=e522] [cursor=pointer]:
+          - /url: https://propolski.com/2020/06/04/przyslowki/
+    - article [ref=e523]:
+      - heading "Управление глаголов в польском / Rekcja czasowników" [level=2] [ref=e525]:
+        - link "Управление глаголов в польском / Rekcja czasowników" [ref=e526] [cursor=pointer]:
+          - /url: https://propolski.com/2020/05/21/rekcja-czasownikow-2/
+      - figure [ref=e527]:
+        - link "Управление глаголов в польском / Rekcja czasowników" [ref=e528] [cursor=pointer]:
+          - /url: https://propolski.com/2020/05/21/rekcja-czasownikow-2/
+          - img "Управление глаголов в польском / Rekcja czasowników" [ref=e529]
+      - generic [ref=e530]:
+        - paragraph [ref=e531]: Если вы считаете тему польских глаголов сложной, то дело, может быть, не только в спряжениях, но и в том, что управление глаголов в польском языке (rekcja czasowników) порой отличается от того, что в русском. Что такое управление глагола? Это когда
+        - generic [ref=e533]:
+          - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e534]
+          - list [ref=e536]:
+            - listitem [ref=e537]:
+              - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e538] [cursor=pointer]:
+                - /url: https://propolski.com/2020/05/21/rekcja-czasownikow-2/?share=facebook&nb=1
+                - text: 
+            - listitem [ref=e539]:
+              - link "Поделиться в Pinterest (Открывается в новом окне)" [ref=e540] [cursor=pointer]:
+                - /url: https://propolski.com/2020/05/21/rekcja-czasownikow-2/?share=pinterest&nb=1
+                - text: 
+            - listitem [ref=e541]:
+              - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e542] [cursor=pointer]:
+                - /url: https://propolski.com/2020/05/21/rekcja-czasownikow-2/?share=telegram&nb=1
+                - text: 
+            - listitem [ref=e543]:
+              - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e544] [cursor=pointer]:
+                - /url: https://propolski.com/2020/05/21/rekcja-czasownikow-2/?share=jetpack-whatsapp&nb=1
+                - text: 
+            - listitem [ref=e545]:
+              - link "Поделиться в Х (Открывается в новом окне)" [ref=e546] [cursor=pointer]:
+                - /url: https://propolski.com/2020/05/21/rekcja-czasownikow-2/?share=x&nb=1
+                - text: 
+            - listitem [ref=e547]:
+              - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e548] [cursor=pointer]:
+                - /url: https://propolski.com/2020/05/21/rekcja-czasownikow-2/?share=linkedin&nb=1
+                - text: 
+            - listitem [ref=e549]:
+              - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e550] [cursor=pointer]:
+                - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%20%D0%B2%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC%20%2F%20Rekcja%20czasownik%C3%B3w&body=https%3A%2F%2Fpropolski.com%2F2020%2F05%2F21%2Frekcja-czasownikow-2%2F&share=email&nb=1
+                - text: 
+            - listitem [ref=e551]:
+              - link "Печать (Открывается в новом окне)" [ref=e552] [cursor=pointer]:
+                - /url: https://propolski.com/2020/05/21/rekcja-czasownikow-2/?share=print&nb=1
+                - text: 
+            - listitem
+      - generic [ref=e554]:
+        - generic [ref=e555]:
+          - text: 
+          - link "Катерина Лук'янова" [ref=e556] [cursor=pointer]:
+            - /url: https://propolski.com/author/kettibellya/
+        - generic [ref=e557]:
+          - text: 
+          - link "21 мая 2020" [ref=e558] [cursor=pointer]:
+            - /url: https://propolski.com/2020/05/21/rekcja-czasownikow-2/
+            - time [ref=e559]: 21 мая 2020
+        - generic [ref=e560]:
+          - text: 
+          - link "Глагол в польском" [ref=e561] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/czasownik/
+          - text: ","
+          - link "Польская грамматика" [ref=e562] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/
+          - text: ","
+          - 'link "Польские глаголы: словарь" [ref=e563] [cursor=pointer]':
+            - /url: https://propolski.com/category/slowa/polskie-glagoly-slovar/
+          - text: ","
+          - link "Словарь на польском языке по темам" [ref=e564] [cursor=pointer]:
+            - /url: https://propolski.com/category/slowa/
+        - generic [ref=e565]:
+          - text: 
+          - link "4 комментария" [ref=e566] [cursor=pointer]:
+            - /url: https://propolski.com/2020/05/21/rekcja-czasownikow-2/#comments
+        - link "Читать далее" [ref=e568] [cursor=pointer]:
+          - /url: https://propolski.com/2020/05/21/rekcja-czasownikow-2/
+    - article [ref=e569]:
+      - heading "Основные грамматические термины польского языка" [level=2] [ref=e571]:
+        - link "Основные грамматические термины польского языка" [ref=e572] [cursor=pointer]:
+          - /url: https://propolski.com/2020/05/07/pojecia-gramatyczne-jezyka-polskiego/
+      - figure [ref=e573]:
+        - link "Основные грамматические термины польского языка" [ref=e574] [cursor=pointer]:
+          - /url: https://propolski.com/2020/05/07/pojecia-gramatyczne-jezyka-polskiego/
+          - img "Основные грамматические термины польского языка" [ref=e575]
+      - generic [ref=e576]:
+        - paragraph [ref=e577]: В статье разобраны в таблицах основные грамматические термины польского языка, с практическими примерами, как они выглядят в речи.
+        - generic [ref=e579]:
+          - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e580]
+          - list [ref=e582]:
+            - listitem [ref=e583]:
+              - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e584] [cursor=pointer]:
+                - /url: https://propolski.com/2020/05/07/pojecia-gramatyczne-jezyka-polskiego/?share=facebook&nb=1
+                - text: 
+            - listitem [ref=e585]:
+              - link "Поделиться в Pinterest (Открывается в новом окне)" [ref=e586] [cursor=pointer]:
+                - /url: https://propolski.com/2020/05/07/pojecia-gramatyczne-jezyka-polskiego/?share=pinterest&nb=1
+                - text: 
+            - listitem [ref=e587]:
+              - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e588] [cursor=pointer]:
+                - /url: https://propolski.com/2020/05/07/pojecia-gramatyczne-jezyka-polskiego/?share=telegram&nb=1
+                - text: 
+            - listitem [ref=e589]:
+              - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e590] [cursor=pointer]:
+                - /url: https://propolski.com/2020/05/07/pojecia-gramatyczne-jezyka-polskiego/?share=jetpack-whatsapp&nb=1
+                - text: 
+            - listitem [ref=e591]:
+              - link "Поделиться в Х (Открывается в новом окне)" [ref=e592] [cursor=pointer]:
+                - /url: https://propolski.com/2020/05/07/pojecia-gramatyczne-jezyka-polskiego/?share=x&nb=1
+                - text: 
+            - listitem [ref=e593]:
+              - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e594] [cursor=pointer]:
+                - /url: https://propolski.com/2020/05/07/pojecia-gramatyczne-jezyka-polskiego/?share=linkedin&nb=1
+                - text: 
+            - listitem [ref=e595]:
+              - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e596] [cursor=pointer]:
+                - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5%20%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D1%8B%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0&body=https%3A%2F%2Fpropolski.com%2F2020%2F05%2F07%2Fpojecia-gramatyczne-jezyka-polskiego%2F&share=email&nb=1
+                - text: 
+            - listitem [ref=e597]:
+              - link "Печать (Открывается в новом окне)" [ref=e598] [cursor=pointer]:
+                - /url: https://propolski.com/2020/05/07/pojecia-gramatyczne-jezyka-polskiego/?share=print&nb=1
+                - text: 
+            - listitem
+      - generic [ref=e600]:
+        - generic [ref=e601]:
+          - text: 
+          - link "Катерина Лук'янова" [ref=e602] [cursor=pointer]:
+            - /url: https://propolski.com/author/kettibellya/
+        - generic [ref=e603]:
+          - text: 
+          - link "7 мая 2020" [ref=e604] [cursor=pointer]:
+            - /url: https://propolski.com/2020/05/07/pojecia-gramatyczne-jezyka-polskiego/
+            - time [ref=e605]: 7 мая 2020
+        - generic [ref=e606]:
+          - text: 
+          - link "Полезное для польского языка" [ref=e607] [cursor=pointer]:
+            - /url: https://propolski.com/category/korzystne/
+          - text: ","
+          - link "Польская грамматика" [ref=e608] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/
+          - text: ","
+          - link "Словарь на польском языке по темам" [ref=e609] [cursor=pointer]:
+            - /url: https://propolski.com/category/slowa/
+        - generic [ref=e610]:
+          - text: 
+          - link "Комментариев нет" [ref=e611] [cursor=pointer]:
+            - /url: https://propolski.com/2020/05/07/pojecia-gramatyczne-jezyka-polskiego/#respond
+        - link "Читать далее" [ref=e613] [cursor=pointer]:
+          - /url: https://propolski.com/2020/05/07/pojecia-gramatyczne-jezyka-polskiego/
+    - article [ref=e614]:
+      - heading "Кулинарные прилагательные на польском языке" [level=2] [ref=e616]:
+        - link "Кулинарные прилагательные на польском языке" [ref=e617] [cursor=pointer]:
+          - /url: https://propolski.com/2020/04/17/przymiotniki-kulinarne/
+      - figure [ref=e618]:
+        - link "Кулинарные прилагательные на польском языке" [ref=e619] [cursor=pointer]:
+          - /url: https://propolski.com/2020/04/17/przymiotniki-kulinarne/
+          - img "Кулинарные прилагательные на польском языке" [ref=e620]
+      - generic [ref=e621]:
+        - paragraph [ref=e622]: Сначала я хотела дать все эти кулинарные прилагательные на польском языке одним списком, но после того, как уже его составила, подумала, что неплохо было бы его ассоциативно поделить на маленькие кусочки. И учить легче, и примеры к ним не потеряются,
+        - generic [ref=e624]:
+          - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e625]
+          - list [ref=e627]:
+            - listitem [ref=e628]:
+              - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e629] [cursor=pointer]:
+                - /url: https://propolski.com/2020/04/17/przymiotniki-kulinarne/?share=facebook&nb=1
+                - text: 
+            - listitem [ref=e630]:
+              - link "Поделиться в Pinterest (Открывается в новом окне) 324" [ref=e631] [cursor=pointer]:
+                - /url: https://propolski.com/2020/04/17/przymiotniki-kulinarne/?share=pinterest&nb=1
+                - text: 
+            - listitem [ref=e632]:
+              - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e633] [cursor=pointer]:
+                - /url: https://propolski.com/2020/04/17/przymiotniki-kulinarne/?share=telegram&nb=1
+                - text: 
+            - listitem [ref=e634]:
+              - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e635] [cursor=pointer]:
+                - /url: https://propolski.com/2020/04/17/przymiotniki-kulinarne/?share=jetpack-whatsapp&nb=1
+                - text: 
+            - listitem [ref=e636]:
+              - link "Поделиться в Х (Открывается в новом окне)" [ref=e637] [cursor=pointer]:
+                - /url: https://propolski.com/2020/04/17/przymiotniki-kulinarne/?share=x&nb=1
+                - text: 
+            - listitem [ref=e638]:
+              - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e639] [cursor=pointer]:
+                - /url: https://propolski.com/2020/04/17/przymiotniki-kulinarne/?share=linkedin&nb=1
+                - text: 
+            - listitem [ref=e640]:
+              - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e641] [cursor=pointer]:
+                - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20%D0%9A%D1%83%D0%BB%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%B0%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5&body=https%3A%2F%2Fpropolski.com%2F2020%2F04%2F17%2Fprzymiotniki-kulinarne%2F&share=email&nb=1
+                - text: 
+            - listitem [ref=e642]:
+              - link "Печать (Открывается в новом окне)" [ref=e643] [cursor=pointer]:
+                - /url: https://propolski.com/2020/04/17/przymiotniki-kulinarne/?share=print&nb=1
+                - text: 
+            - listitem
+      - generic [ref=e645]:
+        - generic [ref=e646]:
+          - text: 
+          - link "Катерина Лук'янова" [ref=e647] [cursor=pointer]:
+            - /url: https://propolski.com/author/kettibellya/
+        - generic [ref=e648]:
+          - text: 
+          - link "17 апреля 2020" [ref=e649] [cursor=pointer]:
+            - /url: https://propolski.com/2020/04/17/przymiotniki-kulinarne/
+            - time [ref=e650]: 17 апреля 2020
+        - generic [ref=e651]:
+          - text: 
+          - link "Кухня на польском языке" [ref=e652] [cursor=pointer]:
+            - /url: https://propolski.com/category/slowa/kuchnia/
+          - text: ","
+          - link "Прилагательное в польском" [ref=e653] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/przymiotnik/
+          - text: ","
+          - link "Словарь на польском языке по темам" [ref=e654] [cursor=pointer]:
+            - /url: https://propolski.com/category/slowa/
+        - generic [ref=e655]:
+          - text: 
+          - link "4 комментария" [ref=e656] [cursor=pointer]:
+            - /url: https://propolski.com/2020/04/17/przymiotniki-kulinarne/#comments
+        - link "Читать далее" [ref=e658] [cursor=pointer]:
+          - /url: https://propolski.com/2020/04/17/przymiotniki-kulinarne/
+    - article [ref=e659]:
+      - heading "Апостроф в польском языке" [level=2] [ref=e661]:
+        - link "Апостроф в польском языке" [ref=e662] [cursor=pointer]:
+          - /url: https://propolski.com/2020/04/02/apostrof-w-jezyku-polskim/
+      - figure [ref=e663]:
+        - link "Апостроф в польском языке" [ref=e664] [cursor=pointer]:
+          - /url: https://propolski.com/2020/04/02/apostrof-w-jezyku-polskim/
+          - img "Апостроф в польском языке" [ref=e665]
+      - generic [ref=e666]:
+        - paragraph [ref=e667]: Да! Апостроф в польском языке тоже есть! Ну, вдруг это вас сейчас, как когда-то меня, удивило. 🙂 Скажем так, апостроф у меня всегда прочно ассоциировался с языком украинским (хотя бы потому, что он присутствует в моей фамилии) и английским, где
+        - generic [ref=e669]:
+          - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e670]
+          - list [ref=e672]:
+            - listitem [ref=e673]:
+              - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e674] [cursor=pointer]:
+                - /url: https://propolski.com/2020/04/02/apostrof-w-jezyku-polskim/?share=facebook&nb=1
+                - text: 
+            - listitem [ref=e675]:
+              - link "Поделиться в Pinterest (Открывается в новом окне)" [ref=e676] [cursor=pointer]:
+                - /url: https://propolski.com/2020/04/02/apostrof-w-jezyku-polskim/?share=pinterest&nb=1
+                - text: 
+            - listitem [ref=e677]:
+              - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e678] [cursor=pointer]:
+                - /url: https://propolski.com/2020/04/02/apostrof-w-jezyku-polskim/?share=telegram&nb=1
+                - text: 
+            - listitem [ref=e679]:
+              - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e680] [cursor=pointer]:
+                - /url: https://propolski.com/2020/04/02/apostrof-w-jezyku-polskim/?share=jetpack-whatsapp&nb=1
+                - text: 
+            - listitem [ref=e681]:
+              - link "Поделиться в Х (Открывается в новом окне)" [ref=e682] [cursor=pointer]:
+                - /url: https://propolski.com/2020/04/02/apostrof-w-jezyku-polskim/?share=x&nb=1
+                - text: 
+            - listitem [ref=e683]:
+              - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e684] [cursor=pointer]:
+                - /url: https://propolski.com/2020/04/02/apostrof-w-jezyku-polskim/?share=linkedin&nb=1
+                - text: 
+            - listitem [ref=e685]:
+              - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e686] [cursor=pointer]:
+                - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20%D0%90%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D1%84%20%D0%B2%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5&body=https%3A%2F%2Fpropolski.com%2F2020%2F04%2F02%2Fapostrof-w-jezyku-polskim%2F&share=email&nb=1
+                - text: 
+            - listitem [ref=e687]:
+              - link "Печать (Открывается в новом окне)" [ref=e688] [cursor=pointer]:
+                - /url: https://propolski.com/2020/04/02/apostrof-w-jezyku-polskim/?share=print&nb=1
+                - text: 
+            - listitem
+      - generic [ref=e690]:
+        - generic [ref=e691]:
+          - text: 
+          - link "Катерина Лук'янова" [ref=e692] [cursor=pointer]:
+            - /url: https://propolski.com/author/kettibellya/
+        - generic [ref=e693]:
+          - text: 
+          - link "2 апреля 2020" [ref=e694] [cursor=pointer]:
+            - /url: https://propolski.com/2020/04/02/apostrof-w-jezyku-polskim/
+            - time [ref=e695]: 2 апреля 2020
+        - generic [ref=e696]:
+          - text: 
+          - link "Орфография польского языка" [ref=e697] [cursor=pointer]:
+            - /url: https://propolski.com/category/ortografia/
+          - text: ","
+          - link "Польская грамматика" [ref=e698] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/
+        - generic [ref=e699]:
+          - text: 
+          - link "1 комментарий" [ref=e700] [cursor=pointer]:
+            - /url: https://propolski.com/2020/04/02/apostrof-w-jezyku-polskim/#comments
+        - link "Читать далее" [ref=e702] [cursor=pointer]:
+          - /url: https://propolski.com/2020/04/02/apostrof-w-jezyku-polskim/
+    - article [ref=e703]:
+      - 'heading "Польские существительные на -anin: правила и примеры" [level=2] [ref=e705]':
+        - 'link "Польские существительные на -anin: правила и примеры" [ref=e706] [cursor=pointer]':
+          - /url: https://propolski.com/2020/03/19/polskie-rzeczowniki-na-anin/
+      - figure [ref=e707]:
+        - 'link "Польские существительные на -anin: правила и примеры" [ref=e708] [cursor=pointer]':
+          - /url: https://propolski.com/2020/03/19/polskie-rzeczowniki-na-anin/
+          - 'img "Польские существительные на -anin: правила и примеры" [ref=e709]'
+      - generic [ref=e710]:
+        - paragraph [ref=e711]: "Польские существительные на -anin — это такие существительные, как, к примеру: Amerykanin (американец), chrześcijanin (христианин), wrocławianin (житель Вроцлава) и др. Formant (аффикс по-русски, который можем пока что назвать просто суффиксом) -anin в польском языке используется для создания: названий жителей городов,"
+        - generic [ref=e713]:
+          - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e714]
+          - list [ref=e716]:
+            - listitem [ref=e717]:
+              - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e718] [cursor=pointer]:
+                - /url: https://propolski.com/2020/03/19/polskie-rzeczowniki-na-anin/?share=facebook&nb=1
+                - text: 
+            - listitem [ref=e719]:
+              - link "Поделиться в Pinterest (Открывается в новом окне) 2" [ref=e720] [cursor=pointer]:
+                - /url: https://propolski.com/2020/03/19/polskie-rzeczowniki-na-anin/?share=pinterest&nb=1
+                - text: 
+            - listitem [ref=e721]:
+              - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e722] [cursor=pointer]:
+                - /url: https://propolski.com/2020/03/19/polskie-rzeczowniki-na-anin/?share=telegram&nb=1
+                - text: 
+            - listitem [ref=e723]:
+              - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e724] [cursor=pointer]:
+                - /url: https://propolski.com/2020/03/19/polskie-rzeczowniki-na-anin/?share=jetpack-whatsapp&nb=1
+                - text: 
+            - listitem [ref=e725]:
+              - link "Поделиться в Х (Открывается в новом окне)" [ref=e726] [cursor=pointer]:
+                - /url: https://propolski.com/2020/03/19/polskie-rzeczowniki-na-anin/?share=x&nb=1
+                - text: 
+            - listitem [ref=e727]:
+              - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e728] [cursor=pointer]:
+                - /url: https://propolski.com/2020/03/19/polskie-rzeczowniki-na-anin/?share=linkedin&nb=1
+                - text: 
+            - listitem [ref=e729]:
+              - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e730] [cursor=pointer]:
+                - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5%20%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BD%D0%B0%20-anin%3A%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%20%D0%B8%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B&body=https%3A%2F%2Fpropolski.com%2F2020%2F03%2F19%2Fpolskie-rzeczowniki-na-anin%2F&share=email&nb=1
+                - text: 
+            - listitem [ref=e731]:
+              - link "Печать (Открывается в новом окне)" [ref=e732] [cursor=pointer]:
+                - /url: https://propolski.com/2020/03/19/polskie-rzeczowniki-na-anin/?share=print&nb=1
+                - text: 
+            - listitem
+      - generic [ref=e734]:
+        - generic [ref=e735]:
+          - text: 
+          - link "Катерина Лук'янова" [ref=e736] [cursor=pointer]:
+            - /url: https://propolski.com/author/kettibellya/
+        - generic [ref=e737]:
+          - text: 
+          - link "19 марта 2020" [ref=e738] [cursor=pointer]:
+            - /url: https://propolski.com/2020/03/19/polskie-rzeczowniki-na-anin/
+            - time [ref=e739]: 19 марта 2020
+        - generic [ref=e740]:
+          - text: 
+          - link "Польська граматика" [ref=e741] [cursor=pointer]:
+            - /url: https://propolski.com/uk/category/polska-gramatyka/
+          - text: ","
+          - link "Словарь на польском языке по темам" [ref=e742] [cursor=pointer]:
+            - /url: https://propolski.com/category/slowa/
+          - text: ","
+          - link "Существительное в польском языке" [ref=e743] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/rzeczownik/
+        - generic [ref=e744]:
+          - text: 
+          - link "Комментариев нет" [ref=e745] [cursor=pointer]:
+            - /url: https://propolski.com/2020/03/19/polskie-rzeczowniki-na-anin/#respond
+        - link "Читать далее" [ref=e747] [cursor=pointer]:
+          - /url: https://propolski.com/2020/03/19/polskie-rzeczowniki-na-anin/
+    - article [ref=e748]:
+      - heading "Краткие и полные формы польских местоимений" [level=2] [ref=e750]:
+        - link "Краткие и полные формы польских местоимений" [ref=e751] [cursor=pointer]:
+          - /url: https://propolski.com/2020/03/12/dluzsze-i-krotsze-formy-zaimkow-osobowych/
+      - figure [ref=e752]:
+        - link "Краткие и полные формы польских местоимений" [ref=e753] [cursor=pointer]:
+          - /url: https://propolski.com/2020/03/12/dluzsze-i-krotsze-formy-zaimkow-osobowych/
+          - img "Краткие и полные формы польских местоимений" [ref=e754]
+      - generic [ref=e755]:
+        - paragraph [ref=e756]: Есть правило, без знания которого ваша письменная и устная польская речь выглядит порой слегка так кривовастенько. Правило это не жизненно необходимо, конечно, но — если не хотите кривовастенько и непонятно — попробуйте начать его применять. Касается оно того, когда писать
+        - generic [ref=e758]:
+          - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e759]
+          - list [ref=e761]:
+            - listitem [ref=e762]:
+              - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e763] [cursor=pointer]:
+                - /url: https://propolski.com/2020/03/12/dluzsze-i-krotsze-formy-zaimkow-osobowych/?share=facebook&nb=1
+                - text: 
+            - listitem [ref=e764]:
+              - link "Поделиться в Pinterest (Открывается в новом окне)" [ref=e765] [cursor=pointer]:
+                - /url: https://propolski.com/2020/03/12/dluzsze-i-krotsze-formy-zaimkow-osobowych/?share=pinterest&nb=1
+                - text: 
+            - listitem [ref=e766]:
+              - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e767] [cursor=pointer]:
+                - /url: https://propolski.com/2020/03/12/dluzsze-i-krotsze-formy-zaimkow-osobowych/?share=telegram&nb=1
+                - text: 
+            - listitem [ref=e768]:
+              - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e769] [cursor=pointer]:
+                - /url: https://propolski.com/2020/03/12/dluzsze-i-krotsze-formy-zaimkow-osobowych/?share=jetpack-whatsapp&nb=1
+                - text: 
+            - listitem [ref=e770]:
+              - link "Поделиться в Х (Открывается в новом окне)" [ref=e771] [cursor=pointer]:
+                - /url: https://propolski.com/2020/03/12/dluzsze-i-krotsze-formy-zaimkow-osobowych/?share=x&nb=1
+                - text: 
+            - listitem [ref=e772]:
+              - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e773] [cursor=pointer]:
+                - /url: https://propolski.com/2020/03/12/dluzsze-i-krotsze-formy-zaimkow-osobowych/?share=linkedin&nb=1
+                - text: 
+            - listitem [ref=e774]:
+              - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e775] [cursor=pointer]:
+                - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5%20%D0%B8%20%D0%BF%D0%BE%D0%BB%D0%BD%D1%8B%D0%B5%20%D1%84%D0%BE%D1%80%D0%BC%D1%8B%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D1%85%20%D0%BC%D0%B5%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D0%B9&body=https%3A%2F%2Fpropolski.com%2F2020%2F03%2F12%2Fdluzsze-i-krotsze-formy-zaimkow-osobowych%2F&share=email&nb=1
+                - text: 
+            - listitem [ref=e776]:
+              - link "Печать (Открывается в новом окне)" [ref=e777] [cursor=pointer]:
+                - /url: https://propolski.com/2020/03/12/dluzsze-i-krotsze-formy-zaimkow-osobowych/?share=print&nb=1
+                - text: 
+            - listitem
+      - generic [ref=e779]:
+        - generic [ref=e780]:
+          - text: 
+          - link "Катерина Лук'янова" [ref=e781] [cursor=pointer]:
+            - /url: https://propolski.com/author/kettibellya/
+        - generic [ref=e782]:
+          - text: 
+          - link "12 марта 2020" [ref=e783] [cursor=pointer]:
+            - /url: https://propolski.com/2020/03/12/dluzsze-i-krotsze-formy-zaimkow-osobowych/
+            - time [ref=e784]: 12 марта 2020
+        - generic [ref=e785]:
+          - text: 
+          - link "Личные местоимения в польском" [ref=e786] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/zaimek/zaimki-osobowe/
+          - text: ","
+          - link "Местоимение в польском языке" [ref=e787] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/zaimek/
+          - text: ","
+          - link "Польская грамматика" [ref=e788] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/
+        - generic [ref=e789]:
+          - text: 
+          - link "Комментариев нет" [ref=e790] [cursor=pointer]:
+            - /url: https://propolski.com/2020/03/12/dluzsze-i-krotsze-formy-zaimkow-osobowych/#respond
+        - link "Читать далее" [ref=e792] [cursor=pointer]:
+          - /url: https://propolski.com/2020/03/12/dluzsze-i-krotsze-formy-zaimkow-osobowych/
+    - article [ref=e793]:
+      - heading "Тесты на притяжательные местоимения польского языка" [level=2] [ref=e795]:
+        - link "Тесты на притяжательные местоимения польского языка" [ref=e796] [cursor=pointer]:
+          - /url: https://propolski.com/2020/01/30/test-zaimki-dzierzawcze/
+      - figure [ref=e797]:
+        - link "Тесты на притяжательные местоимения польского языка" [ref=e798] [cursor=pointer]:
+          - /url: https://propolski.com/2020/01/30/test-zaimki-dzierzawcze/
+          - img "Тесты на притяжательные местоимения польского языка" [ref=e799]
+      - generic [ref=e800]:
+        - paragraph [ref=e801]: В этой статье вы найдете мои тесты на притяжательные местоимения польского языка. Статья призвана потренировать выученный материал, не используя тетрадей, учебников, учителей — после изучения правила можно сразу переходить к тренировке. И ответы вы получите сразу же — стоит лишь
+        - generic [ref=e803]:
+          - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e804]
+          - list [ref=e806]:
+            - listitem [ref=e807]:
+              - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e808] [cursor=pointer]:
+                - /url: https://propolski.com/2020/01/30/test-zaimki-dzierzawcze/?share=facebook&nb=1
+                - text: 
+            - listitem [ref=e809]:
+              - link "Поделиться в Pinterest (Открывается в новом окне) 12" [ref=e810] [cursor=pointer]:
+                - /url: https://propolski.com/2020/01/30/test-zaimki-dzierzawcze/?share=pinterest&nb=1
+                - text: 
+            - listitem [ref=e811]:
+              - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e812] [cursor=pointer]:
+                - /url: https://propolski.com/2020/01/30/test-zaimki-dzierzawcze/?share=telegram&nb=1
+                - text: 
+            - listitem [ref=e813]:
+              - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e814] [cursor=pointer]:
+                - /url: https://propolski.com/2020/01/30/test-zaimki-dzierzawcze/?share=jetpack-whatsapp&nb=1
+                - text: 
+            - listitem [ref=e815]:
+              - link "Поделиться в Х (Открывается в новом окне)" [ref=e816] [cursor=pointer]:
+                - /url: https://propolski.com/2020/01/30/test-zaimki-dzierzawcze/?share=x&nb=1
+                - text: 
+            - listitem [ref=e817]:
+              - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e818] [cursor=pointer]:
+                - /url: https://propolski.com/2020/01/30/test-zaimki-dzierzawcze/?share=linkedin&nb=1
+                - text: 
+            - listitem [ref=e819]:
+              - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e820] [cursor=pointer]:
+                - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20%D0%A2%D0%B5%D1%81%D1%82%D1%8B%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D1%82%D1%8F%D0%B6%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B5%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0&body=https%3A%2F%2Fpropolski.com%2F2020%2F01%2F30%2Ftest-zaimki-dzierzawcze%2F&share=email&nb=1
+                - text: 
+            - listitem [ref=e821]:
+              - link "Печать (Открывается в новом окне)" [ref=e822] [cursor=pointer]:
+                - /url: https://propolski.com/2020/01/30/test-zaimki-dzierzawcze/?share=print&nb=1
+                - text: 
+            - listitem
+      - generic [ref=e824]:
+        - generic [ref=e825]:
+          - text: 
+          - link "Катерина Лук'янова" [ref=e826] [cursor=pointer]:
+            - /url: https://propolski.com/author/kettibellya/
+        - generic [ref=e827]:
+          - text: 
+          - link "30 января 2020" [ref=e828] [cursor=pointer]:
+            - /url: https://propolski.com/2020/01/30/test-zaimki-dzierzawcze/
+            - time [ref=e829]: 30 января 2020
+        - generic [ref=e830]:
+          - text: 
+          - link "Местоимение в польском языке" [ref=e831] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/zaimek/
+          - text: ","
+          - link "Польська граматика" [ref=e832] [cursor=pointer]:
+            - /url: https://propolski.com/uk/category/polska-gramatyka/
+          - text: ","
+          - link "Притяжательные местоимения в польском" [ref=e833] [cursor=pointer]:
+            - /url: https://propolski.com/category/polskaia-grammatika/zaimek/zaimki-dzierzawcze/
+          - text: ","
+          - link "Тесты на польском языке" [ref=e834] [cursor=pointer]:
+            - /url: https://propolski.com/category/test/
+        - generic [ref=e835]:
+          - text: 
+          - link "2 комментария" [ref=e836] [cursor=pointer]:
+            - /url: https://propolski.com/2020/01/30/test-zaimki-dzierzawcze/#comments
+        - link "Читать далее" [ref=e838] [cursor=pointer]:
+          - /url: https://propolski.com/2020/01/30/test-zaimki-dzierzawcze/
+    - list [ref=e839]:
+      - listitem [ref=e840]:
+        - link "← Ранее" [ref=e841] [cursor=pointer]:
+          - /url: https://propolski.com/category/polskaia-grammatika/page/2/
+      - listitem
+  - contentinfo [ref=e842]:
+    - generic [ref=e845]:
+      - complementary [ref=e847]:
+        - heading "Полезные ссылки" [level=3] [ref=e848]
+        - list [ref=e850]:
+          - listitem [ref=e851]:
+            - link "Тесты по польскому языку" [ref=e852] [cursor=pointer]:
+              - /url: https://testy.propolski.com/
+          - listitem [ref=e853]:
+            - link "Статьи о Польше" [ref=e854] [cursor=pointer]:
+              - /url: https://insidepl.com/
+          - listitem [ref=e855]:
+            - link "Лучший хостинг" [ref=e856] [cursor=pointer]:
+              - /url: https://www.lh.pl/?ref=kettibellya
+      - complementary [ref=e858]:
+        - heading "Что такое ProPolski" [level=3] [ref=e859]
+        - list [ref=e861]:
+          - listitem [ref=e862]:
+            - link "Об авторе" [ref=e863] [cursor=pointer]:
+              - /url: https://propolski.com/autor/
+          - listitem [ref=e864]:
+            - link "Мои ответы на вопросы" [ref=e865] [cursor=pointer]:
+              - /url: https://propolski.com/?p=1811
+          - listitem [ref=e866]:
+            - link "Курс для начинающих" [ref=e867] [cursor=pointer]:
+              - /url: https://kursy.propolski.com/
+          - listitem [ref=e868]:
+            - link "Бесплатная подписка" [ref=e869] [cursor=pointer]:
+              - /url: https://propolski.com/kontakt/
+          - listitem [ref=e870]:
+            - link "Политика конфиденциальности" [ref=e871] [cursor=pointer]:
+              - /url: https://propolski.com/privacy-policy-2/
+      - complementary [ref=e873]:
+        - heading "Блог был для вас полезен?" [level=3] [ref=e874]
+        - generic [ref=e875]:
+          - paragraph [ref=e876]: Если вам понравилось, если было полезно, то ваша финансовая поддержка поможет мне писать чаще и еще интереснее!
+          - link "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e878] [cursor=pointer]:
+            - /url: https://www.patreon.com/propolski
+            - img "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e879]
+          - link "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e881] [cursor=pointer]:
+            - /url: https://www.paypal.me/propolski
+            - img "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e882]
+      - complementary [ref=e884]:
+        - paragraph [ref=e886]:
+          - text: Запроектировано с помощью Freepik.com
+          - strong [ref=e887]: Все права защищены.
+          - text: Материалы
+          - strong [ref=e888]: не копировать
+          - text: для использования на других страницах, для этого внизу каждой статьи есть кнопочка «поделиться».
+    - generic [ref=e889]:
+      - generic:
+        - generic:
+          - generic [ref=e890]:
+            - text: Copyright © 2026
+            - link "ProPolski" [ref=e891] [cursor=pointer]:
+              - /url: https://propolski.com/
+            - text: . Все права защищены. Тема
+            - link "Spacious" [ref=e892] [cursor=pointer]:
+              - /url: https://themegrill.com/themes/spacious
+            - text: "от ThemeGrill. На платформе:"
+            - link "WordPress" [ref=e893] [cursor=pointer]:
+              - /url: https://wordpress.org
+            - text: .
+          - navigation [ref=e894]:
+            - generic:
+              - list:
+                - listitem [ref=e895]:
+                  - link "Об авторе" [ref=e896] [cursor=pointer]:
+                    - /url: https://propolski.com/autor/
+                - listitem [ref=e897]:
+                  - link "Мои ответы на вопросы" [ref=e898] [cursor=pointer]:
+                    - /url: https://propolski.com/?p=1811
+                - listitem [ref=e899]:
+                  - link "Курс для начинающих" [ref=e900] [cursor=pointer]:
+                    - /url: https://kursy.propolski.com/
+                - listitem [ref=e901]:
+                  - link "Бесплатная подписка" [ref=e902] [cursor=pointer]:
+                    - /url: https://propolski.com/kontakt/
+                - listitem [ref=e903]:
+                  - link "Политика конфиденциальности" [ref=e904] [cursor=pointer]:
+                    - /url: https://propolski.com/privacy-policy-2/
+  - text: 

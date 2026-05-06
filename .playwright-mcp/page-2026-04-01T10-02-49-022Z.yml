@@ -1,0 +1,435 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Перейти к содержимому" [ref=e3] [cursor=pointer]:
+      - /url: "#main"
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - generic [ref=e8]:
+          - link " Просмотреть профиль propolskiblog на Facebook" [ref=e9] [cursor=pointer]:
+            - /url: https://www.facebook.com/propolskiblog/
+            - text: 
+            - generic [ref=e10]: Просмотреть профиль propolskiblog на Facebook
+          - link " Просмотреть профиль PROpolski_com на Twitter" [ref=e11] [cursor=pointer]:
+            - /url: https://twitter.com/PROpolski_com/
+            - text: 
+            - generic [ref=e12]: Просмотреть профиль PROpolski_com на Twitter
+          - link " Просмотреть профиль propolski на Instagram" [ref=e13] [cursor=pointer]:
+            - /url: https://www.instagram.com/propolski/
+            - text: 
+            - generic [ref=e14]: Просмотреть профиль propolski на Instagram
+          - link " Просмотреть профиль propolskiblog на Pinterest" [ref=e15] [cursor=pointer]:
+            - /url: https://www.pinterest.com/propolskiblog/
+            - text: 
+            - generic [ref=e16]: Просмотреть профиль propolskiblog на Pinterest
+          - link " Просмотреть профиль kateryna-lukianova-78b0a2ab на LinkedIn" [ref=e17] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/kateryna-lukianova-78b0a2ab/
+            - text: 
+            - generic [ref=e18]: Просмотреть профиль kateryna-lukianova-78b0a2ab на LinkedIn
+          - link " Просмотреть профиль UCg0djfCucaVv9spNr2yPv-A на YouTube" [ref=e19] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCg0djfCucaVv9spNr2yPv-A/
+            - text: 
+            - generic [ref=e20]: Просмотреть профиль UCg0djfCucaVv9spNr2yPv-A на YouTube
+          - link " Просмотреть профиль propolskiblog на Telegram" [ref=e21] [cursor=pointer]:
+            - /url: https://www.t.me/propolski_kurs/
+            - text: 
+            - generic [ref=e22]: Просмотреть профиль propolskiblog на Telegram
+        - navigation [ref=e23]:
+          - generic:
+            - list:
+              - listitem [ref=e24]:
+                - link "Українська" [ref=e25] [cursor=pointer]:
+                  - /url: https://propolski.com/uk/polska-mova-dlia-pochatkivtsiv/imennyky-ta-prykmetnyky-vidminky-polskoi/
+              - listitem [ref=e26]:
+                - link "Русский" [ref=e27] [cursor=pointer]:
+                  - /url: https://propolski.com/polski-dla-poczatkujacyh/czasowniki-przymiotniki-przypadki/
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - link "ProPolski - блог о польском языке" [ref=e33] [cursor=pointer]:
+            - /url: https://propolski.com/
+            - img "ProPolski - блог о польском языке" [ref=e34]
+          - generic [ref=e35]:
+            - heading "ProPolski" [level=3] [ref=e36]:
+              - link "ProPolski" [ref=e37] [cursor=pointer]:
+                - /url: https://propolski.com/
+            - paragraph [ref=e38]: Блог о польском языке
+        - generic [ref=e39]:
+          - complementary [ref=e41]:
+            - generic [ref=e43]:
+              - textbox "Поиск" [ref=e44]
+              - button "" [ref=e45] [cursor=pointer]
+          - navigation [ref=e46]:
+            - text: ≡
+            - generic [ref=e47]:
+              - text: 
+              - list [ref=e48]:
+                - listitem [ref=e49]:
+                  - link "ВСЕ СТАТЬИ" [ref=e50] [cursor=pointer]:
+                    - /url: https://propolski.com/sitemap/
+                - listitem [ref=e51]:
+                  - link "Учить" [ref=e52] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Учить
+                    - generic [ref=e53]: 
+                - listitem [ref=e54]:
+                  - link "Читать" [ref=e55] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Читать
+                    - generic [ref=e56]: 
+                - listitem [ref=e57]:
+                  - link "Смотреть/слушать" [ref=e58] [cursor=pointer]:
+                    - /url: https://propolski.com/wideo-audio-po-polsku/
+                    - text: Смотреть/слушать
+                    - generic [ref=e59]: 
+                - listitem [ref=e60]:
+                  - link "Польшa" [ref=e61] [cursor=pointer]:
+                    - /url: https://propolski.com/polska/
+                - listitem [ref=e62]:
+                  - link "Подписка" [ref=e63] [cursor=pointer]:
+                    - /url: https://propolski.com/kontakt/
+                - listitem [ref=e64]:
+                  - link "КУРС" [ref=e65] [cursor=pointer]:
+                    - /url: https://kursy.propolski.com/uk/
+      - generic [ref=e66]:
+        - generic:
+          - heading "Существительные и прилагательные + падежи польского языка" [level=1] [ref=e68]
+          - generic [ref=e69]:
+            - text: "Вы здесь:"
+            - generic [ref=e70]:
+              - link "Главная" [ref=e72] [cursor=pointer]:
+                - /url: https://propolski.com/
+              - text: »
+              - 'link "Польский язык для начинающих: учитесь онлайн бесплатно" [ref=e74] [cursor=pointer]':
+                - /url: https://propolski.com/polski-dla-poczatkujacyh/
+              - text: »
+              - strong [ref=e76]: Существительные и прилагательные + падежи польского языка
+    - insertion [ref=e78]:
+      - iframe [ref=e80]:
+        - generic [active] [ref=f278e1]:
+          - generic [ref=f278e6]:
+            - generic [ref=f278e7]:
+              - generic "GetResponse" [ref=f278e9]:
+                - link "Zacznij za darmo" [ref=f278e10] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CSXb2R-3MaeycEOiqrNcPw7_NmATbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgSPAk_Qwi5-IukoHRWXrspOU7LhzXDuhUMhzl5CwLbzlwf4SkHW_edmD4gQDDK-HjWDkxeo91TEErsR_TDUMzwF2faG3B9S53m_ZwIYcihv4d_piQEhnHCzES5xPoAuDxqxhtE1wlhIenuvvthKgksEqC8Mg_EI-T1Mm-dqe4CUedjj7YjdSI9j-IjJKG7JaC3BN8KpdvLtXA_9vY6Lbbu_b9pYua8UBYY0KAZHKlP0mDyvNKDBh-wBdAQ4XltVD-jt0oNBAarxa6EpPhgtnH8bqjlNyYYPHb62z29C1O-94QD0thpla4-ylkKUy555YsYzzPNl0-wX4_LumlMrhp4EIi-t0vCy3vzZMvzOcPqLHXrABMXpss-sBYgF6ZmFoE6AB7WHsOcDqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpY7qfS_LLMkwOxCYVXIQDFUnzcgAoBmAsByAsBqg0CUEzIDQHqDRMI1eDS_LLMkwMVaBXrBB3DXxND8A0CiA4JsA7G1e7TGNgTC9AVAcoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIrNzS_LLMkwMVaBXrBB3DXxNDEAEYASAAEgL8UPD_BwE&num=1&cid=CAQSbwAFq6B9FjVIMhF4tnTLhm45EoIAh_u0wQjtkdyph8xOSOzCo2_10SdYIKf7elC36XXkM8_g4gJAoCkJTOHUeia07fnawxWFJAWliBy9SKnCcK8md3BS-AB7AJM0BGFiaajjXoGFw0CetJrzdzD_shgB&sig=AOD64_0wJKcs4gG3Wo3MAFhTAFX98IifUQ&client=ca-pub-6525291204356869&rf=1&nb=0&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMIrNzS_LLMkwMVaBXrBB3DXxNDEAEYASAAEgL8UPD_BwE
+              - generic [ref=f278e11]:
+                - link "85% szybsze tworzenie emaili dzięki AI, które wspiera Twój głos, a nie go zastępuje." [ref=f278e13] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CSXb2R-3MaeycEOiqrNcPw7_NmATbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgSPAk_Qwi5-IukoHRWXrspOU7LhzXDuhUMhzl5CwLbzlwf4SkHW_edmD4gQDDK-HjWDkxeo91TEErsR_TDUMzwF2faG3B9S53m_ZwIYcihv4d_piQEhnHCzES5xPoAuDxqxhtE1wlhIenuvvthKgksEqC8Mg_EI-T1Mm-dqe4CUedjj7YjdSI9j-IjJKG7JaC3BN8KpdvLtXA_9vY6Lbbu_b9pYua8UBYY0KAZHKlP0mDyvNKDBh-wBdAQ4XltVD-jt0oNBAarxa6EpPhgtnH8bqjlNyYYPHb62z29C1O-94QD0thpla4-ylkKUy555YsYzzPNl0-wX4_LumlMrhp4EIi-t0vCy3vzZMvzOcPqLHXrABMXpss-sBYgF6ZmFoE6AB7WHsOcDqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpY7qfS_LLMkwOxCYVXIQDFUnzcgAoBmAsByAsBqg0CUEzIDQHqDRMI1eDS_LLMkwMVaBXrBB3DXxND8A0CiA4JsA7G1e7TGNgTC9AVAcoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIrNzS_LLMkwMVaBXrBB3DXxNDEAEYASAAEgL8UPD_BwE&num=1&cid=CAQSbwAFq6B9FjVIMhF4tnTLhm45EoIAh_u0wQjtkdyph8xOSOzCo2_10SdYIKf7elC36XXkM8_g4gJAoCkJTOHUeia07fnawxWFJAWliBy9SKnCcK8md3BS-AB7AJM0BGFiaajjXoGFw0CetJrzdzD_shgB&sig=AOD64_0wJKcs4gG3Wo3MAFhTAFX98IifUQ&client=ca-pub-6525291204356869&rf=1&nb=7&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMIrNzS_LLMkwMVaBXrBB3DXxNDEAEYASAAEgL8UPD_BwE
+                - link [ref=f278e14] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CSXb2R-3MaeycEOiqrNcPw7_NmATbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgSPAk_Qwi5-IukoHRWXrspOU7LhzXDuhUMhzl5CwLbzlwf4SkHW_edmD4gQDDK-HjWDkxeo91TEErsR_TDUMzwF2faG3B9S53m_ZwIYcihv4d_piQEhnHCzES5xPoAuDxqxhtE1wlhIenuvvthKgksEqC8Mg_EI-T1Mm-dqe4CUedjj7YjdSI9j-IjJKG7JaC3BN8KpdvLtXA_9vY6Lbbu_b9pYua8UBYY0KAZHKlP0mDyvNKDBh-wBdAQ4XltVD-jt0oNBAarxa6EpPhgtnH8bqjlNyYYPHb62z29C1O-94QD0thpla4-ylkKUy555YsYzzPNl0-wX4_LumlMrhp4EIi-t0vCy3vzZMvzOcPqLHXrABMXpss-sBYgF6ZmFoE6AB7WHsOcDqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpY7qfS_LLMkwOxCYVXIQDFUnzcgAoBmAsByAsBqg0CUEzIDQHqDRMI1eDS_LLMkwMVaBXrBB3DXxND8A0CiA4JsA7G1e7TGNgTC9AVAcoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIrNzS_LLMkwMVaBXrBB3DXxNDEAEYASAAEgL8UPD_BwE&num=1&cid=CAQSbwAFq6B9FjVIMhF4tnTLhm45EoIAh_u0wQjtkdyph8xOSOzCo2_10SdYIKf7elC36XXkM8_g4gJAoCkJTOHUeia07fnawxWFJAWliBy9SKnCcK8md3BS-AB7AJM0BGFiaajjXoGFw0CetJrzdzD_shgB&sig=AOD64_0wJKcs4gG3Wo3MAFhTAFX98IifUQ&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMIrNzS_LLMkwMVaBXrBB3DXxNDEAEYASAAEgL8UPD_BwE
+                  - img [ref=f278e15]
+            - generic "GetResponse" [ref=f278e17]:
+              - link "GetResponse" [ref=f278e18] [cursor=pointer]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CSXb2R-3MaeycEOiqrNcPw7_NmATbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgSPAk_Qwi5-IukoHRWXrspOU7LhzXDuhUMhzl5CwLbzlwf4SkHW_edmD4gQDDK-HjWDkxeo91TEErsR_TDUMzwF2faG3B9S53m_ZwIYcihv4d_piQEhnHCzES5xPoAuDxqxhtE1wlhIenuvvthKgksEqC8Mg_EI-T1Mm-dqe4CUedjj7YjdSI9j-IjJKG7JaC3BN8KpdvLtXA_9vY6Lbbu_b9pYua8UBYY0KAZHKlP0mDyvNKDBh-wBdAQ4XltVD-jt0oNBAarxa6EpPhgtnH8bqjlNyYYPHb62z29C1O-94QD0thpla4-ylkKUy555YsYzzPNl0-wX4_LumlMrhp4EIi-t0vCy3vzZMvzOcPqLHXrABMXpss-sBYgF6ZmFoE6AB7WHsOcDqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpY7qfS_LLMkwOxCYVXIQDFUnzcgAoBmAsByAsBqg0CUEzIDQHqDRMI1eDS_LLMkwMVaBXrBB3DXxND8A0CiA4JsA7G1e7TGNgTC9AVAcoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIrNzS_LLMkwMVaBXrBB3DXxNDEAEYASAAEgL8UPD_BwE&num=1&cid=CAQSbwAFq6B9FjVIMhF4tnTLhm45EoIAh_u0wQjtkdyph8xOSOzCo2_10SdYIKf7elC36XXkM8_g4gJAoCkJTOHUeia07fnawxWFJAWliBy9SKnCcK8md3BS-AB7AJM0BGFiaajjXoGFw0CetJrzdzD_shgB&sig=AOD64_0wJKcs4gG3Wo3MAFhTAFX98IifUQ&client=ca-pub-6525291204356869&rf=1&nb=1&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMIrNzS_LLMkwMVaBXrBB3DXxNDEAEYASAAEgL8UPD_BwE
+          - img [ref=f278e22] [cursor=pointer]
+          - button [ref=f278e24] [cursor=pointer]:
+            - img [ref=f278e25]
+          - iframe
+    - article [ref=e84]:
+      - generic [ref=e85]:
+        - paragraph [ref=e86]: Существительные и прилагательные в польском языке играют важную роль в создании понимания и выражения смысла. Существительные определяют предметы и идеи, а прилагательные описывают эти предметы и идеи. Польские существительные и прилагательные изменяются по падежам, числам и родам, что дает богатство выражения и точности в коммуникации. В этом разделе собраны все статьи, что есть у меня на эту тему.
+        - separator [ref=e87]
+        - generic [ref=e89]:
+          - generic:
+            - generic [ref=e91]:
+              - link:
+                - /url: https://propolski.com/2018/08/26/odmiana-rzeczownikow-nieregularnych/
+              - link "Склонение нерегулярных существительных в польском языке" [ref=e93] [cursor=pointer]:
+                - /url: https://propolski.com/2018/08/26/odmiana-rzeczownikow-nieregularnych/
+              - generic [ref=e94]:
+                - text: Хорошая тема - существительные. И про падежи уже немного рассказала, и про особенности склонения. Вы уже знаете, что есть в ...
+                - link "Czytaj" [ref=e96] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/26/odmiana-rzeczownikow-nieregularnych/
+            - generic [ref=e98]:
+              - link "Падежи в польском языке":
+                - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/
+                - img "Падежи в польском языке" [ref=e99] [cursor=pointer]
+              - 'link "Падежи в польском языке: таблица единственного числа" [ref=e101] [cursor=pointer]':
+                - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/
+              - generic [ref=e102]:
+                - text: Не так страшен чёрт, как его малюют. Серьёзно! Подумаешь, падежи в польском языке! Хватит уже бояться этих падежей, они мало ...
+                - link "Czytaj" [ref=e104] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/
+            - generic [ref=e106]:
+              - link "Упражнения на все падежи польского языка":
+                - /url: https://propolski.com/2018/07/27/przypadki-wszystkie-test-1/
+                - img "Упражнения на все падежи польского языка" [ref=e107] [cursor=pointer]
+              - link "Упражнения на все падежи польского языка" [ref=e109] [cursor=pointer]:
+                - /url: https://propolski.com/2018/07/27/przypadki-wszystkie-test-1/
+              - generic [ref=e110]:
+                - text: Данные упражнения на все падежи польского языка - отличная тренировка всех падежей польского языка одновременно, существительных и прилагательных. Тест призван ...
+                - link "Czytaj" [ref=e112] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/07/27/przypadki-wszystkie-test-1/
+            - generic [ref=e114]:
+              - 'link "Cudzy & obcy: какая между ними разница?"':
+                - /url: https://propolski.com/2017/07/06/cudzy-obcy/
+                - 'img "Cudzy & obcy: какая между ними разница?" [ref=e115] [cursor=pointer]'
+              - 'link "Cudzy & obcy: какая между ними разница?" [ref=e117] [cursor=pointer]':
+                - /url: https://propolski.com/2017/07/06/cudzy-obcy/
+              - generic [ref=e118]:
+                - text: Задумывались ли вы, читая cudzoziemiec и obcokrajowiec, какая между ними разница? Первое слово, факт, чаще вам попадалось в разного рода ...
+                - link "Czytaj" [ref=e120] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/07/06/cudzy-obcy/
+            - generic [ref=e122]:
+              - link "100+ самых популярных прилагательных польского языка":
+                - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/
+                - img "100+ самых популярных прилагательных польского языка" [ref=e123] [cursor=pointer]
+              - link "100+ самых популярных прилагательных польского языка" [ref=e125] [cursor=pointer]:
+                - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/
+              - generic [ref=e126]:
+                - text: В продолжении темы "ТОП 100+", популярным и, что главное, нужным представителем которого стал список самых популярных и употребляемых глаголов польского ...
+                - link "Czytaj" [ref=e128] [cursor=pointer]:
+                  - /url: https://propolski.com/2017/06/05/100-najpopularniejszych-przymiotnikow/
+            - generic [ref=e130]:
+              - 'link "Польские существительные: исключения и особенности"':
+                - /url: https://propolski.com/2016/04/11/polskie-rzeczowniki-wyjatki/
+                - 'img "Польские существительные: исключения и особенности" [ref=e131] [cursor=pointer]'
+              - link "Исключения и особенности польских существительных" [ref=e133] [cursor=pointer]:
+                - /url: https://propolski.com/2016/04/11/polskie-rzeczowniki-wyjatki/
+              - generic [ref=e134]:
+                - text: Имя существительное (rzeczownik в польском) - это склоняемая часть речи, которая обозначает предмет. Существительное изменяется по падежам и числам, но ...
+                - link "Czytaj" [ref=e136] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/04/11/polskie-rzeczowniki-wyjatki/
+        - separator [ref=e137]
+        - paragraph [ref=e138]:
+          - text: Ваша Катерина Лукьянова, автор блога о польском языке
+          - link "ProPolski.com" [ref=e139] [cursor=pointer]:
+            - /url: https://propolski.com
+          - text: ","
+          - link "Testy.ProPolski" [ref=e140] [cursor=pointer]:
+            - /url: https://testy.propolski.com/
+          - text: и сайта
+          - link "insidePL.com" [ref=e141] [cursor=pointer]:
+            - /url: https://insidepl.com/
+        - separator [ref=e142]
+        - paragraph [ref=e143]: Если материал был интересен и полезен, я буду рада поддержке моих проектов 🙂
+        - generic [ref=e144]:
+          - figure [ref=e149]:
+            - link "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e150] [cursor=pointer]:
+              - /url: https://www.patreon.com/propolski
+              - img "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e151]
+          - figure [ref=e155]:
+            - link "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e156] [cursor=pointer]:
+              - /url: https://www.paypal.me/propolski
+              - img "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e157]
+        - insertion [ref=e160]:
+          - iframe [ref=e162]:
+            - generic [active] [ref=f289e1]:
+              - generic [ref=f289e6]:
+                - generic [ref=f289e7]:
+                  - generic "kursera-trein.com" [ref=f289e8]:
+                    - link "Обучение инвестированию - Онлайн обучение" [ref=f289e9] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cryx2SO3MaYqtCfOCrNcPj8un8Aul-eX6hQGOrKHRpxWsnMC72hoQASD63eE3YOnkyoXgGqABo-3B60LIAQGoAwHIA8MEqgShAk_QY6g5F8mkRX5L8Da_D4YkVpmHRWJe7JvtaYALEPlhcmrS31amuxNl1DmNWdN8cFkqT1p9y54jraBUMKFsyGzrV23mUA4CDd1rRuryz67hsZnuy1J3iXQ1K1VKCPFAJ6oAhK_VGXzybP2xeccOplaicjLWLusp4TUUgOGGq9ZPWElc0UO5fMQIRDZJM88WcAVy1sv-NYovvhojHw5qllDtkyz6gXeMssiPCgD8LkeM9EUxplwzdK1DThVr9gRNewGtUvKaGCyr00ergvtBTJcHnb5JiemNyOQdi5W6TS_smJkStGvRa8I2EgEU10b4Wft1jHk8jMPZ6iviMqZlVfIE2iQgY_cOHV-f4Epjucd64QVbSinhSKYQukPzfzbWDenABJaanqbOBYgFw6uviligBmaAB6OlkssdqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYysWI_bLMkwOxCR_ec5vHbB3KgAoBmAsByAsBqg0CUEzIDQHqDRMIkPWI_bLMkwMVcwHrBB2P5Qm-8A0CiA4J2BMN0BUByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAoZUGGYiAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIivGI_bLMkwMVcwHrBB2P5Qm-EAEYASAAEgK4DvD_BwE&num=1&cid=CAQSbwAFq6B9aSt0dOSUD6zCamvr8fWUiIB51VaXeDWLmN9TY_XFofTO0AOxE0d2jqpt5aIc0XzjDqEIibZK812NKlkikoV-CYVTUP5ZwKrMxj3DPWXIuDOnFwwpYGusiqET-5BCearJcz0wRz-wYmL8cBgB&sig=AOD64_0ZK6GclXIDy9k-2M3dBgP0uPSIGA&client=ca-pub-6525291204356869&rf=1&nb=0&adurl=https://kursera-trein.com/%3Fgad_source%3D5%26gad_campaignid%3D23644067267%26gclid%3DEAIaIQobChMIivGI_bLMkwMVcwHrBB2P5Qm-EAEYASAAEgK4DvD_BwE
+                  - link "Всё про инвестиции - собрано в образовательном онлайн мастер классе kursera-trein.com" [ref=f289e11] [cursor=pointer]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cryx2SO3MaYqtCfOCrNcPj8un8Aul-eX6hQGOrKHRpxWsnMC72hoQASD63eE3YOnkyoXgGqABo-3B60LIAQGoAwHIA8MEqgShAk_QY6g5F8mkRX5L8Da_D4YkVpmHRWJe7JvtaYALEPlhcmrS31amuxNl1DmNWdN8cFkqT1p9y54jraBUMKFsyGzrV23mUA4CDd1rRuryz67hsZnuy1J3iXQ1K1VKCPFAJ6oAhK_VGXzybP2xeccOplaicjLWLusp4TUUgOGGq9ZPWElc0UO5fMQIRDZJM88WcAVy1sv-NYovvhojHw5qllDtkyz6gXeMssiPCgD8LkeM9EUxplwzdK1DThVr9gRNewGtUvKaGCyr00ergvtBTJcHnb5JiemNyOQdi5W6TS_smJkStGvRa8I2EgEU10b4Wft1jHk8jMPZ6iviMqZlVfIE2iQgY_cOHV-f4Epjucd64QVbSinhSKYQukPzfzbWDenABJaanqbOBYgFw6uviligBmaAB6OlkssdqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYysWI_bLMkwOxCR_ec5vHbB3KgAoBmAsByAsBqg0CUEzIDQHqDRMIkPWI_bLMkwMVcwHrBB2P5Qm-8A0CiA4J2BMN0BUByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAoZUGGYiAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIivGI_bLMkwMVcwHrBB2P5Qm-EAEYASAAEgK4DvD_BwE&num=1&cid=CAQSbwAFq6B9aSt0dOSUD6zCamvr8fWUiIB51VaXeDWLmN9TY_XFofTO0AOxE0d2jqpt5aIc0XzjDqEIibZK812NKlkikoV-CYVTUP5ZwKrMxj3DPWXIuDOnFwwpYGusiqET-5BCearJcz0wRz-wYmL8cBgB&sig=AOD64_0ZK6GclXIDy9k-2M3dBgP0uPSIGA&client=ca-pub-6525291204356869&rf=1&nb=7&adurl=https://kursera-trein.com/%3Fgad_source%3D5%26gad_campaignid%3D23644067267%26gclid%3DEAIaIQobChMIivGI_bLMkwMVcwHrBB2P5Qm-EAEYASAAEgK4DvD_BwE
+                - link "ОТКРЫТЬ" [ref=f289e14] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cryx2SO3MaYqtCfOCrNcPj8un8Aul-eX6hQGOrKHRpxWsnMC72hoQASD63eE3YOnkyoXgGqABo-3B60LIAQGoAwHIA8MEqgShAk_QY6g5F8mkRX5L8Da_D4YkVpmHRWJe7JvtaYALEPlhcmrS31amuxNl1DmNWdN8cFkqT1p9y54jraBUMKFsyGzrV23mUA4CDd1rRuryz67hsZnuy1J3iXQ1K1VKCPFAJ6oAhK_VGXzybP2xeccOplaicjLWLusp4TUUgOGGq9ZPWElc0UO5fMQIRDZJM88WcAVy1sv-NYovvhojHw5qllDtkyz6gXeMssiPCgD8LkeM9EUxplwzdK1DThVr9gRNewGtUvKaGCyr00ergvtBTJcHnb5JiemNyOQdi5W6TS_smJkStGvRa8I2EgEU10b4Wft1jHk8jMPZ6iviMqZlVfIE2iQgY_cOHV-f4Epjucd64QVbSinhSKYQukPzfzbWDenABJaanqbOBYgFw6uviligBmaAB6OlkssdqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYysWI_bLMkwOxCR_ec5vHbB3KgAoBmAsByAsBqg0CUEzIDQHqDRMIkPWI_bLMkwMVcwHrBB2P5Qm-8A0CiA4J2BMN0BUByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAoZUGGYiAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIivGI_bLMkwMVcwHrBB2P5Qm-EAEYASAAEgK4DvD_BwE&num=1&cid=CAQSbwAFq6B9aSt0dOSUD6zCamvr8fWUiIB51VaXeDWLmN9TY_XFofTO0AOxE0d2jqpt5aIc0XzjDqEIibZK812NKlkikoV-CYVTUP5ZwKrMxj3DPWXIuDOnFwwpYGusiqET-5BCearJcz0wRz-wYmL8cBgB&sig=AOD64_0ZK6GclXIDy9k-2M3dBgP0uPSIGA&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://kursera-trein.com/%3Fgad_source%3D5%26gad_campaignid%3D23644067267%26gclid%3DEAIaIQobChMIivGI_bLMkwMVcwHrBB2P5Qm-EAEYASAAEgK4DvD_BwE
+                  - generic [ref=f289e17]:
+                    - generic [ref=f289e18]: ОТКРЫТЬ
+                    - img [ref=f289e19]
+              - img [ref=f289e24] [cursor=pointer]
+              - button [ref=f289e26] [cursor=pointer]:
+                - img [ref=f289e27]
+              - iframe
+        - paragraph [ref=e163]:
+          - link "Как еще поддержать блог ProPolski" [ref=e164] [cursor=pointer]:
+            - /url: https://propolski.com/subscribe-and-help/
+            - strong [ref=e165]: Как еще поддержать блог ProPolski
+        - insertion [ref=e166]:
+          - iframe [ref=e168]:
+            - generic [active] [ref=f277e1]:
+              - generic [ref=f277e5]:
+                - generic [ref=f277e6]:
+                  - generic [ref=f277e8]:
+                    - link [ref=f277e9] [cursor=pointer]
+                    - generic [ref=f277e10]:
+                      - link "Porównanie Opieki Medycznej" [ref=f277e13] [cursor=pointer]
+                      - generic [ref=f277e14]:
+                        - generic [ref=f277e15]: Реклама
+                        - link "Zdrowie w Firmie" [ref=f277e17] [cursor=pointer]
+                  - generic [ref=f277e19]:
+                    - link [ref=f277e20] [cursor=pointer]
+                    - generic [ref=f277e21]:
+                      - link "Пройди тест и стань лучше" [ref=f277e24] [cursor=pointer]
+                      - generic [ref=f277e25]:
+                        - generic [ref=f277e26]: Реклама
+                        - link "MyIQ" [ref=f277e28] [cursor=pointer]
+                  - generic [ref=f277e30]:
+                    - link [ref=f277e31] [cursor=pointer]
+                    - generic [ref=f277e32]:
+                      - link "Naucz się robić lepsze zdjęcia" [ref=f277e35] [cursor=pointer]
+                      - generic [ref=f277e36]:
+                        - generic [ref=f277e37]: Реклама
+                        - link "Wiktor Baron Fotografia" [ref=f277e39] [cursor=pointer]
+                  - generic [ref=f277e41]:
+                    - link [ref=f277e42] [cursor=pointer]
+                    - generic [ref=f277e43]:
+                      - link "Angielski z Native Speakerem" [ref=f277e46] [cursor=pointer]
+                      - generic [ref=f277e47]:
+                        - generic [ref=f277e48]: Реклама
+                        - link "Alter" [ref=f277e50] [cursor=pointer]
+                - generic [ref=f277e51]:
+                  - generic [ref=f277e53]:
+                    - link [ref=f277e54] [cursor=pointer]
+                    - generic [ref=f277e55]:
+                      - link "Terrraria dla gadów" [ref=f277e58] [cursor=pointer]
+                      - generic [ref=f277e59]:
+                        - generic [ref=f277e60]: Реклама
+                        - link "Terran Polska" [ref=f277e62] [cursor=pointer]
+                  - generic [ref=f277e64]:
+                    - link [ref=f277e65] [cursor=pointer]
+                    - generic [ref=f277e66]:
+                      - link "Dołącz do Paczki Smaku" [ref=f277e69] [cursor=pointer]
+                      - generic [ref=f277e70]:
+                        - generic [ref=f277e71]: Реклама
+                        - link "Paczka Smaku" [ref=f277e73] [cursor=pointer]
+                  - generic [ref=f277e75]:
+                    - link [ref=f277e76] [cursor=pointer]
+                    - generic [ref=f277e77]:
+                      - link "Tanie plany architektoniczne" [ref=f277e80] [cursor=pointer]
+                      - generic [ref=f277e81]:
+                        - generic [ref=f277e82]: Реклама
+                        - link "KB Projekt" [ref=f277e84] [cursor=pointer]
+                  - generic [ref=f277e86]:
+                    - link [ref=f277e87] [cursor=pointer]
+                    - generic [ref=f277e88]:
+                      - link "Gotowe ćwiczenia do wydruku" [ref=f277e91] [cursor=pointer]
+                      - generic [ref=f277e92]:
+                        - generic [ref=f277e93]: Реклама
+                        - link "Nauczony.pl" [ref=f277e95] [cursor=pointer]
+              - img [ref=f277e100]
+        - generic [ref=e170]:
+          - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e171]
+          - list [ref=e173]:
+            - listitem [ref=e174]:
+              - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e175] [cursor=pointer]:
+                - /url: https://propolski.com/polski-dla-poczatkujacyh/czasowniki-przymiotniki-przypadki/?share=facebook&nb=1
+                - text: 
+            - listitem [ref=e176]:
+              - link "Поделиться в Pinterest (Открывается в новом окне)" [ref=e177] [cursor=pointer]:
+                - /url: https://propolski.com/polski-dla-poczatkujacyh/czasowniki-przymiotniki-przypadki/?share=pinterest&nb=1
+                - text: 
+            - listitem [ref=e178]:
+              - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e179] [cursor=pointer]:
+                - /url: https://propolski.com/polski-dla-poczatkujacyh/czasowniki-przymiotniki-przypadki/?share=telegram&nb=1
+                - text: 
+            - listitem [ref=e180]:
+              - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e181] [cursor=pointer]:
+                - /url: https://propolski.com/polski-dla-poczatkujacyh/czasowniki-przymiotniki-przypadki/?share=jetpack-whatsapp&nb=1
+                - text: 
+            - listitem [ref=e182]:
+              - link "Поделиться в Х (Открывается в новом окне)" [ref=e183] [cursor=pointer]:
+                - /url: https://propolski.com/polski-dla-poczatkujacyh/czasowniki-przymiotniki-przypadki/?share=x&nb=1
+                - text: 
+            - listitem [ref=e184]:
+              - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e185] [cursor=pointer]:
+                - /url: https://propolski.com/polski-dla-poczatkujacyh/czasowniki-przymiotniki-przypadki/?share=linkedin&nb=1
+                - text: 
+            - listitem [ref=e186]:
+              - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e187] [cursor=pointer]:
+                - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20%D0%A1%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BF%D1%80%D0%B8%D0%BB%D0%B0%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%2B%20%D0%BF%D0%B0%D0%B4%D0%B5%D0%B6%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0&body=https%3A%2F%2Fpropolski.com%2Fpolski-dla-poczatkujacyh%2Fczasowniki-przymiotniki-przypadki%2F&share=email&nb=1
+                - text: 
+            - listitem [ref=e188]:
+              - link "Печать (Открывается в новом окне)" [ref=e189] [cursor=pointer]:
+                - /url: https://propolski.com/polski-dla-poczatkujacyh/czasowniki-przymiotniki-przypadki/#print?share=print&nb=1
+                - text: 
+            - listitem
+    - contentinfo [ref=e190]:
+      - generic [ref=e192]:
+        - generic [ref=e193]:
+          - complementary [ref=e195]:
+            - heading "Полезные ссылки" [level=3] [ref=e196]
+            - list [ref=e198]:
+              - listitem [ref=e199]:
+                - link "Тесты по польскому языку" [ref=e200] [cursor=pointer]:
+                  - /url: https://testy.propolski.com/
+              - listitem [ref=e201]:
+                - link "Статьи о Польше" [ref=e202] [cursor=pointer]:
+                  - /url: https://insidepl.com/
+              - listitem [ref=e203]:
+                - link "Лучший хостинг" [ref=e204] [cursor=pointer]:
+                  - /url: https://www.lh.pl/?ref=kettibellya
+          - complementary [ref=e206]:
+            - heading "Что такое ProPolski" [level=3] [ref=e207]
+            - list [ref=e209]:
+              - listitem [ref=e210]:
+                - link "Об авторе" [ref=e211] [cursor=pointer]:
+                  - /url: https://propolski.com/autor/
+              - listitem [ref=e212]:
+                - link "Мои ответы на вопросы" [ref=e213] [cursor=pointer]:
+                  - /url: https://propolski.com/?p=1811
+              - listitem [ref=e214]:
+                - link "Курс для начинающих" [ref=e215] [cursor=pointer]:
+                  - /url: https://kursy.propolski.com/
+              - listitem [ref=e216]:
+                - link "Бесплатная подписка" [ref=e217] [cursor=pointer]:
+                  - /url: https://propolski.com/kontakt/
+              - listitem [ref=e218]:
+                - link "Политика конфиденциальности" [ref=e219] [cursor=pointer]:
+                  - /url: https://propolski.com/privacy-policy-2/
+          - complementary [ref=e221]:
+            - heading "Блог был для вас полезен?" [level=3] [ref=e222]
+            - generic [ref=e223]:
+              - paragraph [ref=e224]: Если вам понравилось, если было полезно, то ваша финансовая поддержка поможет мне писать чаще и еще интереснее!
+              - link "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e226] [cursor=pointer]:
+                - /url: https://www.patreon.com/propolski
+                - img "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e227]
+              - link "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e229] [cursor=pointer]:
+                - /url: https://www.paypal.me/propolski
+                - img "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e230]
+          - complementary [ref=e232]:
+            - paragraph [ref=e234]:
+              - text: Запроектировано с помощью Freepik.com
+              - strong [ref=e235]: Все права защищены.
+              - text: Материалы
+              - strong [ref=e236]: не копировать
+              - text: для использования на других страницах, для этого внизу каждой статьи есть кнопочка «поделиться».
+        - insertion [ref=e238]
+      - generic [ref=e240]:
+        - generic:
+          - generic:
+            - generic [ref=e241]:
+              - text: Copyright © 2026
+              - link "ProPolski" [ref=e242] [cursor=pointer]:
+                - /url: https://propolski.com/
+              - text: . Все права защищены. Тема
+              - link "Spacious" [ref=e243] [cursor=pointer]:
+                - /url: https://themegrill.com/themes/spacious
+              - text: "от ThemeGrill. На платформе:"
+              - link "WordPress" [ref=e244] [cursor=pointer]:
+                - /url: https://wordpress.org
+              - text: .
+            - navigation [ref=e245]:
+              - generic:
+                - list:
+                  - listitem [ref=e246]:
+                    - link "Об авторе" [ref=e247] [cursor=pointer]:
+                      - /url: https://propolski.com/autor/
+                  - listitem [ref=e248]:
+                    - link "Мои ответы на вопросы" [ref=e249] [cursor=pointer]:
+                      - /url: https://propolski.com/?p=1811
+                  - listitem [ref=e250]:
+                    - link "Курс для начинающих" [ref=e251] [cursor=pointer]:
+                      - /url: https://kursy.propolski.com/
+                  - listitem [ref=e252]:
+                    - link "Бесплатная подписка" [ref=e253] [cursor=pointer]:
+                      - /url: https://propolski.com/kontakt/
+                  - listitem [ref=e254]:
+                    - link "Политика конфиденциальности" [ref=e255] [cursor=pointer]:
+                      - /url: https://propolski.com/privacy-policy-2/
+    - text: 
+    - generic [ref=e257]:
+      - button "Privacy and cookie settings" [ref=e258] [cursor=pointer]
+      - generic [ref=e259]: "Managed by Google. Complies with IAB TCF. CMP ID: 300"
+  - insertion [ref=e260]:
+    - iframe [ref=e263]:
+      - iframe [ref=f291e1]:
+        - generic [active]:
+          - generic [ref=f294e1]:
+            - generic [ref=f294e2]:
+              - generic:
+                - img [ref=f294e6] [cursor=pointer]
+                - button [ref=f294e8] [cursor=pointer]:
+                  - img [ref=f294e9]
+            - link "Click Here" [ref=f294e17] [cursor=pointer]:
+              - /url: https://googleads.g.doubleclick.net/dbm/clk?sa=L&ai=C3JTTR-3MaaCRDrPy_c8P4dz20Q_3n6ScgQGip57OxBSd5ezfwQEQASD63eE3YOnkyoXgGqAB_LOazz7IAQmoAwHIA5sEqgTvAU_QfmI8tmA3AoCIZtfR2ainVK_wzAK5-jhOvsCziEKkp_eWiBYt0VrBC0GfSkuHHGSzpz2APyrYmSdPCYKFEeesGNf6Zax58Kzeknbt1YU4royY60Yz6d9ZHNutF6mA2HVs6YxVY7lZwIoS27Brk901nEjjDgaKpbDl7YahsNlUy6ZxBzsCz3MeKdu-VmqMNPhxCjt5qhxj0obyuxZ3kRVRJcCFnZ7z2NkdKdC5Wjn_Di-xFUv3qTXrG-Wh3cFu938KWg9XsxSfoPYVWOaomje7KfyMyqcLXF0faMuDwKpLWmdYHY-YrIN78rWNnTM7wATOm7H1hwXgBAOIBfbmi_NSkAYBoAZNgAf86-quGagHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAqgH59exAtgHANIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WLSj0PyyzJMDgAoBmAsByAsBgAwBqg0CUEzqDRMIu9TQ_LLMkwMVM3n_Ax1hrj368A0BiA4JsBOMn78h0BMA2BMN2BQB0BUByhYCCgD4FgGAFwGyFwQYAlAGshgJEgKdYxhNIgEA0BkB2BkB&ae=1&num=1&cid=CAQSbwAFq6B9b1wPWgK5r2sejUaqxHG4O303cYOQvbH5QpSI8Bgd2QKKzSOxozw3vn6oR3mG0KPgcl6qUIZJOxhWlaRPLmRsXrqhlzspKpk-sZX1kczXWG2YtmKDKZ45dMg2FhyY2MzjzlG84j73XP8AqxgB&sig=AOD64_3u0-a7pp6lG7SS6uN5E1NFnzMlFA&client=ca-pub-6525291204356869&dbm_c=AKAmf-C4QCcc1E6C0yXH-t3LgLN4b8OaipDC8R7M3zTCnmoVq0OgeQJF_imgbCybu6utQ_A1UG6YVnpJS5W6UL33_26ukJ61QNVK1C0x4hwn_fg4IFEFcXdFFg891iRrwT5XX0LvhrixqKb8AOkTtMC4VH5u3jx-4DviGjG0Kt_iXzK10zhIeDhRalIYit9ZeQM2gu-GNWqMUF6SUrPcXAEy_3-p17b2ZpwUL3M1xCBasIjyCMRvaeFXGbvNgUzOfgUXhXpUxmDSMGTIvmjZ0InnvMXD1Y3ufg&cry=1&dbm_d=AKAmf-A6Yz-lbHJW-jnJR4JYpDGlgGoqurnTvRqigHSAyI_cxjtg59Kp242N-DGd2mVoi27Enakynh8NZHKyW9f6fwH1rCsTIu7X9gdowpSkwDWh_5XJhI-b7qOHOtGN9u41toZZHIPsVi5fyRvsmNifG27NpeQQUdCesD-J5WHwn5mM2-xUU_cvxaZSi5-gRo5fobCFiytVrPH23ffF_MfRQ-McN86SIcWm29hvvGKXZlHqybRp9IbAsMqMcJaxJyxREr3v6k6nELolVSOvGmFLOWDzenIz51jz90EqMn0e9dFsW1hmieS9PRiim0ZXKAVfALFqoI5xSWWZK6ZJg0NY_rptY_jJOnXxmTOBv9dPzDfe4OAIGrYEXzpJqph2dN8TIpiWv8Dtu6Nw7VhrmPFEVvFcjnQK03KGPD15Y_5Sagf47X7diw-qJn9tgos4gnlYGClJHnqGuyKYIGwHiz1UYEP3aTaJgcOEbCByuA2W065ccuP0wX1uQvLv7clQbkk7-4OiHc3x5D0Yg5pLK2zfwuJPk5Y8RcS6wxN2bJo3RUdRMX-01qDekVI4mFLqNk4hAf0gKBAMdH8xjUSaPnnFzycY580VB5SXb94FM7KeXsbZVxMzHXxwn0Uos-j8Q_C1IbNFdoSMRzp9HP-wlTFoERkLSpAKdOhpc1yQZ2iD7JF3C4IFMGdqawc0QzDtGfoq2K6MMHX59851qxqoydvQkbd6sROdFXupYNlI2L_MUlzo1UTOf8q79aIIlt2wq1oCEu8204h_&adurl=https://servedby.flashtalking.com/click/1/271278;9330551;5981021;210;0/?us_privacy=!!US_PRIVACY!&gdpr_consent=CQh-8AAQh-8AAEsACBENCYFoAP_gAEPgACgAK3oB_C7EbCFCiDJ3IKMEMAhHABBAYsAwAAYBAwAADBIQIAQCgkEYBASAFCACCAAAKASBAAAgCAAAAUAAIAAFAABAAAwAIBAIIAAAgAAAAEAIAAAACIAAEQCAAAAEAEAAkAgAAAIASEAAAAAAAACBAAAAAAAAAAAAAAAABAEAAQAAQAAAAAAAiAAAAAAAABAIAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAABAAAAAAAQgsIgH8LsRsIUKIMFcgowQwCFcAEABiwDAABgEDAAAMEhAgBAKSQRIEAIAQIAAIAAAgBAEAACgICAAAQAAAABUAAEAADAAgEAgAQACAAABAQAAAAAAIgAARAIAAAAQAQACACAAAAgBIQAAAAAAAAIEAAAAAAAAAAAAAAAAAAQAAIADAAAAAAACIAAAAAAAAEAgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAQAA.ILCIB_C7EbCFCiDJ3IKMEMAhXABBAYsAwAAYBAwAADBIQIAQCkkEaBASAFCACCAAAKASBAAAoCAgAAUAAIAAVAABAAAwAIBAIIEAAgAAAQEAIAAAACIAAEQCAAAAEAEAAkAgAAAIASEAAAAAAAACBAAAAAAAAAAAAAAAABAEAASAAwAAAAAAAiAAAAAAAABAIEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAABAAAAAAAQgAAE&gdpr=1&ft_partnerimpid=ABAjH0g5fhkdwFZEde-EIsCxg6oH&ft_impID=AEE91503-F36C-458C-315C-E7DAEAB154EA&g=6665EF3EBAA31A&random=33549.141847175095&ft_width=728&ft_height=90&url=https://www.adobe.com/pl/products/premiere.html?sdid=FR7NZ2FK&mv=display&mv2=display
+              - img "Click Here" [ref=f294e18]
+          - iframe

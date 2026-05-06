@@ -1,0 +1,1838 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Перейти к содержимому" [ref=e3] [cursor=pointer]:
+      - /url: "#main"
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - generic [ref=e8]:
+          - link " Просмотреть профиль propolskiblog на Facebook" [ref=e9] [cursor=pointer]:
+            - /url: https://www.facebook.com/propolskiblog/
+            - text: 
+            - generic [ref=e10]: Просмотреть профиль propolskiblog на Facebook
+          - link " Просмотреть профиль PROpolski_com на Twitter" [ref=e11] [cursor=pointer]:
+            - /url: https://twitter.com/PROpolski_com/
+            - text: 
+            - generic [ref=e12]: Просмотреть профиль PROpolski_com на Twitter
+          - link " Просмотреть профиль propolski на Instagram" [ref=e13] [cursor=pointer]:
+            - /url: https://www.instagram.com/propolski/
+            - text: 
+            - generic [ref=e14]: Просмотреть профиль propolski на Instagram
+          - link " Просмотреть профиль propolskiblog на Pinterest" [ref=e15] [cursor=pointer]:
+            - /url: https://www.pinterest.com/propolskiblog/
+            - text: 
+            - generic [ref=e16]: Просмотреть профиль propolskiblog на Pinterest
+          - link " Просмотреть профиль kateryna-lukianova-78b0a2ab на LinkedIn" [ref=e17] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/kateryna-lukianova-78b0a2ab/
+            - text: 
+            - generic [ref=e18]: Просмотреть профиль kateryna-lukianova-78b0a2ab на LinkedIn
+          - link " Просмотреть профиль UCg0djfCucaVv9spNr2yPv-A на YouTube" [ref=e19] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCg0djfCucaVv9spNr2yPv-A/
+            - text: 
+            - generic [ref=e20]: Просмотреть профиль UCg0djfCucaVv9spNr2yPv-A на YouTube
+          - link " Просмотреть профиль propolskiblog на Telegram" [ref=e21] [cursor=pointer]:
+            - /url: https://www.t.me/propolski_kurs/
+            - text: 
+            - generic [ref=e22]: Просмотреть профиль propolskiblog на Telegram
+        - navigation [ref=e23]:
+          - generic:
+            - list:
+              - listitem [ref=e24]:
+                - link "Українська" [ref=e25] [cursor=pointer]:
+                  - /url: https://propolski.com/uk/2023/07/05/vidminky-polskoiu-movoiu-tablytsia-odnyny/
+              - listitem [ref=e26]:
+                - link "Русский" [ref=e27] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - link "ProPolski - блог о польском языке" [ref=e33] [cursor=pointer]:
+            - /url: https://propolski.com/
+            - img "ProPolski - блог о польском языке" [ref=e34]
+          - generic [ref=e35]:
+            - heading "ProPolski" [level=3] [ref=e36]:
+              - link "ProPolski" [ref=e37] [cursor=pointer]:
+                - /url: https://propolski.com/
+            - paragraph [ref=e38]: Блог о польском языке
+        - generic [ref=e39]:
+          - complementary [ref=e41]:
+            - generic [ref=e43]:
+              - textbox "Поиск" [ref=e44]
+              - button "" [ref=e45] [cursor=pointer]
+          - navigation [ref=e46]:
+            - text: ≡
+            - generic [ref=e47]:
+              - text: 
+              - list [ref=e48]:
+                - listitem [ref=e49]:
+                  - link "ВСЕ СТАТЬИ" [ref=e50] [cursor=pointer]:
+                    - /url: https://propolski.com/sitemap/
+                - listitem [ref=e51]:
+                  - link "Учить" [ref=e52] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Учить
+                    - generic [ref=e53]: 
+                - listitem [ref=e54]:
+                  - link "Читать" [ref=e55] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Читать
+                    - generic [ref=e56]: 
+                - listitem [ref=e57]:
+                  - link "Смотреть/слушать" [ref=e58] [cursor=pointer]:
+                    - /url: https://propolski.com/wideo-audio-po-polsku/
+                    - text: Смотреть/слушать
+                    - generic [ref=e59]: 
+                - listitem [ref=e60]:
+                  - link "Польшa" [ref=e61] [cursor=pointer]:
+                    - /url: https://propolski.com/polska/
+                - listitem [ref=e62]:
+                  - link "Подписка" [ref=e63] [cursor=pointer]:
+                    - /url: https://propolski.com/kontakt/
+                - listitem [ref=e64]:
+                  - link "КУРС" [ref=e65] [cursor=pointer]:
+                    - /url: https://kursy.propolski.com/uk/
+      - generic [ref=e66]:
+        - generic:
+          - 'heading "Падежи в польском языке: таблица единственного числа" [level=1] [ref=e68]'
+          - generic [ref=e69]:
+            - text: "Вы здесь:"
+            - generic [ref=e70]:
+              - link "Главная" [ref=e72] [cursor=pointer]:
+                - /url: https://propolski.com/
+              - text: »
+              - link "Польская грамматика" [ref=e74] [cursor=pointer]:
+                - /url: https://propolski.com/category/polskaia-grammatika/
+              - text: »
+              - link "Падежи польские" [ref=e76] [cursor=pointer]:
+                - /url: https://propolski.com/category/polskaia-grammatika/przypadki/
+              - text: »
+              - strong [ref=e78]: "Падежи в польском языке: таблица единственного числа"
+    - insertion [ref=e80]:
+      - iframe [ref=e82]:
+        - generic [active] [ref=f532e1]:
+          - generic [ref=f532e6]:
+            - link [ref=f532e7] [cursor=pointer]:
+              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CRKgTxvLMaaKzMOK9wuIPqY7usAKyt_aMhgGoiobUlhX27-G6kSoQASD63eE3YOnkyoXgGqABtvq--SjIAQmoAwHIA8sEqgT_AU_QwbijfjEDjA7JhZ3GyxpbbSljOVG41GH1reJOrxWDmEvRAdVi3gt1mlpJkFUDQS11nGBh5JDRrP8drrpe5NyF4PJwxz4ujY_40VfEvp09jpdfaapVr_ubAgXfmupHX2cdgqChb25m29AjV7EWH-dgRh3II3ehfMJX_odNNG6KLSSRVBkkdQnJRL_j5pf0jLub3jucNCQn6RKU9gM8KoQiddJZ_IqFrsu0-OXAXqWaXWNMi2hnEAGnYT-KLcW13dTa9oaEIKpq8GJJgXAippJgnZx8QNOidQxQBWDWpoByVw0JpabQ7U3fcXfZVifanui5b-rl7ubOehWEpAPb58AEjZeeuL0FiAXG_YilVKAGLoAHtYew5wOoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCDIIgOGAEBABGJ8DMgiqgoCAgICACDoOgMADgICEgICUruADqAdIvf3BOljwruabuMyTA7EJ27T6ZQergAqACgGYCwHICwGADAGqDQJQTMgNAeoNEwjYs-ebuMyTAxXinlAGHSmHGybwDQKIDgmwDoCTgeAY2BMM0BUByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAvpTGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIoq7nm7jMkwMV4p5QBh0phxsmEAEYASAAEgLRn_D_BwE&num=1&cid=CAQSbwAFq6B9k9n3oMsT3wpTXnhKN7iByTDRXaLLeZeW_uyGryAlZOvWAuDoW4tUYlEWehWyr4Bei07mFMRGfkgB6l9p4yD1x2UdyxXQONvv9c1VLx3Phd4aSbkD1YZqb34Ng4jhDNPNhcfkwk483mrI6RgB&sig=AOD64_1MHY-jgDnxh-he0K4AdtHGizmiiw&client=ca-pub-6525291204356869&rf=1&nb=9&adurl=https://www.getresponse.pl/rozwiazania/ecommerce-marketing%3Fcamp%3DPL_PL_pMAX_Ecommerce%26kw%3D%26type%3D%26crtn%3D%26serv%3Dadwords%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Ecommerce%26hsa_acc%3D1471644613%26hsa_cam%3D22632549743%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D22626320070%26gclid%3DEAIaIQobChMIoq7nm7jMkwMV4p5QBh0phxsmEAEYASAAEgLRn_D_BwE
+              - img [ref=f532e8]
+            - generic [ref=f532e10]:
+              - generic [ref=f532e13]:
+                - link "Rozkręć sprzedaż w e-sklepie" [ref=f532e16] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CRKgTxvLMaaKzMOK9wuIPqY7usAKyt_aMhgGoiobUlhX27-G6kSoQASD63eE3YOnkyoXgGqABtvq--SjIAQmoAwHIA8sEqgT_AU_QwbijfjEDjA7JhZ3GyxpbbSljOVG41GH1reJOrxWDmEvRAdVi3gt1mlpJkFUDQS11nGBh5JDRrP8drrpe5NyF4PJwxz4ujY_40VfEvp09jpdfaapVr_ubAgXfmupHX2cdgqChb25m29AjV7EWH-dgRh3II3ehfMJX_odNNG6KLSSRVBkkdQnJRL_j5pf0jLub3jucNCQn6RKU9gM8KoQiddJZ_IqFrsu0-OXAXqWaXWNMi2hnEAGnYT-KLcW13dTa9oaEIKpq8GJJgXAippJgnZx8QNOidQxQBWDWpoByVw0JpabQ7U3fcXfZVifanui5b-rl7ubOehWEpAPb58AEjZeeuL0FiAXG_YilVKAGLoAHtYew5wOoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCDIIgOGAEBABGJ8DMgiqgoCAgICACDoOgMADgICEgICUruADqAdIvf3BOljwruabuMyTA7EJ27T6ZQergAqACgGYCwHICwGADAGqDQJQTMgNAeoNEwjYs-ebuMyTAxXinlAGHSmHGybwDQKIDgmwDoCTgeAY2BMM0BUByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAvpTGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIoq7nm7jMkwMV4p5QBh0phxsmEAEYASAAEgLRn_D_BwE&num=1&cid=CAQSbwAFq6B9k9n3oMsT3wpTXnhKN7iByTDRXaLLeZeW_uyGryAlZOvWAuDoW4tUYlEWehWyr4Bei07mFMRGfkgB6l9p4yD1x2UdyxXQONvv9c1VLx3Phd4aSbkD1YZqb34Ng4jhDNPNhcfkwk483mrI6RgB&sig=AOD64_1MHY-jgDnxh-he0K4AdtHGizmiiw&client=ca-pub-6525291204356869&rf=1&nb=0&adurl=https://www.getresponse.pl/rozwiazania/ecommerce-marketing%3Fcamp%3DPL_PL_pMAX_Ecommerce%26kw%3D%26type%3D%26crtn%3D%26serv%3Dadwords%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Ecommerce%26hsa_acc%3D1471644613%26hsa_cam%3D22632549743%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D22626320070%26gclid%3DEAIaIQobChMIoq7nm7jMkwMV4p5QBh0phxsmEAEYASAAEgLRn_D_BwE
+                - link "Pokaż klientowi dokładnie to, czego chce, dzięki automatycznym emailom z rekomendacjami." [ref=f532e19] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CRKgTxvLMaaKzMOK9wuIPqY7usAKyt_aMhgGoiobUlhX27-G6kSoQASD63eE3YOnkyoXgGqABtvq--SjIAQmoAwHIA8sEqgT_AU_QwbijfjEDjA7JhZ3GyxpbbSljOVG41GH1reJOrxWDmEvRAdVi3gt1mlpJkFUDQS11nGBh5JDRrP8drrpe5NyF4PJwxz4ujY_40VfEvp09jpdfaapVr_ubAgXfmupHX2cdgqChb25m29AjV7EWH-dgRh3II3ehfMJX_odNNG6KLSSRVBkkdQnJRL_j5pf0jLub3jucNCQn6RKU9gM8KoQiddJZ_IqFrsu0-OXAXqWaXWNMi2hnEAGnYT-KLcW13dTa9oaEIKpq8GJJgXAippJgnZx8QNOidQxQBWDWpoByVw0JpabQ7U3fcXfZVifanui5b-rl7ubOehWEpAPb58AEjZeeuL0FiAXG_YilVKAGLoAHtYew5wOoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCDIIgOGAEBABGJ8DMgiqgoCAgICACDoOgMADgICEgICUruADqAdIvf3BOljwruabuMyTA7EJ27T6ZQergAqACgGYCwHICwGADAGqDQJQTMgNAeoNEwjYs-ebuMyTAxXinlAGHSmHGybwDQKIDgmwDoCTgeAY2BMM0BUByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAvpTGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIoq7nm7jMkwMV4p5QBh0phxsmEAEYASAAEgLRn_D_BwE&num=1&cid=CAQSbwAFq6B9k9n3oMsT3wpTXnhKN7iByTDRXaLLeZeW_uyGryAlZOvWAuDoW4tUYlEWehWyr4Bei07mFMRGfkgB6l9p4yD1x2UdyxXQONvv9c1VLx3Phd4aSbkD1YZqb34Ng4jhDNPNhcfkwk483mrI6RgB&sig=AOD64_1MHY-jgDnxh-he0K4AdtHGizmiiw&client=ca-pub-6525291204356869&rf=1&nb=7&adurl=https://www.getresponse.pl/rozwiazania/ecommerce-marketing%3Fcamp%3DPL_PL_pMAX_Ecommerce%26kw%3D%26type%3D%26crtn%3D%26serv%3Dadwords%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Ecommerce%26hsa_acc%3D1471644613%26hsa_cam%3D22632549743%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D22626320070%26gclid%3DEAIaIQobChMIoq7nm7jMkwMV4p5QBh0phxsmEAEYASAAEgLRn_D_BwE
+                  - text: Pokaż klientowi dokładnie to, czego chce, dzięki automatycznym emailom z
+                  - text: rekomendacjami.
+              - generic [ref=f532e22]:
+                - link:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CRKgTxvLMaaKzMOK9wuIPqY7usAKyt_aMhgGoiobUlhX27-G6kSoQASD63eE3YOnkyoXgGqABtvq--SjIAQmoAwHIA8sEqgT_AU_QwbijfjEDjA7JhZ3GyxpbbSljOVG41GH1reJOrxWDmEvRAdVi3gt1mlpJkFUDQS11nGBh5JDRrP8drrpe5NyF4PJwxz4ujY_40VfEvp09jpdfaapVr_ubAgXfmupHX2cdgqChb25m29AjV7EWH-dgRh3II3ehfMJX_odNNG6KLSSRVBkkdQnJRL_j5pf0jLub3jucNCQn6RKU9gM8KoQiddJZ_IqFrsu0-OXAXqWaXWNMi2hnEAGnYT-KLcW13dTa9oaEIKpq8GJJgXAippJgnZx8QNOidQxQBWDWpoByVw0JpabQ7U3fcXfZVifanui5b-rl7ubOehWEpAPb58AEjZeeuL0FiAXG_YilVKAGLoAHtYew5wOoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCDIIgOGAEBABGJ8DMgiqgoCAgICACDoOgMADgICEgICUruADqAdIvf3BOljwruabuMyTA7EJ27T6ZQergAqACgGYCwHICwGADAGqDQJQTMgNAeoNEwjYs-ebuMyTAxXinlAGHSmHGybwDQKIDgmwDoCTgeAY2BMM0BUByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAvpTGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIoq7nm7jMkwMV4p5QBh0phxsmEAEYASAAEgLRn_D_BwE&num=1&cid=CAQSbwAFq6B9k9n3oMsT3wpTXnhKN7iByTDRXaLLeZeW_uyGryAlZOvWAuDoW4tUYlEWehWyr4Bei07mFMRGfkgB6l9p4yD1x2UdyxXQONvv9c1VLx3Phd4aSbkD1YZqb34Ng4jhDNPNhcfkwk483mrI6RgB&sig=AOD64_1MHY-jgDnxh-he0K4AdtHGizmiiw&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://www.getresponse.pl/rozwiazania/ecommerce-marketing%3Fcamp%3DPL_PL_pMAX_Ecommerce%26kw%3D%26type%3D%26crtn%3D%26serv%3Dadwords%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Ecommerce%26hsa_acc%3D1471644613%26hsa_cam%3D22632549743%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D22626320070%26gclid%3DEAIaIQobChMIoq7nm7jMkwMV4p5QBh0phxsmEAEYASAAEgLRn_D_BwE
+                - link "GetResponse" [ref=f532e24] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CRKgTxvLMaaKzMOK9wuIPqY7usAKyt_aMhgGoiobUlhX27-G6kSoQASD63eE3YOnkyoXgGqABtvq--SjIAQmoAwHIA8sEqgT_AU_QwbijfjEDjA7JhZ3GyxpbbSljOVG41GH1reJOrxWDmEvRAdVi3gt1mlpJkFUDQS11nGBh5JDRrP8drrpe5NyF4PJwxz4ujY_40VfEvp09jpdfaapVr_ubAgXfmupHX2cdgqChb25m29AjV7EWH-dgRh3II3ehfMJX_odNNG6KLSSRVBkkdQnJRL_j5pf0jLub3jucNCQn6RKU9gM8KoQiddJZ_IqFrsu0-OXAXqWaXWNMi2hnEAGnYT-KLcW13dTa9oaEIKpq8GJJgXAippJgnZx8QNOidQxQBWDWpoByVw0JpabQ7U3fcXfZVifanui5b-rl7ubOehWEpAPb58AEjZeeuL0FiAXG_YilVKAGLoAHtYew5wOoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCDIIgOGAEBABGJ8DMgiqgoCAgICACDoOgMADgICEgICUruADqAdIvf3BOljwruabuMyTA7EJ27T6ZQergAqACgGYCwHICwGADAGqDQJQTMgNAeoNEwjYs-ebuMyTAxXinlAGHSmHGybwDQKIDgmwDoCTgeAY2BMM0BUByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAvpTGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIoq7nm7jMkwMV4p5QBh0phxsmEAEYASAAEgLRn_D_BwE&num=1&cid=CAQSbwAFq6B9k9n3oMsT3wpTXnhKN7iByTDRXaLLeZeW_uyGryAlZOvWAuDoW4tUYlEWehWyr4Bei07mFMRGfkgB6l9p4yD1x2UdyxXQONvv9c1VLx3Phd4aSbkD1YZqb34Ng4jhDNPNhcfkwk483mrI6RgB&sig=AOD64_1MHY-jgDnxh-he0K4AdtHGizmiiw&client=ca-pub-6525291204356869&rf=1&nb=1&adurl=https://www.getresponse.pl/rozwiazania/ecommerce-marketing%3Fcamp%3DPL_PL_pMAX_Ecommerce%26kw%3D%26type%3D%26crtn%3D%26serv%3Dadwords%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Ecommerce%26hsa_acc%3D1471644613%26hsa_cam%3D22632549743%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D22626320070%26gclid%3DEAIaIQobChMIoq7nm7jMkwMV4p5QBh0phxsmEAEYASAAEgLRn_D_BwE
+                - link "Otwórz" [ref=f532e26] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CRKgTxvLMaaKzMOK9wuIPqY7usAKyt_aMhgGoiobUlhX27-G6kSoQASD63eE3YOnkyoXgGqABtvq--SjIAQmoAwHIA8sEqgT_AU_QwbijfjEDjA7JhZ3GyxpbbSljOVG41GH1reJOrxWDmEvRAdVi3gt1mlpJkFUDQS11nGBh5JDRrP8drrpe5NyF4PJwxz4ujY_40VfEvp09jpdfaapVr_ubAgXfmupHX2cdgqChb25m29AjV7EWH-dgRh3II3ehfMJX_odNNG6KLSSRVBkkdQnJRL_j5pf0jLub3jucNCQn6RKU9gM8KoQiddJZ_IqFrsu0-OXAXqWaXWNMi2hnEAGnYT-KLcW13dTa9oaEIKpq8GJJgXAippJgnZx8QNOidQxQBWDWpoByVw0JpabQ7U3fcXfZVifanui5b-rl7ubOehWEpAPb58AEjZeeuL0FiAXG_YilVKAGLoAHtYew5wOoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCDIIgOGAEBABGJ8DMgiqgoCAgICACDoOgMADgICEgICUruADqAdIvf3BOljwruabuMyTA7EJ27T6ZQergAqACgGYCwHICwGADAGqDQJQTMgNAeoNEwjYs-ebuMyTAxXinlAGHSmHGybwDQKIDgmwDoCTgeAY2BMM0BUByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAvpTGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIoq7nm7jMkwMV4p5QBh0phxsmEAEYASAAEgLRn_D_BwE&num=1&cid=CAQSbwAFq6B9k9n3oMsT3wpTXnhKN7iByTDRXaLLeZeW_uyGryAlZOvWAuDoW4tUYlEWehWyr4Bei07mFMRGfkgB6l9p4yD1x2UdyxXQONvv9c1VLx3Phd4aSbkD1YZqb34Ng4jhDNPNhcfkwk483mrI6RgB&sig=AOD64_1MHY-jgDnxh-he0K4AdtHGizmiiw&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://www.getresponse.pl/rozwiazania/ecommerce-marketing%3Fcamp%3DPL_PL_pMAX_Ecommerce%26kw%3D%26type%3D%26crtn%3D%26serv%3Dadwords%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Ecommerce%26hsa_acc%3D1471644613%26hsa_cam%3D22632549743%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D22626320070%26gclid%3DEAIaIQobChMIoq7nm7jMkwMV4p5QBh0phxsmEAEYASAAEgLRn_D_BwE
+                - link [ref=f532e27] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CRKgTxvLMaaKzMOK9wuIPqY7usAKyt_aMhgGoiobUlhX27-G6kSoQASD63eE3YOnkyoXgGqABtvq--SjIAQmoAwHIA8sEqgT_AU_QwbijfjEDjA7JhZ3GyxpbbSljOVG41GH1reJOrxWDmEvRAdVi3gt1mlpJkFUDQS11nGBh5JDRrP8drrpe5NyF4PJwxz4ujY_40VfEvp09jpdfaapVr_ubAgXfmupHX2cdgqChb25m29AjV7EWH-dgRh3II3ehfMJX_odNNG6KLSSRVBkkdQnJRL_j5pf0jLub3jucNCQn6RKU9gM8KoQiddJZ_IqFrsu0-OXAXqWaXWNMi2hnEAGnYT-KLcW13dTa9oaEIKpq8GJJgXAippJgnZx8QNOidQxQBWDWpoByVw0JpabQ7U3fcXfZVifanui5b-rl7ubOehWEpAPb58AEjZeeuL0FiAXG_YilVKAGLoAHtYew5wOoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCDIIgOGAEBABGJ8DMgiqgoCAgICACDoOgMADgICEgICUruADqAdIvf3BOljwruabuMyTA7EJ27T6ZQergAqACgGYCwHICwGADAGqDQJQTMgNAeoNEwjYs-ebuMyTAxXinlAGHSmHGybwDQKIDgmwDoCTgeAY2BMM0BUByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAvpTGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIoq7nm7jMkwMV4p5QBh0phxsmEAEYASAAEgLRn_D_BwE&num=1&cid=CAQSbwAFq6B9k9n3oMsT3wpTXnhKN7iByTDRXaLLeZeW_uyGryAlZOvWAuDoW4tUYlEWehWyr4Bei07mFMRGfkgB6l9p4yD1x2UdyxXQONvv9c1VLx3Phd4aSbkD1YZqb34Ng4jhDNPNhcfkwk483mrI6RgB&sig=AOD64_1MHY-jgDnxh-he0K4AdtHGizmiiw&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://www.getresponse.pl/rozwiazania/ecommerce-marketing%3Fcamp%3DPL_PL_pMAX_Ecommerce%26kw%3D%26type%3D%26crtn%3D%26serv%3Dadwords%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Ecommerce%26hsa_acc%3D1471644613%26hsa_cam%3D22632549743%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D22626320070%26gclid%3DEAIaIQobChMIoq7nm7jMkwMV4p5QBh0phxsmEAEYASAAEgLRn_D_BwE
+                  - generic [ref=f532e29]:
+                    - img [ref=f532e30]
+                    - img [ref=f532e32]
+          - img [ref=f532e40] [cursor=pointer]
+          - button [ref=f532e42] [cursor=pointer]:
+            - img [ref=f532e43]
+          - iframe
+    - generic [ref=e85]:
+      - article [ref=e86]:
+        - generic [ref=e87]:
+          - generic [ref=e88]:
+            - generic [ref=e89]:
+              - paragraph [ref=e90]: "Содержание:"
+              - link "Toggle Table of Content" [ref=e91] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e94]:
+                  - img [ref=e95]
+                  - img [ref=e97]
+            - navigation [ref=e99]:
+              - list [ref=e100]:
+                - listitem [ref=e101]:
+                  - 'link "Падежи в польском языке: таблица общая" [ref=e102] [cursor=pointer]':
+                    - /url: "#%D0%9F%D0%B0%D0%B4%D0%B5%D0%B6%D0%B8_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D0%BE%D0%B1%D1%89%D0%B0%D1%8F"
+                - listitem [ref=e103]:
+                  - 'link "Падежи в польском языке: таблица единственного числа" [ref=e104] [cursor=pointer]':
+                    - /url: "#%D0%9F%D0%B0%D0%B4%D0%B5%D0%B6%D0%B8_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D0%B5%D0%B4%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%87%D0%B8%D1%81%D0%BB%D0%B0"
+                  - list [ref=e105]:
+                    - listitem [ref=e106]:
+                      - link "Именительный падеж в польском языке / Називний відмінок в польскій мові" [ref=e107] [cursor=pointer]:
+                        - /url: "#%D0%98%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D0%B4%D0%B5%D0%B6_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5_%D0%9D%D0%B0%D0%B7%D0%B8%D0%B2%D0%BD%D0%B8%D0%B9_%D0%B2%D1%96%D0%B4%D0%BC%D1%96%D0%BD%D0%BE%D0%BA_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D1%96%D0%B9_%D0%BC%D0%BE%D0%B2%D1%96"
+                      - list [ref=e108]:
+                        - listitem [ref=e109]:
+                          - link "MIANOWNIK kto? co?" [ref=e110] [cursor=pointer]:
+                            - /url: "#MIANOWNIK_kto_co"
+                    - listitem [ref=e111]:
+                      - link "Родительный падеж в польском языке / Родовий відмінок в польській мові" [ref=e112] [cursor=pointer]:
+                        - /url: "#%D0%A0%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D0%B4%D0%B5%D0%B6_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5_%D0%A0%D0%BE%D0%B4%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B2%D1%96%D0%B4%D0%BC%D1%96%D0%BD%D0%BE%D0%BA_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D1%96%D0%B9_%D0%BC%D0%BE%D0%B2%D1%96"
+                      - list [ref=e113]:
+                        - listitem [ref=e114]:
+                          - link "DOPEŁNIACZ kogo? czego?" [ref=e115] [cursor=pointer]:
+                            - /url: "#DOPELNIACZ_kogo_czego"
+                    - listitem [ref=e116]:
+                      - link "Дательный падеж в польском языке / Давальний відмінок в польскій мові" [ref=e117] [cursor=pointer]:
+                        - /url: "#%D0%94%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D0%B4%D0%B5%D0%B6_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5_%D0%94%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%B2%D1%96%D0%B4%D0%BC%D1%96%D0%BD%D0%BE%D0%BA_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D1%96%D0%B9_%D0%BC%D0%BE%D0%B2%D1%96"
+                      - list [ref=e118]:
+                        - listitem [ref=e119]:
+                          - link "CELOWNIK komu? czemu?" [ref=e120] [cursor=pointer]:
+                            - /url: "#CELOWNIK_komu_czemu"
+                    - listitem [ref=e121]:
+                      - link "Винительный падеж в польском языке / Знахідний відмінок в польській мові" [ref=e122] [cursor=pointer]:
+                        - /url: "#%D0%92%D0%B8%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D0%B4%D0%B5%D0%B6_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5_%D0%97%D0%BD%D0%B0%D1%85%D1%96%D0%B4%D0%BD%D0%B8%D0%B9_%D0%B2%D1%96%D0%B4%D0%BC%D1%96%D0%BD%D0%BE%D0%BA_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D1%96%D0%B9_%D0%BC%D0%BE%D0%B2%D1%96"
+                      - list [ref=e123]:
+                        - listitem [ref=e124]:
+                          - link "BIERNIK kogo? co?" [ref=e125] [cursor=pointer]:
+                            - /url: "#BIERNIK_kogo_co"
+                    - listitem [ref=e126]:
+                      - link "Творительный падеж в польском языке / Орудний відмінок в польській мові" [ref=e127] [cursor=pointer]:
+                        - /url: "#%D0%A2%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D0%B4%D0%B5%D0%B6_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5_%D0%9E%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%B9_%D0%B2%D1%96%D0%B4%D0%BC%D1%96%D0%BD%D0%BE%D0%BA_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D1%96%D0%B9_%D0%BC%D0%BE%D0%B2%D1%96"
+                      - list [ref=e128]:
+                        - listitem [ref=e129]:
+                          - link "NARZĘDNIK kim? czym?" [ref=e130] [cursor=pointer]:
+                            - /url: "#NARZEDNIK_kim_czym"
+                    - listitem [ref=e131]:
+                      - link "Предложный падеж в польском языке / Місцевий відмінок в польскій мові" [ref=e132] [cursor=pointer]:
+                        - /url: "#%D0%9F%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D0%B4%D0%B5%D0%B6_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5_%D0%9C%D1%96%D1%81%D1%86%D0%B5%D0%B2%D0%B8%D0%B9_%D0%B2%D1%96%D0%B4%D0%BC%D1%96%D0%BD%D0%BE%D0%BA_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D1%96%D0%B9_%D0%BC%D0%BE%D0%B2%D1%96"
+                      - list [ref=e133]:
+                        - listitem [ref=e134]:
+                          - link "MIEJSCOWNIK (o) kim? czym?" [ref=e135] [cursor=pointer]:
+                            - /url: "#MIEJSCOWNIK_o_kim_czym"
+                    - listitem [ref=e136]:
+                      - link "Звательный падеж в польском языке / Кличний відмінок в польській мові" [ref=e137] [cursor=pointer]:
+                        - /url: "#%D0%97%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D0%B4%D0%B5%D0%B6_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5_%D0%9A%D0%BB%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D0%B2%D1%96%D0%B4%D0%BC%D1%96%D0%BD%D0%BE%D0%BA_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D1%96%D0%B9_%D0%BC%D0%BE%D0%B2%D1%96"
+                      - list [ref=e138]:
+                        - listitem [ref=e139]:
+                          - link "Wołacz O!" [ref=e140] [cursor=pointer]:
+                            - /url: "#Wolacz_O"
+                - listitem [ref=e141]:
+                  - link "Тесты на падежи" [ref=e142] [cursor=pointer]:
+                    - /url: "#%D0%A2%D0%B5%D1%81%D1%82%D1%8B_%D0%BD%D0%B0_%D0%BF%D0%B0%D0%B4%D0%B5%D0%B6%D0%B8"
+          - generic [ref=e143]:
+            - list [ref=e144]:
+              - listitem [ref=e145]:
+                - link "Об авторе" [ref=e146] [cursor=pointer]:
+                  - /url: "#abh_about"
+              - listitem [ref=e147]:
+                - link "Недавние публикации" [ref=e148] [cursor=pointer]:
+                  - /url: "#abh_posts"
+            - generic [ref=e150]:
+              - generic [ref=e151]:
+                - link "Катерина Лук'янова":
+                  - /url: https://propolski.com/
+                  - img "Катерина Лук'янова" [ref=e152] [cursor=pointer]
+              - link "" [ref=e154] [cursor=pointer]:
+                - /url: https://www.facebook.com/kate.lukianova.propolski
+              - generic [ref=e155]:
+                - link "Катерина Лук'янова" [ref=e157] [cursor=pointer]:
+                  - /url: https://propolski.com/
+                - generic [ref=e158]: Здравствуйте.Меня зовут Екатерина Лукьянова, я - автор блога о польском языке ProPolski.com и сайта о Польше insidePL.com. Живу в Польше. Свободное от основной работы время всецело посвящаю ProPolski.com и insidePL.com.
+          - paragraph [ref=e159]: Последнее обновление 11 февраля 2024
+          - paragraph [ref=e160]: Не так страшен чёрт, как его малюют. Серьёзно! Подумаешь, падежи в польском языке! Хватит уже бояться этих падежей, они мало чем отличаются от русских или украинских, стоит только провести аналогии.
+          - paragraph [ref=e161]: Начнем, пожалуй, с главного?
+          - figure:
+            - img "Падежи в польском языке"
+          - insertion [ref=e162]:
+            - iframe [ref=e164]:
+              - generic [active] [ref=f523e1]:
+                - generic [ref=f523e6]:
+                  - generic [ref=f523e7]:
+                    - generic "Smyk" [ref=f523e9]:
+                      - link "Wielkanoc pełna radości" [ref=f523e10] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CIedyxvLMad7oLZ6TwuIP7-aO2A3q5MedhgH4v6W4gg3OxtOArA8QASD63eE3YOnkyoXgGqAB_qaL5QPIAQGpApHkr_nKJ5I-qAMByAPLBKoE_QFP0DSwWbTLxeb0dXbqaoJOMCMm_GZzlS18Tqrsnps4pgVVtgp1UgX0KDthFcvKToSNvWkAv-ET9t0yUqSD9YzuBDmmxy3uj28Y8DypPTHRZK_xy6i5CBT067n5iEcLqhVtalZSPvEn0fet_lLtpigqs_SQB8u944nodbTGuzLjDIms0msDhCeNn5PzX4-7w74jwlQk_OIlitqVq-thTVgTW2NpFFxUOyGFzUCe1nBqwZQjPMreT6RZflZs_6tbDV8zXTLkAac2vLNYI42FWR39_T0_PSo70LWAhPMZwsBFtga-mndjATpeSjQRtsiEuGBsqMsL0MTbla5xnaYkwASr48f9pQOIBfmm0f0qgAfq2PQaqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAeYxbECqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYw9_jm7jMkwOaCSFodHRwczovL3d3dy5zbXlrLmNvbS9rYXRhbG9nLmh0bWyxCbiDOVXG8cu-gAoByAsB4AsBogwDkAEBqg0CUEzIDQHqDRMI7e3km7jMkwMVnolQBh1vswPbiA4J2BMDiBQU0BUBmBYByhYCCgD4FgGAFwGyFxAYASoKMTA0MDEwMjg2OVAGuhcCOAGqGBcJAAAAAABw_kASCjEwNDAxMDI4NjkYAbIYCRIC1GsYASIBANAYAegYAcIZAggB&gclid=EAIaIQobChMI3uPkm7jMkwMVnolQBh1vswPbEAEYASAAEgJYVvD_BwE&num=1&cid=CAQSbwAFq6B9q1aUZ0TQ1wrXeCGxEkrRof9Fp9XwaBFCf7QnDOfpMVFkHEAtZtp0VvsGHzV0hobdcT1LtDoTY-C4fvORTtajCIAKombCFBhIRGUh_KYm3WmBQG6fp6YiVq_J6X0ZF7G0ahUYxinTNrvJaBgB&sig=AOD64_1YL916DxqBJ8eTzz2ZofIUffL_AA&client=ca-pub-6525291204356869&rf=1&nb=0&adurl=http://clickserve.dartsearch.net/link/click%3F%26%26ds_e_adid%3D476845751896%26ds_e_matchtype%3Dcontent%26ds_e_device%3Dc%26ds_e_network%3Dd%26%26ds_url_v%3D2%26ds_dest_url%3Dhttps://www.smyk.com/katalog.html%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D%255BGDN%255D%2520-%2520P%253AKatalog%2520wielkanoc%257CT%253A24.03-04.03%257CB%253A13k%26utm_content%3DGDN%257CAdG%257CP%253AKatalog%2520wielkanoc%26gad_source%3D5%26gad_campaignid%3D11537765241
+                    - generic [ref=f523e11]:
+                      - link "Nowy Katalog W Smyku. Sprawdź Co Przygotowaliśmy Na Wielkanoc." [ref=f523e13] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CIedyxvLMad7oLZ6TwuIP7-aO2A3q5MedhgH4v6W4gg3OxtOArA8QASD63eE3YOnkyoXgGqAB_qaL5QPIAQGpApHkr_nKJ5I-qAMByAPLBKoE_QFP0DSwWbTLxeb0dXbqaoJOMCMm_GZzlS18Tqrsnps4pgVVtgp1UgX0KDthFcvKToSNvWkAv-ET9t0yUqSD9YzuBDmmxy3uj28Y8DypPTHRZK_xy6i5CBT067n5iEcLqhVtalZSPvEn0fet_lLtpigqs_SQB8u944nodbTGuzLjDIms0msDhCeNn5PzX4-7w74jwlQk_OIlitqVq-thTVgTW2NpFFxUOyGFzUCe1nBqwZQjPMreT6RZflZs_6tbDV8zXTLkAac2vLNYI42FWR39_T0_PSo70LWAhPMZwsBFtga-mndjATpeSjQRtsiEuGBsqMsL0MTbla5xnaYkwASr48f9pQOIBfmm0f0qgAfq2PQaqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAeYxbECqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYw9_jm7jMkwOaCSFodHRwczovL3d3dy5zbXlrLmNvbS9rYXRhbG9nLmh0bWyxCbiDOVXG8cu-gAoByAsB4AsBogwDkAEBqg0CUEzIDQHqDRMI7e3km7jMkwMVnolQBh1vswPbiA4J2BMDiBQU0BUBmBYByhYCCgD4FgGAFwGyFxAYASoKMTA0MDEwMjg2OVAGuhcCOAGqGBcJAAAAAABw_kASCjEwNDAxMDI4NjkYAbIYCRIC1GsYASIBANAYAegYAcIZAggB&gclid=EAIaIQobChMI3uPkm7jMkwMVnolQBh1vswPbEAEYASAAEgJYVvD_BwE&num=1&cid=CAQSbwAFq6B9q1aUZ0TQ1wrXeCGxEkrRof9Fp9XwaBFCf7QnDOfpMVFkHEAtZtp0VvsGHzV0hobdcT1LtDoTY-C4fvORTtajCIAKombCFBhIRGUh_KYm3WmBQG6fp6YiVq_J6X0ZF7G0ahUYxinTNrvJaBgB&sig=AOD64_1YL916DxqBJ8eTzz2ZofIUffL_AA&client=ca-pub-6525291204356869&rf=1&nb=7&adurl=http://clickserve.dartsearch.net/link/click%3F%26%26ds_e_adid%3D476845751896%26ds_e_matchtype%3Dcontent%26ds_e_device%3Dc%26ds_e_network%3Dd%26%26ds_url_v%3D2%26ds_dest_url%3Dhttps://www.smyk.com/katalog.html%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D%255BGDN%255D%2520-%2520P%253AKatalog%2520wielkanoc%257CT%253A24.03-04.03%257CB%253A13k%26utm_content%3DGDN%257CAdG%257CP%253AKatalog%2520wielkanoc%26gad_source%3D5%26gad_campaignid%3D11537765241
+                      - link [ref=f523e14] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CIedyxvLMad7oLZ6TwuIP7-aO2A3q5MedhgH4v6W4gg3OxtOArA8QASD63eE3YOnkyoXgGqAB_qaL5QPIAQGpApHkr_nKJ5I-qAMByAPLBKoE_QFP0DSwWbTLxeb0dXbqaoJOMCMm_GZzlS18Tqrsnps4pgVVtgp1UgX0KDthFcvKToSNvWkAv-ET9t0yUqSD9YzuBDmmxy3uj28Y8DypPTHRZK_xy6i5CBT067n5iEcLqhVtalZSPvEn0fet_lLtpigqs_SQB8u944nodbTGuzLjDIms0msDhCeNn5PzX4-7w74jwlQk_OIlitqVq-thTVgTW2NpFFxUOyGFzUCe1nBqwZQjPMreT6RZflZs_6tbDV8zXTLkAac2vLNYI42FWR39_T0_PSo70LWAhPMZwsBFtga-mndjATpeSjQRtsiEuGBsqMsL0MTbla5xnaYkwASr48f9pQOIBfmm0f0qgAfq2PQaqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAeYxbECqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYw9_jm7jMkwOaCSFodHRwczovL3d3dy5zbXlrLmNvbS9rYXRhbG9nLmh0bWyxCbiDOVXG8cu-gAoByAsB4AsBogwDkAEBqg0CUEzIDQHqDRMI7e3km7jMkwMVnolQBh1vswPbiA4J2BMDiBQU0BUBmBYByhYCCgD4FgGAFwGyFxAYASoKMTA0MDEwMjg2OVAGuhcCOAGqGBcJAAAAAABw_kASCjEwNDAxMDI4NjkYAbIYCRIC1GsYASIBANAYAegYAcIZAggB&gclid=EAIaIQobChMI3uPkm7jMkwMVnolQBh1vswPbEAEYASAAEgJYVvD_BwE&num=1&cid=CAQSbwAFq6B9q1aUZ0TQ1wrXeCGxEkrRof9Fp9XwaBFCf7QnDOfpMVFkHEAtZtp0VvsGHzV0hobdcT1LtDoTY-C4fvORTtajCIAKombCFBhIRGUh_KYm3WmBQG6fp6YiVq_J6X0ZF7G0ahUYxinTNrvJaBgB&sig=AOD64_1YL916DxqBJ8eTzz2ZofIUffL_AA&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=http://clickserve.dartsearch.net/link/click%3F%26%26ds_e_adid%3D476845751896%26ds_e_matchtype%3Dcontent%26ds_e_device%3Dc%26ds_e_network%3Dd%26%26ds_url_v%3D2%26ds_dest_url%3Dhttps://www.smyk.com/katalog.html%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D%255BGDN%255D%2520-%2520P%253AKatalog%2520wielkanoc%257CT%253A24.03-04.03%257CB%253A13k%26utm_content%3DGDN%257CAdG%257CP%253AKatalog%2520wielkanoc%26gad_source%3D5%26gad_campaignid%3D11537765241
+                        - img [ref=f523e15]
+                  - generic "Smyk" [ref=f523e17]:
+                    - link "Smyk" [ref=f523e18] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CIedyxvLMad7oLZ6TwuIP7-aO2A3q5MedhgH4v6W4gg3OxtOArA8QASD63eE3YOnkyoXgGqAB_qaL5QPIAQGpApHkr_nKJ5I-qAMByAPLBKoE_QFP0DSwWbTLxeb0dXbqaoJOMCMm_GZzlS18Tqrsnps4pgVVtgp1UgX0KDthFcvKToSNvWkAv-ET9t0yUqSD9YzuBDmmxy3uj28Y8DypPTHRZK_xy6i5CBT067n5iEcLqhVtalZSPvEn0fet_lLtpigqs_SQB8u944nodbTGuzLjDIms0msDhCeNn5PzX4-7w74jwlQk_OIlitqVq-thTVgTW2NpFFxUOyGFzUCe1nBqwZQjPMreT6RZflZs_6tbDV8zXTLkAac2vLNYI42FWR39_T0_PSo70LWAhPMZwsBFtga-mndjATpeSjQRtsiEuGBsqMsL0MTbla5xnaYkwASr48f9pQOIBfmm0f0qgAfq2PQaqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAeYxbECqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYw9_jm7jMkwOaCSFodHRwczovL3d3dy5zbXlrLmNvbS9rYXRhbG9nLmh0bWyxCbiDOVXG8cu-gAoByAsB4AsBogwDkAEBqg0CUEzIDQHqDRMI7e3km7jMkwMVnolQBh1vswPbiA4J2BMDiBQU0BUBmBYByhYCCgD4FgGAFwGyFxAYASoKMTA0MDEwMjg2OVAGuhcCOAGqGBcJAAAAAABw_kASCjEwNDAxMDI4NjkYAbIYCRIC1GsYASIBANAYAegYAcIZAggB&gclid=EAIaIQobChMI3uPkm7jMkwMVnolQBh1vswPbEAEYASAAEgJYVvD_BwE&num=1&cid=CAQSbwAFq6B9q1aUZ0TQ1wrXeCGxEkrRof9Fp9XwaBFCf7QnDOfpMVFkHEAtZtp0VvsGHzV0hobdcT1LtDoTY-C4fvORTtajCIAKombCFBhIRGUh_KYm3WmBQG6fp6YiVq_J6X0ZF7G0ahUYxinTNrvJaBgB&sig=AOD64_1YL916DxqBJ8eTzz2ZofIUffL_AA&client=ca-pub-6525291204356869&rf=1&nb=1&adurl=http://clickserve.dartsearch.net/link/click%3F%26%26ds_e_adid%3D476845751896%26ds_e_matchtype%3Dcontent%26ds_e_device%3Dc%26ds_e_network%3Dd%26%26ds_url_v%3D2%26ds_dest_url%3Dhttps://www.smyk.com/katalog.html%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D%255BGDN%255D%2520-%2520P%253AKatalog%2520wielkanoc%257CT%253A24.03-04.03%257CB%253A13k%26utm_content%3DGDN%257CAdG%257CP%253AKatalog%2520wielkanoc%26gad_source%3D5%26gad_campaignid%3D11537765241
+                - img [ref=f523e22] [cursor=pointer]
+                - button [ref=f523e24] [cursor=pointer]:
+                  - img [ref=f523e25]
+                - iframe
+          - 'heading "Падежи в польском языке: таблица общая" [level=2] [ref=e165]': "Падежи в польском языке: таблица общая"
+          - table [ref=e166]:
+            - rowgroup [ref=e167]:
+              - row "Przypadek Pytanie Падеж Вопрос Відмінок Питання" [ref=e168]:
+                - cell [ref=e169]
+                - cell "Przypadek" [ref=e170]
+                - cell "Pytanie" [ref=e171]
+                - cell "Падеж" [ref=e172]
+                - cell "Вопрос" [ref=e173]
+                - cell "Відмінок" [ref=e174]
+                - cell "Питання" [ref=e175]
+              - row "1 Mianownik kto?co? Именительный кто? что? Називний хто? що?" [ref=e176]:
+                - cell "1" [ref=e177]
+                - cell "Mianownik" [ref=e178]
+                - cell "kto?co?" [ref=e179]
+                - cell "Именительный" [ref=e180]
+                - cell "кто? что?" [ref=e181]
+                - cell "Називний" [ref=e182]
+                - cell "хто? що?" [ref=e183]
+              - row "2 Dopełniacz kogo? czego? Родительный кого? чего? Родовий кого? чого?" [ref=e184]:
+                - cell "2" [ref=e185]
+                - cell "Dopełniacz" [ref=e186]
+                - cell "kogo? czego?" [ref=e187]
+                - cell "Родительный" [ref=e188]
+                - cell "кого? чего?" [ref=e189]
+                - cell "Родовий" [ref=e190]
+                - cell "кого? чого?" [ref=e191]
+              - row "3 Celownik komu? czemu? Дательный кому? чему? Давальний кому? чому?" [ref=e192]:
+                - cell "3" [ref=e193]
+                - cell "Celownik" [ref=e194]
+                - cell "komu? czemu?" [ref=e195]
+                - cell "Дательный" [ref=e196]
+                - cell "кому? чему?" [ref=e197]
+                - cell "Давальний" [ref=e198]
+                - cell "кому? чому?" [ref=e199]
+              - row "4 Biernik kogo? co? Винительный кого? что? Знахідний кого? що?" [ref=e200]:
+                - cell "4" [ref=e201]
+                - cell "Biernik" [ref=e202]
+                - cell "kogo? co?" [ref=e203]
+                - cell "Винительный" [ref=e204]
+                - cell "кого? что?" [ref=e205]
+                - cell "Знахідний" [ref=e206]
+                - cell "кого? що?" [ref=e207]
+              - row "5 Narzędnik kim? czym? Творительный кем? чем? Орудний кім? чим?" [ref=e208]:
+                - cell "5" [ref=e209]
+                - cell "Narzędnik" [ref=e210]
+                - cell "kim? czym?" [ref=e211]
+                - cell "Творительный" [ref=e212]
+                - cell "кем? чем?" [ref=e213]
+                - cell "Орудний" [ref=e214]
+                - cell "кім? чим?" [ref=e215]
+              - row "6 Miejscownik (o) kim? czym? Предложный (на) ком? (на) чём? Місцевий на кому? на чому?" [ref=e216]:
+                - cell "6" [ref=e217]
+                - cell "Miejscownik" [ref=e218]
+                - cell "(o) kim? czym?" [ref=e219]
+                - cell "Предложный" [ref=e220]
+                - cell "(на) ком? (на) чём?" [ref=e221]
+                - cell "Місцевий" [ref=e222]
+                - cell "на кому? на чому?" [ref=e223]
+              - row "7 Wołacz o! Звательный o! Кличний o!" [ref=e224]:
+                - cell "7" [ref=e225]
+                - cell "Wołacz" [ref=e226]
+                - cell "o!" [ref=e227]
+                - cell "Звательный" [ref=e228]
+                - cell "o!" [ref=e229]
+                - cell "Кличний" [ref=e230]
+                - cell "o!" [ref=e231]
+          - paragraph [ref=e232]: Вынужденно написала в трёх языках для таких, как я — часто не могу вспомнить, как тот или иной падеж называется в русском, но помню в украинском, и наоборот. 🙂
+          - paragraph [ref=e233]: "Зачем падежи вообще нужны? Как и в русском (украинском) языках, система падежей используется для того, чтобы установить правильные и гармоничные отношения между отдельными словами в предложении. В итоге мы получаем свободу в формировании последовательности слов в предложении: подлежащее, сказуемое и дополнение не имеют чётко установленных мест и могут следовать в любом порядке."
+          - blockquote [ref=e234]:
+            - text: 💡
+            - paragraph [ref=e235]:
+              - generic [ref=e236]:
+                - text: "Читайте также:"
+                - link "Склонение по падежам нерегулярных существительных в польском языке" [ref=e237] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/26/odmiana-rzeczownikow-nieregularnych/
+          - paragraph [ref=e238]: На мой взгляд, исключений в падежах польского языка намного меньше, чем в русском языке. Есть, но правда, очень мало. И на «младших» уровнях языка практически не попадаются. Ниже будут приведены общие таблицы окончаний для всех падежей, существительных и прилагательных. Внимательно к ним присмотревшись, вы заметите, что многое очень сильно смахивает на русский, особенно если ориентироваться по примерам.
+          - insertion [ref=e239]:
+            - iframe [ref=e241]:
+              - generic [active] [ref=f524e1]:
+                - generic [ref=f524e3]:
+                  - link:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CJzDDxvLMaa3xLYuJwuIP5ev0qQW-md-dhgGol-2htxWq5tLgsgEQASD63eE3YOnkyoXgGqABwe6T9QPIAQKpApHkr_nKJ5I-qAMByAPJBKoE-wFP0GebN_kGdNLRVapwu5kembyMgK3vVwVVICDGV2gzPypoQzUp4WOMlK1_YuIXDK8m2ooqUbhk-nQfKbzIXY7XggKTu8LJ_qBcyMABaiRRGZ8q8AWvyv09SimlYyTP9JtogOSn_PUAyqN5j0oxaE4ItmlPMzt1qhcamiluib8EPEH1CUs0xVH8vFQ78zgJBkEgpa_uvqhn7Az2a2glIzcOj5BHeoDKuAMKxlEhNPo43bBNY0OtirQK14GzLN9HzQ6WgZ5Ui4hj5i0lvFC3b7Qjw82YPk3so_e-0dQLBq3Pmc82MFZ4FqiZCU3uDh5eyvTs0N3KSx7wsbOXhsAEq7i7_tQFiAWAqOirWKAGAoAHuezTMagHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgHmMWxAqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WOLu45u4zJMDmgk2aHR0cHM6Ly93d3cuZXVyby5jb20ucGwvY21zL3dpZWxrYW5vY25hLXByb21vY2phLmJodG1ssQl0csMSDoaF3oAKAcgLAeALAaoNAlBMyA0B6g0TCOLw5Ju4zJMDFYuEUAYd5TU9VYgOCaITSwouCANAAVIICgYSBAgBEAFyHhIcIAIoATgCQICo6KtYWAFo_v__________AZgBAxoZChdjYS1wdWItNjUyNTI5MTIwNDM1Njg2OdgTDdAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAACQbP1AEgoxMDQwMTAyODY5GAGyGAUYAiIBANAYAcIZAggB&gclid=EAIaIQobChMIrezkm7jMkwMVi4RQBh3lNT1VEAEYASAAEgK3avD_BwE&num=1&cid=CAQSbwAFq6B97TaE5md7scq7k_UesXCo0OSP615pxWbuRFQmnz8KpQvXvGaVK9ySYcKN2vTi6l44iOek_mzQjPE1LkwoNDXz2B0VhcOUj30jxsmzoXzXDgwi0vp5xyFxaChP9ge43bxIDjvL7paNq1V8dhgB&sig=AOD64_01aK97L6oTjhSCvuqxD5HZoYy1qA&client=ca-pub-6525291204356869&rf=2&nb=2&adurl=https://ad.doubleclick.net/searchads/link/click%3F%26ds_a_cid%3D106102801%26ds_a_caid%3D23714206720%26ds_a_agid%3D194612485163%26ds_a_fiid%3D%26ds_a_lid%3D%26ds_a_extid%3D%26%26ds_e_adid%3D803120613050%26ds_e_matchtype%3Dcontent%26ds_e_device%3Dc%26ds_e_network%3Dd%26%26ds_url_v%3D2%26ds_dest_url%3Dhttps://www.euro.com.pl/cms/wielkanocna-promocja.bhtml%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dw_display%26gclsrc%3Daw.ds%26gad_source%3D5%26gad_campaignid%3D23714206720
+                  - img [ref=f524e7] [cursor=pointer]
+                  - button [ref=f524e9] [cursor=pointer]:
+                    - img [ref=f524e10]
+                - iframe
+          - 'heading "Падежи в польском языке: таблица единственного числа" [level=2] [ref=e242]': "Падежи в польском языке: таблица единственного числа"
+          - paragraph [ref=e243]: Увы, мне пришлось отступить от идеи впихнуть сюда еще и число множественное — статья получалась огромной, ее бы просто никто не стал читать (ну или почти никто)! Кроме того, пришлось отделить существительное от прилагательного, чтобы не делать их, таблицы, слишком громоздкими.
+          - blockquote [ref=e244]:
+            - text: 💡
+            - paragraph [ref=e245]:
+              - generic [ref=e246]:
+                - text: "Читайте отдельную статью о множественном числе:"
+                - 'link "Польские падежи: таблица множественного числа" [ref=e247] [cursor=pointer]':
+                  - /url: https://propolski.com/2019/09/08/przypadki-polskie-liczba-mnoga/
+          - separator [ref=e248]
+          - heading "Именительный падеж в польском языке / Називний відмінок в польскій мові" [level=3] [ref=e249]:
+            - text: Именительный падеж в польском языке /
+            - text: Називний відмінок в польскій мові
+          - separator [ref=e250]
+          - table [ref=e251]:
+            - rowgroup [ref=e252]:
+              - row "MIANOWNIK kto? co?" [ref=e253]:
+                - cell "MIANOWNIK kto? co?" [ref=e254]:
+                  - heading "MIANOWNIK kto? co?" [level=4] [ref=e255]:
+                    - strong [ref=e256]:
+                      - text: MIANOWNIK
+                      - emphasis [ref=e257]: kto? co?
+              - row "Rzeczownik / Существительное" [ref=e258]:
+                - cell "Rzeczownik / Существительное" [ref=e259]:
+                  - strong [ref=e260]: Rzeczownik / Существительное
+              - 'row "Род: Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e261]':
+                - cell "Род:" [ref=e262]
+                - cell "Rodzaj męski" [ref=e263]
+                - cell "Rodzaj żeński" [ref=e264]
+                - cell "Rodzaj nijaki" [ref=e265]
+              - 'row "Окончания падежа: — Ø — a — o — a — Ø — i — o — e — ę — um" [ref=e266]':
+                - cell "Окончания падежа:" [ref=e267]
+                - cell "— Ø" [ref=e268]
+                - cell "— a" [ref=e269]
+                - cell "— o" [ref=e270]
+                - cell "— a" [ref=e271]
+                - cell "— Ø" [ref=e272]
+                - cell "— i" [ref=e273]
+                - cell "— o" [ref=e274]
+                - cell "— e" [ref=e275]
+                - cell "— ę" [ref=e276]
+                - cell "— um" [ref=e277]
+              - 'row "Примеры: dom tata dziadzio mama sól pani kino pole imię liceum" [ref=e278]':
+                - cell "Примеры:" [ref=e279]
+                - cell "dom" [ref=e280]
+                - cell "tata" [ref=e281]
+                - cell "dziadzio" [ref=e282]
+                - cell "mama" [ref=e283]
+                - cell "sól" [ref=e284]
+                - cell "pani" [ref=e285]
+                - cell "kino" [ref=e286]
+                - cell "pole" [ref=e287]
+                - cell "imię" [ref=e288]
+                - cell "liceum" [ref=e289]
+          - paragraph [ref=e290]: "Самое простое употребление именительного падежа существительных ед.ч. в польском языке — это ткнуть в кого-то или что-то одно пальцем и назвать это:"
+          - list [ref=e291]:
+            - listitem [ref=e292]:
+              - emphasis [ref=e293]:
+                - text: To jest
+                - strong [ref=e294]: dom
+                - text: ", to jest"
+                - strong [ref=e295]: kino
+                - text: ", a to jest"
+                - strong [ref=e296]: liceum
+                - text: . To jest
+                - strong [ref=e297]: tata
+                - text: ", a to jest"
+                - strong [ref=e298]: mama
+              - strong [ref=e299]: .
+          - table [ref=e300]:
+            - rowgroup [ref=e301]:
+              - row "Przymiotnik / Прилагательное" [ref=e302]:
+                - cell "Przymiotnik / Прилагательное" [ref=e303]:
+                  - strong [ref=e304]: Przymiotnik / Прилагательное
+              - 'row "Род: Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e305]':
+                - cell "Род:" [ref=e306]
+                - cell "Rodzaj męski" [ref=e307]
+                - cell "Rodzaj żeński" [ref=e308]
+                - cell "Rodzaj nijaki" [ref=e309]
+              - 'row "Вопрос: Jaki? Jaka? Jakie?" [ref=e310]':
+                - cell "Вопрос:" [ref=e311]
+                - cell "Jaki?" [ref=e312]
+                - cell "Jaka?" [ref=e313]
+                - cell "Jakie?" [ref=e314]
+              - 'row "Окончания падежа: — y — i — a — e — ie" [ref=e315]':
+                - cell "Окончания падежа:" [ref=e316]
+                - cell "— y" [ref=e317]
+                - cell "— i" [ref=e318]
+                - cell "— a" [ref=e319]
+                - cell "— e" [ref=e320]
+                - cell "— ie" [ref=e321]
+              - 'row "Примеры: nowy młody wysoki głupi stara głupia stare młode wysokie głupie" [ref=e322]':
+                - cell "Примеры:" [ref=e323]
+                - cell "nowy młody" [ref=e324]:
+                  - text: nowy
+                  - text: młody
+                - cell "wysoki głupi" [ref=e325]:
+                  - text: wysoki
+                  - text: głupi
+                - cell "stara głupia" [ref=e326]:
+                  - text: stara
+                  - text: głupia
+                - cell "stare młode" [ref=e327]:
+                  - text: stare
+                  - text: młode
+                - cell "wysokie głupie" [ref=e328]:
+                  - text: wysokie
+                  - text: głupie
+          - paragraph [ref=e329]: "А с прилагательным теперь получаете возможность наделить созерцаемый вами предмет какими-то качествами:"
+          - list [ref=e330]:
+            - listitem [ref=e331]:
+              - emphasis [ref=e332]:
+                - text: To jest
+                - strong [ref=e333]: nowy
+                - text: dom. To jest
+                - strong [ref=e334]: stare
+                - text: kino i
+                - strong [ref=e335]: stare
+                - text: liceum. To jest
+                - strong [ref=e336]: młody
+                - text: tata. To jest
+                - strong [ref=e337]: głupia
+                - text: piosenka.
+          - paragraph [ref=e338]:
+            - text: Если хотите более подробно рассмотреть именительный падеж в единственном числе, можно перейти к
+            - link "четвертому уроку моего импровизированного курса польского языка" [ref=e339] [cursor=pointer]:
+              - /url: https://kursy.propolski.com/lekcja-4/
+            - text: ", там это показано через существительное и прилагательное отдельно, есть примеры и упражнения. Там также есть интересный материал о"
+            - link "позиции прилагательного возле существительного, перед или после" [ref=e340] [cursor=pointer]:
+              - /url: https://kursy.propolski.com/lekcja-4/#%D0%9F%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F_%D0%BF%D1%80%D0%B8%D0%BB%D0%B0%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%E2%80%93_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4_%D0%B8%D0%BB%D0%B8_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5_%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE
+            - text: .
+          - insertion [ref=e341]:
+            - iframe [ref=e343]:
+              - generic [active] [ref=f525e1]:
+                - generic [ref=f525e5]:
+                  - generic [ref=f525e6]:
+                    - link [ref=f525e7] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CrHgcxvLMaaPFLqO-wuIPs_bi4A79ovGOhgHtprP0uBWsAhABIPrd4Tdg6eTKheAaoAHmiYbhA8gBCakCkeSv-conkj6oAwHIA8sEqgT-AU_Q6_IwX7nJCDiwNohw33eAX6m0U-Gx_XUXEMtgMgO21vlpC6NYTpSRhIuyw9LYaa_uk_NelFsnG0FV7BIakXxNEWnM7Qvzrp2-uHGuV69AiYMGKMVDp_kAXzlD-zh8dYnyk3sZTTy90XupGdvaRZIucPAcmdiNB6sTrZa_wDxD4SnjdhASraYDCEuZWMB9SZrp4tiOM0FXp_CULt2SFiW0MEcodpVFZZ3SuDtFWN8GCNMz54CX9iwHvjn4k44Jg8H0e9SYq4Se0SGSNUdlBr5Dt0tvn0Kg8L__SBxOP8vyoWGeCbbcoamBzWgQ9-oH0P7vBossib7v2B6LUXbiwATl_MvzzQWIBcS4-JVYoAYugAeC9vkeqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYl7nkm7jMkwOxCR2AyNMgS7jGgAoBmAsByAsBgAwBqg0CUEzIDQHqDRMI6cPlm7jMkwMVI59QBh0zuxjs8A0CiA4JuBPkA9gTCtAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAAAAXvtAEgoxMDQwMTAyODY5GAGyGAkSAqFPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIo8Dlm7jMkwMVI59QBh0zuxjsEAEYASAAEgJQt_D_BwE&num=1&cid=CAQSbwAFq6B9Y0SOYE2oyeWHHZLnGeuwX3AljPF9KkU82eSpKHNs9h6Uj4HfAX9ffveHL-bEfb-l0xMN3D2VIB2SO8pQeY86CEYxOuXjEH6wHmzNhjw76oCwlk9GqhtMjamS5pdlxs-tbnRtqWO49l_DkhgB&sig=AOD64_2tUNOQ7cWFoK5_RExYyAhPNXsU2g&client=ca-pub-6525291204356869&rf=1&nb=9&adurl=https://bluecity.pl/wydarzenia/kiermasz-wielkanocny-7/%3Fgad_source%3D5%26gad_campaignid%3D23668333636%26gclid%3DEAIaIQobChMIo8Dlm7jMkwMVI59QBh0zuxjsEAEYASAAEgJQt_D_BwE
+                      - img [ref=f525e8]
+                    - generic [ref=f525e9]:
+                      - link "Jarmark Wielkanocny" [ref=f525e11] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CrHgcxvLMaaPFLqO-wuIPs_bi4A79ovGOhgHtprP0uBWsAhABIPrd4Tdg6eTKheAaoAHmiYbhA8gBCakCkeSv-conkj6oAwHIA8sEqgT-AU_Q6_IwX7nJCDiwNohw33eAX6m0U-Gx_XUXEMtgMgO21vlpC6NYTpSRhIuyw9LYaa_uk_NelFsnG0FV7BIakXxNEWnM7Qvzrp2-uHGuV69AiYMGKMVDp_kAXzlD-zh8dYnyk3sZTTy90XupGdvaRZIucPAcmdiNB6sTrZa_wDxD4SnjdhASraYDCEuZWMB9SZrp4tiOM0FXp_CULt2SFiW0MEcodpVFZZ3SuDtFWN8GCNMz54CX9iwHvjn4k44Jg8H0e9SYq4Se0SGSNUdlBr5Dt0tvn0Kg8L__SBxOP8vyoWGeCbbcoamBzWgQ9-oH0P7vBossib7v2B6LUXbiwATl_MvzzQWIBcS4-JVYoAYugAeC9vkeqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYl7nkm7jMkwOxCR2AyNMgS7jGgAoBmAsByAsBgAwBqg0CUEzIDQHqDRMI6cPlm7jMkwMVI59QBh0zuxjs8A0CiA4JuBPkA9gTCtAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAAAAXvtAEgoxMDQwMTAyODY5GAGyGAkSAqFPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIo8Dlm7jMkwMVI59QBh0zuxjsEAEYASAAEgJQt_D_BwE&num=1&cid=CAQSbwAFq6B9Y0SOYE2oyeWHHZLnGeuwX3AljPF9KkU82eSpKHNs9h6Uj4HfAX9ffveHL-bEfb-l0xMN3D2VIB2SO8pQeY86CEYxOuXjEH6wHmzNhjw76oCwlk9GqhtMjamS5pdlxs-tbnRtqWO49l_DkhgB&sig=AOD64_2tUNOQ7cWFoK5_RExYyAhPNXsU2g&client=ca-pub-6525291204356869&rf=1&nb=0&adurl=https://bluecity.pl/wydarzenia/kiermasz-wielkanocny-7/%3Fgad_source%3D5%26gad_campaignid%3D23668333636%26gclid%3DEAIaIQobChMIo8Dlm7jMkwMVI59QBh0zuxjsEAEYASAAEgJQt_D_BwE
+                      - link "Najlepszej jakości produkty lokalne, wina i piękne ozdoby. Zapraszamy do Blue City!" [ref=f525e13] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CrHgcxvLMaaPFLqO-wuIPs_bi4A79ovGOhgHtprP0uBWsAhABIPrd4Tdg6eTKheAaoAHmiYbhA8gBCakCkeSv-conkj6oAwHIA8sEqgT-AU_Q6_IwX7nJCDiwNohw33eAX6m0U-Gx_XUXEMtgMgO21vlpC6NYTpSRhIuyw9LYaa_uk_NelFsnG0FV7BIakXxNEWnM7Qvzrp2-uHGuV69AiYMGKMVDp_kAXzlD-zh8dYnyk3sZTTy90XupGdvaRZIucPAcmdiNB6sTrZa_wDxD4SnjdhASraYDCEuZWMB9SZrp4tiOM0FXp_CULt2SFiW0MEcodpVFZZ3SuDtFWN8GCNMz54CX9iwHvjn4k44Jg8H0e9SYq4Se0SGSNUdlBr5Dt0tvn0Kg8L__SBxOP8vyoWGeCbbcoamBzWgQ9-oH0P7vBossib7v2B6LUXbiwATl_MvzzQWIBcS4-JVYoAYugAeC9vkeqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYl7nkm7jMkwOxCR2AyNMgS7jGgAoBmAsByAsBgAwBqg0CUEzIDQHqDRMI6cPlm7jMkwMVI59QBh0zuxjs8A0CiA4JuBPkA9gTCtAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAAAAXvtAEgoxMDQwMTAyODY5GAGyGAkSAqFPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIo8Dlm7jMkwMVI59QBh0zuxjsEAEYASAAEgJQt_D_BwE&num=1&cid=CAQSbwAFq6B9Y0SOYE2oyeWHHZLnGeuwX3AljPF9KkU82eSpKHNs9h6Uj4HfAX9ffveHL-bEfb-l0xMN3D2VIB2SO8pQeY86CEYxOuXjEH6wHmzNhjw76oCwlk9GqhtMjamS5pdlxs-tbnRtqWO49l_DkhgB&sig=AOD64_2tUNOQ7cWFoK5_RExYyAhPNXsU2g&client=ca-pub-6525291204356869&rf=1&nb=7&adurl=https://bluecity.pl/wydarzenia/kiermasz-wielkanocny-7/%3Fgad_source%3D5%26gad_campaignid%3D23668333636%26gclid%3DEAIaIQobChMIo8Dlm7jMkwMVI59QBh0zuxjsEAEYASAAEgJQt_D_BwE
+                        - text: Najlepszej jakości produkty lokalne, wina i piękne ozdoby.
+                        - text: Zapraszamy do Blue City!
+                  - generic [ref=f525e14]:
+                    - link [ref=f525e15] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CrHgcxvLMaaPFLqO-wuIPs_bi4A79ovGOhgHtprP0uBWsAhABIPrd4Tdg6eTKheAaoAHmiYbhA8gBCakCkeSv-conkj6oAwHIA8sEqgT-AU_Q6_IwX7nJCDiwNohw33eAX6m0U-Gx_XUXEMtgMgO21vlpC6NYTpSRhIuyw9LYaa_uk_NelFsnG0FV7BIakXxNEWnM7Qvzrp2-uHGuV69AiYMGKMVDp_kAXzlD-zh8dYnyk3sZTTy90XupGdvaRZIucPAcmdiNB6sTrZa_wDxD4SnjdhASraYDCEuZWMB9SZrp4tiOM0FXp_CULt2SFiW0MEcodpVFZZ3SuDtFWN8GCNMz54CX9iwHvjn4k44Jg8H0e9SYq4Se0SGSNUdlBr5Dt0tvn0Kg8L__SBxOP8vyoWGeCbbcoamBzWgQ9-oH0P7vBossib7v2B6LUXbiwATl_MvzzQWIBcS4-JVYoAYugAeC9vkeqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYl7nkm7jMkwOxCR2AyNMgS7jGgAoBmAsByAsBgAwBqg0CUEzIDQHqDRMI6cPlm7jMkwMVI59QBh0zuxjs8A0CiA4JuBPkA9gTCtAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAAAAXvtAEgoxMDQwMTAyODY5GAGyGAkSAqFPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIo8Dlm7jMkwMVI59QBh0zuxjsEAEYASAAEgJQt_D_BwE&num=1&cid=CAQSbwAFq6B9Y0SOYE2oyeWHHZLnGeuwX3AljPF9KkU82eSpKHNs9h6Uj4HfAX9ffveHL-bEfb-l0xMN3D2VIB2SO8pQeY86CEYxOuXjEH6wHmzNhjw76oCwlk9GqhtMjamS5pdlxs-tbnRtqWO49l_DkhgB&sig=AOD64_2tUNOQ7cWFoK5_RExYyAhPNXsU2g&client=ca-pub-6525291204356869&rf=1&nb=19&adurl=https://bluecity.pl/wydarzenia/kiermasz-wielkanocny-7/%3Fgad_source%3D5%26gad_campaignid%3D23668333636%26gclid%3DEAIaIQobChMIo8Dlm7jMkwMVI59QBh0zuxjsEAEYASAAEgJQt_D_BwE
+                      - img [ref=f525e16]
+                    - link "Blue City" [ref=f525e18] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CrHgcxvLMaaPFLqO-wuIPs_bi4A79ovGOhgHtprP0uBWsAhABIPrd4Tdg6eTKheAaoAHmiYbhA8gBCakCkeSv-conkj6oAwHIA8sEqgT-AU_Q6_IwX7nJCDiwNohw33eAX6m0U-Gx_XUXEMtgMgO21vlpC6NYTpSRhIuyw9LYaa_uk_NelFsnG0FV7BIakXxNEWnM7Qvzrp2-uHGuV69AiYMGKMVDp_kAXzlD-zh8dYnyk3sZTTy90XupGdvaRZIucPAcmdiNB6sTrZa_wDxD4SnjdhASraYDCEuZWMB9SZrp4tiOM0FXp_CULt2SFiW0MEcodpVFZZ3SuDtFWN8GCNMz54CX9iwHvjn4k44Jg8H0e9SYq4Se0SGSNUdlBr5Dt0tvn0Kg8L__SBxOP8vyoWGeCbbcoamBzWgQ9-oH0P7vBossib7v2B6LUXbiwATl_MvzzQWIBcS4-JVYoAYugAeC9vkeqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYl7nkm7jMkwOxCR2AyNMgS7jGgAoBmAsByAsBgAwBqg0CUEzIDQHqDRMI6cPlm7jMkwMVI59QBh0zuxjs8A0CiA4JuBPkA9gTCtAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAAAAXvtAEgoxMDQwMTAyODY5GAGyGAkSAqFPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIo8Dlm7jMkwMVI59QBh0zuxjsEAEYASAAEgJQt_D_BwE&num=1&cid=CAQSbwAFq6B9Y0SOYE2oyeWHHZLnGeuwX3AljPF9KkU82eSpKHNs9h6Uj4HfAX9ffveHL-bEfb-l0xMN3D2VIB2SO8pQeY86CEYxOuXjEH6wHmzNhjw76oCwlk9GqhtMjamS5pdlxs-tbnRtqWO49l_DkhgB&sig=AOD64_2tUNOQ7cWFoK5_RExYyAhPNXsU2g&client=ca-pub-6525291204356869&rf=1&nb=1&adurl=https://bluecity.pl/wydarzenia/kiermasz-wielkanocny-7/%3Fgad_source%3D5%26gad_campaignid%3D23668333636%26gclid%3DEAIaIQobChMIo8Dlm7jMkwMVI59QBh0zuxjsEAEYASAAEgJQt_D_BwE
+                    - link "Otwórz" [ref=f525e19] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CrHgcxvLMaaPFLqO-wuIPs_bi4A79ovGOhgHtprP0uBWsAhABIPrd4Tdg6eTKheAaoAHmiYbhA8gBCakCkeSv-conkj6oAwHIA8sEqgT-AU_Q6_IwX7nJCDiwNohw33eAX6m0U-Gx_XUXEMtgMgO21vlpC6NYTpSRhIuyw9LYaa_uk_NelFsnG0FV7BIakXxNEWnM7Qvzrp2-uHGuV69AiYMGKMVDp_kAXzlD-zh8dYnyk3sZTTy90XupGdvaRZIucPAcmdiNB6sTrZa_wDxD4SnjdhASraYDCEuZWMB9SZrp4tiOM0FXp_CULt2SFiW0MEcodpVFZZ3SuDtFWN8GCNMz54CX9iwHvjn4k44Jg8H0e9SYq4Se0SGSNUdlBr5Dt0tvn0Kg8L__SBxOP8vyoWGeCbbcoamBzWgQ9-oH0P7vBossib7v2B6LUXbiwATl_MvzzQWIBcS4-JVYoAYugAeC9vkeqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYl7nkm7jMkwOxCR2AyNMgS7jGgAoBmAsByAsBgAwBqg0CUEzIDQHqDRMI6cPlm7jMkwMVI59QBh0zuxjs8A0CiA4JuBPkA9gTCtAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAAAAXvtAEgoxMDQwMTAyODY5GAGyGAkSAqFPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIo8Dlm7jMkwMVI59QBh0zuxjsEAEYASAAEgJQt_D_BwE&num=1&cid=CAQSbwAFq6B9Y0SOYE2oyeWHHZLnGeuwX3AljPF9KkU82eSpKHNs9h6Uj4HfAX9ffveHL-bEfb-l0xMN3D2VIB2SO8pQeY86CEYxOuXjEH6wHmzNhjw76oCwlk9GqhtMjamS5pdlxs-tbnRtqWO49l_DkhgB&sig=AOD64_2tUNOQ7cWFoK5_RExYyAhPNXsU2g&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://bluecity.pl/wydarzenia/kiermasz-wielkanocny-7/%3Fgad_source%3D5%26gad_campaignid%3D23668333636%26gclid%3DEAIaIQobChMIo8Dlm7jMkwMVI59QBh0zuxjsEAEYASAAEgJQt_D_BwE
+                      - generic [ref=f525e21]: Otwórz
+                - img [ref=f525e25] [cursor=pointer]
+                - button [ref=f525e27] [cursor=pointer]:
+                  - img [ref=f525e28]
+                - iframe
+          - separator [ref=e344]
+          - heading "Родительный падеж в польском языке / Родовий відмінок в польській мові" [level=3] [ref=e345]:
+            - text: Родительный падеж в польском языке /
+            - text: Родовий відмінок в польській мові
+          - separator [ref=e346]
+          - table [ref=e347]:
+            - rowgroup [ref=e348]:
+              - row "DOPEŁNIACZ kogo? czego?" [ref=e349]:
+                - cell "DOPEŁNIACZ kogo? czego?" [ref=e350]:
+                  - heading "DOPEŁNIACZ kogo? czego?" [level=4] [ref=e351]:
+                    - strong [ref=e352]:
+                      - text: DOPEŁNIACZ
+                      - emphasis [ref=e353]: kogo? czego?
+              - row "Rzeczownik / Существительное" [ref=e354]:
+                - cell "Rzeczownik / Существительное" [ref=e355]:
+                  - strong [ref=e356]: Rzeczownik / Существительное
+              - 'row "Род: Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e357]':
+                - cell "Род:" [ref=e358]
+                - cell "Rodzaj męski" [ref=e359]
+                - cell "Rodzaj żeński" [ref=e360]
+                - cell "Rodzaj nijaki" [ref=e361]
+              - 'row "Окончания падежа: — a — u — y — i — y — i — a — um" [ref=e362]':
+                - cell "Окончания падежа:" [ref=e363]
+                - cell "— a" [ref=e364]
+                - cell "— u" [ref=e365]
+                - cell "— y" [ref=e366]
+                - cell "— i" [ref=e367]
+                - cell "— y" [ref=e368]
+                - cell "— i" [ref=e369]
+                - cell "— a" [ref=e370]
+                - cell "— um" [ref=e371]
+              - 'row "Примеры: brata domu taty kolegi mamy soli kina liceum" [ref=e372]':
+                - cell "Примеры:" [ref=e373]
+                - cell "brata" [ref=e374]
+                - cell "domu" [ref=e375]
+                - cell "taty" [ref=e376]
+                - cell "kolegi" [ref=e377]
+                - cell "mamy" [ref=e378]
+                - cell "soli" [ref=e379]
+                - cell "kina" [ref=e380]
+                - cell "liceum" [ref=e381]
+          - paragraph [ref=e382]: "С родительным падежом в польском языке употребляется отрицание — не люблю, не хочу, не знаю, не имею…:"
+          - list [ref=e383]:
+            - listitem [ref=e384]:
+              - emphasis [ref=e385]:
+                - text: Nie mam
+                - strong [ref=e386]: brata
+                - text: . Nie mam
+                - strong [ref=e387]: domu
+                - text: . Nie znam
+                - strong [ref=e388]: taty
+                - text: . Nie lubię
+                - strong [ref=e389]: kolegi
+                - text: . Nie widzę
+                - strong [ref=e390]: mamy
+                - text: . Nie jem
+                - strong [ref=e391]: soli
+                - text: . Nie chodzę do
+                - strong [ref=e392]: kina
+                - text: . Masakra jakaś….
+          - table [ref=e393]:
+            - rowgroup [ref=e394]:
+              - row "Przymiotnik / Прилагательное" [ref=e395]:
+                - cell "Przymiotnik / Прилагательное" [ref=e396]:
+                  - strong [ref=e397]: Przymiotnik / Прилагательное
+              - 'row "Род: Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e398]':
+                - cell "Род:" [ref=e399]
+                - cell "Rodzaj męski" [ref=e400]
+                - cell "Rodzaj żeński" [ref=e401]
+                - cell "Rodzaj nijaki" [ref=e402]
+              - 'row "Вопрос: Jakiego? Jakiej? Jakiego?" [ref=e403]':
+                - cell "Вопрос:" [ref=e404]
+                - cell "Jakiego?" [ref=e405]
+                - cell "Jakiej?" [ref=e406]
+                - cell "Jakiego?" [ref=e407]
+              - 'row "Окончания падежа: — ego (- iego) — ej (-iej) — ego (- iego)" [ref=e408]':
+                - cell "Окончания падежа:" [ref=e409]
+                - cell "— ego (- iego)" [ref=e410]
+                - cell "— ej (-iej)" [ref=e411]
+                - cell "— ego (- iego)" [ref=e412]
+              - 'row "Примеры: nowego wysokiego starej wysokiej nowego wysokiego" [ref=e413]':
+                - cell "Примеры:" [ref=e414]
+                - cell "nowego wysokiego" [ref=e415]:
+                  - text: nowego
+                  - text: wysokiego
+                - cell "starej wysokiej" [ref=e416]:
+                  - text: starej
+                  - text: wysokiej
+                - cell "nowego wysokiego" [ref=e417]:
+                  - text: nowego
+                  - text: wysokiego
+          - paragraph [ref=e418]: "И добавляйте краски:"
+          - list [ref=e419]:
+            - listitem [ref=e420]:
+              - emphasis [ref=e421]:
+                - text: Nie mam
+                - strong [ref=e422]: wysokiego
+                - text: brata. Nie lubię
+                - strong [ref=e423]: nowego
+                - text: kolegi. Nie chodzę do
+                - strong [ref=e424]: starego
+                - text: kina.
+          - insertion [ref=e425]:
+            - iframe [ref=e427]:
+              - generic [active] [ref=f526e1]:
+                - generic [ref=f526e3]:
+                  - link:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CvJpyxvLMaYPKLom_wuIPzPO08Au-md-dhgGol-2htxWq5tLgsgEQASD63eE3YOnkyoXgGqABwe6T9QPIAQKpAn4B59oQHJI-qAMByAPJBKoE-wFP0GHQefqATGpNa4Xckg8H8Pd5JYRNWqSu2gtO67jHgFx9vSpC8ZNpUO9BhaR_GtlhsX4ljUUbsVoUkwK5f2CvtTdeEx_Vqkn29sQOypDSygaQaatSETKIfdtp5L3_sf_nmSWBVGri4OjhzEbRNhVpIqEezv-3UtL_PF6isllohaj8-6YKTP69eyv2yTH3Ea9_MMSS9XiXfSAGYDtk0w7j4fmMyXJxoNLIUBBUSQpGPTV6RRpEhTC2A6UirPwGP6WXRqy0bs7XQoov3OtZXNrA_M247Pgam5XM5f_QJba5IJ3yGA-a9Y_Wbaq2aQfdl8_LcDcsh5pBfaJDr8AEq7i7_tQFiAWAqOirWKAGAoAHuezTMagHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgHmMWxAqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WNzW5Ju4zJMDmgk2aHR0cHM6Ly93d3cuZXVyby5jb20ucGwvY21zL3dpZWxrYW5vY25hLXByb21vY2phLmJodG1ssQl0csMSDoaF3oAKAcgLAeALAaoNAlBMyA0B6g0TCJ7L5Zu4zJMDFYmfUAYdzDkNvogOCaITSwouCANAAVIICgYSBAgBEAFyHhIcIAIoATgCQICo6KtYWAFo_v__________AZgBAxoZChdjYS1wdWItNjUyNTI5MTIwNDM1Njg2OdgTDdAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAACgY_VAEgoxMDQwMTAyODY5GAGyGAUYAiIBANAYAcIZAggB&gclid=EAIaIQobChMIg8Xlm7jMkwMViZ9QBh3MOQ2-EAEYASAAEgL01vD_BwE&num=1&cid=CAQSbwAFq6B9cpVuKczPwqDJ0UfEYYWi3S1OqJLzhtGzEz5-5wUSUqlDAq-ZZbImXuye0taI5Zv3YYCNMtDjYTDmUuoYD39DSoWTdAwqHbA5D4dBPg78Ts0aYYdslE7STXzxkunY43Q6mRtDOwoDho0GNBgB&sig=AOD64_0XzvkdUOFHYNrD9q0GShU9JLs0Yg&client=ca-pub-6525291204356869&rf=2&nb=2&adurl=https://ad.doubleclick.net/searchads/link/click%3F%26ds_a_cid%3D106102801%26ds_a_caid%3D23714206720%26ds_a_agid%3D194612485163%26ds_a_fiid%3D%26ds_a_lid%3D%26ds_a_extid%3D%26%26ds_e_adid%3D803120613050%26ds_e_matchtype%3Dcontent%26ds_e_device%3Dc%26ds_e_network%3Dd%26%26ds_url_v%3D2%26ds_dest_url%3Dhttps://www.euro.com.pl/cms/wielkanocna-promocja.bhtml%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dw_display%26gclsrc%3Daw.ds%26gad_source%3D5%26gad_campaignid%3D23714206720
+                  - img [ref=f526e7] [cursor=pointer]
+                  - button [ref=f526e9] [cursor=pointer]:
+                    - img [ref=f526e10]
+                - iframe
+          - separator [ref=e428]
+          - heading "Дательный падеж в польском языке / Давальний відмінок в польскій мові" [level=3] [ref=e429]:
+            - text: Дательный падеж в польском языке /
+            - text: Давальний відмінок в польскій мові
+          - separator [ref=e430]
+          - table [ref=e431]:
+            - rowgroup [ref=e432]:
+              - row "CELOWNIK komu? czemu?" [ref=e433]:
+                - cell "CELOWNIK komu? czemu?" [ref=e434]:
+                  - heading "CELOWNIK komu? czemu?" [level=4] [ref=e435]:
+                    - strong [ref=e436]:
+                      - text: CELOWNIK
+                      - emphasis [ref=e437]: komu? czemu?
+              - row "Rzeczownik / Существительное" [ref=e438]:
+                - cell "Rzeczownik / Существительное" [ref=e439]:
+                  - strong [ref=e440]: Rzeczownik / Существительное
+              - 'row "Род: Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e441]':
+                - cell "Род:" [ref=e442]
+                - cell "Rodzaj męski" [ref=e443]
+                - cell "Rodzaj żeński" [ref=e444]
+                - cell "Rodzaj nijaki" [ref=e445]
+              - 'row "Окончания падежа: — u — owi — e — e — y — i — u — um" [ref=e446]':
+                - cell "Окончания падежа:" [ref=e447]
+                - cell "— u" [ref=e448]
+                - cell "— owi" [ref=e449]
+                - cell "— e" [ref=e450]
+                - cell "— e" [ref=e451]
+                - cell "— y" [ref=e452]
+                - cell "— i" [ref=e453]
+                - cell "— u" [ref=e454]
+                - cell "— um" [ref=e455]
+              - 'row "Примеры: bratu domowi tacie mamie myszy soli kinu liceum" [ref=e456]':
+                - cell "Примеры:" [ref=e457]
+                - cell "bratu" [ref=e458]
+                - cell "domowi" [ref=e459]
+                - cell "tacie" [ref=e460]
+                - cell "mamie" [ref=e461]
+                - cell "myszy" [ref=e462]
+                - cell "soli" [ref=e463]
+                - cell "kinu" [ref=e464]
+                - cell "liceum" [ref=e465]
+          - paragraph [ref=e466]: "Доверять (ufać) кому? чему? И давать шанс:"
+          - list [ref=e467]:
+            - listitem [ref=e468]:
+              - emphasis [ref=e469]:
+                - text: Ufam
+                - strong [ref=e470]: bratu
+                - text: ", ufam"
+                - strong [ref=e471]: tacie
+                - text: ", ufam"
+                - strong [ref=e472]: mamie
+                - text: . Daję
+                - strong [ref=e473]: kinu
+                - text: drugą szansę.
+          - table [ref=e474]:
+            - rowgroup [ref=e475]:
+              - row "Przymiotnik / Прилагательное" [ref=e476]:
+                - cell "Przymiotnik / Прилагательное" [ref=e477]:
+                  - strong [ref=e478]: Przymiotnik / Прилагательное
+              - 'row "Род: Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e479]':
+                - cell "Род:" [ref=e480]
+                - cell "Rodzaj męski" [ref=e481]
+                - cell "Rodzaj żeński" [ref=e482]
+                - cell "Rodzaj nijaki" [ref=e483]
+              - 'row "Вопрос: Jakiemu? Jakiej? Jakiemu?" [ref=e484]':
+                - cell "Вопрос:" [ref=e485]
+                - cell "Jakiemu?" [ref=e486]
+                - cell "Jakiej?" [ref=e487]
+                - cell "Jakiemu?" [ref=e488]
+              - 'row "Окончания падежа: — emu (- iemu) — ej (- iej) — emu (- iemu)" [ref=e489]':
+                - cell "Окончания падежа:" [ref=e490]
+                - cell "— emu (- iemu)" [ref=e491]
+                - cell "— ej (- iej)" [ref=e492]
+                - cell "— emu (- iemu)" [ref=e493]
+              - 'row "Примеры: nowemu wysokiemu starej wysokiej nowemu wysokiemu" [ref=e494]':
+                - cell "Примеры:" [ref=e495]
+                - cell "nowemu wysokiemu" [ref=e496]:
+                  - text: nowemu
+                  - text: wysokiemu
+                - cell "starej wysokiej" [ref=e497]:
+                  - text: starej
+                  - text: wysokiej
+                - cell "nowemu wysokiemu" [ref=e498]:
+                  - text: nowemu
+                  - text: wysokiemu
+          - paragraph [ref=e499]: "К рассмотренным существительным хорошо подойдут притяжательные местоимения (которые склоняются так же, как и прилагательные):"
+          - list [ref=e500]:
+            - listitem [ref=e501]:
+              - emphasis [ref=e502]:
+                - text: Ufam
+                - strong [ref=e503]: mojemu
+                - text: bratu. Ufam
+                - strong [ref=e504]: twojemu
+                - text: tacie. Ufam
+                - strong [ref=e505]: naszej
+                - text: mamie. Daję
+                - strong [ref=e506]: temu
+                - text: kinu drugą szansę.
+          - insertion [ref=e507]:
+            - iframe [ref=e509]:
+              - generic [active] [ref=f527e1]:
+                - generic [ref=f527e3]:
+                  - link:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CmHVqxvLMaa-wLZiLwuIPwtuf8Qa-md-dhgGol-2htxWq5tLgsgEQASD63eE3YOnkyoXgGqABwe6T9QPIAQKpApHkr_nKJ5I-qAMByAPJBKoE-wFP0CInK9fdSKE8xmVd9IpZEoDGKThyXvrR8woU899hFFSPJDqRFl7szGN6U71bWZdpyMM0UkKOXh3lsO612WwXPtKwkWa02ENXhm-WcFZx7vWn_P8CQ4VbfDFqv4lF9b9gkvZzmTSGm7jtplqjIvKAQ-nbStrTstp9DaYTJ3DsA5ATqAQ9mGDfzIDrKTYhVs27uUbevtuUZdIin5x-Zpk5ljEZMkU3-46jS3wLNCZ3SA0ssHaTAk5dtf0DIdQxmm6n7q0kkOKHZ-BkRCq-waa9daTmY_AQeg7e82XqpC1cMzWS1chZgBE-NdyOdkbRewsjVZHWQiudZqEW78AEq7i7_tQFiAWAqOirWKAGAoAHuezTMagHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgHmMWxAqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WMCw45u4zJMDmgk2aHR0cHM6Ly93d3cuZXVyby5jb20ucGwvY21zL3dpZWxrYW5vY25hLXByb21vY2phLmJodG1ssQl0csMSDoaF3oAKAcgLAeALAaoNAlBMyA0B6g0TCNay5Ju4zJMDFZiFUAYdwu0nbogOCaITSwouCANAAVIICgYSBAgBEAFyHhIcIAIoATgCQICo6KtYWAFo_v__________AZgBAxoZChdjYS1wdWItNjUyNTI5MTIwNDM1Njg2OdgTDdAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAACAK-5AEgoxMDQwMTAyODY5GAGyGAUYAiIBANAYAcIZAggB&gclid=EAIaIQobChMIr6vkm7jMkwMVmIVQBh3C7SduEAEYASAAEgInM_D_BwE&num=1&cid=CAQSbwAFq6B9b1jzVzOoyg8_3KpfO9UNtqWGJ4v4R1lPfp1QEMA731K5A1BzCWNeXSyix4M-eFmyPQneSZP4KgxBTZOw-weVPjZAyRfbqGLr6Ljxrll5jQ6HyEo3PmNpHJjbUpPCWbLeffjH9sKJ7emLCBgB&sig=AOD64_1f_8XRiMmnv2whirVpQ9CjPJzCqg&client=ca-pub-6525291204356869&rf=2&nb=2&adurl=https://ad.doubleclick.net/searchads/link/click%3F%26ds_a_cid%3D106102801%26ds_a_caid%3D23714206720%26ds_a_agid%3D194612485163%26ds_a_fiid%3D%26ds_a_lid%3D%26ds_a_extid%3D%26%26ds_e_adid%3D803120613050%26ds_e_matchtype%3Dcontent%26ds_e_device%3Dc%26ds_e_network%3Dd%26%26ds_url_v%3D2%26ds_dest_url%3Dhttps://www.euro.com.pl/cms/wielkanocna-promocja.bhtml%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dw_display%26gclsrc%3Daw.ds%26gad_source%3D5%26gad_campaignid%3D23714206720
+                  - img [ref=f527e7] [cursor=pointer]
+                  - button [ref=f527e9] [cursor=pointer]:
+                    - img [ref=f527e10]
+                - iframe
+          - separator [ref=e510]
+          - heading "Винительный падеж в польском языке / Знахідний відмінок в польській мові" [level=3] [ref=e511]:
+            - text: Винительный падеж в польском языке /
+            - text: Знахідний відмінок в польській мові
+          - separator [ref=e512]
+          - table [ref=e513]:
+            - rowgroup [ref=e514]:
+              - row "BIERNIK kogo? co?" [ref=e515]:
+                - cell "BIERNIK kogo? co?" [ref=e516]:
+                  - heading "BIERNIK kogo? co?" [level=4] [ref=e517]:
+                    - strong [ref=e518]:
+                      - text: BIERNIK
+                      - emphasis [ref=e519]: kogo? co?
+              - row "Rzeczownik / Существительное" [ref=e520]:
+                - cell "Rzeczownik / Существительное" [ref=e521]:
+                  - strong [ref=e522]: Rzeczownik / Существительное
+              - 'row "Род: Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e523]':
+                - cell "Род:" [ref=e524]
+                - cell "Rodzaj męski" [ref=e525]
+                - cell "Rodzaj żeński" [ref=e526]
+                - cell "Rodzaj nijaki" [ref=e527]
+              - 'row "Окончания падежа: — a — Ø — ę — ę — Ø — ą — o — e — ę — um" [ref=e528]':
+                - cell "Окончания падежа:" [ref=e529]
+                - cell "— a" [ref=e530]
+                - cell "— Ø" [ref=e531]
+                - cell "— ę" [ref=e532]
+                - cell "— ę" [ref=e533]
+                - cell "— Ø" [ref=e534]
+                - cell "— ą" [ref=e535]
+                - cell "— o" [ref=e536]
+                - cell "— e" [ref=e537]
+                - cell "— ę" [ref=e538]
+                - cell "— um" [ref=e539]
+              - 'row "Примеры: brata dom tatę mamę mysz panią kino pole imię liceum" [ref=e540]':
+                - cell "Примеры:" [ref=e541]
+                - cell "brata" [ref=e542]
+                - cell "dom" [ref=e543]
+                - cell "tatę" [ref=e544]
+                - cell "mamę" [ref=e545]
+                - cell "mysz" [ref=e546]
+                - cell "panią" [ref=e547]
+                - cell "kino" [ref=e548]
+                - cell "pole" [ref=e549]
+                - cell "imię" [ref=e550]
+                - cell "liceum" [ref=e551]
+          - paragraph [ref=e552]: "Винительный падеж в польском — явный родственник родительного, его зеркало в употреблении, ведь практически все, что мы утверждаем — люблю, хочу, знаю, имею… мы соединяем с винительным падежом:"
+          - list [ref=e553]:
+            - listitem [ref=e554]:
+              - emphasis [ref=e555]:
+                - text: Mam
+                - strong [ref=e556]: brata
+                - text: . Mam
+                - strong [ref=e557]: dom
+                - text: . Znam
+                - strong [ref=e558]: tatę
+                - text: . Lubię
+                - strong [ref=e559]: kolegę
+                - text: . Widzę
+                - strong [ref=e560]: mamę
+                - text: . Jem
+                - strong [ref=e561]: sól
+                - text: . Ekstra!
+          - table [ref=e562]:
+            - rowgroup [ref=e563]:
+              - row "Przymiotnik / Прилагательное" [ref=e564]:
+                - cell "Przymiotnik / Прилагательное" [ref=e565]:
+                  - strong [ref=e566]: Przymiotnik / Прилагательное
+              - 'row "Род: Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e567]':
+                - cell "Род:" [ref=e568]
+                - cell "Rodzaj męski" [ref=e569]
+                - cell "Rodzaj żeński" [ref=e570]
+                - cell "Rodzaj nijaki" [ref=e571]
+              - 'row "Вопрос: Jakiego? Jaki? Jaką? Jakie?" [ref=e572]':
+                - cell "Вопрос:" [ref=e573]
+                - cell "Jakiego?" [ref=e574]
+                - cell "Jaki?" [ref=e575]
+                - cell "Jaką?" [ref=e576]
+                - cell "Jakie?" [ref=e577]
+              - 'row "Окончания падежа: — ego (- iego) — y / — i — ą — e (-ie)" [ref=e578]':
+                - cell "Окончания падежа:" [ref=e579]
+                - cell "— ego (- iego)" [ref=e580]
+                - cell "— y / — i" [ref=e581]
+                - cell "— ą" [ref=e582]
+                - cell "— e (-ie)" [ref=e583]
+              - 'row "Примеры: nowego wysokiego nowy wysoki starą wysoką nowe wysokie" [ref=e584]':
+                - cell "Примеры:" [ref=e585]
+                - cell "nowego wysokiego" [ref=e586]:
+                  - text: nowego
+                  - text: wysokiego
+                - cell "nowy wysoki" [ref=e587]:
+                  - text: nowy
+                  - text: wysoki
+                - cell "starą wysoką" [ref=e588]:
+                  - text: starą
+                  - text: wysoką
+                - cell "nowe wysokie" [ref=e589]:
+                  - text: nowe
+                  - text: wysokie
+          - paragraph [ref=e590]: "А если брат высокий, дом новый, коллега хороший…:"
+          - list [ref=e591]:
+            - listitem [ref=e592]:
+              - emphasis [ref=e593]:
+                - text: Mam
+                - strong [ref=e594]: wysokiego
+                - text: brata. Mam
+                - strong [ref=e595]: nowy
+                - text: dom. Znam
+                - strong [ref=e596]: twojego
+                - text: tatę. Lubię
+                - strong [ref=e597]: fajnego
+                - text: kolegę. Widzę
+                - strong [ref=e598]: moją
+                - text: mamę. Jem sól
+                - strong [ref=e599]: morską
+                - text: .
+          - insertion [ref=e600]:
+            - iframe [ref=e602]:
+              - generic [active] [ref=f528e1]:
+                - generic [ref=f528e5]:
+                  - generic [ref=f528e6]:
+                    - link [ref=f528e7] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C4QjzxvLMacffLa69wuIP-paq2An9ovGOhgHVn7P0uBWsAhABIPrd4Tdg6eTKheAaoAHmiYbhA8gBCakCkeSv-conkj6oAwHIA8sEqgT7AU_QFi4bfsWIz93EfpJdGD2euV3Yl78AjIL_BR_lht1tbG0alCo_LQznr8DE6QtVRWlz93Rtsnlyu3_9XLQUqxhLNkpeWr9_HjHD5wxG5znHEfdNwkqnjzGzzGOGuvxw_NcT3MAPkxuMCba9a8H3Xa82n6oytmqc5kxa2iACTvMX1S8LSnBgxe_JcdhcvvmRglEbwBcHZtQFrkKkbYgOtBLR9-OUMYTvsGt_lSf_VQk6tBGzuq7SwH7CqYAbr1j5M1dXJb_1QmCkfEqY0_frZIZV9OMNfEW8ozeRMDzaM5wohKEr6r476e2z7X6WfaN3JBimT4af7saVMtJlwAS9_MvzzQWIBcS4-JVYoAYugAeC9vkeqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYud_jm7jMkwOxCR2AyNMgS7jGgAoBmAsByAsBgAwBqg0CUEzIDQHqDRMI3d_km7jMkwMVrp5QBh16iwqb8A0CiA4JuBPkA9gTCtAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAAAQK_ZAEgoxMDQwMTAyODY5GAGyGAkSAqFPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIx9rkm7jMkwMVrp5QBh16iwqbEAEYASAAEgKCQPD_BwE&num=1&cid=CAQSbwAFq6B9fkD91TA6PVkVcSoFy_f4XEd-FZyvI3N0zRr0QFp4VgYM0kvKbSXjlBUNGvzh3g9-R_6pL6FSHugqCblGY6xE2XhQWFCVyPTF8VnnW8ixki5n5-rubqwITS4q2qgTNlG3M-3teKKF3umpgBgB&sig=AOD64_0eURIF2xga8ZB_x3Wr0UjB45WHmQ&client=ca-pub-6525291204356869&rf=1&nb=9&adurl=https://bluecity.pl/wydarzenia/kiermasz-wielkanocny-7/%3Fgad_source%3D5%26gad_campaignid%3D23668333636%26gclid%3DEAIaIQobChMIx9rkm7jMkwMVrp5QBh16iwqbEAEYASAAEgKCQPD_BwE
+                      - img [ref=f528e8]
+                    - generic [ref=f528e9]:
+                      - link "Jarmark Wielkanocny" [ref=f528e11] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C4QjzxvLMacffLa69wuIP-paq2An9ovGOhgHVn7P0uBWsAhABIPrd4Tdg6eTKheAaoAHmiYbhA8gBCakCkeSv-conkj6oAwHIA8sEqgT7AU_QFi4bfsWIz93EfpJdGD2euV3Yl78AjIL_BR_lht1tbG0alCo_LQznr8DE6QtVRWlz93Rtsnlyu3_9XLQUqxhLNkpeWr9_HjHD5wxG5znHEfdNwkqnjzGzzGOGuvxw_NcT3MAPkxuMCba9a8H3Xa82n6oytmqc5kxa2iACTvMX1S8LSnBgxe_JcdhcvvmRglEbwBcHZtQFrkKkbYgOtBLR9-OUMYTvsGt_lSf_VQk6tBGzuq7SwH7CqYAbr1j5M1dXJb_1QmCkfEqY0_frZIZV9OMNfEW8ozeRMDzaM5wohKEr6r476e2z7X6WfaN3JBimT4af7saVMtJlwAS9_MvzzQWIBcS4-JVYoAYugAeC9vkeqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYud_jm7jMkwOxCR2AyNMgS7jGgAoBmAsByAsBgAwBqg0CUEzIDQHqDRMI3d_km7jMkwMVrp5QBh16iwqb8A0CiA4JuBPkA9gTCtAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAAAQK_ZAEgoxMDQwMTAyODY5GAGyGAkSAqFPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIx9rkm7jMkwMVrp5QBh16iwqbEAEYASAAEgKCQPD_BwE&num=1&cid=CAQSbwAFq6B9fkD91TA6PVkVcSoFy_f4XEd-FZyvI3N0zRr0QFp4VgYM0kvKbSXjlBUNGvzh3g9-R_6pL6FSHugqCblGY6xE2XhQWFCVyPTF8VnnW8ixki5n5-rubqwITS4q2qgTNlG3M-3teKKF3umpgBgB&sig=AOD64_0eURIF2xga8ZB_x3Wr0UjB45WHmQ&client=ca-pub-6525291204356869&rf=1&nb=0&adurl=https://bluecity.pl/wydarzenia/kiermasz-wielkanocny-7/%3Fgad_source%3D5%26gad_campaignid%3D23668333636%26gclid%3DEAIaIQobChMIx9rkm7jMkwMVrp5QBh16iwqbEAEYASAAEgKCQPD_BwE
+                      - link "Zaplanuj wielkanocne menu z produktami od lokalnych dostawców. Kiermasz w Blue City!" [ref=f528e13] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C4QjzxvLMacffLa69wuIP-paq2An9ovGOhgHVn7P0uBWsAhABIPrd4Tdg6eTKheAaoAHmiYbhA8gBCakCkeSv-conkj6oAwHIA8sEqgT7AU_QFi4bfsWIz93EfpJdGD2euV3Yl78AjIL_BR_lht1tbG0alCo_LQznr8DE6QtVRWlz93Rtsnlyu3_9XLQUqxhLNkpeWr9_HjHD5wxG5znHEfdNwkqnjzGzzGOGuvxw_NcT3MAPkxuMCba9a8H3Xa82n6oytmqc5kxa2iACTvMX1S8LSnBgxe_JcdhcvvmRglEbwBcHZtQFrkKkbYgOtBLR9-OUMYTvsGt_lSf_VQk6tBGzuq7SwH7CqYAbr1j5M1dXJb_1QmCkfEqY0_frZIZV9OMNfEW8ozeRMDzaM5wohKEr6r476e2z7X6WfaN3JBimT4af7saVMtJlwAS9_MvzzQWIBcS4-JVYoAYugAeC9vkeqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYud_jm7jMkwOxCR2AyNMgS7jGgAoBmAsByAsBgAwBqg0CUEzIDQHqDRMI3d_km7jMkwMVrp5QBh16iwqb8A0CiA4JuBPkA9gTCtAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAAAQK_ZAEgoxMDQwMTAyODY5GAGyGAkSAqFPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIx9rkm7jMkwMVrp5QBh16iwqbEAEYASAAEgKCQPD_BwE&num=1&cid=CAQSbwAFq6B9fkD91TA6PVkVcSoFy_f4XEd-FZyvI3N0zRr0QFp4VgYM0kvKbSXjlBUNGvzh3g9-R_6pL6FSHugqCblGY6xE2XhQWFCVyPTF8VnnW8ixki5n5-rubqwITS4q2qgTNlG3M-3teKKF3umpgBgB&sig=AOD64_0eURIF2xga8ZB_x3Wr0UjB45WHmQ&client=ca-pub-6525291204356869&rf=1&nb=7&adurl=https://bluecity.pl/wydarzenia/kiermasz-wielkanocny-7/%3Fgad_source%3D5%26gad_campaignid%3D23668333636%26gclid%3DEAIaIQobChMIx9rkm7jMkwMVrp5QBh16iwqbEAEYASAAEgKCQPD_BwE
+                        - text: Zaplanuj wielkanocne menu z produktami od lokalnych
+                        - text: dostawców. Kiermasz w Blue City!
+                  - generic [ref=f528e14]:
+                    - link [ref=f528e15] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C4QjzxvLMacffLa69wuIP-paq2An9ovGOhgHVn7P0uBWsAhABIPrd4Tdg6eTKheAaoAHmiYbhA8gBCakCkeSv-conkj6oAwHIA8sEqgT7AU_QFi4bfsWIz93EfpJdGD2euV3Yl78AjIL_BR_lht1tbG0alCo_LQznr8DE6QtVRWlz93Rtsnlyu3_9XLQUqxhLNkpeWr9_HjHD5wxG5znHEfdNwkqnjzGzzGOGuvxw_NcT3MAPkxuMCba9a8H3Xa82n6oytmqc5kxa2iACTvMX1S8LSnBgxe_JcdhcvvmRglEbwBcHZtQFrkKkbYgOtBLR9-OUMYTvsGt_lSf_VQk6tBGzuq7SwH7CqYAbr1j5M1dXJb_1QmCkfEqY0_frZIZV9OMNfEW8ozeRMDzaM5wohKEr6r476e2z7X6WfaN3JBimT4af7saVMtJlwAS9_MvzzQWIBcS4-JVYoAYugAeC9vkeqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYud_jm7jMkwOxCR2AyNMgS7jGgAoBmAsByAsBgAwBqg0CUEzIDQHqDRMI3d_km7jMkwMVrp5QBh16iwqb8A0CiA4JuBPkA9gTCtAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAAAQK_ZAEgoxMDQwMTAyODY5GAGyGAkSAqFPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIx9rkm7jMkwMVrp5QBh16iwqbEAEYASAAEgKCQPD_BwE&num=1&cid=CAQSbwAFq6B9fkD91TA6PVkVcSoFy_f4XEd-FZyvI3N0zRr0QFp4VgYM0kvKbSXjlBUNGvzh3g9-R_6pL6FSHugqCblGY6xE2XhQWFCVyPTF8VnnW8ixki5n5-rubqwITS4q2qgTNlG3M-3teKKF3umpgBgB&sig=AOD64_0eURIF2xga8ZB_x3Wr0UjB45WHmQ&client=ca-pub-6525291204356869&rf=1&nb=19&adurl=https://bluecity.pl/wydarzenia/kiermasz-wielkanocny-7/%3Fgad_source%3D5%26gad_campaignid%3D23668333636%26gclid%3DEAIaIQobChMIx9rkm7jMkwMVrp5QBh16iwqbEAEYASAAEgKCQPD_BwE
+                      - img [ref=f528e16]
+                    - link "Blue City" [ref=f528e18] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C4QjzxvLMacffLa69wuIP-paq2An9ovGOhgHVn7P0uBWsAhABIPrd4Tdg6eTKheAaoAHmiYbhA8gBCakCkeSv-conkj6oAwHIA8sEqgT7AU_QFi4bfsWIz93EfpJdGD2euV3Yl78AjIL_BR_lht1tbG0alCo_LQznr8DE6QtVRWlz93Rtsnlyu3_9XLQUqxhLNkpeWr9_HjHD5wxG5znHEfdNwkqnjzGzzGOGuvxw_NcT3MAPkxuMCba9a8H3Xa82n6oytmqc5kxa2iACTvMX1S8LSnBgxe_JcdhcvvmRglEbwBcHZtQFrkKkbYgOtBLR9-OUMYTvsGt_lSf_VQk6tBGzuq7SwH7CqYAbr1j5M1dXJb_1QmCkfEqY0_frZIZV9OMNfEW8ozeRMDzaM5wohKEr6r476e2z7X6WfaN3JBimT4af7saVMtJlwAS9_MvzzQWIBcS4-JVYoAYugAeC9vkeqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYud_jm7jMkwOxCR2AyNMgS7jGgAoBmAsByAsBgAwBqg0CUEzIDQHqDRMI3d_km7jMkwMVrp5QBh16iwqb8A0CiA4JuBPkA9gTCtAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAAAQK_ZAEgoxMDQwMTAyODY5GAGyGAkSAqFPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIx9rkm7jMkwMVrp5QBh16iwqbEAEYASAAEgKCQPD_BwE&num=1&cid=CAQSbwAFq6B9fkD91TA6PVkVcSoFy_f4XEd-FZyvI3N0zRr0QFp4VgYM0kvKbSXjlBUNGvzh3g9-R_6pL6FSHugqCblGY6xE2XhQWFCVyPTF8VnnW8ixki5n5-rubqwITS4q2qgTNlG3M-3teKKF3umpgBgB&sig=AOD64_0eURIF2xga8ZB_x3Wr0UjB45WHmQ&client=ca-pub-6525291204356869&rf=1&nb=1&adurl=https://bluecity.pl/wydarzenia/kiermasz-wielkanocny-7/%3Fgad_source%3D5%26gad_campaignid%3D23668333636%26gclid%3DEAIaIQobChMIx9rkm7jMkwMVrp5QBh16iwqbEAEYASAAEgKCQPD_BwE
+                    - link "Otwórz" [ref=f528e19] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C4QjzxvLMacffLa69wuIP-paq2An9ovGOhgHVn7P0uBWsAhABIPrd4Tdg6eTKheAaoAHmiYbhA8gBCakCkeSv-conkj6oAwHIA8sEqgT7AU_QFi4bfsWIz93EfpJdGD2euV3Yl78AjIL_BR_lht1tbG0alCo_LQznr8DE6QtVRWlz93Rtsnlyu3_9XLQUqxhLNkpeWr9_HjHD5wxG5znHEfdNwkqnjzGzzGOGuvxw_NcT3MAPkxuMCba9a8H3Xa82n6oytmqc5kxa2iACTvMX1S8LSnBgxe_JcdhcvvmRglEbwBcHZtQFrkKkbYgOtBLR9-OUMYTvsGt_lSf_VQk6tBGzuq7SwH7CqYAbr1j5M1dXJb_1QmCkfEqY0_frZIZV9OMNfEW8ozeRMDzaM5wohKEr6r476e2z7X6WfaN3JBimT4af7saVMtJlwAS9_MvzzQWIBcS4-JVYoAYugAeC9vkeqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYud_jm7jMkwOxCR2AyNMgS7jGgAoBmAsByAsBgAwBqg0CUEzIDQHqDRMI3d_km7jMkwMVrp5QBh16iwqb8A0CiA4JuBPkA9gTCtAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAAAQK_ZAEgoxMDQwMTAyODY5GAGyGAkSAqFPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIx9rkm7jMkwMVrp5QBh16iwqbEAEYASAAEgKCQPD_BwE&num=1&cid=CAQSbwAFq6B9fkD91TA6PVkVcSoFy_f4XEd-FZyvI3N0zRr0QFp4VgYM0kvKbSXjlBUNGvzh3g9-R_6pL6FSHugqCblGY6xE2XhQWFCVyPTF8VnnW8ixki5n5-rubqwITS4q2qgTNlG3M-3teKKF3umpgBgB&sig=AOD64_0eURIF2xga8ZB_x3Wr0UjB45WHmQ&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://bluecity.pl/wydarzenia/kiermasz-wielkanocny-7/%3Fgad_source%3D5%26gad_campaignid%3D23668333636%26gclid%3DEAIaIQobChMIx9rkm7jMkwMVrp5QBh16iwqbEAEYASAAEgKCQPD_BwE
+                      - generic [ref=f528e21]: Otwórz
+                - img [ref=f528e25] [cursor=pointer]
+                - button [ref=f528e27] [cursor=pointer]:
+                  - img [ref=f528e28]
+                - iframe
+          - separator [ref=e603]
+          - heading "Творительный падеж в польском языке / Орудний відмінок в польській мові" [level=3] [ref=e604]:
+            - text: Творительный падеж в польском языке /
+            - text: Орудний відмінок в польській мові
+          - separator [ref=e605]
+          - table [ref=e606]:
+            - rowgroup [ref=e607]:
+              - row "NARZĘDNIK kim? czym?" [ref=e608]:
+                - cell "NARZĘDNIK kim? czym?" [ref=e609]:
+                  - heading "NARZĘDNIK kim? czym?" [level=4] [ref=e610]:
+                    - strong [ref=e611]:
+                      - text: NARZĘDNIK
+                      - emphasis [ref=e612]: kim? czym?
+              - row "Rzeczownik / Существительное" [ref=e613]:
+                - cell "Rzeczownik / Существительное" [ref=e614]:
+                  - strong [ref=e615]: Rzeczownik / Существительное
+              - 'row "Род: Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e616]':
+                - cell "Род:" [ref=e617]
+                - cell "Rodzaj męski" [ref=e618]
+                - cell "Rodzaj żeński" [ref=e619]
+                - cell "Rodzaj nijaki" [ref=e620]
+              - 'row "Окончания падежа: — em — iem — ą — ą — em — iem — um" [ref=e621]':
+                - cell "Окончания падежа:" [ref=e622]
+                - cell "— em" [ref=e623]
+                - cell "— iem" [ref=e624]
+                - cell "— ą" [ref=e625]
+                - cell "— ą" [ref=e626]
+                - cell "— em" [ref=e627]
+                - cell "— iem" [ref=e628]
+                - cell "— um" [ref=e629]
+              - 'row "Примеры: bratem koniem tatą mamą kinem dzieckiem liceum" [ref=e630]':
+                - cell "Примеры:" [ref=e631]
+                - cell "bratem" [ref=e632]
+                - cell "koniem" [ref=e633]
+                - cell "tatą" [ref=e634]
+                - cell "mamą" [ref=e635]
+                - cell "kinem" [ref=e636]
+                - cell "dzieckiem" [ref=e637]
+                - cell "liceum" [ref=e638]
+          - paragraph [ref=e639]: "Самое простое с творительным падежом — это быть:"
+          - list [ref=e640]:
+            - listitem [ref=e641]:
+              - emphasis [ref=e642]:
+                - text: Jesteś
+                - strong [ref=e643]: bratem
+                - text: . On jest
+                - strong [ref=e644]: koniem
+                - text: . On będzie
+                - strong [ref=e645]: tatą
+                - text: ", a ona będzie"
+                - strong [ref=e646]: mamą
+                - text: .
+          - table [ref=e647]:
+            - rowgroup [ref=e648]:
+              - row "Przymiotnik / Прилагательное" [ref=e649]:
+                - cell "Przymiotnik / Прилагательное" [ref=e650]:
+                  - strong [ref=e651]: Przymiotnik / Прилагательное
+              - 'row "Род: Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e652]':
+                - cell "Род:" [ref=e653]
+                - cell "Rodzaj męski" [ref=e654]
+                - cell "Rodzaj żeński" [ref=e655]
+                - cell "Rodzaj nijaki" [ref=e656]
+              - 'row "Вопрос: Jakim? Jaką? Jakim?" [ref=e657]':
+                - cell "Вопрос:" [ref=e658]
+                - cell "Jakim?" [ref=e659]
+                - cell "Jaką?" [ref=e660]
+                - cell "Jakim?" [ref=e661]
+              - 'row "Окончания падежа: — ym (- im) — ą — ym (- im)" [ref=e662]':
+                - cell "Окончания падежа:" [ref=e663]
+                - cell "— ym (- im)" [ref=e664]
+                - cell "— ą" [ref=e665]
+                - cell "— ym (- im)" [ref=e666]
+              - 'row "Примеры: nowym wysokim starą wysoką nowym wysokim" [ref=e667]':
+                - cell "Примеры:" [ref=e668]
+                - cell "nowym wysokim" [ref=e669]:
+                  - text: nowym
+                  - text: wysokim
+                - cell "starą wysoką" [ref=e670]:
+                  - text: starą
+                  - text: wysoką
+                - cell "nowym wysokim" [ref=e671]:
+                  - text: nowym
+                  - text: wysokim
+          - paragraph [ref=e672]: А быть-то каким?
+          - list [ref=e673]:
+            - listitem [ref=e674]:
+              - emphasis [ref=e675]:
+                - text: On jest
+                - strong [ref=e676]: wysokim
+                - text: koniem. Jesteś
+                - strong [ref=e677]: starszym
+                - text: bratem. On będzie
+                - strong [ref=e678]: wspaniałym
+                - text: tatą, a ona będzie
+                - strong [ref=e679]: świetną
+                - text: mamą.
+          - insertion:
+            - generic:
+              - iframe
+          - separator [ref=e680]
+          - heading "Предложный падеж в польском языке / Місцевий відмінок в польскій мові" [level=3] [ref=e681]:
+            - text: Предложный падеж в польском языке /
+            - text: Місцевий відмінок в польскій мові
+          - separator [ref=e682]
+          - table [ref=e683]:
+            - rowgroup [ref=e684]:
+              - row "MIEJSCOWNIK (o) kim? czym?" [ref=e685]:
+                - cell "MIEJSCOWNIK (o) kim? czym?" [ref=e686]:
+                  - heading "MIEJSCOWNIK (o) kim? czym?" [level=4] [ref=e687]:
+                    - strong [ref=e688]: MIEJSCOWNIK (o) kim? czym?
+              - row "Rzeczownik / Существительное" [ref=e689]:
+                - cell "Rzeczownik / Существительное" [ref=e690]:
+                  - strong [ref=e691]: Rzeczownik / Существительное
+              - 'row "Род: Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e692]':
+                - cell "Род:" [ref=e693]
+                - cell "Rodzaj męski" [ref=e694]
+                - cell "Rodzaj żeński" [ref=e695]
+                - cell "Rodzaj nijaki" [ref=e696]
+              - 'row "Окончания падежа: — e — u — e — y — i — e — u — um" [ref=e697]':
+                - cell "Окончания падежа:" [ref=e698]
+                - cell "— e" [ref=e699]
+                - cell "— u" [ref=e700]
+                - cell "— e" [ref=e701]
+                - cell "— y" [ref=e702]
+                - cell "— i" [ref=e703]
+                - cell "— e" [ref=e704]
+                - cell "— u" [ref=e705]
+                - cell "— um" [ref=e706]
+              - 'row "Примеры: bracie domu mamie myszy soli kinie polu liceum" [ref=e707]':
+                - cell "Примеры:" [ref=e708]
+                - cell "bracie" [ref=e709]
+                - cell "domu" [ref=e710]
+                - cell "mamie" [ref=e711]
+                - cell "myszy" [ref=e712]
+                - cell "soli" [ref=e713]
+                - cell "kinie" [ref=e714]
+                - cell "polu" [ref=e715]
+                - cell "liceum" [ref=e716]
+          - paragraph [ref=e717]: "Думайте! Думайте о польском языке и на польском языке! Каждый день:"
+          - list [ref=e718]:
+            - listitem [ref=e719]:
+              - emphasis [ref=e720]:
+                - text: Myślę o
+                - strong [ref=e721]: mamie
+                - text: ", myślę o"
+                - strong [ref=e722]: bracie
+                - text: ", myślę o"
+                - strong [ref=e723]: domu
+                - text: .
+          - table [ref=e724]:
+            - rowgroup [ref=e725]:
+              - row "Przymiotnik / Прилагательное" [ref=e726]:
+                - cell "Przymiotnik / Прилагательное" [ref=e727]:
+                  - strong [ref=e728]: Przymiotnik / Прилагательное
+              - 'row "Род: Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e729]':
+                - cell "Род:" [ref=e730]
+                - cell "Rodzaj męski" [ref=e731]
+                - cell "Rodzaj żeński" [ref=e732]
+                - cell "Rodzaj nijaki" [ref=e733]
+              - 'row "Вопрос: Jakim? Jakiej? Jakim?" [ref=e734]':
+                - cell "Вопрос:" [ref=e735]
+                - cell "Jakim?" [ref=e736]
+                - cell "Jakiej?" [ref=e737]
+                - cell "Jakim?" [ref=e738]
+              - 'row "Окончания падежа: — ym (- im) — ej (-iej) — ym (- im)" [ref=e739]':
+                - cell "Окончания падежа:" [ref=e740]
+                - cell "— ym (- im)" [ref=e741]
+                - cell "— ej (-iej)" [ref=e742]
+                - cell "— ym (- im)" [ref=e743]
+              - 'row "Примеры: nowym wysokim starej wysokiej nowym wysokim" [ref=e744]':
+                - cell "Примеры:" [ref=e745]
+                - cell "nowym wysokim" [ref=e746]:
+                  - text: nowym
+                  - text: wysokim
+                - cell "starej wysokiej" [ref=e747]:
+                  - text: starej
+                  - text: wysokiej
+                - cell "nowym wysokim" [ref=e748]:
+                  - text: nowym
+                  - text: wysokim
+          - paragraph [ref=e749]: "Подумайте о чем-то конкретном:"
+          - list [ref=e750]:
+            - listitem [ref=e751]:
+              - emphasis [ref=e752]:
+                - text: Myślimy o
+                - strong [ref=e753]: naszej
+                - text: mamie, o
+                - strong [ref=e754]: starszym
+                - text: bracie i o
+                - strong [ref=e755]: nowym
+                - text: domu.
+          - insertion [ref=e756]:
+            - iframe [ref=e758]:
+              - generic [active] [ref=f530e1]:
+                - generic [ref=f530e5]:
+                  - generic [ref=f530e6]:
+                    - link [ref=f530e7] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ChweexvLMaYK7LbCLwuIPwsCEkAf9ovGOhgHVn7P0uBWsAhABIPrd4Tdg6eTKheAaoAHmiYbhA8gBCakCkeSv-conkj6oAwHIA8sEqgT7AU_QafNttrSGF8Tjyznd-hAM69nsHNgIfZ02qkWneV1M3V-r7GwoSvoo99BQ29uCBvrlvuUr7LT4zLVammP1tCudcUp7fLlA1jwBjX0Ass8e5yAnEjKe5eDhnUy7AQG5E1M_OoC_HAa9fOLNeABRS8OHyRf4qIcAyjo9_pH4e_FaB-scT8YstRjSHBW7Yi1VaDbLwDsvh-bsuTUz2osu0XkddsZ4GWXzg9YwFXRkFIWt8oMrVG0dasuY-6JRyNHAESQW4rHGd0TPwhgdvpVK4TtVKOs3lszUBv3DsIMgqjXHnWf86ZoJ19eVUE5lx_Lrhw--vMT_ceHAO1iewAS9_MvzzQWIBcS4-JVYoAYugAeC9vkeqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpY-Lrjm7jMkwOxCR2AyNMgS7jGgAoBmAsByAsBgAwBqg0CUEzIDQHqDRMIjLrkm7jMkwMVsIVQBh1CIAFy8A0CiA4JuBPkA9gTCtAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAADAM_RAEgoxMDQwMTAyODY5GAGyGAkSAqFPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIgrbkm7jMkwMVsIVQBh1CIAFyEAEYASAAEgKFovD_BwE&num=1&cid=CAQSbwAFq6B9cdqFvZgIAQmjvwc97ub2Ix2pDjq5yQ5FDVL4T8Ee33cg1MNirB1Ylv2iZbXMMXiX2S0AHyyDHBiiR6AEihSkl6-Ey1CkYFtgIwMg7sU11YfSLilq0_zDN-eZbmPyrGKURM0jPzoNrX8R4BgB&sig=AOD64_3cQ6QuNbmIyVz0uWlBFsIvoZqbYA&client=ca-pub-6525291204356869&rf=1&nb=9&adurl=https://bluecity.pl/wydarzenia/kiermasz-wielkanocny-7/%3Fgad_source%3D5%26gad_campaignid%3D23668333636%26gclid%3DEAIaIQobChMIgrbkm7jMkwMVsIVQBh1CIAFyEAEYASAAEgKFovD_BwE
+                      - img [ref=f530e8]
+                    - generic [ref=f530e9]:
+                      - link "Jarmark Wielkanocny" [ref=f530e11] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ChweexvLMaYK7LbCLwuIPwsCEkAf9ovGOhgHVn7P0uBWsAhABIPrd4Tdg6eTKheAaoAHmiYbhA8gBCakCkeSv-conkj6oAwHIA8sEqgT7AU_QafNttrSGF8Tjyznd-hAM69nsHNgIfZ02qkWneV1M3V-r7GwoSvoo99BQ29uCBvrlvuUr7LT4zLVammP1tCudcUp7fLlA1jwBjX0Ass8e5yAnEjKe5eDhnUy7AQG5E1M_OoC_HAa9fOLNeABRS8OHyRf4qIcAyjo9_pH4e_FaB-scT8YstRjSHBW7Yi1VaDbLwDsvh-bsuTUz2osu0XkddsZ4GWXzg9YwFXRkFIWt8oMrVG0dasuY-6JRyNHAESQW4rHGd0TPwhgdvpVK4TtVKOs3lszUBv3DsIMgqjXHnWf86ZoJ19eVUE5lx_Lrhw--vMT_ceHAO1iewAS9_MvzzQWIBcS4-JVYoAYugAeC9vkeqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpY-Lrjm7jMkwOxCR2AyNMgS7jGgAoBmAsByAsBgAwBqg0CUEzIDQHqDRMIjLrkm7jMkwMVsIVQBh1CIAFy8A0CiA4JuBPkA9gTCtAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAADAM_RAEgoxMDQwMTAyODY5GAGyGAkSAqFPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIgrbkm7jMkwMVsIVQBh1CIAFyEAEYASAAEgKFovD_BwE&num=1&cid=CAQSbwAFq6B9cdqFvZgIAQmjvwc97ub2Ix2pDjq5yQ5FDVL4T8Ee33cg1MNirB1Ylv2iZbXMMXiX2S0AHyyDHBiiR6AEihSkl6-Ey1CkYFtgIwMg7sU11YfSLilq0_zDN-eZbmPyrGKURM0jPzoNrX8R4BgB&sig=AOD64_3cQ6QuNbmIyVz0uWlBFsIvoZqbYA&client=ca-pub-6525291204356869&rf=1&nb=0&adurl=https://bluecity.pl/wydarzenia/kiermasz-wielkanocny-7/%3Fgad_source%3D5%26gad_campaignid%3D23668333636%26gclid%3DEAIaIQobChMIgrbkm7jMkwMVsIVQBh1CIAFyEAEYASAAEgKFovD_BwE
+                      - link "Zaplanuj wielkanocne menu z produktami od lokalnych dostawców. Kiermasz w Blue City!" [ref=f530e13] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ChweexvLMaYK7LbCLwuIPwsCEkAf9ovGOhgHVn7P0uBWsAhABIPrd4Tdg6eTKheAaoAHmiYbhA8gBCakCkeSv-conkj6oAwHIA8sEqgT7AU_QafNttrSGF8Tjyznd-hAM69nsHNgIfZ02qkWneV1M3V-r7GwoSvoo99BQ29uCBvrlvuUr7LT4zLVammP1tCudcUp7fLlA1jwBjX0Ass8e5yAnEjKe5eDhnUy7AQG5E1M_OoC_HAa9fOLNeABRS8OHyRf4qIcAyjo9_pH4e_FaB-scT8YstRjSHBW7Yi1VaDbLwDsvh-bsuTUz2osu0XkddsZ4GWXzg9YwFXRkFIWt8oMrVG0dasuY-6JRyNHAESQW4rHGd0TPwhgdvpVK4TtVKOs3lszUBv3DsIMgqjXHnWf86ZoJ19eVUE5lx_Lrhw--vMT_ceHAO1iewAS9_MvzzQWIBcS4-JVYoAYugAeC9vkeqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpY-Lrjm7jMkwOxCR2AyNMgS7jGgAoBmAsByAsBgAwBqg0CUEzIDQHqDRMIjLrkm7jMkwMVsIVQBh1CIAFy8A0CiA4JuBPkA9gTCtAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAADAM_RAEgoxMDQwMTAyODY5GAGyGAkSAqFPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIgrbkm7jMkwMVsIVQBh1CIAFyEAEYASAAEgKFovD_BwE&num=1&cid=CAQSbwAFq6B9cdqFvZgIAQmjvwc97ub2Ix2pDjq5yQ5FDVL4T8Ee33cg1MNirB1Ylv2iZbXMMXiX2S0AHyyDHBiiR6AEihSkl6-Ey1CkYFtgIwMg7sU11YfSLilq0_zDN-eZbmPyrGKURM0jPzoNrX8R4BgB&sig=AOD64_3cQ6QuNbmIyVz0uWlBFsIvoZqbYA&client=ca-pub-6525291204356869&rf=1&nb=7&adurl=https://bluecity.pl/wydarzenia/kiermasz-wielkanocny-7/%3Fgad_source%3D5%26gad_campaignid%3D23668333636%26gclid%3DEAIaIQobChMIgrbkm7jMkwMVsIVQBh1CIAFyEAEYASAAEgKFovD_BwE
+                        - text: Zaplanuj wielkanocne menu z produktami od lokalnych
+                        - text: dostawców. Kiermasz w Blue City!
+                  - generic [ref=f530e14]:
+                    - link [ref=f530e15] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ChweexvLMaYK7LbCLwuIPwsCEkAf9ovGOhgHVn7P0uBWsAhABIPrd4Tdg6eTKheAaoAHmiYbhA8gBCakCkeSv-conkj6oAwHIA8sEqgT7AU_QafNttrSGF8Tjyznd-hAM69nsHNgIfZ02qkWneV1M3V-r7GwoSvoo99BQ29uCBvrlvuUr7LT4zLVammP1tCudcUp7fLlA1jwBjX0Ass8e5yAnEjKe5eDhnUy7AQG5E1M_OoC_HAa9fOLNeABRS8OHyRf4qIcAyjo9_pH4e_FaB-scT8YstRjSHBW7Yi1VaDbLwDsvh-bsuTUz2osu0XkddsZ4GWXzg9YwFXRkFIWt8oMrVG0dasuY-6JRyNHAESQW4rHGd0TPwhgdvpVK4TtVKOs3lszUBv3DsIMgqjXHnWf86ZoJ19eVUE5lx_Lrhw--vMT_ceHAO1iewAS9_MvzzQWIBcS4-JVYoAYugAeC9vkeqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpY-Lrjm7jMkwOxCR2AyNMgS7jGgAoBmAsByAsBgAwBqg0CUEzIDQHqDRMIjLrkm7jMkwMVsIVQBh1CIAFy8A0CiA4JuBPkA9gTCtAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAADAM_RAEgoxMDQwMTAyODY5GAGyGAkSAqFPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIgrbkm7jMkwMVsIVQBh1CIAFyEAEYASAAEgKFovD_BwE&num=1&cid=CAQSbwAFq6B9cdqFvZgIAQmjvwc97ub2Ix2pDjq5yQ5FDVL4T8Ee33cg1MNirB1Ylv2iZbXMMXiX2S0AHyyDHBiiR6AEihSkl6-Ey1CkYFtgIwMg7sU11YfSLilq0_zDN-eZbmPyrGKURM0jPzoNrX8R4BgB&sig=AOD64_3cQ6QuNbmIyVz0uWlBFsIvoZqbYA&client=ca-pub-6525291204356869&rf=1&nb=19&adurl=https://bluecity.pl/wydarzenia/kiermasz-wielkanocny-7/%3Fgad_source%3D5%26gad_campaignid%3D23668333636%26gclid%3DEAIaIQobChMIgrbkm7jMkwMVsIVQBh1CIAFyEAEYASAAEgKFovD_BwE
+                      - img [ref=f530e16]
+                    - link "Blue City" [ref=f530e18] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ChweexvLMaYK7LbCLwuIPwsCEkAf9ovGOhgHVn7P0uBWsAhABIPrd4Tdg6eTKheAaoAHmiYbhA8gBCakCkeSv-conkj6oAwHIA8sEqgT7AU_QafNttrSGF8Tjyznd-hAM69nsHNgIfZ02qkWneV1M3V-r7GwoSvoo99BQ29uCBvrlvuUr7LT4zLVammP1tCudcUp7fLlA1jwBjX0Ass8e5yAnEjKe5eDhnUy7AQG5E1M_OoC_HAa9fOLNeABRS8OHyRf4qIcAyjo9_pH4e_FaB-scT8YstRjSHBW7Yi1VaDbLwDsvh-bsuTUz2osu0XkddsZ4GWXzg9YwFXRkFIWt8oMrVG0dasuY-6JRyNHAESQW4rHGd0TPwhgdvpVK4TtVKOs3lszUBv3DsIMgqjXHnWf86ZoJ19eVUE5lx_Lrhw--vMT_ceHAO1iewAS9_MvzzQWIBcS4-JVYoAYugAeC9vkeqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpY-Lrjm7jMkwOxCR2AyNMgS7jGgAoBmAsByAsBgAwBqg0CUEzIDQHqDRMIjLrkm7jMkwMVsIVQBh1CIAFy8A0CiA4JuBPkA9gTCtAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAADAM_RAEgoxMDQwMTAyODY5GAGyGAkSAqFPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIgrbkm7jMkwMVsIVQBh1CIAFyEAEYASAAEgKFovD_BwE&num=1&cid=CAQSbwAFq6B9cdqFvZgIAQmjvwc97ub2Ix2pDjq5yQ5FDVL4T8Ee33cg1MNirB1Ylv2iZbXMMXiX2S0AHyyDHBiiR6AEihSkl6-Ey1CkYFtgIwMg7sU11YfSLilq0_zDN-eZbmPyrGKURM0jPzoNrX8R4BgB&sig=AOD64_3cQ6QuNbmIyVz0uWlBFsIvoZqbYA&client=ca-pub-6525291204356869&rf=1&nb=1&adurl=https://bluecity.pl/wydarzenia/kiermasz-wielkanocny-7/%3Fgad_source%3D5%26gad_campaignid%3D23668333636%26gclid%3DEAIaIQobChMIgrbkm7jMkwMVsIVQBh1CIAFyEAEYASAAEgKFovD_BwE
+                    - link "Otwórz" [ref=f530e19] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ChweexvLMaYK7LbCLwuIPwsCEkAf9ovGOhgHVn7P0uBWsAhABIPrd4Tdg6eTKheAaoAHmiYbhA8gBCakCkeSv-conkj6oAwHIA8sEqgT7AU_QafNttrSGF8Tjyznd-hAM69nsHNgIfZ02qkWneV1M3V-r7GwoSvoo99BQ29uCBvrlvuUr7LT4zLVammP1tCudcUp7fLlA1jwBjX0Ass8e5yAnEjKe5eDhnUy7AQG5E1M_OoC_HAa9fOLNeABRS8OHyRf4qIcAyjo9_pH4e_FaB-scT8YstRjSHBW7Yi1VaDbLwDsvh-bsuTUz2osu0XkddsZ4GWXzg9YwFXRkFIWt8oMrVG0dasuY-6JRyNHAESQW4rHGd0TPwhgdvpVK4TtVKOs3lszUBv3DsIMgqjXHnWf86ZoJ19eVUE5lx_Lrhw--vMT_ceHAO1iewAS9_MvzzQWIBcS4-JVYoAYugAeC9vkeqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpY-Lrjm7jMkwOxCR2AyNMgS7jGgAoBmAsByAsBgAwBqg0CUEzIDQHqDRMIjLrkm7jMkwMVsIVQBh1CIAFy8A0CiA4JuBPkA9gTCtAVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAADAM_RAEgoxMDQwMTAyODY5GAGyGAkSAqFPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIgrbkm7jMkwMVsIVQBh1CIAFyEAEYASAAEgKFovD_BwE&num=1&cid=CAQSbwAFq6B9cdqFvZgIAQmjvwc97ub2Ix2pDjq5yQ5FDVL4T8Ee33cg1MNirB1Ylv2iZbXMMXiX2S0AHyyDHBiiR6AEihSkl6-Ey1CkYFtgIwMg7sU11YfSLilq0_zDN-eZbmPyrGKURM0jPzoNrX8R4BgB&sig=AOD64_3cQ6QuNbmIyVz0uWlBFsIvoZqbYA&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://bluecity.pl/wydarzenia/kiermasz-wielkanocny-7/%3Fgad_source%3D5%26gad_campaignid%3D23668333636%26gclid%3DEAIaIQobChMIgrbkm7jMkwMVsIVQBh1CIAFyEAEYASAAEgKFovD_BwE
+                      - generic [ref=f530e21]: Otwórz
+                - img [ref=f530e25] [cursor=pointer]
+                - button [ref=f530e27] [cursor=pointer]:
+                  - img [ref=f530e28]
+                - iframe
+          - separator [ref=e759]
+          - heading "Звательный падеж в польском языке / Кличний відмінок в польській мові" [level=3] [ref=e760]:
+            - text: Звательный падеж в польском языке /
+            - text: Кличний відмінок в польській мові
+          - separator [ref=e761]
+          - table [ref=e762]:
+            - rowgroup [ref=e763]:
+              - row "Wołacz O!" [ref=e764]:
+                - cell "Wołacz O!" [ref=e765]:
+                  - heading "Wołacz O!" [level=4] [ref=e766]:
+                    - strong [ref=e767]: Wołacz O!
+              - row "Rzeczownik / Существительное" [ref=e768]:
+                - cell "Rzeczownik / Существительное" [ref=e769]:
+                  - strong [ref=e770]: Rzeczownik / Существительное
+              - 'row "Род: Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e771]':
+                - cell "Род:" [ref=e772]
+                - cell "Rodzaj męski" [ref=e773]
+                - cell "Rodzaj żeński" [ref=e774]
+                - cell "Rodzaj nijaki" [ref=e775]
+              - row "=miejscownik =mianownik" [ref=e776]:
+                - cell [ref=e777]
+                - cell "=miejscownik" [ref=e778]
+                - cell [ref=e779]
+                - cell "=mianownik" [ref=e780]
+              - 'row "Окончания падежа: — e — u — o — o — u — y — i — o — e — ę — um" [ref=e781]':
+                - cell "Окончания падежа:" [ref=e782]
+                - cell "— e" [ref=e783]
+                - cell "— u" [ref=e784]
+                - cell "— o" [ref=e785]
+                - cell "— o" [ref=e786]
+                - cell "— u" [ref=e787]
+                - cell "— y" [ref=e788]
+                - cell "— i" [ref=e789]
+                - cell "— o" [ref=e790]
+                - cell "— e" [ref=e791]
+                - cell "— ę" [ref=e792]
+                - cell "— um" [ref=e793]
+              - 'row "Примеры: bracie domu tato Anno Aniu myszy soli kino pole imię liceum" [ref=e794]':
+                - cell "Примеры:" [ref=e795]
+                - cell "bracie" [ref=e796]
+                - cell "domu" [ref=e797]
+                - cell "tato" [ref=e798]
+                - cell "Anno" [ref=e799]
+                - cell "Aniu" [ref=e800]
+                - cell "myszy" [ref=e801]
+                - cell "soli" [ref=e802]
+                - cell "kino" [ref=e803]
+                - cell "pole" [ref=e804]
+                - cell "imię" [ref=e805]
+                - cell "liceum" [ref=e806]
+          - paragraph [ref=e807]: О, прекрасная даль, поглотившая небо. (ДДТ)
+          - list [ref=e808]:
+            - listitem [ref=e809]:
+              - emphasis [ref=e810]:
+                - strong [ref=e811]: Bracie
+                - text: "!"
+                - strong [ref=e812]: Anno
+                - text: "!"
+                - strong [ref=e813]: Tato
+                - text: "!"
+          - table [ref=e814]:
+            - rowgroup [ref=e815]:
+              - row "Przymiotnik / Прилагательное" [ref=e816]:
+                - cell "Przymiotnik / Прилагательное" [ref=e817]:
+                  - strong [ref=e818]: Przymiotnik / Прилагательное
+              - 'row "Род: Rodzaj męski Rodzaj żeński Rodzaj nijaki" [ref=e819]':
+                - cell "Род:" [ref=e820]
+                - cell "Rodzaj męski" [ref=e821]
+                - cell "Rodzaj żeński" [ref=e822]
+                - cell "Rodzaj nijaki" [ref=e823]
+              - row "=mianownik =mianownik =mianownik" [ref=e824]:
+                - cell [ref=e825]
+                - cell "=mianownik" [ref=e826]
+                - cell "=mianownik" [ref=e827]
+                - cell "=mianownik" [ref=e828]
+              - 'row "Вопрос: Jaki? Jaka? Jakie?" [ref=e829]':
+                - cell "Вопрос:" [ref=e830]
+                - cell "Jaki?" [ref=e831]
+                - cell "Jaka?" [ref=e832]
+                - cell "Jakie?" [ref=e833]
+              - 'row "Окончания падежа: — y — i — a — e — ie" [ref=e834]':
+                - cell "Окончания падежа:" [ref=e835]
+                - cell "— y" [ref=e836]
+                - cell "— i" [ref=e837]
+                - cell "— a" [ref=e838]
+                - cell "— e" [ref=e839]
+                - cell "— ie" [ref=e840]
+              - 'row "Примеры: nowy młody wysoki głupi stara głupia stare młode wysokie głupie" [ref=e841]':
+                - cell "Примеры:" [ref=e842]
+                - cell "nowy młody" [ref=e843]:
+                  - text: nowy
+                  - text: młody
+                - cell "wysoki głupi" [ref=e844]:
+                  - text: wysoki
+                  - text: głupi
+                - cell "stara głupia" [ref=e845]:
+                  - text: stara
+                  - text: głupia
+                - cell "stare młode" [ref=e846]:
+                  - text: stare
+                  - text: młode
+                - cell "wysokie głupie" [ref=e847]:
+                  - text: wysokie
+                  - text: głupie
+          - list [ref=e848]:
+            - listitem [ref=e849]:
+              - emphasis [ref=e850]:
+                - strong [ref=e851]: Bracie
+                - text: mój!
+                - strong [ref=e852]: Kochana
+                - text: Anno!
+                - strong [ref=e853]: Dobry
+                - text: tato!
+          - separator [ref=e854]
+          - paragraph [ref=e855]: Конечно, все падежи в польском языке в будущем будут иметь свою собственную, отдельную статью, где будут подробно рассмотрены все окончания, исключения и примеры употребления.
+          - blockquote [ref=e856]:
+            - text: 💡
+            - paragraph [ref=e857]:
+              - text: "Учите также:"
+              - 'link "Польские падежи: таблица окончаний множественного числа" [ref=e858] [cursor=pointer]':
+                - /url: https://propolski.com/2019/09/08/przypadki-polskie-liczba-mnoga/
+          - paragraph [ref=e859]: Все таблицы писала вручную, могла что-то напутать в коде, так что если заметите опечатку — смело пишите!
+          - figure:
+            - 'img "Падежи в польском языке: таблицы единственного числа"'
+          - heading "Тесты на падежи" [level=2] [ref=e860]: Тесты на падежи
+          - paragraph [ref=e861]: "Чтобы потренировать все эти таблички, конечно, нужны тесты. Предлагаю следующие:"
+          - list [ref=e862]:
+            - listitem [ref=e863]:
+              - 'link "Польские падежи: смешанный тест №1" [ref=e864] [cursor=pointer]':
+                - /url: https://testy.propolski.com/polskie-padezhi-smeshannyj-test-1/
+            - listitem [ref=e865]:
+              - 'link "Тесты на сертификат B1 с польского: склонения существительных и прилагательных" [ref=e866] [cursor=pointer]':
+                - /url: https://testy.propolski.com/sertifikat-b1-skloneniya-sushestvitelnyh-i-prilagatelnyh/
+            - listitem [ref=e867]:
+              - 'link "Bąk i piłka: тест на падежи польских существительных" [ref=e868] [cursor=pointer]':
+                - /url: https://propolski.com/2019/03/05/bak-i-pilka-test/
+            - listitem [ref=e869]:
+              - 'link "Henryk Sienkiewicz. Bądź błogosławiona: тест на падежи польских существительных" [ref=e870] [cursor=pointer]':
+                - /url: https://propolski.com/2019/06/14/test-na-przypadki-sienkiewicz-badz-blogoslawiona/
+            - listitem [ref=e871]:
+              - link "Тест на все падежи польских существительных" [ref=e872] [cursor=pointer]:
+                - /url: https://propolski.com/2019/03/30/test-na-przypadki-rzeczownikow/
+          - separator [ref=e873]
+          - paragraph [ref=e874]:
+            - text: Ваша Катерина Лукьянова, автор блога о польском языке
+            - link "ProPolski.com" [ref=e875] [cursor=pointer]:
+              - /url: https://propolski.com
+            - text: ","
+            - link "Testy.ProPolski" [ref=e876] [cursor=pointer]:
+              - /url: https://testy.propolski.com/
+            - text: и сайта
+            - link "insidePL.com" [ref=e877] [cursor=pointer]:
+              - /url: https://insidepl.com/
+          - separator [ref=e878]
+          - paragraph [ref=e879]: Если материал был интересен и полезен, я буду рада поддержке моих проектов 🙂
+          - generic [ref=e880]:
+            - figure [ref=e885]:
+              - link "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e886] [cursor=pointer]:
+                - /url: https://www.patreon.com/propolski
+                - img "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e887]
+            - figure [ref=e891]:
+              - link "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e892] [cursor=pointer]:
+                - /url: https://www.paypal.me/propolski
+                - img "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e893]
+          - paragraph [ref=e895]:
+            - link "Как еще поддержать блог ProPolski" [ref=e896] [cursor=pointer]:
+              - /url: https://propolski.com/subscribe-and-help/
+              - strong [ref=e897]: Как еще поддержать блог ProPolski
+          - insertion:
+            - generic:
+              - iframe
+          - generic [ref=e899]:
+            - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e900]
+            - list [ref=e902]:
+              - listitem [ref=e903]:
+                - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e904] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/?share=facebook&nb=1
+                  - text: 
+              - listitem [ref=e905]:
+                - link "Поделиться в Pinterest (Открывается в новом окне) 7" [ref=e906] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/?share=pinterest&nb=1
+                  - text: 
+              - listitem [ref=e907]:
+                - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e908] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/?share=telegram&nb=1
+                  - text: 
+              - listitem [ref=e909]:
+                - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e910] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/?share=jetpack-whatsapp&nb=1
+                  - text: 
+              - listitem [ref=e911]:
+                - link "Поделиться в Х (Открывается в новом окне)" [ref=e912] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/?share=x&nb=1
+                  - text: 
+              - listitem [ref=e913]:
+                - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e914] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/?share=linkedin&nb=1
+                  - text: 
+              - listitem [ref=e915]:
+                - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e916] [cursor=pointer]:
+                  - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20%D0%9F%D0%B0%D0%B4%D0%B5%D0%B6%D0%B8%20%D0%B2%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5%3A%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D0%B5%D0%B4%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%87%D0%B8%D1%81%D0%BB%D0%B0&body=https%3A%2F%2Fpropolski.com%2F2018%2F08%2F21%2Fprzypadki-polskie-liczba-pojedyncza%2F&share=email&nb=1
+                  - text: 
+              - listitem [ref=e917]:
+                - link "Печать (Открывается в новом окне)" [ref=e918] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#print?share=print&nb=1
+                  - text: 
+              - listitem
+          - generic [ref=e919]:
+            - heading "Это может вас заинтересовать:" [level=3] [ref=e920]:
+              - emphasis [ref=e921]: "Это может вас заинтересовать:"
+            - generic:
+              - generic [ref=e922]:
+                - 'link "Bąk i piłka: тест на падежи польских существительных" [ref=e923] [cursor=pointer]':
+                  - /url: https://propolski.com/2019/03/05/bak-i-pilka-test/
+                  - 'img "Bąk i piłka: тест на падежи польских существительных" [ref=e924]'
+                - 'heading "Bąk i piłka: тест на падежи польских существительных" [level=4] [ref=e925]':
+                  - 'link "Bąk i piłka: тест на падежи польских существительных" [ref=e926] [cursor=pointer]':
+                    - /url: https://propolski.com/2019/03/05/bak-i-pilka-test/
+                - paragraph [ref=e927]: В "Тесты на польском языке"
+              - generic [ref=e928]:
+                - link "Упражнения на все падежи польского языка" [ref=e929] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/07/27/przypadki-wszystkie-test-1/
+                  - img "Упражнения на все падежи польского языка" [ref=e930]
+                - heading "Упражнения на все падежи польского языка" [level=4] [ref=e931]:
+                  - link "Упражнения на все падежи польского языка" [ref=e932] [cursor=pointer]:
+                    - /url: https://propolski.com/2018/07/27/przypadki-wszystkie-test-1/
+                - paragraph [ref=e933]: В "Польская грамматика"
+              - generic [ref=e934]:
+                - link "Тест на все падежи польских существительных" [ref=e935] [cursor=pointer]:
+                  - /url: https://propolski.com/2019/03/30/test-na-przypadki-rzeczownikow/
+                  - img "Тест на все падежи польских существительных" [ref=e936]
+                - heading "Тест на все падежи польских существительных" [level=4] [ref=e937]:
+                  - link "Тест на все падежи польских существительных" [ref=e938] [cursor=pointer]:
+                    - /url: https://propolski.com/2019/03/30/test-na-przypadki-rzeczownikow/
+                - paragraph [ref=e939]: В "Тесты на польском языке"
+        - generic [ref=e941]:
+          - generic [ref=e942]:
+            - text: 
+            - link "Катерина Лук'янова" [ref=e943] [cursor=pointer]:
+              - /url: https://propolski.com/author/kettibellya/
+          - generic [ref=e944]:
+            - text: 
+            - link "21 августа 2018" [ref=e945] [cursor=pointer]:
+              - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/
+              - time [ref=e946]: 21 августа 2018
+          - generic [ref=e947]:
+            - text: 
+            - link "Падежи польские" [ref=e948] [cursor=pointer]:
+              - /url: https://propolski.com/category/polskaia-grammatika/przypadki/
+            - text: ","
+            - link "Польская грамматика" [ref=e949] [cursor=pointer]:
+              - /url: https://propolski.com/category/polskaia-grammatika/
+          - generic [ref=e950]:
+            - text: 
+            - link "25 комментариев" [ref=e951] [cursor=pointer]:
+              - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comments
+      - list [ref=e952]:
+        - listitem [ref=e953]:
+          - link "← Маленький принц на польском по методу Франка 5 глава" [ref=e954] [cursor=pointer]:
+            - /url: https://propolski.com/2018/08/09/maly-ksiaze-5/
+        - listitem [ref=e955]:
+          - link "Склонение нерегулярных существительных в польском языке →" [ref=e956] [cursor=pointer]:
+            - /url: https://propolski.com/2018/08/26/odmiana-rzeczownikow-nieregularnych/
+      - generic [ref=e957]:
+        - 'heading "25 мыслей о “Падежи в польском языке: таблица единственного числа”" [level=3] [ref=e958]'
+        - list [ref=e959]:
+          - listitem [ref=e960]:
+            - article [ref=e961]:
+              - generic [ref=e962]:
+                - generic [ref=e963]:  Julia Ryabikova
+                - generic [ref=e964]:  10 декабря 2018 в 13:21
+                - link " Постоянная ссылка" [ref=e965] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-1229
+              - generic [ref=e966]:
+                - paragraph [ref=e967]: Длбрый день! отличное обьяснение!! хотела предлодить Вам написать статью в подобном стиле (с таблицами и разьяснениями почему да как) о Odmiana prostych i złożonych liczebników przez rodzaje (например, обьяснить почему dwaj przyjaciele или dwom (dwóm) przyjaciołom). Заранее спасибо)
+                - link "Комментарий к записи Julia Ryabikova" [ref=e968] [cursor=pointer]:
+                  - /url: "#comment-1229"
+                  - text:  Ответ
+            - list [ref=e969]:
+              - listitem [ref=e970]:
+                - article [ref=e971]:
+                  - generic [ref=e972]:
+                    - generic [ref=e973]:  Екатерина ЛукьяноваАвтор записи
+                    - generic [ref=e974]:  10 декабря 2018 в 20:52
+                    - link " Постоянная ссылка" [ref=e975] [cursor=pointer]:
+                      - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-1230
+                  - generic [ref=e976]:
+                    - paragraph [ref=e977]: Когда-нибудь обязательно будет 🙂 Спасибо!
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e978] [cursor=pointer]:
+                      - /url: "#comment-1230"
+                      - text:  Ответ
+          - listitem [ref=e979]:
+            - article [ref=e980]:
+              - generic [ref=e981]:
+                - generic [ref=e982]:  Андрей
+                - generic [ref=e983]:  11 декабря 2018 в 15:38
+                - link " Постоянная ссылка" [ref=e984] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-1236
+              - generic [ref=e985]:
+                - paragraph [ref=e986]: Большое спасибо, за ваш труд. Статья помогла собрать в кучу множество разрозненной информации. И кстати, по-моему в описании прилагательных дательного падежа в м. и ср. роде, указан вопрос от родительного падежа. Но это не точно)
+                - link "Комментарий к записи Андрей" [ref=e987] [cursor=pointer]:
+                  - /url: "#comment-1236"
+                  - text:  Ответ
+            - list [ref=e988]:
+              - listitem [ref=e989]:
+                - article [ref=e990]:
+                  - generic [ref=e991]:
+                    - generic [ref=e992]:  Екатерина ЛукьяноваАвтор записи
+                    - generic [ref=e993]:  11 декабря 2018 в 20:38
+                    - link " Постоянная ссылка" [ref=e994] [cursor=pointer]:
+                      - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-1237
+                  - generic [ref=e995]:
+                    - paragraph [ref=e996]: Спасибо, Вы правы! Таблички ж все копировала, а не каждую заново создавала, так быстрее 🙂 Вот в дательном и не доглядела 😉
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e997] [cursor=pointer]:
+                      - /url: "#comment-1237"
+                      - text:  Ответ
+          - listitem [ref=e998]:
+            - article [ref=e999]:
+              - generic [ref=e1000]:
+                - generic [ref=e1001]:  Вадим
+                - generic [ref=e1002]:  14 марта 2019 в 11:20
+                - link " Постоянная ссылка" [ref=e1003] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-1396
+              - generic [ref=e1004]:
+                - paragraph [ref=e1005]: В каждом падеже по несколько окончаний для каждого рода. Как различать, какое именно нужно поставить?
+                - link "Комментарий к записи Вадим" [ref=e1006] [cursor=pointer]:
+                  - /url: "#comment-1396"
+                  - text:  Ответ
+            - list [ref=e1007]:
+              - listitem [ref=e1008]:
+                - article [ref=e1009]:
+                  - generic [ref=e1010]:
+                    - generic [ref=e1011]:  Екатерина ЛукьяноваАвтор записи
+                    - generic [ref=e1012]:  14 марта 2019 в 19:58
+                    - link " Постоянная ссылка" [ref=e1013] [cursor=pointer]:
+                      - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-1400
+                  - generic [ref=e1014]:
+                    - paragraph [ref=e1015]: Выучить отдельно правила каждого падежа. На моем сайте подробных статей пока нет. Но будут 🙂
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1016] [cursor=pointer]:
+                      - /url: "#comment-1400"
+                      - text:  Ответ
+          - listitem [ref=e1017]:
+            - article [ref=e1018]:
+              - generic [ref=e1019]:
+                - generic [ref=e1020]:  Alex
+                - generic [ref=e1021]:  1 марта 2020 в 17:04
+                - link " Постоянная ссылка" [ref=e1022] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-2102
+              - generic [ref=e1023]:
+                - paragraph [ref=e1024]: Спасибо! Сижу вечером, делаю польский (уже 2 часа). Ещё раз спасибо, без Вашего сайта ,наверно, ещё часа два просидел бы.
+                - link "Комментарий к записи Alex" [ref=e1025] [cursor=pointer]:
+                  - /url: "#comment-2102"
+                  - text:  Ответ
+            - list [ref=e1026]:
+              - listitem [ref=e1027]:
+                - article [ref=e1028]:
+                  - generic [ref=e1029]:
+                    - generic [ref=e1030]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e1031] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e1032]:  1 марта 2020 в 17:17
+                    - link " Постоянная ссылка" [ref=e1033] [cursor=pointer]:
+                      - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-2103
+                  - generic [ref=e1034]:
+                    - paragraph [ref=e1035]: Ух ты! Пожалуйста! А что делаете? 🙂
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1036] [cursor=pointer]:
+                      - /url: "#comment-2103"
+                      - text:  Ответ
+          - listitem [ref=e1037]:
+            - article [ref=e1038]:
+              - generic [ref=e1039]:
+                - generic [ref=e1040]:  Анастасия Денщикова
+                - generic [ref=e1041]:  29 апреля 2020 в 10:45
+                - link " Постоянная ссылка" [ref=e1042] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-2203
+              - generic [ref=e1043]:
+                - paragraph [ref=e1044]: Спасибо, очень полезная статья, написано легко и с юмором! Над masakra jakas’ прямо посмеялась 🙂
+                - link "Комментарий к записи Анастасия Денщикова" [ref=e1045] [cursor=pointer]:
+                  - /url: "#comment-2203"
+                  - text:  Ответ
+            - list [ref=e1046]:
+              - listitem [ref=e1047]:
+                - article [ref=e1048]:
+                  - generic [ref=e1049]:
+                    - generic [ref=e1050]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e1051] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e1052]:  30 апреля 2020 в 00:10
+                    - link " Постоянная ссылка" [ref=e1053] [cursor=pointer]:
+                      - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-2204
+                  - generic [ref=e1054]:
+                    - paragraph [ref=e1055]: Ура, Вы разгадали мою задумку с масакрой! 🙂 Большое спасибо за отзыв! 🙂
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1056] [cursor=pointer]:
+                      - /url: "#comment-2204"
+                      - text:  Ответ
+          - listitem [ref=e1057]:
+            - article [ref=e1058]:
+              - generic [ref=e1059]:
+                - generic [ref=e1060]:  Valeriya
+                - generic [ref=e1061]:  8 августа 2020 в 16:01
+                - link " Постоянная ссылка" [ref=e1062] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-2356
+              - generic [ref=e1063]:
+                - paragraph [ref=e1064]: Оч крутая статья! Но можно использовать одни и теже слова везде. Я просто очень начинашка- немного путалась!
+                - link "Комментарий к записи Valeriya" [ref=e1065] [cursor=pointer]:
+                  - /url: "#comment-2356"
+                  - text:  Ответ
+            - list [ref=e1066]:
+              - listitem [ref=e1067]:
+                - article [ref=e1068]:
+                  - generic [ref=e1069]:
+                    - generic [ref=e1070]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e1071] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e1072]:  9 августа 2020 в 21:40
+                    - link " Постоянная ссылка" [ref=e1073] [cursor=pointer]:
+                      - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-2359
+                  - generic [ref=e1074]:
+                    - paragraph [ref=e1075]: Ничего, зато больше слов узнаете и, может быть, выучите 🙂
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1076] [cursor=pointer]:
+                      - /url: "#comment-2359"
+                      - text:  Ответ
+          - listitem [ref=e1077]:
+            - article [ref=e1078]:
+              - generic [ref=e1079]:
+                - generic [ref=e1080]:  Волкин Волкин
+                - generic [ref=e1081]:  11 октября 2020 в 15:53
+                - link " Постоянная ссылка" [ref=e1082] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-2396
+              - generic [ref=e1083]:
+                - paragraph [ref=e1084]:
+                  - text: Самое толковое объяснение склонений по падежам в польском. Спасибо.
+                  - text: Очень бы хотелось видеть от Вас склонение числительных ……
+                  - text: Чтоб Вам руки не болели и голова светлела…..
+                  - text: Szkolenie z wami nie jest «Nudne jak flaki z olejem».
+                - link "Комментарий к записи Волкин Волкин" [ref=e1085] [cursor=pointer]:
+                  - /url: "#comment-2396"
+                  - text:  Ответ
+            - list [ref=e1086]:
+              - listitem [ref=e1087]:
+                - article [ref=e1088]:
+                  - generic [ref=e1089]:
+                    - generic [ref=e1090]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e1091] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e1092]:  11 октября 2020 в 18:53
+                    - link " Постоянная ссылка" [ref=e1093] [cursor=pointer]:
+                      - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-2400
+                  - generic [ref=e1094]:
+                    - paragraph [ref=e1095]:
+                      - text: Спасибо большое! 🙂
+                      - text: "И вот — мои числительные:"
+                      - link "https://propolski.com/gramatyka-jezyka-polskiego/liczebniki/" [ref=e1096] [cursor=pointer]:
+                        - /url: https://propolski.com/gramatyka-jezyka-polskiego/liczebniki/
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1097] [cursor=pointer]:
+                      - /url: "#comment-2400"
+                      - text:  Ответ
+          - listitem [ref=e1098]:
+            - article [ref=e1099]:
+              - generic [ref=e1100]:
+                - generic [ref=e1101]:  Homer
+                - generic [ref=e1102]:  7 марта 2021 в 16:30
+                - link " Постоянная ссылка" [ref=e1103] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-2538
+              - generic [ref=e1104]:
+                - paragraph [ref=e1105]: А вы когда учили язык, вы просто все запоминали и держали в голове или же была какая то тетрдать куда вы писали абсолютно всё.
+                - link "Комментарий к записи Homer" [ref=e1106] [cursor=pointer]:
+                  - /url: "#comment-2538"
+                  - text:  Ответ
+            - list [ref=e1107]:
+              - listitem [ref=e1108]:
+                - article [ref=e1109]:
+                  - generic [ref=e1110]:
+                    - generic [ref=e1111]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e1112] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e1113]:  7 марта 2021 в 16:51
+                    - link " Постоянная ссылка" [ref=e1114] [cursor=pointer]:
+                      - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-2539
+                  - generic [ref=e1115]:
+                    - paragraph [ref=e1116]: Хм… Одной тетради не было. Была разрозненная куча записей, то тут, то там. Был учебник — Hurra, в котором были все таблицы, примеры. Я не могу сказать, что тогда я всё запоминала и держала в голове. Всегда была какая-то книжка, которой, я знала, я всегда могу воспользоваться. После Хурры у меня стали появляться и другие учебники… Неа, единой тетради не было.
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1117] [cursor=pointer]:
+                      - /url: "#comment-2539"
+                      - text:  Ответ
+          - listitem [ref=e1118]:
+            - article [ref=e1119]:
+              - generic [ref=e1120]:
+                - generic [ref=e1121]:  Артем
+                - generic [ref=e1122]:  20 апреля 2021 в 10:49
+                - link " Постоянная ссылка" [ref=e1123] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-2598
+              - generic [ref=e1124]:
+                - paragraph [ref=e1125]:
+                  - text: Здраствуйте, я пересмотрел много блогов/сайтов и ваш самый лучший. Но заметил, когда пишу вопрос в google ваш сайт или один с последних или вообще нету. Я б посоветовал вам настроить это(вроде SEO называется). А статьи реально годные — спасибо за ваши старания и труд)
+                  - text: P.S.
+                  - text: Пробачте, за мою російську мову, адже я українець)
+                - link "Комментарий к записи Артем" [ref=e1126] [cursor=pointer]:
+                  - /url: "#comment-2598"
+                  - text:  Ответ
+            - list [ref=e1127]:
+              - listitem [ref=e1128]:
+                - article [ref=e1129]:
+                  - generic [ref=e1130]:
+                    - generic [ref=e1131]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e1132] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e1133]:  20 апреля 2021 в 10:56
+                    - link " Постоянная ссылка" [ref=e1134] [cursor=pointer]:
+                      - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-2599
+                  - generic [ref=e1135]:
+                    - paragraph [ref=e1136]:
+                      - text: Здравствуйте, большое спасибо! 🙂 На счет SEO — зависит, какой вопрос Вы пишете. Не на все вопросы пока есть ответы на моем сайте. Да и не специалист я в SEO 🙂
+                      - text: PS А чому українець має вибачатися за те, що чудово володіє ще однією мовою?
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1137] [cursor=pointer]:
+                      - /url: "#comment-2599"
+                      - text:  Ответ
+          - listitem [ref=e1138]:
+            - article [ref=e1139]:
+              - generic [ref=e1140]:
+                - generic [ref=e1141]:  Anastasia
+                - generic [ref=e1142]:  20 октября 2021 в 18:51
+                - link " Постоянная ссылка" [ref=e1143] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-2731
+              - generic [ref=e1144]:
+                - paragraph [ref=e1145]: Ekaterina, spasibo bolshoe za blog. Ochen poleznie statii. Vi tashe napisali chto bydyt otdenie statija o kazhdom padeszhe. Mozno bilo bi ukazat ssilku na iti statia tak kak poiskovik v bloge nichego ne obnaryzhil. Spasibo!
+                - link "Комментарий к записи Anastasia" [ref=e1146] [cursor=pointer]:
+                  - /url: "#comment-2731"
+                  - text:  Ответ
+            - list [ref=e1147]:
+              - listitem [ref=e1148]:
+                - article [ref=e1149]:
+                  - generic [ref=e1150]:
+                    - generic [ref=e1151]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e1152] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e1153]:  20 октября 2021 в 21:23
+                    - link " Постоянная ссылка" [ref=e1154] [cursor=pointer]:
+                      - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-2732
+                  - generic [ref=e1155]:
+                    - paragraph [ref=e1156]:
+                      - text: Здравствуйте! Будут! Но пока их нет 🙁 Я очень стараюсь найти на них время!
+                      - text: Спасибо!
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1157] [cursor=pointer]:
+                      - /url: "#comment-2732"
+                      - text:  Ответ
+          - listitem [ref=e1158]:
+            - article [ref=e1159]:
+              - generic [ref=e1160]:
+                - generic [ref=e1161]:
+                  - text: 
+                  - link "Daria" [ref=e1162] [cursor=pointer]:
+                    - /url: http://gravatar.com/vozmojnost
+                - generic [ref=e1163]:  13 декабря 2021 в 22:14
+                - link " Постоянная ссылка" [ref=e1164] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-2760
+              - generic [ref=e1165]:
+                - paragraph [ref=e1166]: Здравствуйте, большое Вам спасибо за предоставленные материалы. У меня вопрос касательно творительного падежа слова czosnek — czosnkiem, хотя логично было бы написать czosnekiem. Это слово-исключение или есть какое-то правило, почему именно такая форма? Заранее спасибо.
+                - link "Комментарий к записи Daria" [ref=e1167] [cursor=pointer]:
+                  - /url: "#comment-2760"
+                  - text:  Ответ
+            - list [ref=e1168]:
+              - listitem [ref=e1169]:
+                - article [ref=e1170]:
+                  - generic [ref=e1171]:
+                    - generic [ref=e1172]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e1173] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e1174]:  18 декабря 2021 в 23:02
+                    - link " Постоянная ссылка" [ref=e1175] [cursor=pointer]:
+                      - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-2765
+                  - generic [ref=e1176]:
+                    - paragraph [ref=e1177]:
+                      - text: "Здравствуйте, спасибо! czosnek — czosnkiem — это правильный творительный падеж. Смотрите больше:"
+                      - text: Marek — Markiem, domek — domkiem, piesek — pieskiem, korek — korkiem.
+                      - text: В суффиксе e — выпадает.
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1178] [cursor=pointer]:
+                      - /url: "#comment-2765"
+                      - text:  Ответ
+          - listitem [ref=e1179]:
+            - article [ref=e1180]:
+              - generic [ref=e1181]:
+                - generic [ref=e1182]:  Dude
+                - generic [ref=e1183]:  7 января 2022 в 13:28
+                - link " Постоянная ссылка" [ref=e1184] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-2774
+              - generic [ref=e1185]:
+                - paragraph [ref=e1186]: А как мне узнать, какое окончание ставить? Например слово brat. Да, правильно будет в родительном падеже brata, но почему не braty,bratu, brati. Как это можно узнать? Я смотрел на сайте turpl, но там сказано только про окончания a, u, но ничего нет про y, i.
+                - link "Комментарий к записи Dude" [ref=e1187] [cursor=pointer]:
+                  - /url: "#comment-2774"
+                  - text:  Ответ
+            - list [ref=e1188]:
+              - listitem [ref=e1189]:
+                - article [ref=e1190]:
+                  - generic [ref=e1191]:
+                    - generic [ref=e1192]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e1193] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e1194]:  10 января 2022 в 16:44
+                    - link " Постоянная ссылка" [ref=e1195] [cursor=pointer]:
+                      - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-2775
+                  - generic [ref=e1196]:
+                    - paragraph [ref=e1197]:
+                      - text: Здравствуйте! В этой статье — общая таблица, без подробностей, как Вы видите. Я пишу отдельные статьи для каждого из спряжений, и там будет подробно для каждого окончания.
+                      - text: "Вкратце: мужской род может, кроме согласных, также оканчиваться на гласную — tata, kolega, mężczyzna. Буквально выглядят как женские. Вот и применим к ним окончания как у женского родительного: taty, kolegi, mężczyzny."
+                      - text: "Существительные мужского рода с окончанием на согласный: тут в родительном падеже ед. числа нужно определить, одушевленный или нет. Для одушевленных применяем окончание -а: brat — brata, kot — kota. А неодушевленные существительные могут иметь окончания -a или -u, и универсального правила тут практически нет, есть только некоторые наборы, которые можно заучить, где -a, а где -u. К примеру, дни недели — на -u: piątku, poniedziałku, а месяца — на -a: marca, kwietnia. С неодушевленным тут лучше всего работать со словарем, к примеру, Викисловарь:"
+                      - link "https://propolski.com/2017/11/12/wikislownik-najlepszy-online-slownik-jezyka-polskiego/" [ref=e1198] [cursor=pointer]:
+                        - /url: https://propolski.com/2017/11/12/wikislownik-najlepszy-online-slownik-jezyka-polskiego/
+                      - text: Я очень надеюсь, что мне удастся вскоре опубликовать отдельные статьи по каждому падежу.
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e1199] [cursor=pointer]:
+                      - /url: "#comment-2775"
+                      - text:  Ответ
+          - listitem [ref=e1200]:
+            - article [ref=e1201]:
+              - generic [ref=e1202]:
+                - generic [ref=e1203]:  Anastasia Șuleac
+                - generic [ref=e1204]:  16 января 2026 в 21:05
+                - link " Постоянная ссылка" [ref=e1205] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/#comment-3927
+              - generic [ref=e1206]:
+                - paragraph [ref=e1207]: Самое подробное и доступное объяснение из всех что я встречала 👏👏👏
+                - link "Комментарий к записи Anastasia Șuleac" [ref=e1208] [cursor=pointer]:
+                  - /url: "#comment-3927"
+                  - text:  Ответ
+        - generic [ref=e1209]:
+          - heading "Добавить комментарий" [level=3] [ref=e1210]: Добавить комментарий
+          - iframe [ref=e1212]:
+            
+    - contentinfo [ref=e1213]:
+      - generic [ref=e1216]:
+        - complementary [ref=e1218]:
+          - heading "Полезные ссылки" [level=3] [ref=e1219]
+          - list [ref=e1221]:
+            - listitem [ref=e1222]:
+              - link "Тесты по польскому языку" [ref=e1223] [cursor=pointer]:
+                - /url: https://testy.propolski.com/
+            - listitem [ref=e1224]:
+              - link "Статьи о Польше" [ref=e1225] [cursor=pointer]:
+                - /url: https://insidepl.com/
+            - listitem [ref=e1226]:
+              - link "Лучший хостинг" [ref=e1227] [cursor=pointer]:
+                - /url: https://www.lh.pl/?ref=kettibellya
+        - complementary [ref=e1229]:
+          - heading "Что такое ProPolski" [level=3] [ref=e1230]
+          - list [ref=e1232]:
+            - listitem [ref=e1233]:
+              - link "Об авторе" [ref=e1234] [cursor=pointer]:
+                - /url: https://propolski.com/autor/
+            - listitem [ref=e1235]:
+              - link "Мои ответы на вопросы" [ref=e1236] [cursor=pointer]:
+                - /url: https://propolski.com/?p=1811
+            - listitem [ref=e1237]:
+              - link "Курс для начинающих" [ref=e1238] [cursor=pointer]:
+                - /url: https://kursy.propolski.com/
+            - listitem [ref=e1239]:
+              - link "Бесплатная подписка" [ref=e1240] [cursor=pointer]:
+                - /url: https://propolski.com/kontakt/
+            - listitem [ref=e1241]:
+              - link "Политика конфиденциальности" [ref=e1242] [cursor=pointer]:
+                - /url: https://propolski.com/privacy-policy-2/
+        - complementary [ref=e1244]:
+          - heading "Блог был для вас полезен?" [level=3] [ref=e1245]
+          - generic [ref=e1246]:
+            - paragraph [ref=e1247]: Если вам понравилось, если было полезно, то ваша финансовая поддержка поможет мне писать чаще и еще интереснее!
+            - link "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e1249] [cursor=pointer]:
+              - /url: https://www.patreon.com/propolski
+              - img "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e1250]
+            - link "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e1252] [cursor=pointer]:
+              - /url: https://www.paypal.me/propolski
+              - img "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e1253]
+        - complementary [ref=e1255]:
+          - paragraph [ref=e1257]:
+            - text: Запроектировано с помощью Freepik.com
+            - strong [ref=e1258]: Все права защищены.
+            - text: Материалы
+            - strong [ref=e1259]: не копировать
+            - text: для использования на других страницах, для этого внизу каждой статьи есть кнопочка «поделиться».
+      - generic [ref=e1260]:
+        - generic:
+          - generic:
+            - generic [ref=e1261]:
+              - text: Copyright © 2026
+              - link "ProPolski" [ref=e1262] [cursor=pointer]:
+                - /url: https://propolski.com/
+              - text: . Все права защищены. Тема
+              - link "Spacious" [ref=e1263] [cursor=pointer]:
+                - /url: https://themegrill.com/themes/spacious
+              - text: "от ThemeGrill. На платформе:"
+              - link "WordPress" [ref=e1264] [cursor=pointer]:
+                - /url: https://wordpress.org
+              - text: .
+            - navigation [ref=e1265]:
+              - generic:
+                - list:
+                  - listitem [ref=e1266]:
+                    - link "Об авторе" [ref=e1267] [cursor=pointer]:
+                      - /url: https://propolski.com/autor/
+                  - listitem [ref=e1268]:
+                    - link "Мои ответы на вопросы" [ref=e1269] [cursor=pointer]:
+                      - /url: https://propolski.com/?p=1811
+                  - listitem [ref=e1270]:
+                    - link "Курс для начинающих" [ref=e1271] [cursor=pointer]:
+                      - /url: https://kursy.propolski.com/
+                  - listitem [ref=e1272]:
+                    - link "Бесплатная подписка" [ref=e1273] [cursor=pointer]:
+                      - /url: https://propolski.com/kontakt/
+                  - listitem [ref=e1274]:
+                    - link "Политика конфиденциальности" [ref=e1275] [cursor=pointer]:
+                      - /url: https://propolski.com/privacy-policy-2/
+    - text: 
+    - generic [ref=e1277]:
+      - button "Privacy and cookie settings" [ref=e1278] [cursor=pointer]
+      - generic [ref=e1279]: "Managed by Google. Complies with IAB TCF. CMP ID: 300"
+  - insertion [ref=e1280]:
+    - iframe [ref=e1283]:
+      - generic [active] [ref=f559e1]:
+        - generic [ref=f559e6]:
+          - link [ref=f559e7] [cursor=pointer]:
+            - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CpIZAxvLMaZ_9LeqTwuIPvf6RwQ3q5MedhgH4v6W4gg3OxtOArA8QASD63eE3YOnkyoXgGqAB_qaL5QPIAQmpAo3MgOngF5I-qAMByAPLBKoE_QFP0FHcW4_tXDbVXCMG1jDkBlql7K2_BKvCjqE4JviQy0zN1tNLnSzbLGfrZEq7O5GN5H19oYDDxzujqTWPU-Oh6ajrK_L55991QKiAqBEEeMYNk0D3VxQpWz4mqwmWpl8ZQA2lFh8mmGEkb2Kb8Auum2sDw7NmZxWtCuaUp3uf8421_jCiSIMblyocSGrWREO0SgH3qW3ZLXzvbT9DAmukK4zC1wS4TfHlTphtH8Z5-l8mLi0G9WCaA3FkyHoJcE_mXbcA71OwTppjLrQtowGcntsm6OZDwnKfyhsgW0EwmbTCZVkQ33i8m2MpDzEfhr14rFWcHf_xNvESAM85wASr48f9pQOIBfmm0f0qoAYugAfq2PQaqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAeYxbECqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpY6vLjm7jMkwOaCSFodHRwczovL3d3dy5zbXlrLmNvbS9rYXRhbG9nLmh0bWyxCbiDOVXG8cu-gAoByAsB4AsBgAwBogwDkAEBqg0CUEzIDQHqDRMImv7km7jMkwMV6olQBh09fyTYiA4J2BMDiBQU0BUBmBYByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAtRrGC4iAQDQGAHoGAHCGQIIAQ&gclid=EAIaIQobChMIn_jkm7jMkwMV6olQBh09fyTYEAEYASAAEgIqW_D_BwE&num=1&cid=CAQSbwAFq6B9NJLPvvbko4RrU5P9lwJUBsZjbslVcJ1zooHrYxrFDI-k1pqDCNwR10yFDdYVC5jvFp0ZdCz5eyRUt8RHWvcjEkuYveAB-aAhpBFa5llhHdq0nKh_0MkLwJDCksKnUj20uSQqu3XWCATS1xgB&sig=AOD64_2B-dcoxIC96QckQgQrxSmMLXZozg&client=ca-pub-6525291204356869&rf=1&nb=9&adurl=http://clickserve.dartsearch.net/link/click%3F%26%26ds_e_adid%3D476845751896%26ds_e_matchtype%3Dcontent%26ds_e_device%3Dc%26ds_e_network%3Dd%26%26ds_url_v%3D2%26ds_dest_url%3Dhttps://www.smyk.com/katalog.html%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D%255BGDN%255D%2520-%2520P%253AKatalog%2520wielkanoc%257CT%253A24.03-04.03%257CB%253A13k%26utm_content%3DGDN%257CAdG%257CP%253AKatalog%2520wielkanoc%26gad_source%3D5%26gad_campaignid%3D11537765241
+            - img [ref=f559e8]
+          - generic [ref=f559e12]:
+            - link "Smyk - Cały na Wielkanoc" [ref=f559e14] [cursor=pointer]:
+              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CpIZAxvLMaZ_9LeqTwuIPvf6RwQ3q5MedhgH4v6W4gg3OxtOArA8QASD63eE3YOnkyoXgGqAB_qaL5QPIAQmpAo3MgOngF5I-qAMByAPLBKoE_QFP0FHcW4_tXDbVXCMG1jDkBlql7K2_BKvCjqE4JviQy0zN1tNLnSzbLGfrZEq7O5GN5H19oYDDxzujqTWPU-Oh6ajrK_L55991QKiAqBEEeMYNk0D3VxQpWz4mqwmWpl8ZQA2lFh8mmGEkb2Kb8Auum2sDw7NmZxWtCuaUp3uf8421_jCiSIMblyocSGrWREO0SgH3qW3ZLXzvbT9DAmukK4zC1wS4TfHlTphtH8Z5-l8mLi0G9WCaA3FkyHoJcE_mXbcA71OwTppjLrQtowGcntsm6OZDwnKfyhsgW0EwmbTCZVkQ33i8m2MpDzEfhr14rFWcHf_xNvESAM85wASr48f9pQOIBfmm0f0qoAYugAfq2PQaqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAeYxbECqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpY6vLjm7jMkwOaCSFodHRwczovL3d3dy5zbXlrLmNvbS9rYXRhbG9nLmh0bWyxCbiDOVXG8cu-gAoByAsB4AsBgAwBogwDkAEBqg0CUEzIDQHqDRMImv7km7jMkwMV6olQBh09fyTYiA4J2BMDiBQU0BUBmBYByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAtRrGC4iAQDQGAHoGAHCGQIIAQ&gclid=EAIaIQobChMIn_jkm7jMkwMV6olQBh09fyTYEAEYASAAEgIqW_D_BwE&num=1&cid=CAQSbwAFq6B9NJLPvvbko4RrU5P9lwJUBsZjbslVcJ1zooHrYxrFDI-k1pqDCNwR10yFDdYVC5jvFp0ZdCz5eyRUt8RHWvcjEkuYveAB-aAhpBFa5llhHdq0nKh_0MkLwJDCksKnUj20uSQqu3XWCATS1xgB&sig=AOD64_2B-dcoxIC96QckQgQrxSmMLXZozg&client=ca-pub-6525291204356869&rf=1&nb=0&adurl=http://clickserve.dartsearch.net/link/click%3F%26%26ds_e_adid%3D476845751896%26ds_e_matchtype%3Dcontent%26ds_e_device%3Dc%26ds_e_network%3Dd%26%26ds_url_v%3D2%26ds_dest_url%3Dhttps://www.smyk.com/katalog.html%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D%255BGDN%255D%2520-%2520P%253AKatalog%2520wielkanoc%257CT%253A24.03-04.03%257CB%253A13k%26utm_content%3DGDN%257CAdG%257CP%253AKatalog%2520wielkanoc%26gad_source%3D5%26gad_campaignid%3D11537765241
+            - link "Największy Sklep dla Dzieci. Ponad 20 000 Zabawek Wiodących Marek." [ref=f559e17] [cursor=pointer]:
+              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CpIZAxvLMaZ_9LeqTwuIPvf6RwQ3q5MedhgH4v6W4gg3OxtOArA8QASD63eE3YOnkyoXgGqAB_qaL5QPIAQmpAo3MgOngF5I-qAMByAPLBKoE_QFP0FHcW4_tXDbVXCMG1jDkBlql7K2_BKvCjqE4JviQy0zN1tNLnSzbLGfrZEq7O5GN5H19oYDDxzujqTWPU-Oh6ajrK_L55991QKiAqBEEeMYNk0D3VxQpWz4mqwmWpl8ZQA2lFh8mmGEkb2Kb8Auum2sDw7NmZxWtCuaUp3uf8421_jCiSIMblyocSGrWREO0SgH3qW3ZLXzvbT9DAmukK4zC1wS4TfHlTphtH8Z5-l8mLi0G9WCaA3FkyHoJcE_mXbcA71OwTppjLrQtowGcntsm6OZDwnKfyhsgW0EwmbTCZVkQ33i8m2MpDzEfhr14rFWcHf_xNvESAM85wASr48f9pQOIBfmm0f0qoAYugAfq2PQaqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAeYxbECqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpY6vLjm7jMkwOaCSFodHRwczovL3d3dy5zbXlrLmNvbS9rYXRhbG9nLmh0bWyxCbiDOVXG8cu-gAoByAsB4AsBgAwBogwDkAEBqg0CUEzIDQHqDRMImv7km7jMkwMV6olQBh09fyTYiA4J2BMDiBQU0BUBmBYByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAtRrGC4iAQDQGAHoGAHCGQIIAQ&gclid=EAIaIQobChMIn_jkm7jMkwMV6olQBh09fyTYEAEYASAAEgIqW_D_BwE&num=1&cid=CAQSbwAFq6B9NJLPvvbko4RrU5P9lwJUBsZjbslVcJ1zooHrYxrFDI-k1pqDCNwR10yFDdYVC5jvFp0ZdCz5eyRUt8RHWvcjEkuYveAB-aAhpBFa5llhHdq0nKh_0MkLwJDCksKnUj20uSQqu3XWCATS1xgB&sig=AOD64_2B-dcoxIC96QckQgQrxSmMLXZozg&client=ca-pub-6525291204356869&rf=1&nb=7&adurl=http://clickserve.dartsearch.net/link/click%3F%26%26ds_e_adid%3D476845751896%26ds_e_matchtype%3Dcontent%26ds_e_device%3Dc%26ds_e_network%3Dd%26%26ds_url_v%3D2%26ds_dest_url%3Dhttps://www.smyk.com/katalog.html%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D%255BGDN%255D%2520-%2520P%253AKatalog%2520wielkanoc%257CT%253A24.03-04.03%257CB%253A13k%26utm_content%3DGDN%257CAdG%257CP%253AKatalog%2520wielkanoc%26gad_source%3D5%26gad_campaignid%3D11537765241
+            - link "Smyk" [ref=f559e20] [cursor=pointer]:
+              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CpIZAxvLMaZ_9LeqTwuIPvf6RwQ3q5MedhgH4v6W4gg3OxtOArA8QASD63eE3YOnkyoXgGqAB_qaL5QPIAQmpAo3MgOngF5I-qAMByAPLBKoE_QFP0FHcW4_tXDbVXCMG1jDkBlql7K2_BKvCjqE4JviQy0zN1tNLnSzbLGfrZEq7O5GN5H19oYDDxzujqTWPU-Oh6ajrK_L55991QKiAqBEEeMYNk0D3VxQpWz4mqwmWpl8ZQA2lFh8mmGEkb2Kb8Auum2sDw7NmZxWtCuaUp3uf8421_jCiSIMblyocSGrWREO0SgH3qW3ZLXzvbT9DAmukK4zC1wS4TfHlTphtH8Z5-l8mLi0G9WCaA3FkyHoJcE_mXbcA71OwTppjLrQtowGcntsm6OZDwnKfyhsgW0EwmbTCZVkQ33i8m2MpDzEfhr14rFWcHf_xNvESAM85wASr48f9pQOIBfmm0f0qoAYugAfq2PQaqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAeYxbECqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpY6vLjm7jMkwOaCSFodHRwczovL3d3dy5zbXlrLmNvbS9rYXRhbG9nLmh0bWyxCbiDOVXG8cu-gAoByAsB4AsBgAwBogwDkAEBqg0CUEzIDQHqDRMImv7km7jMkwMV6olQBh09fyTYiA4J2BMDiBQU0BUBmBYByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAtRrGC4iAQDQGAHoGAHCGQIIAQ&gclid=EAIaIQobChMIn_jkm7jMkwMV6olQBh09fyTYEAEYASAAEgIqW_D_BwE&num=1&cid=CAQSbwAFq6B9NJLPvvbko4RrU5P9lwJUBsZjbslVcJ1zooHrYxrFDI-k1pqDCNwR10yFDdYVC5jvFp0ZdCz5eyRUt8RHWvcjEkuYveAB-aAhpBFa5llhHdq0nKh_0MkLwJDCksKnUj20uSQqu3XWCATS1xgB&sig=AOD64_2B-dcoxIC96QckQgQrxSmMLXZozg&client=ca-pub-6525291204356869&rf=1&nb=1&adurl=http://clickserve.dartsearch.net/link/click%3F%26%26ds_e_adid%3D476845751896%26ds_e_matchtype%3Dcontent%26ds_e_device%3Dc%26ds_e_network%3Dd%26%26ds_url_v%3D2%26ds_dest_url%3Dhttps://www.smyk.com/katalog.html%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D%255BGDN%255D%2520-%2520P%253AKatalog%2520wielkanoc%257CT%253A24.03-04.03%257CB%253A13k%26utm_content%3DGDN%257CAdG%257CP%253AKatalog%2520wielkanoc%26gad_source%3D5%26gad_campaignid%3D11537765241
+          - link "Kup teraz" [ref=f559e23] [cursor=pointer]:
+            - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CpIZAxvLMaZ_9LeqTwuIPvf6RwQ3q5MedhgH4v6W4gg3OxtOArA8QASD63eE3YOnkyoXgGqAB_qaL5QPIAQmpAo3MgOngF5I-qAMByAPLBKoE_QFP0FHcW4_tXDbVXCMG1jDkBlql7K2_BKvCjqE4JviQy0zN1tNLnSzbLGfrZEq7O5GN5H19oYDDxzujqTWPU-Oh6ajrK_L55991QKiAqBEEeMYNk0D3VxQpWz4mqwmWpl8ZQA2lFh8mmGEkb2Kb8Auum2sDw7NmZxWtCuaUp3uf8421_jCiSIMblyocSGrWREO0SgH3qW3ZLXzvbT9DAmukK4zC1wS4TfHlTphtH8Z5-l8mLi0G9WCaA3FkyHoJcE_mXbcA71OwTppjLrQtowGcntsm6OZDwnKfyhsgW0EwmbTCZVkQ33i8m2MpDzEfhr14rFWcHf_xNvESAM85wASr48f9pQOIBfmm0f0qoAYugAfq2PQaqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAeYxbECqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpY6vLjm7jMkwOaCSFodHRwczovL3d3dy5zbXlrLmNvbS9rYXRhbG9nLmh0bWyxCbiDOVXG8cu-gAoByAsB4AsBgAwBogwDkAEBqg0CUEzIDQHqDRMImv7km7jMkwMV6olQBh09fyTYiA4J2BMDiBQU0BUBmBYByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAtRrGC4iAQDQGAHoGAHCGQIIAQ&gclid=EAIaIQobChMIn_jkm7jMkwMV6olQBh09fyTYEAEYASAAEgIqW_D_BwE&num=1&cid=CAQSbwAFq6B9NJLPvvbko4RrU5P9lwJUBsZjbslVcJ1zooHrYxrFDI-k1pqDCNwR10yFDdYVC5jvFp0ZdCz5eyRUt8RHWvcjEkuYveAB-aAhpBFa5llhHdq0nKh_0MkLwJDCksKnUj20uSQqu3XWCATS1xgB&sig=AOD64_2B-dcoxIC96QckQgQrxSmMLXZozg&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=http://clickserve.dartsearch.net/link/click%3F%26%26ds_e_adid%3D476845751896%26ds_e_matchtype%3Dcontent%26ds_e_device%3Dc%26ds_e_network%3Dd%26%26ds_url_v%3D2%26ds_dest_url%3Dhttps://www.smyk.com/katalog.html%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D%255BGDN%255D%2520-%2520P%253AKatalog%2520wielkanoc%257CT%253A24.03-04.03%257CB%253A13k%26utm_content%3DGDN%257CAdG%257CP%253AKatalog%2520wielkanoc%26gad_source%3D5%26gad_campaignid%3D11537765241
+            - generic [ref=f559e24]:
+              - generic [ref=f559e26]: Kup teraz
+              - generic [ref=f559e28]:
+                - img [ref=f559e29]
+                - img [ref=f559e31]
+        - img [ref=f559e39] [cursor=pointer]
+        - button [ref=f559e41] [cursor=pointer]:
+          - img [ref=f559e42]
+        - iframe

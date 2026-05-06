@@ -1,0 +1,475 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Перейти к содержимому" [ref=e3] [cursor=pointer]:
+      - /url: "#main"
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - generic [ref=e8]:
+          - link " Просмотреть профиль propolskiblog на Facebook" [ref=e9] [cursor=pointer]:
+            - /url: https://www.facebook.com/propolskiblog/
+            - text: 
+            - generic [ref=e10]: Просмотреть профиль propolskiblog на Facebook
+          - link " Просмотреть профиль PROpolski_com на Twitter" [ref=e11] [cursor=pointer]:
+            - /url: https://twitter.com/PROpolski_com/
+            - text: 
+            - generic [ref=e12]: Просмотреть профиль PROpolski_com на Twitter
+          - link " Просмотреть профиль propolski на Instagram" [ref=e13] [cursor=pointer]:
+            - /url: https://www.instagram.com/propolski/
+            - text: 
+            - generic [ref=e14]: Просмотреть профиль propolski на Instagram
+          - link " Просмотреть профиль propolskiblog на Pinterest" [ref=e15] [cursor=pointer]:
+            - /url: https://www.pinterest.com/propolskiblog/
+            - text: 
+            - generic [ref=e16]: Просмотреть профиль propolskiblog на Pinterest
+          - link " Просмотреть профиль kateryna-lukianova-78b0a2ab на LinkedIn" [ref=e17] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/kateryna-lukianova-78b0a2ab/
+            - text: 
+            - generic [ref=e18]: Просмотреть профиль kateryna-lukianova-78b0a2ab на LinkedIn
+          - link " Просмотреть профиль UCg0djfCucaVv9spNr2yPv-A на YouTube" [ref=e19] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCg0djfCucaVv9spNr2yPv-A/
+            - text: 
+            - generic [ref=e20]: Просмотреть профиль UCg0djfCucaVv9spNr2yPv-A на YouTube
+          - link " Просмотреть профиль propolskiblog на Telegram" [ref=e21] [cursor=pointer]:
+            - /url: https://www.t.me/propolski_kurs/
+            - text: 
+            - generic [ref=e22]: Просмотреть профиль propolskiblog на Telegram
+        - navigation [ref=e23]:
+          - generic:
+            - list:
+              - listitem [ref=e24]:
+                - link "Українська" [ref=e25] [cursor=pointer]:
+                  - /url: https://propolski.com/uk/praktychna-hramatyka-polskoi/vidminky-imennykiv-ta-prykmetnykiv/
+              - listitem [ref=e26]:
+                - link "Русский" [ref=e27] [cursor=pointer]:
+                  - /url: https://propolski.com/gramatyka-jezyka-polskiego/przypadki-rzeczownikow-i-przymiotnikow/
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - link "ProPolski - блог о польском языке" [ref=e33] [cursor=pointer]:
+            - /url: https://propolski.com/
+            - img "ProPolski - блог о польском языке" [ref=e34]
+          - generic [ref=e35]:
+            - heading "ProPolski" [level=3] [ref=e36]:
+              - link "ProPolski" [ref=e37] [cursor=pointer]:
+                - /url: https://propolski.com/
+            - paragraph [ref=e38]: Блог о польском языке
+        - generic [ref=e39]:
+          - complementary [ref=e41]:
+            - generic [ref=e43]:
+              - textbox "Поиск" [ref=e44]
+              - button "" [ref=e45] [cursor=pointer]
+          - navigation [ref=e46]:
+            - text: ≡
+            - generic [ref=e47]:
+              - text: 
+              - list [ref=e48]:
+                - listitem [ref=e49]:
+                  - link "ВСЕ СТАТЬИ" [ref=e50] [cursor=pointer]:
+                    - /url: https://propolski.com/sitemap/
+                - listitem [ref=e51]:
+                  - link "Учить" [ref=e52] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Учить
+                    - generic [ref=e53]: 
+                - listitem [ref=e54]:
+                  - link "Читать" [ref=e55] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Читать
+                    - generic [ref=e56]: 
+                - listitem [ref=e57]:
+                  - link "Смотреть/слушать" [ref=e58] [cursor=pointer]:
+                    - /url: https://propolski.com/wideo-audio-po-polsku/
+                    - text: Смотреть/слушать
+                    - generic [ref=e59]: 
+                - listitem [ref=e60]:
+                  - link "Польшa" [ref=e61] [cursor=pointer]:
+                    - /url: https://propolski.com/polska/
+                - listitem [ref=e62]:
+                  - link "Подписка" [ref=e63] [cursor=pointer]:
+                    - /url: https://propolski.com/kontakt/
+                - listitem [ref=e64]:
+                  - link "КУРС" [ref=e65] [cursor=pointer]:
+                    - /url: https://kursy.propolski.com/uk/
+      - generic [ref=e66]:
+        - generic:
+          - heading "Падежи существительных и прилагательных в польском" [level=1] [ref=e68]
+          - generic [ref=e69]:
+            - text: "Вы здесь:"
+            - generic [ref=e70]:
+              - link "Главная" [ref=e72] [cursor=pointer]:
+                - /url: https://propolski.com/
+              - text: »
+              - link "Практическая грамматика польского языка в таблицах" [ref=e74] [cursor=pointer]:
+                - /url: https://propolski.com/gramatyka-jezyka-polskiego/
+              - text: »
+              - strong [ref=e76]: Падежи существительных и прилагательных в польском
+    - insertion [ref=e78]:
+      - iframe [ref=e80]:
+        - generic [active] [ref=f463e1]:
+          - generic [ref=f463e6]:
+            - generic [ref=f463e7]:
+              - generic "GetResponse" [ref=f463e9]:
+                - link "Zacznij za darmo" [ref=f463e10] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CCQSe8_DMafW0OPux2fcPmIjQwQfbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgSWAk_Q4diTuyErMuet-7Z1WN9si6oMaWX3pnIaGtmIo6NQ0VoJYuhSLu6HcSdAcnemWYB4O-WGOnUhDXdvhQ7TOdMVH9wW8JKZpeF2Q2jECzDIE6BfP8-k07rbCG4dTLb2ZmzN3aFXfcIeVvSVGDgsCyI43tNYpFlhaSZ8prQbvFLANVdCREOs0Xk1NrkDE6WYyy7gxLu5Vfjj7zzPK1JZvl9yuSXUx6K6YuHWQ588oL6x62QyuBWnI7MATSmkrtCs0p7CTmSuI8MpuDnGfRYQf9xtQZNz3MlcyMWBERk6YSVCuCqx1noVcDRwvW4PcnkHlGoeUJYseKr0H4b6FRRsTtytPpPKoQlzUReJ8rb7ADgSXHX05hhhwATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WIzZl722zJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCIKCmL22zJMDFftY9ggdGAQ0ePANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICgE8YASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMItfqXvbbMkwMV-1j2CB0YBDR4EAEYASAAEgJkqPD_BwE&num=1&cid=CAQSbwAFq6B95igRyfsMb8NGgpb90vUFxnLwhyjBqUKFNTp-eDwFu5ZBzk_fZKpGTwrVhGp6-Gz-yYS4sM_8Rjbh0sEfBP-JWDiNg3_56mK3d4A4xu02i7VymfyhvCVaRxF-Sd9KBvzdfPNF-8BWpmVwVRgB&sig=AOD64_1g0BHs0EcOQyIIaPtuETuLjs_4Gg&client=ca-pub-6525291204356869&rf=1&nb=0&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMItfqXvbbMkwMV-1j2CB0YBDR4EAEYASAAEgJkqPD_BwE
+              - generic [ref=f463e11]:
+                - link "85% szybsze tworzenie emaili dzięki AI, które wspiera Twój głos, a nie go zastępuje." [ref=f463e13] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CCQSe8_DMafW0OPux2fcPmIjQwQfbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgSWAk_Q4diTuyErMuet-7Z1WN9si6oMaWX3pnIaGtmIo6NQ0VoJYuhSLu6HcSdAcnemWYB4O-WGOnUhDXdvhQ7TOdMVH9wW8JKZpeF2Q2jECzDIE6BfP8-k07rbCG4dTLb2ZmzN3aFXfcIeVvSVGDgsCyI43tNYpFlhaSZ8prQbvFLANVdCREOs0Xk1NrkDE6WYyy7gxLu5Vfjj7zzPK1JZvl9yuSXUx6K6YuHWQ588oL6x62QyuBWnI7MATSmkrtCs0p7CTmSuI8MpuDnGfRYQf9xtQZNz3MlcyMWBERk6YSVCuCqx1noVcDRwvW4PcnkHlGoeUJYseKr0H4b6FRRsTtytPpPKoQlzUReJ8rb7ADgSXHX05hhhwATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WIzZl722zJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCIKCmL22zJMDFftY9ggdGAQ0ePANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICgE8YASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMItfqXvbbMkwMV-1j2CB0YBDR4EAEYASAAEgJkqPD_BwE&num=1&cid=CAQSbwAFq6B95igRyfsMb8NGgpb90vUFxnLwhyjBqUKFNTp-eDwFu5ZBzk_fZKpGTwrVhGp6-Gz-yYS4sM_8Rjbh0sEfBP-JWDiNg3_56mK3d4A4xu02i7VymfyhvCVaRxF-Sd9KBvzdfPNF-8BWpmVwVRgB&sig=AOD64_1g0BHs0EcOQyIIaPtuETuLjs_4Gg&client=ca-pub-6525291204356869&rf=1&nb=7&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMItfqXvbbMkwMV-1j2CB0YBDR4EAEYASAAEgJkqPD_BwE
+                - link [ref=f463e14] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CCQSe8_DMafW0OPux2fcPmIjQwQfbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgSWAk_Q4diTuyErMuet-7Z1WN9si6oMaWX3pnIaGtmIo6NQ0VoJYuhSLu6HcSdAcnemWYB4O-WGOnUhDXdvhQ7TOdMVH9wW8JKZpeF2Q2jECzDIE6BfP8-k07rbCG4dTLb2ZmzN3aFXfcIeVvSVGDgsCyI43tNYpFlhaSZ8prQbvFLANVdCREOs0Xk1NrkDE6WYyy7gxLu5Vfjj7zzPK1JZvl9yuSXUx6K6YuHWQ588oL6x62QyuBWnI7MATSmkrtCs0p7CTmSuI8MpuDnGfRYQf9xtQZNz3MlcyMWBERk6YSVCuCqx1noVcDRwvW4PcnkHlGoeUJYseKr0H4b6FRRsTtytPpPKoQlzUReJ8rb7ADgSXHX05hhhwATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WIzZl722zJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCIKCmL22zJMDFftY9ggdGAQ0ePANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICgE8YASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMItfqXvbbMkwMV-1j2CB0YBDR4EAEYASAAEgJkqPD_BwE&num=1&cid=CAQSbwAFq6B95igRyfsMb8NGgpb90vUFxnLwhyjBqUKFNTp-eDwFu5ZBzk_fZKpGTwrVhGp6-Gz-yYS4sM_8Rjbh0sEfBP-JWDiNg3_56mK3d4A4xu02i7VymfyhvCVaRxF-Sd9KBvzdfPNF-8BWpmVwVRgB&sig=AOD64_1g0BHs0EcOQyIIaPtuETuLjs_4Gg&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMItfqXvbbMkwMV-1j2CB0YBDR4EAEYASAAEgJkqPD_BwE
+                  - img [ref=f463e15]
+            - generic "GetResponse" [ref=f463e17]:
+              - link "GetResponse" [ref=f463e18] [cursor=pointer]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CCQSe8_DMafW0OPux2fcPmIjQwQfbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgSWAk_Q4diTuyErMuet-7Z1WN9si6oMaWX3pnIaGtmIo6NQ0VoJYuhSLu6HcSdAcnemWYB4O-WGOnUhDXdvhQ7TOdMVH9wW8JKZpeF2Q2jECzDIE6BfP8-k07rbCG4dTLb2ZmzN3aFXfcIeVvSVGDgsCyI43tNYpFlhaSZ8prQbvFLANVdCREOs0Xk1NrkDE6WYyy7gxLu5Vfjj7zzPK1JZvl9yuSXUx6K6YuHWQ588oL6x62QyuBWnI7MATSmkrtCs0p7CTmSuI8MpuDnGfRYQf9xtQZNz3MlcyMWBERk6YSVCuCqx1noVcDRwvW4PcnkHlGoeUJYseKr0H4b6FRRsTtytPpPKoQlzUReJ8rb7ADgSXHX05hhhwATF6bLPrAWIBemZhaBOgAe1h7DnA6gHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WIzZl722zJMDsQmFVyEAxVJ83IAKAZgLAcgLAaoNAlBMyA0B6g0TCIKCmL22zJMDFftY9ggdGAQ0ePANAogOCbAOxtXu0xjYEwvQFQHKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICgE8YASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMItfqXvbbMkwMV-1j2CB0YBDR4EAEYASAAEgJkqPD_BwE&num=1&cid=CAQSbwAFq6B95igRyfsMb8NGgpb90vUFxnLwhyjBqUKFNTp-eDwFu5ZBzk_fZKpGTwrVhGp6-Gz-yYS4sM_8Rjbh0sEfBP-JWDiNg3_56mK3d4A4xu02i7VymfyhvCVaRxF-Sd9KBvzdfPNF-8BWpmVwVRgB&sig=AOD64_1g0BHs0EcOQyIIaPtuETuLjs_4Gg&client=ca-pub-6525291204356869&rf=1&nb=1&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMItfqXvbbMkwMV-1j2CB0YBDR4EAEYASAAEgJkqPD_BwE
+          - img [ref=f463e22] [cursor=pointer]
+          - button [ref=f463e24] [cursor=pointer]:
+            - img [ref=f463e25]
+          - iframe
+    - generic [ref=e83]:
+      - article [ref=e84]:
+        - generic [ref=e85]:
+          - generic [ref=e87]:
+            - generic:
+              - generic [ref=e89]:
+                - 'link "Польские падежи: таблица окончаний множественного числа"':
+                  - /url: https://propolski.com/2019/09/08/przypadki-polskie-liczba-mnoga/
+                  - 'img "Польские падежи: таблица окончаний множественного числа" [ref=e90] [cursor=pointer]'
+                - 'link "Польские падежи: таблица множественного числа" [ref=e92] [cursor=pointer]':
+                  - /url: https://propolski.com/2019/09/08/przypadki-polskie-liczba-mnoga/
+                - generic [ref=e93]:
+                  - text: У большинства польских падежей множественное число - простое. Изучая польские падежи, наибольшее количество времени вы потратите на именительный и винительный, ...
+                  - link "Czytaj" [ref=e95] [cursor=pointer]:
+                    - /url: https://propolski.com/2019/09/08/przypadki-polskie-liczba-mnoga/
+              - generic [ref=e97]:
+                - link "Падежи в польском языке":
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/
+                  - img "Падежи в польском языке" [ref=e98] [cursor=pointer]
+                - 'link "Падежи в польском языке: таблица единственного числа" [ref=e100] [cursor=pointer]':
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/
+                - generic [ref=e101]:
+                  - text: Не так страшен чёрт, как его малюют. Серьёзно! Подумаешь, падежи в польском языке! Хватит уже бояться этих падежей, они мало ...
+                  - link "Czytaj" [ref=e103] [cursor=pointer]:
+                    - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/
+              - generic [ref=e105]:
+                - link "Отрицание в польском языке":
+                  - /url: https://propolski.com/2019/09/14/negacja-w-jezyku-polskim/
+                  - img "Отрицание в польском языке" [ref=e106] [cursor=pointer]
+                - 'link "Отрицание в польском языке: говорим правильно" [ref=e108] [cursor=pointer]':
+                  - /url: https://propolski.com/2019/09/14/negacja-w-jezyku-polskim/
+                - generic [ref=e109]:
+                  - text: Оказалось, что даже если вы долго-долго уже живете в Польше, долго-долго разговариваете при этом на польском, это совсем не означает, ...
+                  - link "Czytaj" [ref=e111] [cursor=pointer]:
+                    - /url: https://propolski.com/2019/09/14/negacja-w-jezyku-polskim/
+              - generic [ref=e113]:
+                - 'link "Henryk Sienkiewicz. Bądź błogosławiona: тест на падежи польских существительных"':
+                  - /url: https://propolski.com/2019/06/14/test-na-przypadki-sienkiewicz-badz-blogoslawiona/
+                  - 'img "Henryk Sienkiewicz. Bądź błogosławiona: тест на падежи польских существительных" [ref=e114] [cursor=pointer]'
+                - 'link "Henryk Sienkiewicz. Bądź błogosławiona: тест на падежи польских существительных" [ref=e116] [cursor=pointer]':
+                  - /url: https://propolski.com/2019/06/14/test-na-przypadki-sienkiewicz-badz-blogoslawiona/
+                - generic [ref=e117]:
+                  - text: Генрик Сенкевич - выдающийся поляк. В очередной раз в этом убеждаюсь, читая его рассказ про Кришну (да, он и про ...
+                  - link "Czytaj" [ref=e119] [cursor=pointer]:
+                    - /url: https://propolski.com/2019/06/14/test-na-przypadki-sienkiewicz-badz-blogoslawiona/
+          - separator [ref=e120]
+          - paragraph [ref=e121]:
+            - text: Ваша Катерина Лукьянова, автор блога о польском языке
+            - link "ProPolski.com" [ref=e122] [cursor=pointer]:
+              - /url: https://propolski.com
+            - text: ","
+            - link "Testy.ProPolski" [ref=e123] [cursor=pointer]:
+              - /url: https://testy.propolski.com/
+            - text: и сайта
+            - link "insidePL.com" [ref=e124] [cursor=pointer]:
+              - /url: https://insidepl.com/
+          - separator [ref=e125]
+          - paragraph [ref=e126]: Если материал был интересен и полезен, я буду рада поддержке моих проектов 🙂
+          - generic [ref=e127]:
+            - figure [ref=e132]:
+              - link "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e133] [cursor=pointer]:
+                - /url: https://www.patreon.com/propolski
+                - img "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e134]
+            - figure [ref=e138]:
+              - link "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e139] [cursor=pointer]:
+                - /url: https://www.paypal.me/propolski
+                - img "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e140]
+          - insertion [ref=e143]:
+            - iframe [ref=e145]:
+              - generic [active] [ref=f476e1]:
+                - generic [ref=f476e6]:
+                  - generic [ref=f476e8]:
+                    - link [ref=f476e11] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CEXAc9PDMabi1MvOF2fcPgZDtkAGL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCP1ovDZ5tsz6oAwHIA8sEqgSVAk_Qgs6Q7e3mJupF78wvk4-929mN4SJNxk2o9d2Fj_j3QU3qF4tEql1Hx3c_awiS95RIq2t2qrxdvhf8fkrHQYh4D6cHbkED6uvZz9MyItqutibuFVIaS-n9vLErG3o3F9grOP_tsqW-JEkLRyYLFFO0LGbZVdztSEXsvTmVy9yTEvOLra_BWxv2op0IEtVyDb_HKfVkyay6Z2JzWGA1QNHd-h0e5VRiCYG8kEw7XZE50vT4zrXcmwenBTERR9UWqIYEO5sAg3kaw9YnEBfWb6fX7r-3MD_h5qSIEo1vD8dPI1GmY7U-R8MuFHPqkO1JNKM_A_TpTfEed6EMZY2LnBYd6stzeOtGOTSS9m9dwAJrMaGNrTjABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGACgBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAIAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WKndzr22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwiIhM-9tsyTAxXzQvYIHQFIGxLwDQKIDgmwDuy15ZoY4BKyxr-n85zl4aIB2BML0BUB8BWV066KAfoVBDI0NDbKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICtVEYLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASABEgJmLfD_BwE&num=1&cid=CAQSbwAFq6B9NJoULcutuNDG4vRx1WxvquI2bG_WjErF_DvWxgmNcsWpqUYg-B53AzW7qr9Gp4PLJTbaL-leMYUeRKIpZhP2pHj0kyvWc_Hl_JOLIiskGoYT729_34deVLyFh_P3ghE7KV_fmiYt3fxxKBgB&sig=AOD64_1Ht4vlGMkl9x5FRKsCEcvVgRiW2Q&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/woreczki-zip-strunowe-z-polem-opisowym-10x15cm-g200-100-sztuk-2446.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASABEgJmLfD_BwE
+                    - link [ref=f476e16] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CpqZ29PDMabi1MvOF2fcPgZDtkAGL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCP1ovDZ5tsz6oAwHIA8sEqgSVAk_Qgs6Q7e3mJupF78wvk4-929mN4SJNxk2o9d2Fj_j3QU3qF4tEql1Hx3c_awiS95RIq2t2qrxdvhf8fkrHQYh4D6cHbkED6uvZz9MyItqutibuFVIaS-n9vLErG3o3F9grOP_tsqW-JEkLRyYLFFO0LGbZVdztSEXsvTmVy9yTEvOLra_BWxv2op0IEtVyDb_HKfVkyay6Z2JzWGA1QNHd-h0e5VRiCYG8kEw7XZE50vT4zrXcmwenBTERR9UWqIYEO5sAg3kaw9YnEBfWb6fX7r-3MD_h5qSIEo1vD8dPI1GmY7U-R8MuFHPqkO1JNKM_A_TpTfEed6EMZY2LnBYd6stzeOtGOTSS9m9dwAJrMaGNrTjABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGAGgBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAIAtIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WKndzr22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwiIhM-9tsyTAxXzQvYIHQFIGxLwDQKIDgmwDuy15ZoY4BLwjoOtoazlmwrYEwvQFQHwFZXTrooB-hUFMTI2MjjKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICtVEYLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASACEgIzrPD_BwE&num=1&cid=CAQSbwAFq6B9NJoULcutuNDG4vRx1WxvquI2bG_WjErF_DvWxgmNcsWpqUYg-B53AzW7qr9Gp4PLJTbaL-leMYUeRKIpZhP2pHj0kyvWc_Hl_JOLIiskGoYT729_34deVLyFh_P3ghE7KV_fmiYt3fxxKBgB&sig=AOD64_2I4wJrRiqxKZ9EJ8t84Ujbgw0vVw&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/woreczki-zip-autozamki-z-polem-opisowym-18x25cm-g160-100-sztuk-12628.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASACEgIzrPD_BwE
+                    - link [ref=f476e21] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CtOFR9PDMabi1MvOF2fcPgZDtkAGL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCP1ovDZ5tsz6oAwHIA8sEqgSVAk_Qgs6Q7e3mJupF78wvk4-929mN4SJNxk2o9d2Fj_j3QU3qF4tEql1Hx3c_awiS95RIq2t2qrxdvhf8fkrHQYh4D6cHbkED6uvZz9MyItqutibuFVIaS-n9vLErG3o3F9grOP_tsqW-JEkLRyYLFFO0LGbZVdztSEXsvTmVy9yTEvOLra_BWxv2op0IEtVyDb_HKfVkyay6Z2JzWGA1QNHd-h0e5VRiCYG8kEw7XZE50vT4zrXcmwenBTERR9UWqIYEO5sAg3kaw9YnEBfWb6fX7r-3MD_h5qSIEo1vD8dPI1GmY7U-R8MuFHPqkO1JNKM_A_TpTfEed6EMZY2LnBYd6stzeOtGOTSS9m9dwAJrMaGNrTjABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGAKgBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAIA9IIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WKndzr22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwiIhM-9tsyTAxXzQvYIHQFIGxLwDQKIDgmwDuy15ZoY4BLH54XhocWipecB2BML0BUB8BWV066KAfoVBTE1ODk2yhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSArVRGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASADEgJ9e_D_BwE&num=1&cid=CAQSbwAFq6B9NJoULcutuNDG4vRx1WxvquI2bG_WjErF_DvWxgmNcsWpqUYg-B53AzW7qr9Gp4PLJTbaL-leMYUeRKIpZhP2pHj0kyvWc_Hl_JOLIiskGoYT729_34deVLyFh_P3ghE7KV_fmiYt3fxxKBgB&sig=AOD64_0jUTtCCDd0BLD_xyNMIh9l43TDHg&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/worek-prozniowy-wielokrotnego-uzytku-czerwony-30x36cm-100-sztuk-15896.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASADEgJ9e_D_BwE
+                    - link [ref=f476e26] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CGaSP9PDMabi1MvOF2fcPgZDtkAGL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCP1ovDZ5tsz6oAwHIA8sEqgSVAk_Qgs6Q7e3mJupF78wvk4-929mN4SJNxk2o9d2Fj_j3QU3qF4tEql1Hx3c_awiS95RIq2t2qrxdvhf8fkrHQYh4D6cHbkED6uvZz9MyItqutibuFVIaS-n9vLErG3o3F9grOP_tsqW-JEkLRyYLFFO0LGbZVdztSEXsvTmVy9yTEvOLra_BWxv2op0IEtVyDb_HKfVkyay6Z2JzWGA1QNHd-h0e5VRiCYG8kEw7XZE50vT4zrXcmwenBTERR9UWqIYEO5sAg3kaw9YnEBfWb6fX7r-3MD_h5qSIEo1vD8dPI1GmY7U-R8MuFHPqkO1JNKM_A_TpTfEed6EMZY2LnBYd6stzeOtGOTSS9m9dwAJrMaGNrTjABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGAOgBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAIBNIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WKndzr22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwiIhM-9tsyTAxXzQvYIHQFIGxLwDQKIDgmwDuy15ZoY4BLz2YKA5tiqwKkB2BML0BUB8BWV066KAfoVBTEyNjMyyhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSArVRGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASAEEgJZefD_BwE&num=1&cid=CAQSbwAFq6B9NJoULcutuNDG4vRx1WxvquI2bG_WjErF_DvWxgmNcsWpqUYg-B53AzW7qr9Gp4PLJTbaL-leMYUeRKIpZhP2pHj0kyvWc_Hl_JOLIiskGoYT729_34deVLyFh_P3ghE7KV_fmiYt3fxxKBgB&sig=AOD64_14EdPwG8d4hW-AqjL7lj74szFuag&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/woreczki-zip-autozamki-z-polem-opisowym-25x35cm-g160-100-sztuk-12632.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASAEEgJZefD_BwE
+                    - link [ref=f476e31] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CKHSD9PDMabi1MvOF2fcPgZDtkAGL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCP1ovDZ5tsz6oAwHIA8sEqgSVAk_Qgs6Q7e3mJupF78wvk4-929mN4SJNxk2o9d2Fj_j3QU3qF4tEql1Hx3c_awiS95RIq2t2qrxdvhf8fkrHQYh4D6cHbkED6uvZz9MyItqutibuFVIaS-n9vLErG3o3F9grOP_tsqW-JEkLRyYLFFO0LGbZVdztSEXsvTmVy9yTEvOLra_BWxv2op0IEtVyDb_HKfVkyay6Z2JzWGA1QNHd-h0e5VRiCYG8kEw7XZE50vT4zrXcmwenBTERR9UWqIYEO5sAg3kaw9YnEBfWb6fX7r-3MD_h5qSIEo1vD8dPI1GmY7U-R8MuFHPqkO1JNKM_A_TpTfEed6EMZY2LnBYd6stzeOtGOTSS9m9dwAJrMaGNrTjABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGASgBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAIBdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WKndzr22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwiIhM-9tsyTAxXzQvYIHQFIGxLwDQKIDgmwDuy15ZoY4BLVhe7V5qre5gjYEwvQFQHwFZXTrooB-hUFMTEyNDfKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICtVEYLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASAFEgKU3_D_BwE&num=1&cid=CAQSbwAFq6B9NJoULcutuNDG4vRx1WxvquI2bG_WjErF_DvWxgmNcsWpqUYg-B53AzW7qr9Gp4PLJTbaL-leMYUeRKIpZhP2pHj0kyvWc_Hl_JOLIiskGoYT729_34deVLyFh_P3ghE7KV_fmiYt3fxxKBgB&sig=AOD64_0gzThzh5UKUrec5jNdo5xWRKi-ug&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/worki-polietylenowe-bezamkniecia-20x30cm-g-100-1000-sztuk-11247.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASAFEgKU3_D_BwE
+                    - link [ref=f476e36] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C-Q-n9PDMabi1MvOF2fcPgZDtkAGL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCP1ovDZ5tsz6oAwHIA8sEqgSVAk_Qgs6Q7e3mJupF78wvk4-929mN4SJNxk2o9d2Fj_j3QU3qF4tEql1Hx3c_awiS95RIq2t2qrxdvhf8fkrHQYh4D6cHbkED6uvZz9MyItqutibuFVIaS-n9vLErG3o3F9grOP_tsqW-JEkLRyYLFFO0LGbZVdztSEXsvTmVy9yTEvOLra_BWxv2op0IEtVyDb_HKfVkyay6Z2JzWGA1QNHd-h0e5VRiCYG8kEw7XZE50vT4zrXcmwenBTERR9UWqIYEO5sAg3kaw9YnEBfWb6fX7r-3MD_h5qSIEo1vD8dPI1GmY7U-R8MuFHPqkO1JNKM_A_TpTfEed6EMZY2LnBYd6stzeOtGOTSS9m9dwAJrMaGNrTjABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGAWgBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAIBtIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WKndzr22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwiIhM-9tsyTAxXzQvYIHQFIGxLwDQKIDgmwDuy15ZoY4BK9yrX-h7W8qOsB2BML0BUB8BWV066KAfoVBTExMjA1yhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSArVRGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASAGEgLcUPD_BwE&num=1&cid=CAQSbwAFq6B9NJoULcutuNDG4vRx1WxvquI2bG_WjErF_DvWxgmNcsWpqUYg-B53AzW7qr9Gp4PLJTbaL-leMYUeRKIpZhP2pHj0kyvWc_Hl_JOLIiskGoYT729_34deVLyFh_P3ghE7KV_fmiYt3fxxKBgB&sig=AOD64_3n78k5_6S7eQ64f_SdRG35gcbNug&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/torby-pobb-z-warstwa-klejaca-i-zawieszka-euro-12x18cm-g160-100-sztuk-11205.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASAGEgLcUPD_BwE
+                    - link [ref=f476e41] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cdx8_9PDMabi1MvOF2fcPgZDtkAGL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCP1ovDZ5tsz6oAwHIA8sEqgSVAk_Qgs6Q7e3mJupF78wvk4-929mN4SJNxk2o9d2Fj_j3QU3qF4tEql1Hx3c_awiS95RIq2t2qrxdvhf8fkrHQYh4D6cHbkED6uvZz9MyItqutibuFVIaS-n9vLErG3o3F9grOP_tsqW-JEkLRyYLFFO0LGbZVdztSEXsvTmVy9yTEvOLra_BWxv2op0IEtVyDb_HKfVkyay6Z2JzWGA1QNHd-h0e5VRiCYG8kEw7XZE50vT4zrXcmwenBTERR9UWqIYEO5sAg3kaw9YnEBfWb6fX7r-3MD_h5qSIEo1vD8dPI1GmY7U-R8MuFHPqkO1JNKM_A_TpTfEed6EMZY2LnBYd6stzeOtGOTSS9m9dwAJrMaGNrTjABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGAagBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAIB9IIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WKndzr22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwiIhM-9tsyTAxXzQvYIHQFIGxLwDQKIDgmwDuy15ZoY4BLV3JnM08idkp4B2BML0BUB8BWV066KAfoVBDI0NDTKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICtVEYLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASAHEgJmZPD_BwE&num=1&cid=CAQSbwAFq6B9NJoULcutuNDG4vRx1WxvquI2bG_WjErF_DvWxgmNcsWpqUYg-B53AzW7qr9Gp4PLJTbaL-leMYUeRKIpZhP2pHj0kyvWc_Hl_JOLIiskGoYT729_34deVLyFh_P3ghE7KV_fmiYt3fxxKBgB&sig=AOD64_2VDLzq_RFdsvuUPYtfGtPutNF3Bg&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/woreczki-zip-strunowe-z-polem-opisowym-8x12cm-g200-100-sztuk-2444.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASAHEgJmZPD_BwE
+                    - link [ref=f476e46] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CSw4a9PDMabi1MvOF2fcPgZDtkAGL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCP1ovDZ5tsz6oAwHIA8sEqgSVAk_Qgs6Q7e3mJupF78wvk4-929mN4SJNxk2o9d2Fj_j3QU3qF4tEql1Hx3c_awiS95RIq2t2qrxdvhf8fkrHQYh4D6cHbkED6uvZz9MyItqutibuFVIaS-n9vLErG3o3F9grOP_tsqW-JEkLRyYLFFO0LGbZVdztSEXsvTmVy9yTEvOLra_BWxv2op0IEtVyDb_HKfVkyay6Z2JzWGA1QNHd-h0e5VRiCYG8kEw7XZE50vT4zrXcmwenBTERR9UWqIYEO5sAg3kaw9YnEBfWb6fX7r-3MD_h5qSIEo1vD8dPI1GmY7U-R8MuFHPqkO1JNKM_A_TpTfEed6EMZY2LnBYd6stzeOtGOTSS9m9dwAJrMaGNrTjABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGAegBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAICNIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WKndzr22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwiIhM-9tsyTAxXzQvYIHQFIGxLwDQKIDgmwDuy15ZoY4BLmi7Hbi5zt-coB2BML0BUB8BWV066KAfoVBDI0NzPKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICtVEYLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASAIEgIpZ_D_BwE&num=1&cid=CAQSbwAFq6B9NJoULcutuNDG4vRx1WxvquI2bG_WjErF_DvWxgmNcsWpqUYg-B53AzW7qr9Gp4PLJTbaL-leMYUeRKIpZhP2pHj0kyvWc_Hl_JOLIiskGoYT729_34deVLyFh_P3ghE7KV_fmiYt3fxxKBgB&sig=AOD64_2G-EOiPjgv4okRyM17GvnZptBedA&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/woreczki-strunowe-zamkiem-zip-i-zawieszka-euro-6x8-cm-g200-1000-sztuk-2473.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASAIEgIpZ_D_BwE
+                    - link [ref=f476e51] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CCmH19PDMabi1MvOF2fcPgZDtkAGL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCP1ovDZ5tsz6oAwHIA8sEqgSVAk_Qgs6Q7e3mJupF78wvk4-929mN4SJNxk2o9d2Fj_j3QU3qF4tEql1Hx3c_awiS95RIq2t2qrxdvhf8fkrHQYh4D6cHbkED6uvZz9MyItqutibuFVIaS-n9vLErG3o3F9grOP_tsqW-JEkLRyYLFFO0LGbZVdztSEXsvTmVy9yTEvOLra_BWxv2op0IEtVyDb_HKfVkyay6Z2JzWGA1QNHd-h0e5VRiCYG8kEw7XZE50vT4zrXcmwenBTERR9UWqIYEO5sAg3kaw9YnEBfWb6fX7r-3MD_h5qSIEo1vD8dPI1GmY7U-R8MuFHPqkO1JNKM_A_TpTfEed6EMZY2LnBYd6stzeOtGOTSS9m9dwAJrMaGNrTjABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGAigBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAICdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WKndzr22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwiIhM-9tsyTAxXzQvYIHQFIGxLwDQKIDgmwDuy15ZoY4BKNmsCms4njrFjYEwvQFQHwFZXTrooB-hUEMzcwMsoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgK1URguIgEA0BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASAJEgI-1_D_BwE&num=1&cid=CAQSbwAFq6B9NJoULcutuNDG4vRx1WxvquI2bG_WjErF_DvWxgmNcsWpqUYg-B53AzW7qr9Gp4PLJTbaL-leMYUeRKIpZhP2pHj0kyvWc_Hl_JOLIiskGoYT729_34deVLyFh_P3ghE7KV_fmiYt3fxxKBgB&sig=AOD64_3ZaYKuEsyDBh2su5pxhdq8YIo6XA&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/torby-polietylenowe-autozamki-i-kieszonka-23x3226cm-g200-1000-sztuk-3702.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASAJEgI-1_D_BwE
+                    - link [ref=f476e56] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C-Qge9PDMabi1MvOF2fcPgZDtkAGL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCP1ovDZ5tsz6oAwHIA8sEqgSVAk_Qgs6Q7e3mJupF78wvk4-929mN4SJNxk2o9d2Fj_j3QU3qF4tEql1Hx3c_awiS95RIq2t2qrxdvhf8fkrHQYh4D6cHbkED6uvZz9MyItqutibuFVIaS-n9vLErG3o3F9grOP_tsqW-JEkLRyYLFFO0LGbZVdztSEXsvTmVy9yTEvOLra_BWxv2op0IEtVyDb_HKfVkyay6Z2JzWGA1QNHd-h0e5VRiCYG8kEw7XZE50vT4zrXcmwenBTERR9UWqIYEO5sAg3kaw9YnEBfWb6fX7r-3MD_h5qSIEo1vD8dPI1GmY7U-R8MuFHPqkO1JNKM_A_TpTfEed6EMZY2LnBYd6stzeOtGOTSS9m9dwAJrMaGNrTjABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGAmgBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAICtIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WKndzr22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwiIhM-9tsyTAxXzQvYIHQFIGxLwDQKIDgmwDuy15ZoY4BKS1ZrU7cvYjtsB2BML0BUB8BWV066KAfoVBDI1NjLKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICtVEYLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASAKEgIHkPD_BwE&num=1&cid=CAQSbwAFq6B9NJoULcutuNDG4vRx1WxvquI2bG_WjErF_DvWxgmNcsWpqUYg-B53AzW7qr9Gp4PLJTbaL-leMYUeRKIpZhP2pHj0kyvWc_Hl_JOLIiskGoYT729_34deVLyFh_P3ghE7KV_fmiYt3fxxKBgB&sig=AOD64_0-m9c_riwFeWmcxySlu3rVJEXdTw&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/torby-pobb-z-warstwa-klejaca-i-zawieszka-euro-8x12cm-g160-1000-sztuk-2562.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASAKEgIHkPD_BwE
+                    - link [ref=f476e61] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CZbJA9PDMabi1MvOF2fcPgZDtkAGL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCP1ovDZ5tsz6oAwHIA8sEqgSVAk_Qgs6Q7e3mJupF78wvk4-929mN4SJNxk2o9d2Fj_j3QU3qF4tEql1Hx3c_awiS95RIq2t2qrxdvhf8fkrHQYh4D6cHbkED6uvZz9MyItqutibuFVIaS-n9vLErG3o3F9grOP_tsqW-JEkLRyYLFFO0LGbZVdztSEXsvTmVy9yTEvOLra_BWxv2op0IEtVyDb_HKfVkyay6Z2JzWGA1QNHd-h0e5VRiCYG8kEw7XZE50vT4zrXcmwenBTERR9UWqIYEO5sAg3kaw9YnEBfWb6fX7r-3MD_h5qSIEo1vD8dPI1GmY7U-R8MuFHPqkO1JNKM_A_TpTfEed6EMZY2LnBYd6stzeOtGOTSS9m9dwAJrMaGNrTjABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGAqgBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAIC9IIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WKndzr22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwiIhM-9tsyTAxXzQvYIHQFIGxLwDQKIDgmwDuy15ZoY4BKzjcD2jKLt4JYB2BML0BUB8BWV066KAfoVBTEyNjE5yhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSArVRGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASALEgJOrPD_BwE&num=1&cid=CAQSbwAFq6B9NJoULcutuNDG4vRx1WxvquI2bG_WjErF_DvWxgmNcsWpqUYg-B53AzW7qr9Gp4PLJTbaL-leMYUeRKIpZhP2pHj0kyvWc_Hl_JOLIiskGoYT729_34deVLyFh_P3ghE7KV_fmiYt3fxxKBgB&sig=AOD64_19PpQ3_gXXg0QLul2g05j3DaPYTw&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/woreczki-strunowe-zamkiem-zip-23x32cm-g160-1000-sztuk-12619.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASALEgJOrPD_BwE
+                    - link [ref=f476e66] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CZ3LS9PDMabi1MvOF2fcPgZDtkAGL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCP1ovDZ5tsz6oAwHIA8sEqgSVAk_Qgs6Q7e3mJupF78wvk4-929mN4SJNxk2o9d2Fj_j3QU3qF4tEql1Hx3c_awiS95RIq2t2qrxdvhf8fkrHQYh4D6cHbkED6uvZz9MyItqutibuFVIaS-n9vLErG3o3F9grOP_tsqW-JEkLRyYLFFO0LGbZVdztSEXsvTmVy9yTEvOLra_BWxv2op0IEtVyDb_HKfVkyay6Z2JzWGA1QNHd-h0e5VRiCYG8kEw7XZE50vT4zrXcmwenBTERR9UWqIYEO5sAg3kaw9YnEBfWb6fX7r-3MD_h5qSIEo1vD8dPI1GmY7U-R8MuFHPqkO1JNKM_A_TpTfEed6EMZY2LnBYd6stzeOtGOTSS9m9dwAJrMaGNrTjABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGAugBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAIDNIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WKndzr22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwiIhM-9tsyTAxXzQvYIHQFIGxLwDQKIDgmwDuy15ZoY4BLT4OWU7Zby68gB2BML0BUB8BWV066KAfoVBDI0NTbKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICtVEYLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASAMEgLkDfD_BwE&num=1&cid=CAQSbwAFq6B9NJoULcutuNDG4vRx1WxvquI2bG_WjErF_DvWxgmNcsWpqUYg-B53AzW7qr9Gp4PLJTbaL-leMYUeRKIpZhP2pHj0kyvWc_Hl_JOLIiskGoYT729_34deVLyFh_P3ghE7KV_fmiYt3fxxKBgB&sig=AOD64_3nDg0E4DhLGTYDpHEcZ_BXVtZh3Q&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/woreczki-zip-strunowe-z-polem-opisowym-25x35cm-g200-100-sztuk-2456.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASAMEgLkDfD_BwE
+                  - link "Torby papierowe i plastikowe" [ref=f476e69] [cursor=pointer]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CEXAc9PDMabi1MvOF2fcPgZDtkAGL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCP1ovDZ5tsz6oAwHIA8sEqgSVAk_Qgs6Q7e3mJupF78wvk4-929mN4SJNxk2o9d2Fj_j3QU3qF4tEql1Hx3c_awiS95RIq2t2qrxdvhf8fkrHQYh4D6cHbkED6uvZz9MyItqutibuFVIaS-n9vLErG3o3F9grOP_tsqW-JEkLRyYLFFO0LGbZVdztSEXsvTmVy9yTEvOLra_BWxv2op0IEtVyDb_HKfVkyay6Z2JzWGA1QNHd-h0e5VRiCYG8kEw7XZE50vT4zrXcmwenBTERR9UWqIYEO5sAg3kaw9YnEBfWb6fX7r-3MD_h5qSIEo1vD8dPI1GmY7U-R8MuFHPqkO1JNKM_A_TpTfEed6EMZY2LnBYd6stzeOtGOTSS9m9dwAJrMaGNrTjABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGACgBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAIAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WKndzr22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwiIhM-9tsyTAxXzQvYIHQFIGxLwDQKIDgmwDuy15ZoY4BKyxr-n85zl4aIB2BML0BUB8BWV066KAfoVBDI0NDbKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICtVEYLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASABEgJmLfD_BwE&num=1&cid=CAQSbwAFq6B9NJoULcutuNDG4vRx1WxvquI2bG_WjErF_DvWxgmNcsWpqUYg-B53AzW7qr9Gp4PLJTbaL-leMYUeRKIpZhP2pHj0kyvWc_Hl_JOLIiskGoYT729_34deVLyFh_P3ghE7KV_fmiYt3fxxKBgB&sig=AOD64_1Ht4vlGMkl9x5FRKsCEcvVgRiW2Q&ctype=5&client=ca-pub-6525291204356869&nb=19&adurl=https://www.monouso.pl/woreczki-zip-strunowe-z-polem-opisowym-10x15cm-g200-100-sztuk-2446.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIuP_OvbbMkwMV80L2CB0BSBsSEAEYASABEgJmLfD_BwE
+                    - generic [ref=f476e70]:
+                      - img [ref=f476e72]
+                      - generic [ref=f476e75]:
+                        - text: Torby papierowe i
+                        - text: plastikowe
+                - img [ref=f476e79] [cursor=pointer]
+                - button [ref=f476e81] [cursor=pointer]:
+                  - img [ref=f476e82]
+                - iframe
+          - paragraph [ref=e146]:
+            - link "Как еще поддержать блог ProPolski" [ref=e147] [cursor=pointer]:
+              - /url: https://propolski.com/subscribe-and-help/
+              - strong [ref=e148]: Как еще поддержать блог ProPolski
+          - insertion [ref=e149]:
+            - iframe [ref=e151]:
+              - generic [active] [ref=f462e1]:
+                - generic [ref=f462e5]:
+                  - generic [ref=f462e6]:
+                    - generic [ref=f462e8]:
+                      - link [ref=f462e9] [cursor=pointer]
+                      - generic [ref=f462e10]:
+                        - link "Porównanie Opieki Medycznej" [ref=f462e13] [cursor=pointer]
+                        - generic [ref=f462e14]:
+                          - generic [ref=f462e15]: Реклама
+                          - link "Zdrowie w Firmie" [ref=f462e17] [cursor=pointer]
+                    - generic [ref=f462e19]:
+                      - link [ref=f462e20] [cursor=pointer]
+                      - generic [ref=f462e21]:
+                        - link "Rozliczenie podatku z Niemiec" [ref=f462e24] [cursor=pointer]
+                        - generic [ref=f462e25]:
+                          - generic [ref=f462e26]: Реклама
+                          - link "Timetax - zwrot podatku" [ref=f462e28] [cursor=pointer]
+                    - generic [ref=f462e30]:
+                      - link [ref=f462e31] [cursor=pointer]
+                      - generic [ref=f462e32]:
+                        - link "AI Transport Management System" [ref=f462e35] [cursor=pointer]:
+                          - text: AI Transport Management
+                          - text: System
+                        - generic [ref=f462e36]:
+                          - generic [ref=f462e37]: Реклама
+                          - link "IMPARGO TMS Platform" [ref=f462e39] [cursor=pointer]
+                    - generic [ref=f462e41]:
+                      - link [ref=f462e42] [cursor=pointer]
+                      - generic [ref=f462e43]:
+                        - link "Renibus działa już od 5 dnia" [ref=f462e46] [cursor=pointer]
+                        - generic [ref=f462e47]:
+                          - generic [ref=f462e48]: Реклама
+                          - link "Renibus Active" [ref=f462e50] [cursor=pointer]
+                  - generic [ref=f462e51]:
+                    - generic [ref=f462e53]:
+                      - link [ref=f462e54] [cursor=pointer]
+                      - generic [ref=f462e55]:
+                        - link "Świąteczne paczki dla firm" [ref=f462e58] [cursor=pointer]
+                        - generic [ref=f462e59]:
+                          - generic [ref=f462e60]: Реклама
+                          - link "Schronisko Bukowina" [ref=f462e62] [cursor=pointer]
+                    - generic [ref=f462e64]:
+                      - link [ref=f462e65] [cursor=pointer]
+                      - generic [ref=f462e66]:
+                        - link "Wanna wolnostojąca narożna przyścienna Prawa - Chrom Przelew 150x75x58 K-JUL06" [ref=f462e69] [cursor=pointer]:
+                          - text: Wanna wolnostojąca narożna
+                          - text: przyścienna Prawa - Chrom
+                          - text: Przelew 150x75x58 K-JUL06
+                        - generic [ref=f462e70]:
+                          - generic [ref=f462e71]: Реклама
+                          - link "karbin.pl" [ref=f462e73] [cursor=pointer]
+                    - generic [ref=f462e75]:
+                      - link [ref=f462e76] [cursor=pointer]
+                      - generic [ref=f462e77]:
+                        - link "Naucz się robić lepsze zdjęcia" [ref=f462e80] [cursor=pointer]
+                        - generic [ref=f462e81]:
+                          - generic [ref=f462e82]: Реклама
+                          - link "Wiktor Baron Fotografia" [ref=f462e84] [cursor=pointer]
+                    - generic [ref=f462e86]:
+                      - link [ref=f462e87] [cursor=pointer]
+                      - generic [ref=f462e88]:
+                        - link "Krówki dla każdego" [ref=f462e91] [cursor=pointer]
+                        - generic [ref=f462e92]:
+                          - generic [ref=f462e93]: Реклама
+                          - link "DigiColor Sp. z o.o." [ref=f462e95] [cursor=pointer]
+                - img [ref=f462e100]
+          - insertion [ref=e153]:
+            - iframe [ref=e155]:
+              - generic [active] [ref=f477e1]:
+                - generic [ref=f477e6]:
+                  - generic [ref=f477e8]:
+                    - link [ref=f477e11] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ChGkW9PDMaZLQNLWG2fcP4aTnsQeL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCnwuYtQBnsz6oAwHIA8sEqgSVAk_QjKnOUTVeanCHIG8lgxGedEyjr-kZXO_x0XPKUMmH5EPr4aHPoMHpdbZgPVKSl55G-5BZUFR6ZIVPXOnRrbdcPW1DgKrSmX09IO5rOtLGXE6NwIOzwEOj-AV3z6a3-bfRRepKhVMakslJWljd24SZWvBTMDK2YFbQ0MVYQu_9FKRZlFw7V2uc6eQIJ1NHV3ZlMy5ExGp-FWSwmwltcjt1Rmb0D8MPzIqM4ulLX4dCnT--i9epe4W35hFqpJv3LrMPEYM--G1ZXYhRSRDBz1654SlGEG1LxDZ9SQh06yDtT48uydKc-7hA2gE8FoWjxuAiLE1rxvgtSJOKJEtG6_YwQe-D3Q8uxNnjeQH6Cus3mtajs2bABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGACgBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAIAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WMXw0L22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwi1oNG9tsyTAxU1Q_YIHWHSOXbwDQKIDgmwDuy15ZoY4BKyxr-n85zl4aIB2BML0BUB8BWV066KAfoVBDI0NDbKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICtVEYLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASABEgKsivD_BwE&num=1&cid=CAQSbwAFq6B9EIIEpcvllAysy7mYcEWYAnpUxvlRSoGPFjDEC2EYfuGKlnouuuYvW_X_2N8uFm82tCAP8MhB9UkTVT8Q35l9QBjpq2eqEL-L0ooHBdg1To28rI5Nta2FDl7koot0uw7JpE5CZQo2-jBq3RgB&sig=AOD64_2h31MOfXR0extPrudZaE1rflocyw&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/woreczki-zip-strunowe-z-polem-opisowym-10x15cm-g200-100-sztuk-2446.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASABEgKsivD_BwE
+                    - link [ref=f477e16] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CNX919PDMaZLQNLWG2fcP4aTnsQeL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCnwuYtQBnsz6oAwHIA8sEqgSVAk_QjKnOUTVeanCHIG8lgxGedEyjr-kZXO_x0XPKUMmH5EPr4aHPoMHpdbZgPVKSl55G-5BZUFR6ZIVPXOnRrbdcPW1DgKrSmX09IO5rOtLGXE6NwIOzwEOj-AV3z6a3-bfRRepKhVMakslJWljd24SZWvBTMDK2YFbQ0MVYQu_9FKRZlFw7V2uc6eQIJ1NHV3ZlMy5ExGp-FWSwmwltcjt1Rmb0D8MPzIqM4ulLX4dCnT--i9epe4W35hFqpJv3LrMPEYM--G1ZXYhRSRDBz1654SlGEG1LxDZ9SQh06yDtT48uydKc-7hA2gE8FoWjxuAiLE1rxvgtSJOKJEtG6_YwQe-D3Q8uxNnjeQH6Cus3mtajs2bABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGAGgBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAIAtIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WMXw0L22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwi1oNG9tsyTAxU1Q_YIHWHSOXbwDQKIDgmwDuy15ZoY4BLwjoOtoazlmwrYEwvQFQHwFZXTrooB-hUFMTI2MjjKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICtVEYLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASACEgJDOPD_BwE&num=1&cid=CAQSbwAFq6B9EIIEpcvllAysy7mYcEWYAnpUxvlRSoGPFjDEC2EYfuGKlnouuuYvW_X_2N8uFm82tCAP8MhB9UkTVT8Q35l9QBjpq2eqEL-L0ooHBdg1To28rI5Nta2FDl7koot0uw7JpE5CZQo2-jBq3RgB&sig=AOD64_23gJfReokzDslVVyYC3L83IyYSEQ&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/woreczki-zip-autozamki-z-polem-opisowym-18x25cm-g160-100-sztuk-12628.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASACEgJDOPD_BwE
+                    - link [ref=f477e21] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CID739PDMaZLQNLWG2fcP4aTnsQeL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCnwuYtQBnsz6oAwHIA8sEqgSVAk_QjKnOUTVeanCHIG8lgxGedEyjr-kZXO_x0XPKUMmH5EPr4aHPoMHpdbZgPVKSl55G-5BZUFR6ZIVPXOnRrbdcPW1DgKrSmX09IO5rOtLGXE6NwIOzwEOj-AV3z6a3-bfRRepKhVMakslJWljd24SZWvBTMDK2YFbQ0MVYQu_9FKRZlFw7V2uc6eQIJ1NHV3ZlMy5ExGp-FWSwmwltcjt1Rmb0D8MPzIqM4ulLX4dCnT--i9epe4W35hFqpJv3LrMPEYM--G1ZXYhRSRDBz1654SlGEG1LxDZ9SQh06yDtT48uydKc-7hA2gE8FoWjxuAiLE1rxvgtSJOKJEtG6_YwQe-D3Q8uxNnjeQH6Cus3mtajs2bABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGAKgBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAIA9IIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WMXw0L22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwi1oNG9tsyTAxU1Q_YIHWHSOXbwDQKIDgmwDuy15ZoY4BLH54XhocWipecB2BML0BUB8BWV066KAfoVBTE1ODk2yhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSArVRGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASADEgKXzPD_BwE&num=1&cid=CAQSbwAFq6B9EIIEpcvllAysy7mYcEWYAnpUxvlRSoGPFjDEC2EYfuGKlnouuuYvW_X_2N8uFm82tCAP8MhB9UkTVT8Q35l9QBjpq2eqEL-L0ooHBdg1To28rI5Nta2FDl7koot0uw7JpE5CZQo2-jBq3RgB&sig=AOD64_1iMj10uXds-qTslP3kZN6UY9SxKA&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/worek-prozniowy-wielokrotnego-uzytku-czerwony-30x36cm-100-sztuk-15896.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASADEgKXzPD_BwE
+                    - link [ref=f477e26] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CXI3k9PDMaZLQNLWG2fcP4aTnsQeL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCnwuYtQBnsz6oAwHIA8sEqgSVAk_QjKnOUTVeanCHIG8lgxGedEyjr-kZXO_x0XPKUMmH5EPr4aHPoMHpdbZgPVKSl55G-5BZUFR6ZIVPXOnRrbdcPW1DgKrSmX09IO5rOtLGXE6NwIOzwEOj-AV3z6a3-bfRRepKhVMakslJWljd24SZWvBTMDK2YFbQ0MVYQu_9FKRZlFw7V2uc6eQIJ1NHV3ZlMy5ExGp-FWSwmwltcjt1Rmb0D8MPzIqM4ulLX4dCnT--i9epe4W35hFqpJv3LrMPEYM--G1ZXYhRSRDBz1654SlGEG1LxDZ9SQh06yDtT48uydKc-7hA2gE8FoWjxuAiLE1rxvgtSJOKJEtG6_YwQe-D3Q8uxNnjeQH6Cus3mtajs2bABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGAOgBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAIBNIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WMXw0L22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwi1oNG9tsyTAxU1Q_YIHWHSOXbwDQKIDgmwDuy15ZoY4BLz2YKA5tiqwKkB2BML0BUB8BWV066KAfoVBTEyNjMyyhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSArVRGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASAEEgKvMPD_BwE&num=1&cid=CAQSbwAFq6B9EIIEpcvllAysy7mYcEWYAnpUxvlRSoGPFjDEC2EYfuGKlnouuuYvW_X_2N8uFm82tCAP8MhB9UkTVT8Q35l9QBjpq2eqEL-L0ooHBdg1To28rI5Nta2FDl7koot0uw7JpE5CZQo2-jBq3RgB&sig=AOD64_0d9hKmzdVcOalkPoY62UOKRYHa7g&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/woreczki-zip-autozamki-z-polem-opisowym-25x35cm-g160-100-sztuk-12632.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASAEEgKvMPD_BwE
+                    - link [ref=f477e31] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CDTzr9PDMaZLQNLWG2fcP4aTnsQeL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCnwuYtQBnsz6oAwHIA8sEqgSVAk_QjKnOUTVeanCHIG8lgxGedEyjr-kZXO_x0XPKUMmH5EPr4aHPoMHpdbZgPVKSl55G-5BZUFR6ZIVPXOnRrbdcPW1DgKrSmX09IO5rOtLGXE6NwIOzwEOj-AV3z6a3-bfRRepKhVMakslJWljd24SZWvBTMDK2YFbQ0MVYQu_9FKRZlFw7V2uc6eQIJ1NHV3ZlMy5ExGp-FWSwmwltcjt1Rmb0D8MPzIqM4ulLX4dCnT--i9epe4W35hFqpJv3LrMPEYM--G1ZXYhRSRDBz1654SlGEG1LxDZ9SQh06yDtT48uydKc-7hA2gE8FoWjxuAiLE1rxvgtSJOKJEtG6_YwQe-D3Q8uxNnjeQH6Cus3mtajs2bABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGASgBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAIBdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WMXw0L22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwi1oNG9tsyTAxU1Q_YIHWHSOXbwDQKIDgmwDuy15ZoY4BLVhe7V5qre5gjYEwvQFQHwFZXTrooB-hUFMTEyNDfKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICtVEYLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASAFEgJEWfD_BwE&num=1&cid=CAQSbwAFq6B9EIIEpcvllAysy7mYcEWYAnpUxvlRSoGPFjDEC2EYfuGKlnouuuYvW_X_2N8uFm82tCAP8MhB9UkTVT8Q35l9QBjpq2eqEL-L0ooHBdg1To28rI5Nta2FDl7koot0uw7JpE5CZQo2-jBq3RgB&sig=AOD64_0GvSmu9XbawMfMfpkP4r39f_ufnA&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/worki-polietylenowe-bezamkniecia-20x30cm-g-100-1000-sztuk-11247.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASAFEgJEWfD_BwE
+                    - link [ref=f477e36] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CpmjT9PDMaZLQNLWG2fcP4aTnsQeL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCnwuYtQBnsz6oAwHIA8sEqgSVAk_QjKnOUTVeanCHIG8lgxGedEyjr-kZXO_x0XPKUMmH5EPr4aHPoMHpdbZgPVKSl55G-5BZUFR6ZIVPXOnRrbdcPW1DgKrSmX09IO5rOtLGXE6NwIOzwEOj-AV3z6a3-bfRRepKhVMakslJWljd24SZWvBTMDK2YFbQ0MVYQu_9FKRZlFw7V2uc6eQIJ1NHV3ZlMy5ExGp-FWSwmwltcjt1Rmb0D8MPzIqM4ulLX4dCnT--i9epe4W35hFqpJv3LrMPEYM--G1ZXYhRSRDBz1654SlGEG1LxDZ9SQh06yDtT48uydKc-7hA2gE8FoWjxuAiLE1rxvgtSJOKJEtG6_YwQe-D3Q8uxNnjeQH6Cus3mtajs2bABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGAWgBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAIBtIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WMXw0L22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwi1oNG9tsyTAxU1Q_YIHWHSOXbwDQKIDgmwDuy15ZoY4BK9yrX-h7W8qOsB2BML0BUB8BWV066KAfoVBTExMjA1yhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSArVRGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASAGEgK57_D_BwE&num=1&cid=CAQSbwAFq6B9EIIEpcvllAysy7mYcEWYAnpUxvlRSoGPFjDEC2EYfuGKlnouuuYvW_X_2N8uFm82tCAP8MhB9UkTVT8Q35l9QBjpq2eqEL-L0ooHBdg1To28rI5Nta2FDl7koot0uw7JpE5CZQo2-jBq3RgB&sig=AOD64_24h2qPcKGnh7j1qrO2kopYyFEQCw&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/torby-pobb-z-warstwa-klejaca-i-zawieszka-euro-12x18cm-g160-100-sztuk-11205.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASAGEgK57_D_BwE
+                    - link [ref=f477e41] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CxHek9PDMaZLQNLWG2fcP4aTnsQeL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCnwuYtQBnsz6oAwHIA8sEqgSVAk_QjKnOUTVeanCHIG8lgxGedEyjr-kZXO_x0XPKUMmH5EPr4aHPoMHpdbZgPVKSl55G-5BZUFR6ZIVPXOnRrbdcPW1DgKrSmX09IO5rOtLGXE6NwIOzwEOj-AV3z6a3-bfRRepKhVMakslJWljd24SZWvBTMDK2YFbQ0MVYQu_9FKRZlFw7V2uc6eQIJ1NHV3ZlMy5ExGp-FWSwmwltcjt1Rmb0D8MPzIqM4ulLX4dCnT--i9epe4W35hFqpJv3LrMPEYM--G1ZXYhRSRDBz1654SlGEG1LxDZ9SQh06yDtT48uydKc-7hA2gE8FoWjxuAiLE1rxvgtSJOKJEtG6_YwQe-D3Q8uxNnjeQH6Cus3mtajs2bABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGAagBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAIB9IIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WMXw0L22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwi1oNG9tsyTAxU1Q_YIHWHSOXbwDQKIDgmwDuy15ZoY4BLmi7Hbi5zt-coB2BML0BUB8BWV066KAfoVBDI0NzPKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICtVEYLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASAHEgKPNvD_BwE&num=1&cid=CAQSbwAFq6B9EIIEpcvllAysy7mYcEWYAnpUxvlRSoGPFjDEC2EYfuGKlnouuuYvW_X_2N8uFm82tCAP8MhB9UkTVT8Q35l9QBjpq2eqEL-L0ooHBdg1To28rI5Nta2FDl7koot0uw7JpE5CZQo2-jBq3RgB&sig=AOD64_0UMNh5JVfzW6txBd8F3IV8UQu8Iw&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/woreczki-strunowe-zamkiem-zip-i-zawieszka-euro-6x8-cm-g200-1000-sztuk-2473.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASAHEgKPNvD_BwE
+                    - link [ref=f477e46] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CvwhT9PDMaZLQNLWG2fcP4aTnsQeL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCnwuYtQBnsz6oAwHIA8sEqgSVAk_QjKnOUTVeanCHIG8lgxGedEyjr-kZXO_x0XPKUMmH5EPr4aHPoMHpdbZgPVKSl55G-5BZUFR6ZIVPXOnRrbdcPW1DgKrSmX09IO5rOtLGXE6NwIOzwEOj-AV3z6a3-bfRRepKhVMakslJWljd24SZWvBTMDK2YFbQ0MVYQu_9FKRZlFw7V2uc6eQIJ1NHV3ZlMy5ExGp-FWSwmwltcjt1Rmb0D8MPzIqM4ulLX4dCnT--i9epe4W35hFqpJv3LrMPEYM--G1ZXYhRSRDBz1654SlGEG1LxDZ9SQh06yDtT48uydKc-7hA2gE8FoWjxuAiLE1rxvgtSJOKJEtG6_YwQe-D3Q8uxNnjeQH6Cus3mtajs2bABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGAegBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAICNIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WMXw0L22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwi1oNG9tsyTAxU1Q_YIHWHSOXbwDQKIDgmwDuy15ZoY4BKNmsCms4njrFjYEwvQFQHwFZXTrooB-hUEMzcwMsoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgK1URguIgEA0BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASAIEgJP8_D_BwE&num=1&cid=CAQSbwAFq6B9EIIEpcvllAysy7mYcEWYAnpUxvlRSoGPFjDEC2EYfuGKlnouuuYvW_X_2N8uFm82tCAP8MhB9UkTVT8Q35l9QBjpq2eqEL-L0ooHBdg1To28rI5Nta2FDl7koot0uw7JpE5CZQo2-jBq3RgB&sig=AOD64_1a_nOCGlia25IuAn075aF2g3VSwA&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/torby-polietylenowe-autozamki-i-kieszonka-23x3226cm-g200-1000-sztuk-3702.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASAIEgJP8_D_BwE
+                    - link [ref=f477e51] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cnpo69PDMaZLQNLWG2fcP4aTnsQeL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCnwuYtQBnsz6oAwHIA8sEqgSVAk_QjKnOUTVeanCHIG8lgxGedEyjr-kZXO_x0XPKUMmH5EPr4aHPoMHpdbZgPVKSl55G-5BZUFR6ZIVPXOnRrbdcPW1DgKrSmX09IO5rOtLGXE6NwIOzwEOj-AV3z6a3-bfRRepKhVMakslJWljd24SZWvBTMDK2YFbQ0MVYQu_9FKRZlFw7V2uc6eQIJ1NHV3ZlMy5ExGp-FWSwmwltcjt1Rmb0D8MPzIqM4ulLX4dCnT--i9epe4W35hFqpJv3LrMPEYM--G1ZXYhRSRDBz1654SlGEG1LxDZ9SQh06yDtT48uydKc-7hA2gE8FoWjxuAiLE1rxvgtSJOKJEtG6_YwQe-D3Q8uxNnjeQH6Cus3mtajs2bABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGAigBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAICdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WMXw0L22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwi1oNG9tsyTAxU1Q_YIHWHSOXbwDQKIDgmwDuy15ZoY4BLV3JnM08idkp4B2BML0BUB8BWV066KAfoVBDI0NDTKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICtVEYLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASAJEgIo1fD_BwE&num=1&cid=CAQSbwAFq6B9EIIEpcvllAysy7mYcEWYAnpUxvlRSoGPFjDEC2EYfuGKlnouuuYvW_X_2N8uFm82tCAP8MhB9UkTVT8Q35l9QBjpq2eqEL-L0ooHBdg1To28rI5Nta2FDl7koot0uw7JpE5CZQo2-jBq3RgB&sig=AOD64_1YusziLJh90WHYpnT4iPAjzWh9rA&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/woreczki-zip-strunowe-z-polem-opisowym-8x12cm-g200-100-sztuk-2444.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASAJEgIo1fD_BwE
+                    - link [ref=f477e56] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CRaH99PDMaZLQNLWG2fcP4aTnsQeL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCnwuYtQBnsz6oAwHIA8sEqgSVAk_QjKnOUTVeanCHIG8lgxGedEyjr-kZXO_x0XPKUMmH5EPr4aHPoMHpdbZgPVKSl55G-5BZUFR6ZIVPXOnRrbdcPW1DgKrSmX09IO5rOtLGXE6NwIOzwEOj-AV3z6a3-bfRRepKhVMakslJWljd24SZWvBTMDK2YFbQ0MVYQu_9FKRZlFw7V2uc6eQIJ1NHV3ZlMy5ExGp-FWSwmwltcjt1Rmb0D8MPzIqM4ulLX4dCnT--i9epe4W35hFqpJv3LrMPEYM--G1ZXYhRSRDBz1654SlGEG1LxDZ9SQh06yDtT48uydKc-7hA2gE8FoWjxuAiLE1rxvgtSJOKJEtG6_YwQe-D3Q8uxNnjeQH6Cus3mtajs2bABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGAmgBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAICtIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WMXw0L22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwi1oNG9tsyTAxU1Q_YIHWHSOXbwDQKIDgmwDuy15ZoY4BKzjcD2jKLt4JYB2BML0BUB8BWV066KAfoVBTEyNjE5yhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSArVRGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASAKEgK1XPD_BwE&num=1&cid=CAQSbwAFq6B9EIIEpcvllAysy7mYcEWYAnpUxvlRSoGPFjDEC2EYfuGKlnouuuYvW_X_2N8uFm82tCAP8MhB9UkTVT8Q35l9QBjpq2eqEL-L0ooHBdg1To28rI5Nta2FDl7koot0uw7JpE5CZQo2-jBq3RgB&sig=AOD64_02VnB6J-_0_PxWuwDfSUMay9h9lQ&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/woreczki-strunowe-zamkiem-zip-23x32cm-g160-1000-sztuk-12619.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASAKEgK1XPD_BwE
+                    - link [ref=f477e61] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CM3y_9PDMaZLQNLWG2fcP4aTnsQeL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCnwuYtQBnsz6oAwHIA8sEqgSVAk_QjKnOUTVeanCHIG8lgxGedEyjr-kZXO_x0XPKUMmH5EPr4aHPoMHpdbZgPVKSl55G-5BZUFR6ZIVPXOnRrbdcPW1DgKrSmX09IO5rOtLGXE6NwIOzwEOj-AV3z6a3-bfRRepKhVMakslJWljd24SZWvBTMDK2YFbQ0MVYQu_9FKRZlFw7V2uc6eQIJ1NHV3ZlMy5ExGp-FWSwmwltcjt1Rmb0D8MPzIqM4ulLX4dCnT--i9epe4W35hFqpJv3LrMPEYM--G1ZXYhRSRDBz1654SlGEG1LxDZ9SQh06yDtT48uydKc-7hA2gE8FoWjxuAiLE1rxvgtSJOKJEtG6_YwQe-D3Q8uxNnjeQH6Cus3mtajs2bABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGAqgBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAIC9IIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WMXw0L22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwi1oNG9tsyTAxU1Q_YIHWHSOXbwDQKIDgmwDuy15ZoY4BKS1ZrU7cvYjtsB2BML0BUB8BWV066KAfoVBDI1NjLKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICtVEYLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASALEgIoyfD_BwE&num=1&cid=CAQSbwAFq6B9EIIEpcvllAysy7mYcEWYAnpUxvlRSoGPFjDEC2EYfuGKlnouuuYvW_X_2N8uFm82tCAP8MhB9UkTVT8Q35l9QBjpq2eqEL-L0ooHBdg1To28rI5Nta2FDl7koot0uw7JpE5CZQo2-jBq3RgB&sig=AOD64_0xbqR3tlZZt9imToSZ0O1bbJzDiA&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/torby-pobb-z-warstwa-klejaca-i-zawieszka-euro-8x12cm-g160-1000-sztuk-2562.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASALEgIoyfD_BwE
+                    - link [ref=f477e66] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C14U89PDMaZLQNLWG2fcP4aTnsQeL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCnwuYtQBnsz6oAwHIA8sEqgSVAk_QjKnOUTVeanCHIG8lgxGedEyjr-kZXO_x0XPKUMmH5EPr4aHPoMHpdbZgPVKSl55G-5BZUFR6ZIVPXOnRrbdcPW1DgKrSmX09IO5rOtLGXE6NwIOzwEOj-AV3z6a3-bfRRepKhVMakslJWljd24SZWvBTMDK2YFbQ0MVYQu_9FKRZlFw7V2uc6eQIJ1NHV3ZlMy5ExGp-FWSwmwltcjt1Rmb0D8MPzIqM4ulLX4dCnT--i9epe4W35hFqpJv3LrMPEYM--G1ZXYhRSRDBz1654SlGEG1LxDZ9SQh06yDtT48uydKc-7hA2gE8FoWjxuAiLE1rxvgtSJOKJEtG6_YwQe-D3Q8uxNnjeQH6Cus3mtajs2bABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGAugBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAIDNIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WMXw0L22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwi1oNG9tsyTAxU1Q_YIHWHSOXbwDQKIDgmwDuy15ZoY4BKTqaOnvpOGzqwB2BML0BUB8BWV066KAfoVBDIzODnKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICtVEYLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASAMEgIi5_D_BwE&num=1&cid=CAQSbwAFq6B9EIIEpcvllAysy7mYcEWYAnpUxvlRSoGPFjDEC2EYfuGKlnouuuYvW_X_2N8uFm82tCAP8MhB9UkTVT8Q35l9QBjpq2eqEL-L0ooHBdg1To28rI5Nta2FDl7koot0uw7JpE5CZQo2-jBq3RgB&sig=AOD64_3iJcrisRgcUw-uIXCJ-WP3bDf6pg&ctype=5&client=ca-pub-6525291204356869&nb=9&adurl=https://www.monouso.pl/worki-polietylenowe-bezamkniecia-16x22cm-g-100-1000-sztuk-2389.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASAMEgIi5_D_BwE
+                  - link "Torby papierowe i plastikowe" [ref=f477e69] [cursor=pointer]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=ChGkW9PDMaZLQNLWG2fcP4aTnsQeL1fLLd7bG8YWtFZzgwovBARABIPrd4Tdg6eTKheAaoAGY5fO2KsgBCakCnwuYtQBnsz6oAwHIA8sEqgSVAk_QjKnOUTVeanCHIG8lgxGedEyjr-kZXO_x0XPKUMmH5EPr4aHPoMHpdbZgPVKSl55G-5BZUFR6ZIVPXOnRrbdcPW1DgKrSmX09IO5rOtLGXE6NwIOzwEOj-AV3z6a3-bfRRepKhVMakslJWljd24SZWvBTMDK2YFbQ0MVYQu_9FKRZlFw7V2uc6eQIJ1NHV3ZlMy5ExGp-FWSwmwltcjt1Rmb0D8MPzIqM4ulLX4dCnT--i9epe4W35hFqpJv3LrMPEYM--G1ZXYhRSRDBz1654SlGEG1LxDZ9SQh06yDtT48uydKc-7hA2gE8FoWjxuAiLE1rxvgtSJOKJEtG6_YwQe-D3Q8uxNnjeQH6Cus3mtajs2bABO-LrZj8BIgF6K3QglLABQX6BQYIJRABGACgBi6AB5idxJYFqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAtgHAMAIAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WMXw0L22zJMDgAoBkAsDmAsByAsBgAwBogwCSAGqDQJQTMgNAeoNEwi1oNG9tsyTAxU1Q_YIHWHSOXbwDQKIDgmwDuy15ZoY4BKyxr-n85zl4aIB2BML0BUB8BWV066KAfoVBDI0NDbKFgIKAPgWAYAXAbIXBBgBUAa6FwI4AbIYCRICtVEYLiIBANAYAcIZAggB&ae=1&gclid=EAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASABEgKsivD_BwE&num=1&cid=CAQSbwAFq6B9EIIEpcvllAysy7mYcEWYAnpUxvlRSoGPFjDEC2EYfuGKlnouuuYvW_X_2N8uFm82tCAP8MhB9UkTVT8Q35l9QBjpq2eqEL-L0ooHBdg1To28rI5Nta2FDl7koot0uw7JpE5CZQo2-jBq3RgB&sig=AOD64_2h31MOfXR0extPrudZaE1rflocyw&ctype=5&client=ca-pub-6525291204356869&nb=19&adurl=https://www.monouso.pl/woreczki-zip-strunowe-z-polem-opisowym-10x15cm-g200-100-sztuk-2446.html%3Fgad_source%3D5%26gad_campaignid%3D22017218280%26gclid%3DEAIaIQobChMIkprRvbbMkwMVNUP2CB1h0jl2EAEYASABEgKsivD_BwE
+                    - generic [ref=f477e70]:
+                      - img [ref=f477e72]
+                      - generic [ref=f477e75]: Torby papierowe i plastikowe
+                - img [ref=f477e79] [cursor=pointer]
+                - button [ref=f477e81] [cursor=pointer]:
+                  - img [ref=f477e82]
+                - iframe
+          - generic [ref=e157]:
+            - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e158]
+            - list [ref=e160]:
+              - listitem [ref=e161]:
+                - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e162] [cursor=pointer]:
+                  - /url: https://propolski.com/gramatyka-jezyka-polskiego/przypadki-rzeczownikow-i-przymiotnikow/?share=facebook&nb=1
+                  - text: 
+              - listitem [ref=e163]:
+                - link "Поделиться в Pinterest (Открывается в новом окне)" [ref=e164] [cursor=pointer]:
+                  - /url: https://propolski.com/gramatyka-jezyka-polskiego/przypadki-rzeczownikow-i-przymiotnikow/?share=pinterest&nb=1
+                  - text: 
+              - listitem [ref=e165]:
+                - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e166] [cursor=pointer]:
+                  - /url: https://propolski.com/gramatyka-jezyka-polskiego/przypadki-rzeczownikow-i-przymiotnikow/?share=telegram&nb=1
+                  - text: 
+              - listitem [ref=e167]:
+                - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e168] [cursor=pointer]:
+                  - /url: https://propolski.com/gramatyka-jezyka-polskiego/przypadki-rzeczownikow-i-przymiotnikow/?share=jetpack-whatsapp&nb=1
+                  - text: 
+              - listitem [ref=e169]:
+                - link "Поделиться в Х (Открывается в новом окне)" [ref=e170] [cursor=pointer]:
+                  - /url: https://propolski.com/gramatyka-jezyka-polskiego/przypadki-rzeczownikow-i-przymiotnikow/?share=x&nb=1
+                  - text: 
+              - listitem [ref=e171]:
+                - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e172] [cursor=pointer]:
+                  - /url: https://propolski.com/gramatyka-jezyka-polskiego/przypadki-rzeczownikow-i-przymiotnikow/?share=linkedin&nb=1
+                  - text: 
+              - listitem [ref=e173]:
+                - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e174] [cursor=pointer]:
+                  - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20%D0%9F%D0%B0%D0%B4%D0%B5%D0%B6%D0%B8%20%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B8%20%D0%BF%D1%80%D0%B8%D0%BB%D0%B0%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B2%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC&body=https%3A%2F%2Fpropolski.com%2Fgramatyka-jezyka-polskiego%2Fprzypadki-rzeczownikow-i-przymiotnikow%2F&share=email&nb=1
+                  - text: 
+              - listitem [ref=e175]:
+                - link "Печать (Открывается в новом окне)" [ref=e176] [cursor=pointer]:
+                  - /url: https://propolski.com/gramatyka-jezyka-polskiego/przypadki-rzeczownikow-i-przymiotnikow/#print?share=print&nb=1
+                  - text: 
+              - listitem
+      - generic [ref=e178]:
+        - heading "Добавить комментарий" [level=3] [ref=e179]: Добавить комментарий
+        - iframe [ref=e181]:
+          
+    - contentinfo [ref=e182]:
+      - generic [ref=e185]:
+        - complementary [ref=e187]:
+          - heading "Полезные ссылки" [level=3] [ref=e188]
+          - list [ref=e190]:
+            - listitem [ref=e191]:
+              - link "Тесты по польскому языку" [ref=e192] [cursor=pointer]:
+                - /url: https://testy.propolski.com/
+            - listitem [ref=e193]:
+              - link "Статьи о Польше" [ref=e194] [cursor=pointer]:
+                - /url: https://insidepl.com/
+            - listitem [ref=e195]:
+              - link "Лучший хостинг" [ref=e196] [cursor=pointer]:
+                - /url: https://www.lh.pl/?ref=kettibellya
+        - complementary [ref=e198]:
+          - heading "Что такое ProPolski" [level=3] [ref=e199]
+          - list [ref=e201]:
+            - listitem [ref=e202]:
+              - link "Об авторе" [ref=e203] [cursor=pointer]:
+                - /url: https://propolski.com/autor/
+            - listitem [ref=e204]:
+              - link "Мои ответы на вопросы" [ref=e205] [cursor=pointer]:
+                - /url: https://propolski.com/?p=1811
+            - listitem [ref=e206]:
+              - link "Курс для начинающих" [ref=e207] [cursor=pointer]:
+                - /url: https://kursy.propolski.com/
+            - listitem [ref=e208]:
+              - link "Бесплатная подписка" [ref=e209] [cursor=pointer]:
+                - /url: https://propolski.com/kontakt/
+            - listitem [ref=e210]:
+              - link "Политика конфиденциальности" [ref=e211] [cursor=pointer]:
+                - /url: https://propolski.com/privacy-policy-2/
+        - complementary [ref=e213]:
+          - heading "Блог был для вас полезен?" [level=3] [ref=e214]
+          - generic [ref=e215]:
+            - paragraph [ref=e216]: Если вам понравилось, если было полезно, то ваша финансовая поддержка поможет мне писать чаще и еще интереснее!
+            - link "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e218] [cursor=pointer]:
+              - /url: https://www.patreon.com/propolski
+              - img "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e219]
+            - link "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e221] [cursor=pointer]:
+              - /url: https://www.paypal.me/propolski
+              - img "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e222]
+        - complementary [ref=e224]:
+          - paragraph [ref=e226]:
+            - text: Запроектировано с помощью Freepik.com
+            - strong [ref=e227]: Все права защищены.
+            - text: Материалы
+            - strong [ref=e228]: не копировать
+            - text: для использования на других страницах, для этого внизу каждой статьи есть кнопочка «поделиться».
+      - generic [ref=e229]:
+        - generic:
+          - generic:
+            - generic [ref=e230]:
+              - text: Copyright © 2026
+              - link "ProPolski" [ref=e231] [cursor=pointer]:
+                - /url: https://propolski.com/
+              - text: . Все права защищены. Тема
+              - link "Spacious" [ref=e232] [cursor=pointer]:
+                - /url: https://themegrill.com/themes/spacious
+              - text: "от ThemeGrill. На платформе:"
+              - link "WordPress" [ref=e233] [cursor=pointer]:
+                - /url: https://wordpress.org
+              - text: .
+            - navigation [ref=e234]:
+              - generic:
+                - list:
+                  - listitem [ref=e235]:
+                    - link "Об авторе" [ref=e236] [cursor=pointer]:
+                      - /url: https://propolski.com/autor/
+                  - listitem [ref=e237]:
+                    - link "Мои ответы на вопросы" [ref=e238] [cursor=pointer]:
+                      - /url: https://propolski.com/?p=1811
+                  - listitem [ref=e239]:
+                    - link "Курс для начинающих" [ref=e240] [cursor=pointer]:
+                      - /url: https://kursy.propolski.com/
+                  - listitem [ref=e241]:
+                    - link "Бесплатная подписка" [ref=e242] [cursor=pointer]:
+                      - /url: https://propolski.com/kontakt/
+                  - listitem [ref=e243]:
+                    - link "Политика конфиденциальности" [ref=e244] [cursor=pointer]:
+                      - /url: https://propolski.com/privacy-policy-2/
+    - text: 
+    - generic [ref=e246]:
+      - button "Privacy and cookie settings" [ref=e247] [cursor=pointer]
+      - generic [ref=e248]: "Managed by Google. Complies with IAB TCF. CMP ID: 300"
+  - insertion [ref=e249]:
+    - iframe [ref=e252]:
+      - iframe [ref=f479e1]:
+        - generic [active]:
+          - link "Click Here" [ref=f483e3] [cursor=pointer]:
+            - /url: https://googleads.g.doubleclick.net/dbm/clk?sa=L&ai=CHnug8_DMafPDNuCz2fcPn7OMmAbolOubgQGSoqLjnhW1rYmv7UUQASD63eE3YOnkyoXgGqAB_LOazz7IAQmoAwHIA5sEqgTvAU_Q95EWI1MZ4Nts0IH8puYbAm_3MCHVi1IyGmutUgeFGsHsjiZkJe5bj4DHLHEvejfkujr5yI1Yamdx7kWWhl8H26CJUZ7wfXOnxzo7v7S-cAwheLPdONoUZFNI7S3g97M9tG7LPmFBZ7ykztx7kr26l2q3PW-SQUwXPDMOHPYeSF4FX4b7-5IRw9541MyPlOmZ8QXOb-qhKg93IW-pRqqhu27-2c6Htj6Wlq1Ifb0FKj_LKXXFc8KQsKgPFDQVqduS94QIAj9e1wfIA2f75ifzBfZUADHAxKFmGw7a8zp-coKtSVZ0RQ8jg3M2juhTwASxy9CSkgXgBAOIBeKu-fdSkAYBoAZNgAf86-quGagHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAqgH59exAtgHANIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WJjZlb22zJMDgAoBmAsByAsBgAwBqg0CUEzqDRMI9Y6WvbbMkwMV4Fn2CB2fGQNj8A0BiA4JsBOMn78h0BMA2BMN2BQB0BUByhYCCgD4FgGAFwGyFwQYAlAGshgJEgKdYxhNIgEA0BkB2BkB&ae=1&num=1&cid=CAQSbwAFq6B90tXBObVZqTZUcDJj_d9aszvN4UYgctKhQrxW3-ASwDRPSPfe-yV4yOY6TpPHLrQWhFnRTmOpK_phqNgr_-NzbgDHn17PcCdF9WBEeTAbNCEQSoXE-rAVxCtC2SMf1xfVAL0L1w8arCXsrBgB&sig=AOD64_3xqIQ9LvDTLaYxBGk2nApK2ztOfA&client=ca-pub-6525291204356869&dbm_c=AKAmf-A5KRczeKaSqzBtUxizTopUZYg03qq92Mi0cKdyTERO-pCXvZIaxS0KmlvV-QwWOnprjCPbMGAqZQZyAKBlB4iGfkg6rGCpNDELJmvDmKiI40ZdZ13bGOhLjVDTEUdst5U125Id9i0L6184az-tVCGRm5cWsaz27zFqxDnxQeWZ6YAla3U9NMIqew9H4rBWyGlcqF2ceqDdmFHPUo_g3xJtE9XVoiIbaXmk4B3zEcp-uKH_Je4pKvNeXRy89sn85mRvlYafZ6_WZxb-dcTOoPRNQgCC0w&cry=1&dbm_d=AKAmf-Dci__ZmGn4NpQ_iwliz9z9S8adx4aVzSA0LY9zT0IIvUTBsv4qTyixuKqALKtnf6Hr4VdpFrCXnrJzUOSKbB074ja4dSpbWRiHXj0LPEhJzNwTiz0wOQaMtTwLbiWM0TuI3cWVxAl4TMN6zixubNchNZCcwGrVMtpcOBV-fZYX6iopzeWH1y-Pf-mp_n7LoFuUbMi83wjek8AeAtOej7dKaBBtIUI7DCvp0cRO2-pHzNVRq3ZRpfK1ML1AbHsiNK653vU3eDTQq6A_j-IP0N1h5aBZCryXfOIsFcNu6Sn6NYvbDuJDPu03hsN_Xw8zbKEb_gkL6Nfp95jt-Rks1WVsHNCqZUl6bT9dXzO5cBq2Pm-Nwm3bma19kQ6ZRBUk8tE7bOJvMTwFS8U_a4WUwxoK48JF2a_HM5V70PV2XoZ4aBDNJHYXiwojByz2flFYd1yAQkt2mXNWvIZtvnGl0xMcjlY1Y0vwzx0sU5B0VFkf__feC4sGNPnR1wCrjmnageOxaRvqKNgRkyU7gLOwzGxYjH4lNeJobd1FDfRmJmKLM0Wdd4jsXD8Uwxq5OmZwwjqb-V8P8EThslUW5kpY1ztL_w7zRlusUMd3z-pzsDt-eaBOLvrEJGwbd4zephP4FYMsteRjA18NgRSoRCYxx68TKIl0Escme76qCUHbElCjj5cDk1klZLbsC7HBTp5PFe7QM_9uFbMjWI6CygHfVA_mICYk_CG4DFHSOLOJyXC2YoMhkLNxhj1xCRgxhpEpnL2USPEz&adurl=https://servedby.flashtalking.com/click/1/271278;9331266;5394153;210;0/?us_privacy=!!US_PRIVACY!&gdpr_consent=CQh-8AAQh-8AAEsACBENCYFoAP_gAEPgACgAK3oB_C7EbCFCiDJ3IKMEMAhHABBAYsAwAAYBAwAADBIQIAQCgkEYBASAFCACCAAAKASBAAAgCAAAAUAAIAAFAABAAAwAIBAIIAAAgAAAAEAIAAAACIAAEQCAAAAEAEAAkAgAAAIASEAAAAAAAACBAAAAAAAAAAAAAAAABAEAAQAAQAAAAAAAiAAAAAAAABAIAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAABAAAAAAAQgsIgH8LsRsIUKIMFcgowQwCFcAEABiwDAABgEDAAAMEhAgBAKSQRIEAIAQIAAIAAAgBAEAACgICAAAQAAAABUAAEAADAAgEAgAQACAAABAQAAAAAAIgAARAIAAAAQAQACACAAAAgBIQAAAAAAAAIEAAAAAAAAAAAAAAAAAAQAAIADAAAAAAACIAAAAAAAAEAgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAQAA.ILCIB_C7EbCFCiDJ3IKMEMAhXABBAYsAwAAYBAwAADBIQIAQCkkEaBASAFCACCAAAKASBAAAoCAgAAUAAIAAVAABAAAwAIBAIIEAAgAAAQEAIAAAACIAAEQCAAAAEAEAAkAgAAAIASEAAAAAAAACBAAAAAAAAAAAAAAAABAEAASAAwAAAAAAAiAAAAAAAABAIEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAABAAAAAAAQgAAE&gdpr=1&ft_partnerimpid=ABAjH0iq1il20PEZeFKh_pMo2FCR&ft_impID=7BF4B2ED-0DD6-0ECA-199C-002B8B016B09&g=6665EF3EBAA31A&random=741635.2489225218&ft_width=728&ft_height=90&url=https://www.adobe.com/pl/products/illustrator.html?sdid=HCS3XFW4&mv=display&mv2=display
+            - img "Click Here" [ref=f483e4]
+          - iframe

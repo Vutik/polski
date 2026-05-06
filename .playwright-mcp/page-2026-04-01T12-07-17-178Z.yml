@@ -1,0 +1,1002 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Перейти к содержимому" [ref=e3] [cursor=pointer]:
+      - /url: "#main"
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - generic [ref=e8]:
+          - link " Просмотреть профиль propolskiblog на Facebook" [ref=e9] [cursor=pointer]:
+            - /url: https://www.facebook.com/propolskiblog/
+            - text: 
+            - generic [ref=e10]: Просмотреть профиль propolskiblog на Facebook
+          - link " Просмотреть профиль PROpolski_com на Twitter" [ref=e11] [cursor=pointer]:
+            - /url: https://twitter.com/PROpolski_com/
+            - text: 
+            - generic [ref=e12]: Просмотреть профиль PROpolski_com на Twitter
+          - link " Просмотреть профиль propolski на Instagram" [ref=e13] [cursor=pointer]:
+            - /url: https://www.instagram.com/propolski/
+            - text: 
+            - generic [ref=e14]: Просмотреть профиль propolski на Instagram
+          - link " Просмотреть профиль propolskiblog на Pinterest" [ref=e15] [cursor=pointer]:
+            - /url: https://www.pinterest.com/propolskiblog/
+            - text: 
+            - generic [ref=e16]: Просмотреть профиль propolskiblog на Pinterest
+          - link " Просмотреть профиль kateryna-lukianova-78b0a2ab на LinkedIn" [ref=e17] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/kateryna-lukianova-78b0a2ab/
+            - text: 
+            - generic [ref=e18]: Просмотреть профиль kateryna-lukianova-78b0a2ab на LinkedIn
+          - link " Просмотреть профиль UCg0djfCucaVv9spNr2yPv-A на YouTube" [ref=e19] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCg0djfCucaVv9spNr2yPv-A/
+            - text: 
+            - generic [ref=e20]: Просмотреть профиль UCg0djfCucaVv9spNr2yPv-A на YouTube
+          - link " Просмотреть профиль propolskiblog на Telegram" [ref=e21] [cursor=pointer]:
+            - /url: https://www.t.me/propolski_kurs/
+            - text: 
+            - generic [ref=e22]: Просмотреть профиль propolskiblog на Telegram
+        - navigation [ref=e23]:
+          - generic:
+            - list:
+              - listitem [ref=e24]:
+                - link "Українська" [ref=e25] [cursor=pointer]:
+                  - /url: https://propolski.com/uk/2022/08/08/vyniatky-ta-osoblyvosti-polskykh-imennykiv/
+              - listitem [ref=e26]:
+                - link "Русский" [ref=e27] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/04/11/polskie-rzeczowniki-wyjatki/
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - link "ProPolski - блог о польском языке" [ref=e33] [cursor=pointer]:
+            - /url: https://propolski.com/
+            - img "ProPolski - блог о польском языке" [ref=e34]
+          - generic [ref=e35]:
+            - heading "ProPolski" [level=3] [ref=e36]:
+              - link "ProPolski" [ref=e37] [cursor=pointer]:
+                - /url: https://propolski.com/
+            - paragraph [ref=e38]: Блог о польском языке
+        - generic [ref=e39]:
+          - complementary [ref=e41]:
+            - generic [ref=e43]:
+              - textbox "Поиск" [ref=e44]
+              - button "" [ref=e45] [cursor=pointer]
+          - navigation [ref=e46]:
+            - text: ≡
+            - generic [ref=e47]:
+              - text: 
+              - list [ref=e48]:
+                - listitem [ref=e49]:
+                  - link "ВСЕ СТАТЬИ" [ref=e50] [cursor=pointer]:
+                    - /url: https://propolski.com/sitemap/
+                - listitem [ref=e51]:
+                  - link "Учить" [ref=e52] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Учить
+                    - generic [ref=e53]: 
+                - listitem [ref=e54]:
+                  - link "Читать" [ref=e55] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Читать
+                    - generic [ref=e56]: 
+                - listitem [ref=e57]:
+                  - link "Смотреть/слушать" [ref=e58] [cursor=pointer]:
+                    - /url: https://propolski.com/wideo-audio-po-polsku/
+                    - text: Смотреть/слушать
+                    - generic [ref=e59]: 
+                - listitem [ref=e60]:
+                  - link "Польшa" [ref=e61] [cursor=pointer]:
+                    - /url: https://propolski.com/polska/
+                - listitem [ref=e62]:
+                  - link "Подписка" [ref=e63] [cursor=pointer]:
+                    - /url: https://propolski.com/kontakt/
+                - listitem [ref=e64]:
+                  - link "КУРС" [ref=e65] [cursor=pointer]:
+                    - /url: https://kursy.propolski.com/uk/
+      - generic [ref=e66]:
+        - generic:
+          - heading "Исключения и особенности польских существительных" [level=1] [ref=e68]
+          - generic [ref=e69]:
+            - text: "Вы здесь:"
+            - generic [ref=e70]:
+              - link "Главная" [ref=e72] [cursor=pointer]:
+                - /url: https://propolski.com/
+              - text: »
+              - link "Польська граматика" [ref=e74] [cursor=pointer]:
+                - /url: https://propolski.com/uk/category/polska-gramatyka/
+              - text: »
+              - strong [ref=e76]: Исключения и особенности польских существительных
+    - insertion [ref=e78]:
+      - iframe [ref=e80]:
+        - generic [active] [ref=f778e1]:
+          - generic [ref=f778e6]:
+            - generic [ref=f778e7]:
+              - generic "GetResponse" [ref=f778e9]:
+                - link "Zacznij za darmo" [ref=f778e10] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CiZIPcwrNabuVE-uz2fcPw_HikQHbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgT3AU_QdptgkjrEgh0LWBsR63vBHx9povBVEBFZ2Q-SUthdvjR2q0_GqISkELgW3m0gM3TE1C1xIvAilIA8Rc_LlOoYmZseFOYUih-weJjH0KHSszyKyvPgMPgtgmh_m528g1pG-GhwYuBdDXlGBkKUiG0lNHxLTEKF2N6wPeUzwrulFZfq42P3mjPw1xp9f56d-nhiv513FHHLT0bXZ3YSJxnNidsxY1FVp6JhrI07QochywbBC-ItdGW7bGAdMDiP3yAR6MsEyazRDMzKh9BP24a-Wy6qLOuMuRC0WSFi8H0fsh1ZS829GNan-fNpBCuX6t6UrQ3vWUvABMXpss-sBYgF6ZmFoE6AB7WHsOcDqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYie3X5c7MkwOxCYVXIQDFUnzcgAoBmAsByAsBqg0CUEzIDQHqDRMIlKDY5c7MkwMV61n2CB3DuDgS8A0CiA4JsA7G1e7TGNgTC9AVAcoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI-5rY5c7MkwMV61n2CB3DuDgSEAEYASAAEgJ_cvD_BwE&num=1&cid=CAQSbwAFq6B9RLld4JFHtatWWcHGE-iDRKg80Gng3XLPpR7HGQbZglAIHceeFsv_eN5zC9C9K3KvXxOyCj0SvHPindYgFrCP4T_KDPJBZgnh537eQdqhzYPx2-DuacDDvtfE_jOt4lswVsZa7mpaBvgM9xgB&sig=AOD64_2Pd3XPCRneYFrLVtZlS6HsZD5tlg&client=ca-pub-6525291204356869&rf=1&nb=0&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMI-5rY5c7MkwMV61n2CB3DuDgSEAEYASAAEgJ_cvD_BwE
+              - generic [ref=f778e11]:
+                - link "Nieograniczone wysyłki emaili, kampanie AI i gotowe procesy ecommerce w jednej platformie." [ref=f778e13] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CiZIPcwrNabuVE-uz2fcPw_HikQHbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgT3AU_QdptgkjrEgh0LWBsR63vBHx9povBVEBFZ2Q-SUthdvjR2q0_GqISkELgW3m0gM3TE1C1xIvAilIA8Rc_LlOoYmZseFOYUih-weJjH0KHSszyKyvPgMPgtgmh_m528g1pG-GhwYuBdDXlGBkKUiG0lNHxLTEKF2N6wPeUzwrulFZfq42P3mjPw1xp9f56d-nhiv513FHHLT0bXZ3YSJxnNidsxY1FVp6JhrI07QochywbBC-ItdGW7bGAdMDiP3yAR6MsEyazRDMzKh9BP24a-Wy6qLOuMuRC0WSFi8H0fsh1ZS829GNan-fNpBCuX6t6UrQ3vWUvABMXpss-sBYgF6ZmFoE6AB7WHsOcDqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYie3X5c7MkwOxCYVXIQDFUnzcgAoBmAsByAsBqg0CUEzIDQHqDRMIlKDY5c7MkwMV61n2CB3DuDgS8A0CiA4JsA7G1e7TGNgTC9AVAcoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI-5rY5c7MkwMV61n2CB3DuDgSEAEYASAAEgJ_cvD_BwE&num=1&cid=CAQSbwAFq6B9RLld4JFHtatWWcHGE-iDRKg80Gng3XLPpR7HGQbZglAIHceeFsv_eN5zC9C9K3KvXxOyCj0SvHPindYgFrCP4T_KDPJBZgnh537eQdqhzYPx2-DuacDDvtfE_jOt4lswVsZa7mpaBvgM9xgB&sig=AOD64_2Pd3XPCRneYFrLVtZlS6HsZD5tlg&client=ca-pub-6525291204356869&rf=1&nb=7&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMI-5rY5c7MkwMV61n2CB3DuDgSEAEYASAAEgJ_cvD_BwE
+                - link [ref=f778e14] [cursor=pointer]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CiZIPcwrNabuVE-uz2fcPw_HikQHbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgT3AU_QdptgkjrEgh0LWBsR63vBHx9povBVEBFZ2Q-SUthdvjR2q0_GqISkELgW3m0gM3TE1C1xIvAilIA8Rc_LlOoYmZseFOYUih-weJjH0KHSszyKyvPgMPgtgmh_m528g1pG-GhwYuBdDXlGBkKUiG0lNHxLTEKF2N6wPeUzwrulFZfq42P3mjPw1xp9f56d-nhiv513FHHLT0bXZ3YSJxnNidsxY1FVp6JhrI07QochywbBC-ItdGW7bGAdMDiP3yAR6MsEyazRDMzKh9BP24a-Wy6qLOuMuRC0WSFi8H0fsh1ZS829GNan-fNpBCuX6t6UrQ3vWUvABMXpss-sBYgF6ZmFoE6AB7WHsOcDqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYie3X5c7MkwOxCYVXIQDFUnzcgAoBmAsByAsBqg0CUEzIDQHqDRMIlKDY5c7MkwMV61n2CB3DuDgS8A0CiA4JsA7G1e7TGNgTC9AVAcoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI-5rY5c7MkwMV61n2CB3DuDgSEAEYASAAEgJ_cvD_BwE&num=1&cid=CAQSbwAFq6B9RLld4JFHtatWWcHGE-iDRKg80Gng3XLPpR7HGQbZglAIHceeFsv_eN5zC9C9K3KvXxOyCj0SvHPindYgFrCP4T_KDPJBZgnh537eQdqhzYPx2-DuacDDvtfE_jOt4lswVsZa7mpaBvgM9xgB&sig=AOD64_2Pd3XPCRneYFrLVtZlS6HsZD5tlg&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMI-5rY5c7MkwMV61n2CB3DuDgSEAEYASAAEgJ_cvD_BwE
+                  - img [ref=f778e15]
+            - generic "GetResponse" [ref=f778e17]:
+              - link "GetResponse" [ref=f778e18] [cursor=pointer]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CiZIPcwrNabuVE-uz2fcPw_HikQHbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgT3AU_QdptgkjrEgh0LWBsR63vBHx9povBVEBFZ2Q-SUthdvjR2q0_GqISkELgW3m0gM3TE1C1xIvAilIA8Rc_LlOoYmZseFOYUih-weJjH0KHSszyKyvPgMPgtgmh_m528g1pG-GhwYuBdDXlGBkKUiG0lNHxLTEKF2N6wPeUzwrulFZfq42P3mjPw1xp9f56d-nhiv513FHHLT0bXZ3YSJxnNidsxY1FVp6JhrI07QochywbBC-ItdGW7bGAdMDiP3yAR6MsEyazRDMzKh9BP24a-Wy6qLOuMuRC0WSFi8H0fsh1ZS829GNan-fNpBCuX6t6UrQ3vWUvABMXpss-sBYgF6ZmFoE6AB7WHsOcDqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYie3X5c7MkwOxCYVXIQDFUnzcgAoBmAsByAsBqg0CUEzIDQHqDRMIlKDY5c7MkwMV61n2CB3DuDgS8A0CiA4JsA7G1e7TGNgTC9AVAcoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI-5rY5c7MkwMV61n2CB3DuDgSEAEYASAAEgJ_cvD_BwE&num=1&cid=CAQSbwAFq6B9RLld4JFHtatWWcHGE-iDRKg80Gng3XLPpR7HGQbZglAIHceeFsv_eN5zC9C9K3KvXxOyCj0SvHPindYgFrCP4T_KDPJBZgnh537eQdqhzYPx2-DuacDDvtfE_jOt4lswVsZa7mpaBvgM9xgB&sig=AOD64_2Pd3XPCRneYFrLVtZlS6HsZD5tlg&client=ca-pub-6525291204356869&rf=1&nb=1&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMI-5rY5c7MkwMV61n2CB3DuDgSEAEYASAAEgJ_cvD_BwE
+          - img [ref=f778e22] [cursor=pointer]
+          - button [ref=f778e24] [cursor=pointer]:
+            - img [ref=f778e25]
+          - iframe
+    - generic [ref=e83]:
+      - article [ref=e84]:
+        - generic [ref=e85]:
+          - generic [ref=e86]:
+            - generic [ref=e87]:
+              - paragraph [ref=e88]: "Содержание:"
+              - link "Toggle Table of Content" [ref=e89] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e92]:
+                  - img [ref=e93]
+                  - img [ref=e95]
+            - navigation [ref=e97]:
+              - list [ref=e98]:
+                - listitem [ref=e99]:
+                  - link "Исключения и особенности польских существительных" [ref=e100] [cursor=pointer]:
+                    - /url: "#%D0%98%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B8_%D0%BE%D1%81%D0%BE%D0%B1%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D1%85_%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85"
+                  - list [ref=e101]:
+                    - listitem [ref=e102]:
+                      - link "Польские существительные без множественного числа" [ref=e103] [cursor=pointer]:
+                        - /url: "#%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B1%D0%B5%D0%B7_%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%87%D0%B8%D1%81%D0%BB%D0%B0"
+                    - listitem [ref=e104]:
+                      - link "Другой вид множественного числа существительных" [ref=e105] [cursor=pointer]:
+                        - /url: "#%D0%94%D1%80%D1%83%D0%B3%D0%BE%D0%B9_%D0%B2%D0%B8%D0%B4_%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%87%D0%B8%D1%81%D0%BB%D0%B0_%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85"
+                    - listitem [ref=e106]:
+                      - link "Польские существительные без единственного числа" [ref=e107] [cursor=pointer]:
+                        - /url: "#%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B1%D0%B5%D0%B7_%D0%B5%D0%B4%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%87%D0%B8%D1%81%D0%BB%D0%B0"
+                    - listitem [ref=e108]:
+                      - link "Особенности польских существительных среднего рода на -um" [ref=e109] [cursor=pointer]:
+                        - /url: "#%D0%9E%D1%81%D0%BE%D0%B1%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D1%85_%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B3%D0%BE_%D1%80%D0%BE%D0%B4%D0%B0_%D0%BD%D0%B0_-um"
+                    - listitem [ref=e110]:
+                      - link "Польские существительные, которые вообще не склоняются" [ref=e111] [cursor=pointer]:
+                        - /url: "#%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5_%D0%B2%D0%BE%D0%BE%D0%B1%D1%89%D0%B5_%D0%BD%D0%B5_%D1%81%D0%BA%D0%BB%D0%BE%D0%BD%D1%8F%D1%8E%D1%82%D1%81%D1%8F"
+                    - listitem [ref=e112]:
+                      - link "Тесты для закрепления" [ref=e113] [cursor=pointer]:
+                        - /url: "#%D0%A2%D0%B5%D1%81%D1%82%D1%8B_%D0%B4%D0%BB%D1%8F_%D0%B7%D0%B0%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F"
+          - generic [ref=e114]:
+            - list [ref=e115]:
+              - listitem [ref=e116]:
+                - link "Об авторе" [ref=e117] [cursor=pointer]:
+                  - /url: "#abh_about"
+              - listitem [ref=e118]:
+                - link "Недавние публикации" [ref=e119] [cursor=pointer]:
+                  - /url: "#abh_posts"
+            - insertion [ref=e121]:
+              - iframe [ref=e123]:
+                - generic [active] [ref=f801e1]:
+                  - generic [ref=f801e6]:
+                    - generic [ref=f801e7]:
+                      - generic "GetResponse" [ref=f801e9]:
+                        - link "Zacznij za darmo" [ref=f801e10] [cursor=pointer]:
+                          - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CRfjbdArNacDMK8Hj2fcP4ezuoQHbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgT3AU_Q9kv9Bzykl-s6vtrOcuzqsymzwPdZReij-7KmyBt3lC_84F6tFiUKP6l4kK2X7HeQV1EfQ66ZaW25xNb7q1LpRDWews_TaBvjiiYnjWrP9b_s4olsx88wbQD5NKQ55IOShhEQVrBpMMD0p5GNxFQadl_MJzOWj0XgElMUFptPJ2uLe93AwAVZlo40j5nF6Ngi_fzhqAy51GmZnEzdH_bsW-sySmDwizH_i8xt0IB5x4hiAW70efrTkmwOFEVz9DU9yJsqWORMrNfgWdH4YpfUzm19Wx1Pkrp1frLii6wvnhRc3fUG0Eu4voiERPxWrhTnVJ0c_Y7ABMXpss-sBYgF6ZmFoE6AB7WHsOcDqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYn62t5s7MkwOxCYVXIQDFUnzcgAoBmAsByAsBqg0CUEzIDQHqDRMIqdqt5s7MkwMVwXH2CB1htjsU8A0CiA4JsA7G1e7TGNgTC9AVAcoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIwNat5s7MkwMVwXH2CB1htjsUEAEYASAAEgLtuPD_BwE&num=1&cid=CAQSbwAFq6B9gMt_RdwOGURcmOxFbN9H01lSbbjGjouPbWE6L2Vgn8UXY3anhIVm63h5-nfVf9d6xjWBx9ZsB7OlfrCwxbnWF5JnpswUocVlrQ614ZmGUqNk6bNQgBhGiia5UDtnZ4h3oPqig-G4fLn1wxgB&sig=AOD64_2BrvhkZ5OxLnkdlt3RhIuLJLnMIA&client=ca-pub-6525291204356869&rf=1&nb=0&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMIwNat5s7MkwMVwXH2CB1htjsUEAEYASAAEgLtuPD_BwE
+                      - generic [ref=f801e11]:
+                        - link "85% szybsze tworzenie emaili dzięki AI, które wspiera Twój głos, a nie go zastępuje." [ref=f801e13] [cursor=pointer]:
+                          - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CRfjbdArNacDMK8Hj2fcP4ezuoQHbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgT3AU_Q9kv9Bzykl-s6vtrOcuzqsymzwPdZReij-7KmyBt3lC_84F6tFiUKP6l4kK2X7HeQV1EfQ66ZaW25xNb7q1LpRDWews_TaBvjiiYnjWrP9b_s4olsx88wbQD5NKQ55IOShhEQVrBpMMD0p5GNxFQadl_MJzOWj0XgElMUFptPJ2uLe93AwAVZlo40j5nF6Ngi_fzhqAy51GmZnEzdH_bsW-sySmDwizH_i8xt0IB5x4hiAW70efrTkmwOFEVz9DU9yJsqWORMrNfgWdH4YpfUzm19Wx1Pkrp1frLii6wvnhRc3fUG0Eu4voiERPxWrhTnVJ0c_Y7ABMXpss-sBYgF6ZmFoE6AB7WHsOcDqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYn62t5s7MkwOxCYVXIQDFUnzcgAoBmAsByAsBqg0CUEzIDQHqDRMIqdqt5s7MkwMVwXH2CB1htjsU8A0CiA4JsA7G1e7TGNgTC9AVAcoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIwNat5s7MkwMVwXH2CB1htjsUEAEYASAAEgLtuPD_BwE&num=1&cid=CAQSbwAFq6B9gMt_RdwOGURcmOxFbN9H01lSbbjGjouPbWE6L2Vgn8UXY3anhIVm63h5-nfVf9d6xjWBx9ZsB7OlfrCwxbnWF5JnpswUocVlrQ614ZmGUqNk6bNQgBhGiia5UDtnZ4h3oPqig-G4fLn1wxgB&sig=AOD64_2BrvhkZ5OxLnkdlt3RhIuLJLnMIA&client=ca-pub-6525291204356869&rf=1&nb=7&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMIwNat5s7MkwMVwXH2CB1htjsUEAEYASAAEgLtuPD_BwE
+                        - link [ref=f801e14] [cursor=pointer]:
+                          - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CRfjbdArNacDMK8Hj2fcP4ezuoQHbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgT3AU_Q9kv9Bzykl-s6vtrOcuzqsymzwPdZReij-7KmyBt3lC_84F6tFiUKP6l4kK2X7HeQV1EfQ66ZaW25xNb7q1LpRDWews_TaBvjiiYnjWrP9b_s4olsx88wbQD5NKQ55IOShhEQVrBpMMD0p5GNxFQadl_MJzOWj0XgElMUFptPJ2uLe93AwAVZlo40j5nF6Ngi_fzhqAy51GmZnEzdH_bsW-sySmDwizH_i8xt0IB5x4hiAW70efrTkmwOFEVz9DU9yJsqWORMrNfgWdH4YpfUzm19Wx1Pkrp1frLii6wvnhRc3fUG0Eu4voiERPxWrhTnVJ0c_Y7ABMXpss-sBYgF6ZmFoE6AB7WHsOcDqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYn62t5s7MkwOxCYVXIQDFUnzcgAoBmAsByAsBqg0CUEzIDQHqDRMIqdqt5s7MkwMVwXH2CB1htjsU8A0CiA4JsA7G1e7TGNgTC9AVAcoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIwNat5s7MkwMVwXH2CB1htjsUEAEYASAAEgLtuPD_BwE&num=1&cid=CAQSbwAFq6B9gMt_RdwOGURcmOxFbN9H01lSbbjGjouPbWE6L2Vgn8UXY3anhIVm63h5-nfVf9d6xjWBx9ZsB7OlfrCwxbnWF5JnpswUocVlrQ614ZmGUqNk6bNQgBhGiia5UDtnZ4h3oPqig-G4fLn1wxgB&sig=AOD64_2BrvhkZ5OxLnkdlt3RhIuLJLnMIA&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMIwNat5s7MkwMVwXH2CB1htjsUEAEYASAAEgLtuPD_BwE
+                          - img [ref=f801e15]
+                    - generic "GetResponse" [ref=f801e17]:
+                      - link "GetResponse" [ref=f801e18] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CRfjbdArNacDMK8Hj2fcP4ezuoQHbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgT3AU_Q9kv9Bzykl-s6vtrOcuzqsymzwPdZReij-7KmyBt3lC_84F6tFiUKP6l4kK2X7HeQV1EfQ66ZaW25xNb7q1LpRDWews_TaBvjiiYnjWrP9b_s4olsx88wbQD5NKQ55IOShhEQVrBpMMD0p5GNxFQadl_MJzOWj0XgElMUFptPJ2uLe93AwAVZlo40j5nF6Ngi_fzhqAy51GmZnEzdH_bsW-sySmDwizH_i8xt0IB5x4hiAW70efrTkmwOFEVz9DU9yJsqWORMrNfgWdH4YpfUzm19Wx1Pkrp1frLii6wvnhRc3fUG0Eu4voiERPxWrhTnVJ0c_Y7ABMXpss-sBYgF6ZmFoE6AB7WHsOcDqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYn62t5s7MkwOxCYVXIQDFUnzcgAoBmAsByAsBqg0CUEzIDQHqDRMIqdqt5s7MkwMVwXH2CB1htjsU8A0CiA4JsA7G1e7TGNgTC9AVAcoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgKATxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIwNat5s7MkwMVwXH2CB1htjsUEAEYASAAEgLtuPD_BwE&num=1&cid=CAQSbwAFq6B9gMt_RdwOGURcmOxFbN9H01lSbbjGjouPbWE6L2Vgn8UXY3anhIVm63h5-nfVf9d6xjWBx9ZsB7OlfrCwxbnWF5JnpswUocVlrQ614ZmGUqNk6bNQgBhGiia5UDtnZ4h3oPqig-G4fLn1wxgB&sig=AOD64_2BrvhkZ5OxLnkdlt3RhIuLJLnMIA&client=ca-pub-6525291204356869&rf=1&nb=1&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMIwNat5s7MkwMVwXH2CB1htjsUEAEYASAAEgLtuPD_BwE
+                  - img [ref=f801e22] [cursor=pointer]
+                  - button [ref=f801e24] [cursor=pointer]:
+                    - img [ref=f801e25]
+                  - iframe
+            - generic [ref=e125]:
+              - generic [ref=e126]:
+                - link "Катерина Лук'янова":
+                  - /url: https://propolski.com/
+                  - img "Катерина Лук'янова" [ref=e127] [cursor=pointer]
+              - link "" [ref=e129] [cursor=pointer]:
+                - /url: https://www.facebook.com/kate.lukianova.propolski
+              - generic [ref=e130]:
+                - link "Катерина Лук'янова" [ref=e132] [cursor=pointer]:
+                  - /url: https://propolski.com/
+                - generic [ref=e133]: Здравствуйте.Меня зовут Екатерина Лукьянова, я - автор блога о польском языке ProPolski.com и сайта о Польше insidePL.com. Живу в Польше. Свободное от основной работы время всецело посвящаю ProPolski.com и insidePL.com.
+          - paragraph [ref=e134]: Последнее обновление 28 февраля 2022
+          - paragraph [ref=e135]:
+            - text: Имя существительное (rzeczownik в польском) — это склоняемая часть речи, которая обозначает предмет. Существительное изменяется по
+            - link "падежам" [ref=e136] [cursor=pointer]:
+              - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/
+            - text: и числам, но не изменяется по родам. В этой статье я хочу показать вам исключения и особенности польских существительных. Для всех нюансов одной статьи будет мало, но кое-что вместить удастся.
+          - insertion [ref=e137]:
+            - iframe [ref=e139]:
+              - generic [active] [ref=f775e1]:
+                - generic [ref=f775e6]:
+                  - generic [ref=f775e7]:
+                    - generic "GetResponse" [ref=f775e9]:
+                      - link "Zacznij za darmo" [ref=f775e10] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CHFGIcwrNaaydE46H2fcPqr7K2AfbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgT3AU_QGiYWYC7H8jA39MXgLAWT81Od9fccZsOnA6x02hxo8hPzQbTYhun3moJaAHVn2ZtqaGntD22DGSldblxW1h2FrKBnJEFcc6o7EeixdHMWs7QIjQXcStmFGghtpqLKjxDPQf5d_UBBVuu0aCiW-zCBcABKlIlqN-DA9hMaEk1r6YLA79SDcgP4mQMQvx8R1LPyynC_azuXoMInHE94xXZ50VK_FPmbe-oBfThqmVlfSW61VmOl5JSIC287erCwO0u1cg5xeZuxURunloRv5CfZ8PqEntrZo5jgFXkqIGRlRXUj1fNjwpComrpUbDcrKS6wmHNRZMnABMXpss-sBYgF6ZmFoE6AB7WHsOcDqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpY7_nX5c7MkwOxCYVXIQDFUnzcgAoBmAsByAsBqg0CUEzIDQHqDRMIv6bY5c7MkwMVjkP2CB0qnxJ78A0CiA4JsA7G1e7TGNgTC9AVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAADQQyZBEgoxMDQwMTAyODY5GAGyGAkSAoBPGAEiAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI7KLY5c7MkwMVjkP2CB0qnxJ7EAEYASAAEgKcmPD_BwE&num=1&cid=CAQSbwAFq6B9uGG6KMN3zYHPZdUHEICElfYB-SoHcgRSV5H7PnNCGQvMx_lQMeEgOeai4UP5MjImeAKrBCazWEvbXkCLz6iq5ptOqQAh3MfPE0vqC4dIxvso3MPjITGSP5q1_px-42saPuSd8Ece3wDu0BgB&sig=AOD64_3WqJp5wawI_PvZ3Zc27rN3izMo0g&client=ca-pub-6525291204356869&rf=1&nb=0&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMI7KLY5c7MkwMVjkP2CB0qnxJ7EAEYASAAEgKcmPD_BwE
+                    - generic [ref=f775e11]:
+                      - link "85% szybsze tworzenie emaili dzięki AI, które wspiera Twój głos, a nie go zastępuje." [ref=f775e13] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CHFGIcwrNaaydE46H2fcPqr7K2AfbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgT3AU_QGiYWYC7H8jA39MXgLAWT81Od9fccZsOnA6x02hxo8hPzQbTYhun3moJaAHVn2ZtqaGntD22DGSldblxW1h2FrKBnJEFcc6o7EeixdHMWs7QIjQXcStmFGghtpqLKjxDPQf5d_UBBVuu0aCiW-zCBcABKlIlqN-DA9hMaEk1r6YLA79SDcgP4mQMQvx8R1LPyynC_azuXoMInHE94xXZ50VK_FPmbe-oBfThqmVlfSW61VmOl5JSIC287erCwO0u1cg5xeZuxURunloRv5CfZ8PqEntrZo5jgFXkqIGRlRXUj1fNjwpComrpUbDcrKS6wmHNRZMnABMXpss-sBYgF6ZmFoE6AB7WHsOcDqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpY7_nX5c7MkwOxCYVXIQDFUnzcgAoBmAsByAsBqg0CUEzIDQHqDRMIv6bY5c7MkwMVjkP2CB0qnxJ78A0CiA4JsA7G1e7TGNgTC9AVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAADQQyZBEgoxMDQwMTAyODY5GAGyGAkSAoBPGAEiAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI7KLY5c7MkwMVjkP2CB0qnxJ7EAEYASAAEgKcmPD_BwE&num=1&cid=CAQSbwAFq6B9uGG6KMN3zYHPZdUHEICElfYB-SoHcgRSV5H7PnNCGQvMx_lQMeEgOeai4UP5MjImeAKrBCazWEvbXkCLz6iq5ptOqQAh3MfPE0vqC4dIxvso3MPjITGSP5q1_px-42saPuSd8Ece3wDu0BgB&sig=AOD64_3WqJp5wawI_PvZ3Zc27rN3izMo0g&client=ca-pub-6525291204356869&rf=1&nb=7&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMI7KLY5c7MkwMVjkP2CB0qnxJ7EAEYASAAEgKcmPD_BwE
+                      - link [ref=f775e14] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CHFGIcwrNaaydE46H2fcPqr7K2AfbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgT3AU_QGiYWYC7H8jA39MXgLAWT81Od9fccZsOnA6x02hxo8hPzQbTYhun3moJaAHVn2ZtqaGntD22DGSldblxW1h2FrKBnJEFcc6o7EeixdHMWs7QIjQXcStmFGghtpqLKjxDPQf5d_UBBVuu0aCiW-zCBcABKlIlqN-DA9hMaEk1r6YLA79SDcgP4mQMQvx8R1LPyynC_azuXoMInHE94xXZ50VK_FPmbe-oBfThqmVlfSW61VmOl5JSIC287erCwO0u1cg5xeZuxURunloRv5CfZ8PqEntrZo5jgFXkqIGRlRXUj1fNjwpComrpUbDcrKS6wmHNRZMnABMXpss-sBYgF6ZmFoE6AB7WHsOcDqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpY7_nX5c7MkwOxCYVXIQDFUnzcgAoBmAsByAsBqg0CUEzIDQHqDRMIv6bY5c7MkwMVjkP2CB0qnxJ78A0CiA4JsA7G1e7TGNgTC9AVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAADQQyZBEgoxMDQwMTAyODY5GAGyGAkSAoBPGAEiAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI7KLY5c7MkwMVjkP2CB0qnxJ7EAEYASAAEgKcmPD_BwE&num=1&cid=CAQSbwAFq6B9uGG6KMN3zYHPZdUHEICElfYB-SoHcgRSV5H7PnNCGQvMx_lQMeEgOeai4UP5MjImeAKrBCazWEvbXkCLz6iq5ptOqQAh3MfPE0vqC4dIxvso3MPjITGSP5q1_px-42saPuSd8Ece3wDu0BgB&sig=AOD64_3WqJp5wawI_PvZ3Zc27rN3izMo0g&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMI7KLY5c7MkwMVjkP2CB0qnxJ7EAEYASAAEgKcmPD_BwE
+                        - img [ref=f775e15]
+                  - generic "GetResponse" [ref=f775e17]:
+                    - link "GetResponse" [ref=f775e18] [cursor=pointer]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CHFGIcwrNaaydE46H2fcPqr7K2AfbuI-ShgGp5-_13RXN5_2q2DIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgT3AU_QGiYWYC7H8jA39MXgLAWT81Od9fccZsOnA6x02hxo8hPzQbTYhun3moJaAHVn2ZtqaGntD22DGSldblxW1h2FrKBnJEFcc6o7EeixdHMWs7QIjQXcStmFGghtpqLKjxDPQf5d_UBBVuu0aCiW-zCBcABKlIlqN-DA9hMaEk1r6YLA79SDcgP4mQMQvx8R1LPyynC_azuXoMInHE94xXZ50VK_FPmbe-oBfThqmVlfSW61VmOl5JSIC287erCwO0u1cg5xeZuxURunloRv5CfZ8PqEntrZo5jgFXkqIGRlRXUj1fNjwpComrpUbDcrKS6wmHNRZMnABMXpss-sBYgF6ZmFoE6AB7WHsOcDqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpY7_nX5c7MkwOxCYVXIQDFUnzcgAoBmAsByAsBqg0CUEzIDQHqDRMIv6bY5c7MkwMVjkP2CB0qnxJ78A0CiA4JsA7G1e7TGNgTC9AVAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAADQQyZBEgoxMDQwMTAyODY5GAGyGAkSAoBPGAEiAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI7KLY5c7MkwMVjkP2CB0qnxJ7EAEYASAAEgKcmPD_BwE&num=1&cid=CAQSbwAFq6B9uGG6KMN3zYHPZdUHEICElfYB-SoHcgRSV5H7PnNCGQvMx_lQMeEgOeai4UP5MjImeAKrBCazWEvbXkCLz6iq5ptOqQAh3MfPE0vqC4dIxvso3MPjITGSP5q1_px-42saPuSd8Ece3wDu0BgB&sig=AOD64_3WqJp5wawI_PvZ3Zc27rN3izMo0g&client=ca-pub-6525291204356869&rf=1&nb=1&adurl=https://www.getresponse.pl/ppc/email-marketing-2%3Fcamp%3DPL_PL_pMAX_Generic%26kw%3D%26type%3D%26crtn%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Generic%26hsa_acc%3D1471644613%26hsa_cam%3D21008239330%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D21005159657%26gclid%3DEAIaIQobChMI7KLY5c7MkwMVjkP2CB0qnxJ7EAEYASAAEgKcmPD_BwE
+                - img [ref=f775e22] [cursor=pointer]
+                - button [ref=f775e24] [cursor=pointer]:
+                  - img [ref=f775e25]
+                - iframe
+          - heading "Исключения и особенности польских существительных" [level=2] [ref=e140]: Исключения и особенности польских существительных
+          - figure [ref=e142]:
+            - 'img "Польские существительные: исключения и особенности" [ref=e143]'
+          - heading "Польские существительные без множественного числа" [level=3] [ref=e144]: Польские существительные без множественного числа
+          - paragraph [ref=e145]: "В польском языке есть существительные, которые не имеют множественного числа. К этой группе принадлежат существительные польского языка, которые обозначают:"
+          - list [ref=e146]:
+            - listitem [ref=e147]:
+              - text: "понятия:"
+              - list [ref=e148]:
+                - listitem [ref=e149]:
+                  - emphasis [ref=e150]:
+                    - strong [ref=e151]: dzielność
+                  - text: (доблесть, отвага),
+                  - emphasis [ref=e152]:
+                    - strong [ref=e153]: szczęście
+                  - text: (счастье),
+                  - emphasis [ref=e154]:
+                    - strong [ref=e155]: złość
+                  - text: (злость),
+                  - emphasis [ref=e156]:
+                    - strong [ref=e157]: wolność
+                  - text: (свобода),
+                  - emphasis [ref=e158]:
+                    - strong [ref=e159]: braterstwo
+                  - text: (братство),
+                  - emphasis [ref=e160]:
+                    - strong [ref=e161]: szlachetność
+                  - text: (благородство) и т.д.;
+            - listitem [ref=e162]:
+              - text: "собственные имена:"
+              - list [ref=e163]:
+                - listitem [ref=e164]:
+                  - emphasis [ref=e165]:
+                    - strong [ref=e166]: Sahara
+                  - text: ","
+                  - emphasis [ref=e167]:
+                    - strong [ref=e168]: Kilimandżaro
+                  - text: ","
+                  - emphasis [ref=e169]:
+                    - strong [ref=e170]: Wisła
+                  - text: ","
+                  - emphasis [ref=e171]:
+                    - strong [ref=e172]: Bałtyk
+                  - text: ","
+                  - strong [ref=e173]:
+                    - emphasis [ref=e174]: Giewont
+                  - text: и т.д.;
+            - listitem [ref=e175]:
+              - text: "названия материалов:"
+              - list [ref=e176]:
+                - listitem [ref=e177]:
+                  - emphasis [ref=e178]:
+                    - strong [ref=e179]: tlen
+                  - text: (кислород),
+                  - emphasis [ref=e180]:
+                    - strong [ref=e181]: cyna
+                  - text: (олово),
+                  - emphasis [ref=e182]:
+                    - strong [ref=e183]: miedź
+                  - text: (медь) и т.д.;
+            - listitem [ref=e184]:
+              - text: "группы лиц, типа:"
+              - list [ref=e185]:
+                - listitem [ref=e186]:
+                  - emphasis [ref=e187]:
+                    - strong [ref=e188]: młodzież
+                  - text: (молодежь),
+                  - emphasis [ref=e189]:
+                    - strong [ref=e190]: szlachta
+                  - text: (шляхта, дворянство),
+                  - strong [ref=e191]:
+                    - emphasis [ref=e192]: mieszczaństwo
+                  - text: (мещанство),
+                  - emphasis [ref=e193]:
+                    - strong [ref=e194]: duchowieństwo
+                  - text: (духовенство) и т.п.
+          - paragraph [ref=e195]:
+            - text: Здесь прослеживается правило «единственного в мире». К примеру,
+            - emphasis [ref=e196]: Bałtyk
+            - text: один на планете, и т.д.
+          - heading "Другой вид множественного числа существительных" [level=3] [ref=e197]: Другой вид множественного числа существительных
+          - paragraph [ref=e198]: "Существительные rok (год) и człowiek (человек) во множественном числе имеют совсем другой вид: lata (года) и ludzie (люди)."
+          - paragraph [ref=e199]: "Также не совсем регулярный вид множественного числа имеют следующие слова:"
+          - list [ref=e200]:
+            - listitem [ref=e201]:
+              - emphasis [ref=e202]:
+                - strong [ref=e203]: imię
+                - text: — imiona
+              - text: (имя),
+              - emphasis [ref=e204]:
+                - strong [ref=e205]: zwierzę
+                - text: — zwierzęta
+              - text: (животное),
+              - emphasis [ref=e206]:
+                - strong [ref=e207]: książę
+                - text: — książęta
+              - text: (принц),
+              - emphasis [ref=e208]:
+                - strong [ref=e209]: tydzień
+                - text: — tygodnie
+              - text: (неделя),
+              - emphasis [ref=e210]:
+                - strong [ref=e211]: dzień
+                - text: — dni
+              - text: (день),
+              - emphasis [ref=e212]:
+                - strong [ref=e213]: brat
+                - text: — bracia
+              - text: (брат),
+              - emphasis [ref=e214]:
+                - strong [ref=e215]: przyjaciel
+                - text: — przyjaciele
+              - text: (друг),
+              - emphasis [ref=e216]:
+                - strong [ref=e217]: dziecko
+                - text: — dzieci
+              - text: (ребенок),
+              - emphasis [ref=e218]:
+                - strong [ref=e219]: ksiądz
+                - text: — księża
+              - text: (ксёндз),
+              - emphasis [ref=e220]:
+                - strong [ref=e221]: pieniądz
+                - text: — pieniądze
+              - text: (деньги).
+          - blockquote [ref=e222]:
+            - text: 💡
+            - paragraph [ref=e223]:
+              - strong [ref=e224]: "Таблицы склонений этих существительных найдете:"
+              - link "Склонение по падежам нерегулярных существительных в польском языке" [ref=e225] [cursor=pointer]:
+                - /url: https://propolski.com/2018/08/26/odmiana-rzeczownikow-nieregularnych/
+                - strong [ref=e226]: Склонение по падежам нерегулярных существительных в польском языке
+              - strong
+          - insertion [ref=e227]:
+            - iframe [ref=e229]:
+              - generic [active] [ref=f776e1]:
+                - generic [ref=f776e3]:
+                  - link:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CLid5cwrNaYqOE7Sk2fcP4sqLuASy3qeGeozY5MK5ELGLw6K8GxABIPrd4Tdg6eTKheAaoAGKuK_XA8gBA6gDAcgDyQSqBPEBT9DCuNhdXSEho8jsf5rmavnIM6FUFrWq0x3qkRmVtPJU-E1vbAD4H40gCNc9U7gseidZRlxUbBz0HPl3w4QJ6Lj9siUH4MbTR4rfBS-P2XEjTlH9N6tnajNqdCUI8BfGPC5OcADL1tfs4JaN7gF2jx4YAugUDedva7HBVZU9lDWyMPqEI-WOBWAz6BHJmTlz5IicIPbGLaHUtPj8ZndAqdaKvKWWhrX-VdCJqCaNBLxcuCxkrSi99I3QOmda60vBYHmU30tYISg_N0h_k93rFx5UWzaY4dCwEw4dMt29jwVrIcCf7nFrHVCjc50QDmSbpcAE3YrpzYUDiAX78cHyKKAGA4AHxa2kA6gHp8yxAqgH4tixAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwMyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WLzm1-XOzJMDsQnammHTbyMzeoAKAZgLAcgLAaIMA5ABAaoNAlBMyA0B6g0TCMuX2OXOzJMDFTRS9ggdYuUCR_ANAogOCdgTDNAVAZgWAcoWAgoA-BYBgBcBshcQGAEqCjEwNDAxMDI4NjlQBroXAjgBqhgXCQAAAAAokRxBEgoxMDQwMTAyODY5GAGyGAUYAyIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIypPY5c7MkwMVNFL2CB1i5QJHEAEYASAAEgLd9fD_BwE&num=1&cid=CAQSbwAFq6B9uSwebzjzZT945HA_ko_tzc4dXP6K-oS8m1snodY6cU2y7mlcpycThLOsWfR5YjhhreQHH5JrPGg6TBA-A2hRO7YqJ6zmIUbvLZTYbi7RlRv93ay-uMpJGVdOaQkEG8V0ZQcwOM6ZfRKqbxgB&sig=AOD64_2dwHfSjXwnBHfX5D61c_sqyJtF2Q&client=ca-pub-6525291204356869&rf=2&nb=2&adurl=https://www.ixl.com/%3Fpartner%3Dgoogle%26campaign%3D10977573115%26adGroup%3D104584594781%26gad_source%3D5%26gad_campaignid%3D10977573115%26gclid%3DEAIaIQobChMIypPY5c7MkwMVNFL2CB1i5QJHEAEYASAAEgLd9fD_BwE
+                  - img [ref=f776e7] [cursor=pointer]
+                  - button [ref=f776e9] [cursor=pointer]:
+                    - img [ref=f776e10]
+                - iframe
+          - heading "Польские существительные без единственного числа" [level=3] [ref=e230]: Польские существительные без единственного числа
+          - paragraph [ref=e231]:
+            - text: "Часть существительных не имеет форм единственного числа, а употребляется только во множественном (что связано с языковыми традициями):"
+            - strong
+          - list [ref=e232]:
+            - listitem [ref=e233]:
+              - emphasis [ref=e234]:
+                - strong [ref=e235]: zaręczyny
+              - text: (обручение, помолвка),
+              - emphasis [ref=e236]:
+                - strong [ref=e237]: spodnie
+              - text: (штаны, брюки),
+              - emphasis [ref=e238]:
+                - strong [ref=e239]: imieniny
+              - text: (именины),
+              - strong [ref=e240]
+              - emphasis [ref=e241]:
+                - strong [ref=e242]: drzwi
+              - text: (двери),
+              - emphasis [ref=e243]:
+                - strong [ref=e244]: skrzypce
+              - text: (скрипка),
+              - emphasis [ref=e245]:
+                - strong [ref=e246]: Tatry
+              - text: (Татры (горы в Польше),
+              - strong [ref=e247]:
+                - emphasis [ref=e248]: Karpaty
+              - text: ","
+              - emphasis [ref=e249]:
+                - strong [ref=e250]: perfumy
+              - text: (духи),
+              - emphasis [ref=e251]:
+                - strong [ref=e252]: wagary
+              - text: (прогулы),
+              - emphasis [ref=e253]:
+                - strong [ref=e254]: nożyczki
+              - text: (ножницы),
+              - emphasis [ref=e255]:
+                - strong [ref=e256]: okulary
+              - text: (очки),
+              - emphasis [ref=e257]:
+                - strong [ref=e258]: wakacje
+              - text: (каникулы),
+              - emphasis [ref=e259]:
+                - strong [ref=e260]: zaloty
+              - text: (ухаживание),
+              - emphasis [ref=e261]:
+                - strong [ref=e262]: urodziny
+              - text: (день рождение),
+              - emphasis [ref=e263]:
+                - strong [ref=e264]: Ateny
+              - text: (Афины),
+              - emphasis [ref=e265]:
+                - strong [ref=e266]: Pireneje
+              - text: (Пиренеи),
+              - emphasis [ref=e267]:
+                - strong [ref=e268]: Katowice
+              - text: (Катовице) и т.п.;
+          - paragraph [ref=e269]: "Некоторые существительные из этой группы связываются с понятиями:"
+          - list [ref=e270]:
+            - listitem [ref=e271]:
+              - strong [ref=e272]: para
+              - text: (пара),
+              - strong [ref=e273]: dwie pary
+              - text: (две пары),
+              - strong [ref=e274]: trzy pary
+              - text: "(три пары) и т.д., к примеру:"
+              - strong
+              - list [ref=e275]:
+                - listitem [ref=e276]:
+                  - strong [ref=e277]:
+                    - emphasis [ref=e278]: para okularów
+                  - text: — пара очков;
+                - listitem [ref=e279]:
+                  - strong [ref=e280]:
+                    - emphasis [ref=e281]: dwie pary rajstop
+                  - text: — две пары чулок/колготок;
+                - listitem [ref=e282]:
+                  - strong [ref=e283]:
+                    - emphasis [ref=e284]: trzy pary spodni
+                  - text: — три пары брюк;
+            - listitem [ref=e285]:
+              - text: другие требуют числительное типа
+              - strong [ref=e286]: dwoje
+              - text: (двое),
+              - strong [ref=e287]: troje
+              - text: (трое),
+              - strong [ref=e288]: czworo
+              - text: "(четверо) и т.д., к примеру:"
+              - list [ref=e289]:
+                - listitem [ref=e290]:
+                  - text: Koncert na
+                  - strong [ref=e291]:
+                    - emphasis [ref=e292]: dwoje skrzypiec
+                  - text: i orkiestrę — Концерт для двух скрипок с оркестром.
+                - listitem [ref=e293]:
+                  - text: Do budynku prowadziło
+                  - strong [ref=e294]:
+                    - emphasis [ref=e295]: czworo drzwi
+                  - text: — К дому вело четыре двери.
+          - paragraph [ref=e296]:
+            - text: "Обратите внимание: поскольку все это — существительные множественного числа, то и"
+            - link "склоняются они все как множественное число" [ref=e297] [cursor=pointer]:
+              - /url: https://propolski.com/2019/09/08/przypadki-polskie-liczba-mnoga/
+            - text: ", согласно правилам падежей. К примеру,"
+            - emphasis [ref=e298]: mieszkam w Katowicach
+            - text: (а не
+            - emphasis [ref=e299]: w Katowice
+            - text: ), склоняем как
+            - emphasis [ref=e300]: owoce
+            - text: (множественное число слова owoc).
+          - heading "Особенности польских существительных среднего рода на -um" [level=3] [ref=e301]: Особенности польских существительных среднего рода на -um
+          - paragraph [ref=e302]:
+            - text: Существительные польского языка иностранного происхождения, среднего рода, которые заканчиваются на
+            - strong [ref=e303]: "-um"
+            - text: ", к примеру:"
+            - emphasis [ref=e304]:
+              - strong [ref=e305]: gimnazjum
+            - text: (гимназия),
+            - emphasis [ref=e306]:
+              - strong [ref=e307]: forum
+            - text: (форум),
+            - emphasis [ref=e308]:
+              - strong [ref=e309]: akwarium
+            - text: (аквариум),
+            - emphasis [ref=e310]:
+              - strong [ref=e311]: liceum
+            - text: (лицей)
+            - link "склоняются по падежам" [ref=e312] [cursor=pointer]:
+              - /url: https://propolski.com/2019/09/08/przypadki-polskie-liczba-mnoga/
+            - text: только во множественном числе (в единственном всегда будет только одна форма —
+            - strong [ref=e313]: liceum
+            - text: ","
+            - strong [ref=e314]: muzeum
+            - text: ","
+            - strong [ref=e315]: akwarium
+            - text: и т.д.).
+          - heading "Польские существительные, которые вообще не склоняются" [level=3] [ref=e316]: Польские существительные, которые вообще не склоняются
+          - paragraph [ref=e317]: "Существуют также существительные, которые вообще не склоняются, из-за того, что их окончание нетипично для существительных польского языка:"
+          - list [ref=e318]:
+            - listitem [ref=e319]:
+              - text: "экзотические названия зверей и растений:"
+              - strong
+              - list [ref=e320]:
+                - listitem [ref=e321]:
+                  - emphasis [ref=e322]:
+                    - strong [ref=e323]: boa
+                    - text: ","
+                    - strong [ref=e324]: kiwi
+                    - text: ","
+                    - strong [ref=e325]: awokado
+                    - text: ","
+                    - strong [ref=e326]: mango
+                    - text: ","
+                    - strong [ref=e327]: zebu
+                    - text: ","
+                    - strong [ref=e328]: zoo
+                  - text: ;
+            - listitem [ref=e329]:
+              - text: "иностранные имена собственные:"
+              - list [ref=e330]:
+                - listitem [ref=e331]:
+                  - emphasis [ref=e332]:
+                    - strong [ref=e333]: Kongo
+                    - text: ","
+                    - strong [ref=e334]: Kolorado
+                    - text: ","
+                    - strong [ref=e335]: Los Angeles
+                    - text: ","
+                    - strong [ref=e336]: Kilimandżaro
+                  - text: ;
+            - listitem [ref=e337]:
+              - text: "существительные, которые заканчиваются на -u или две подряд гласные:"
+              - list [ref=e338]:
+                - listitem [ref=e339]:
+                  - emphasis [ref=e340]:
+                    - strong [ref=e341]: kakadu
+                    - text: ","
+                    - strong [ref=e342]: kakao
+                    - text: ","
+                    - strong [ref=e343]: makao
+                  - text: ;
+            - listitem [ref=e344]:
+              - text: "некоторые заимствованные слова:"
+              - list [ref=e345]:
+                - listitem [ref=e346]:
+                  - emphasis [ref=e347]:
+                    - strong [ref=e348]: menu
+                  - text: "[читай"
+                  - emphasis [ref=e349]: meni
+                  - text: "] (меню),"
+                  - strong [ref=e350]:
+                    - emphasis [ref=e351]: salami
+                  - text: ","
+                  - emphasis [ref=e352]:
+                    - strong [ref=e353]: jury
+                  - text: "[читай"
+                  - emphasis [ref=e354]: żiri
+                  - text: "] (жюри),"
+                  - strong [ref=e355]:
+                    - emphasis [ref=e356]: logo
+                  - text: ","
+                  - emphasis [ref=e357]:
+                    - strong [ref=e358]: etui
+                  - text: (чехол, футляр).
+          - heading "Тесты для закрепления" [level=3] [ref=e359]: Тесты для закрепления
+          - list [ref=e360]:
+            - listitem [ref=e361]:
+              - text: "Переходите:"
+              - link "Тест на исключения и особенности польских существительных" [ref=e362] [cursor=pointer]:
+                - /url: https://testy.propolski.com/isklyucheniya-i-osobennosti-polskih-sushestvitelnyh/
+          - separator [ref=e363]
+          - paragraph [ref=e364]:
+            - text: Подведя итог, скажу, польские существительные, с их исключениями и особенностями, не так просты, как кажутся на первый взгляд. Углубляясь в грамматику, начинаешь замечать интересные вещи, например как с
+            - link "существительными ucho и oko" [ref=e365] [cursor=pointer]:
+              - /url: https://propolski.com/2016/04/12/liczba-mnoga-ucho-oko/
+            - text: . Но тем оно и интересней жить, когда есть, за что «зацепиться» 🙂
+          - paragraph [ref=e366]: Интересной вам учебы!
+          - separator [ref=e367]
+          - paragraph [ref=e368]:
+            - text: Ваша Катерина Лукьянова, автор блога о польском языке
+            - link "ProPolski.com" [ref=e369] [cursor=pointer]:
+              - /url: https://propolski.com
+            - text: ","
+            - link "Testy.ProPolski" [ref=e370] [cursor=pointer]:
+              - /url: https://testy.propolski.com/
+            - text: и сайта
+            - link "insidePL.com" [ref=e371] [cursor=pointer]:
+              - /url: https://insidepl.com/
+          - separator [ref=e372]
+          - paragraph [ref=e373]: Если материал был интересен и полезен, я буду рада поддержке моих проектов 🙂
+          - generic [ref=e374]:
+            - figure [ref=e379]:
+              - link "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e380] [cursor=pointer]:
+                - /url: https://www.patreon.com/propolski
+                - img "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e381]
+            - figure [ref=e385]:
+              - link "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e386] [cursor=pointer]:
+                - /url: https://www.paypal.me/propolski
+                - img "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e387]
+          - paragraph [ref=e389]:
+            - link "Как еще поддержать блог ProPolski" [ref=e390] [cursor=pointer]:
+              - /url: https://propolski.com/subscribe-and-help/
+              - strong [ref=e391]: Как еще поддержать блог ProPolski
+          - insertion [ref=e392]:
+            - iframe [ref=e394]:
+              - generic [active] [ref=f777e1]:
+                - generic [ref=f777e5]:
+                  - generic [ref=f777e6]:
+                    - generic [ref=f777e8]:
+                      - link [ref=f777e9] [cursor=pointer]
+                      - generic [ref=f777e10]:
+                        - link "Какой у тебя IQ?" [ref=f777e13] [cursor=pointer]
+                        - generic [ref=f777e14]:
+                          - generic [ref=f777e15]: Реклама
+                          - link "MyIQ" [ref=f777e17] [cursor=pointer]
+                    - generic [ref=f777e19]:
+                      - link [ref=f777e20] [cursor=pointer]
+                      - generic [ref=f777e21]:
+                        - link "Transport Management Software" [ref=f777e24] [cursor=pointer]:
+                          - text: Transport Management
+                          - text: Software
+                        - generic [ref=f777e25]:
+                          - generic [ref=f777e26]: Реклама
+                          - link "IMPARGO TMS Platform" [ref=f777e28] [cursor=pointer]
+                    - generic [ref=f777e30]:
+                      - link [ref=f777e31] [cursor=pointer]
+                      - generic [ref=f777e32]:
+                        - link "Пройди тест за 5 минут" [ref=f777e35] [cursor=pointer]
+                        - generic [ref=f777e36]:
+                          - generic [ref=f777e37]: Реклама
+                          - link "MyIQ Personality Test" [ref=f777e39] [cursor=pointer]
+                    - generic [ref=f777e41]:
+                      - link [ref=f777e42] [cursor=pointer]
+                      - generic [ref=f777e43]:
+                        - link "Remtor - stajnie dla koni" [ref=f777e46] [cursor=pointer]
+                        - generic [ref=f777e47]:
+                          - generic [ref=f777e48]: Реклама
+                          - link "Remtor - Stajnie dla Koni" [ref=f777e50] [cursor=pointer]
+                  - generic [ref=f777e51]:
+                    - generic [ref=f777e53]:
+                      - link [ref=f777e54] [cursor=pointer]
+                      - generic [ref=f777e55]:
+                        - link "Angielski dla Początkujących" [ref=f777e58] [cursor=pointer]
+                        - generic [ref=f777e59]:
+                          - generic [ref=f777e60]: Реклама
+                          - link "Tutlo" [ref=f777e62] [cursor=pointer]
+                    - generic [ref=f777e64]:
+                      - link [ref=f777e65] [cursor=pointer]
+                      - generic [ref=f777e66]:
+                        - link "Angielski z Native Speakerem" [ref=f777e69] [cursor=pointer]
+                        - generic [ref=f777e70]:
+                          - generic [ref=f777e71]: Реклама
+                          - link "Alter" [ref=f777e73] [cursor=pointer]
+                    - generic [ref=f777e75]:
+                      - link [ref=f777e76] [cursor=pointer]
+                      - generic [ref=f777e77]:
+                        - link "W wersji Hatchback lub Sedan" [ref=f777e80] [cursor=pointer]
+                        - generic [ref=f777e81]:
+                          - generic [ref=f777e82]: Реклама
+                          - link "Mazda Motor Poland" [ref=f777e84] [cursor=pointer]
+                    - generic [ref=f777e86]:
+                      - link [ref=f777e87] [cursor=pointer]
+                      - generic [ref=f777e88]:
+                        - link "Zarabiaj 5% co miesiąc" [ref=f777e91] [cursor=pointer]
+                        - generic [ref=f777e92]:
+                          - generic [ref=f777e93]: Реклама
+                          - link "Paczka Smaku" [ref=f777e95] [cursor=pointer]
+                - img [ref=f777e100]
+          - generic [ref=e396]:
+            - heading "Поделиться этой полезной ссылкой:" [level=3] [ref=e397]
+            - list [ref=e399]:
+              - listitem [ref=e400]:
+                - link "Поделиться на Facebook (Открывается в новом окне)" [ref=e401] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/04/11/polskie-rzeczowniki-wyjatki/?share=facebook&nb=1
+                  - text: 
+              - listitem [ref=e402]:
+                - link "Поделиться в Pinterest (Открывается в новом окне)" [ref=e403] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/04/11/polskie-rzeczowniki-wyjatki/?share=pinterest&nb=1
+                  - text: 
+              - listitem [ref=e404]:
+                - link "Поделиться в Telegram (Открывается в новом окне)" [ref=e405] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/04/11/polskie-rzeczowniki-wyjatki/?share=telegram&nb=1
+                  - text: 
+              - listitem [ref=e406]:
+                - link "Поделиться в WhatsApp (Открывается в новом окне)" [ref=e407] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/04/11/polskie-rzeczowniki-wyjatki/?share=jetpack-whatsapp&nb=1
+                  - text: 
+              - listitem [ref=e408]:
+                - link "Поделиться в Х (Открывается в новом окне)" [ref=e409] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/04/11/polskie-rzeczowniki-wyjatki/?share=x&nb=1
+                  - text: 
+              - listitem [ref=e410]:
+                - link "Поделиться в LinkedIn (Открывается в новом окне)" [ref=e411] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/04/11/polskie-rzeczowniki-wyjatki/?share=linkedin&nb=1
+                  - text: 
+              - listitem [ref=e412]:
+                - link "Послать ссылку другу по электронной почте (Открывается в новом окне)" [ref=e413] [cursor=pointer]:
+                  - /url: mailto:?subject=%5B%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C%5D%20%D0%98%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%BE%D1%81%D0%BE%D0%B1%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D1%85%20%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85&body=https%3A%2F%2Fpropolski.com%2F2016%2F04%2F11%2Fpolskie-rzeczowniki-wyjatki%2F&share=email&nb=1
+                  - text: 
+              - listitem [ref=e414]:
+                - link "Печать (Открывается в новом окне)" [ref=e415] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/04/11/polskie-rzeczowniki-wyjatki/#print?share=print&nb=1
+                  - text: 
+              - listitem
+          - generic [ref=e416]:
+            - heading "Это может вас заинтересовать:" [level=3] [ref=e417]:
+              - emphasis [ref=e418]: "Это может вас заинтересовать:"
+            - generic:
+              - generic [ref=e419]:
+                - 'link "Польские падежи: таблица окончаний множественного числа" [ref=e420] [cursor=pointer]':
+                  - /url: https://propolski.com/2019/09/08/przypadki-polskie-liczba-mnoga/
+                  - 'img "Польские падежи: таблица окончаний множественного числа" [ref=e421]'
+                - 'heading "Польские падежи: таблица множественного числа" [level=4] [ref=e422]':
+                  - 'link "Польские падежи: таблица множественного числа" [ref=e423] [cursor=pointer]':
+                    - /url: https://propolski.com/2019/09/08/przypadki-polskie-liczba-mnoga/
+                - paragraph [ref=e424]: В "Падежи польские"
+              - generic [ref=e425]:
+                - link "Падежи в польском языке" [ref=e426] [cursor=pointer]:
+                  - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/
+                  - img "Падежи в польском языке" [ref=e427]
+                - 'heading "Падежи в польском языке: таблица единственного числа" [level=4] [ref=e428]':
+                  - 'link "Падежи в польском языке: таблица единственного числа" [ref=e429] [cursor=pointer]':
+                    - /url: https://propolski.com/2018/08/21/przypadki-polskie-liczba-pojedyncza/
+                - paragraph [ref=e430]: В "Падежи польские"
+              - generic [ref=e431]:
+                - link "Два значения у слов ucho и oko в польском языке" [ref=e432] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/04/12/liczba-mnoga-ucho-oko/
+                  - img "Два значения у слов ucho и oko в польском языке" [ref=e433]
+                - heading "Два значения у слов ucho и oko в польском языке" [level=4] [ref=e434]:
+                  - link "Два значения у слов ucho и oko в польском языке" [ref=e435] [cursor=pointer]:
+                    - /url: https://propolski.com/2016/04/12/liczba-mnoga-ucho-oko/
+                - paragraph [ref=e436]: В "Польская грамматика"
+          - generic [ref=e437]:
+            - text: "Метки:"
+            - link "B1" [ref=e438] [cursor=pointer]:
+              - /url: https://propolski.com/tag/b1/
+            - link "Rzeczownik" [ref=e439] [cursor=pointer]:
+              - /url: https://propolski.com/tag/rzeczownik/
+            - link "А2" [ref=e440] [cursor=pointer]:
+              - /url: https://propolski.com/tag/a2/
+        - generic [ref=e442]:
+          - generic [ref=e443]:
+            - text: 
+            - link "Катерина Лук'янова" [ref=e444] [cursor=pointer]:
+              - /url: https://propolski.com/author/kettibellya/
+          - generic [ref=e445]:
+            - text: 
+            - link "11 апреля 2016" [ref=e446] [cursor=pointer]:
+              - /url: https://propolski.com/2016/04/11/polskie-rzeczowniki-wyjatki/
+              - time [ref=e447]: 11 апреля 2016
+          - generic [ref=e448]:
+            - text: 
+            - link "Польська граматика" [ref=e449] [cursor=pointer]:
+              - /url: https://propolski.com/uk/category/polska-gramatyka/
+            - text: ","
+            - link "Существительное в польском языке" [ref=e450] [cursor=pointer]:
+              - /url: https://propolski.com/category/polskaia-grammatika/rzeczownik/
+          - generic [ref=e451]:
+            - text: 
+            - link "7 комментариев" [ref=e452] [cursor=pointer]:
+              - /url: https://propolski.com/2016/04/11/polskie-rzeczowniki-wyjatki/#comments
+      - list [ref=e453]:
+        - listitem [ref=e454]:
+          - link "← Скелет и внутренние органы на польском языке" [ref=e455] [cursor=pointer]:
+            - /url: https://propolski.com/2016/03/21/kosciec-narz-slowa/
+        - listitem [ref=e456]:
+          - link "Два значения у слов ucho и oko в польском языке →" [ref=e457] [cursor=pointer]:
+            - /url: https://propolski.com/2016/04/12/liczba-mnoga-ucho-oko/
+      - generic [ref=e458]:
+        - insertion [ref=e460]
+        - heading "7 мыслей о “Исключения и особенности польских существительных”" [level=3] [ref=e462]
+        - list [ref=e463]:
+          - listitem [ref=e464]:
+            - article [ref=e465]:
+              - generic [ref=e466]:
+                - generic [ref=e467]:  Елена
+                - generic [ref=e468]:  4 февраля 2020 в 05:18
+                - link " Постоянная ссылка" [ref=e469] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/04/11/polskie-rzeczowniki-wyjatki/#comment-2051
+              - generic [ref=e470]:
+                - paragraph [ref=e471]: Молодёжь! Пишется с Ь знаком!
+                - link "Комментарий к записи Елена" [ref=e472] [cursor=pointer]:
+                  - /url: "#comment-2051"
+                  - text:  Ответ
+            - list [ref=e473]:
+              - listitem [ref=e474]:
+                - article [ref=e475]:
+                  - generic [ref=e476]:
+                    - generic [ref=e477]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e478] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e479]:  4 февраля 2020 в 13:13
+                    - link " Постоянная ссылка" [ref=e480] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/04/11/polskie-rzeczowniki-wyjatki/#comment-2052
+                  - generic [ref=e481]:
+                    - paragraph [ref=e482]: Супер! Исправлю!
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e483] [cursor=pointer]:
+                      - /url: "#comment-2052"
+                      - text:  Ответ
+          - listitem [ref=e484]:
+            - article [ref=e485]:
+              - generic [ref=e486]:
+                - generic [ref=e487]:  Marina
+                - generic [ref=e488]:  23 марта 2020 в 16:59
+                - link " Постоянная ссылка" [ref=e489] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/04/11/polskie-rzeczowniki-wyjatki/#comment-2155
+              - generic [ref=e490]:
+                - paragraph [ref=e491]: "Екатерина,здравствуйте!Спасибо за сайт!Только начала учить польский язык.Немного непривычно,что есть слова,которые в русском языке имеют род отличный от польского языка.Например: Liceum в польском языке средний род,а в русском языке мужской.Подскажите пожалуйста может где то можно посмотреть такую таблицу ,где собраны слова с отличающимся родами в русском и польском языках."
+                - link "Комментарий к записи Marina" [ref=e492] [cursor=pointer]:
+                  - /url: "#comment-2155"
+                  - text:  Ответ
+            - list [ref=e493]:
+              - listitem [ref=e494]:
+                - article [ref=e495]:
+                  - generic [ref=e496]:
+                    - generic [ref=e497]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e498] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e499]:  23 марта 2020 в 19:43
+                    - link " Постоянная ссылка" [ref=e500] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/04/11/polskie-rzeczowniki-wyjatki/#comment-2159
+                  - generic [ref=e501]:
+                    - paragraph [ref=e502]:
+                      - text: Здравствуйте, спасибо! Увы, у меня на сайте нет пока такой таблицы. Но я очень хочу такую сделать, и пока что готовлю статью о том, как определить род существительного в польском языке.
+                      - text: Надеюсь, что вскоре что-то такое у меня здесь появится. 🙂
+                    - paragraph [ref=e503]:
+                      - text: Пока что — если сомневаетесь, какой род, пользуйтесь Викисловарем
+                      - link "https://propolski.com/2017/11/12/wikislownik-najlepszy-online-slownik-jezyka-polskiego/" [ref=e504] [cursor=pointer]:
+                        - /url: https://propolski.com/2017/11/12/wikislownik-najlepszy-online-slownik-jezyka-polskiego/
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e505] [cursor=pointer]:
+                      - /url: "#comment-2159"
+                      - text:  Ответ
+          - insertion [ref=e507]
+          - listitem [ref=e509]:
+            - article [ref=e510]:
+              - generic [ref=e511]:
+                - generic [ref=e512]:  Marina
+                - generic [ref=e513]:  24 марта 2020 в 10:37
+                - link " Постоянная ссылка" [ref=e514] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/04/11/polskie-rzeczowniki-wyjatki/#comment-2162
+              - generic [ref=e515]:
+                - paragraph [ref=e516]: Спасибо! Буду ждать вашу статью!
+                - link "Комментарий к записи Marina" [ref=e517] [cursor=pointer]:
+                  - /url: "#comment-2162"
+                  - text:  Ответ
+          - listitem [ref=e518]:
+            - article [ref=e519]:
+              - generic [ref=e520]:
+                - generic [ref=e521]:  Елена
+                - generic [ref=e522]:  6 сентября 2021 в 18:24
+                - link " Постоянная ссылка" [ref=e523] [cursor=pointer]:
+                  - /url: https://propolski.com/2016/04/11/polskie-rzeczowniki-wyjatki/#comment-2719
+              - generic [ref=e524]:
+                - paragraph [ref=e525]:
+                  - text: Катерина, спасибо за статью, вообще за отличный сайт! Вы провели и проводите огромную и очень нужную работу.
+                  - text: "Перевод предложения Koncert na dwoje skrzypiec i orkiestrę по-русски всё-таки звучит так: Концерт для двух скрипок с оркестром."
+                - link "Комментарий к записи Елена" [ref=e526] [cursor=pointer]:
+                  - /url: "#comment-2719"
+                  - text:  Ответ
+            - list [ref=e527]:
+              - listitem [ref=e528]:
+                - article [ref=e529]:
+                  - generic [ref=e530]:
+                    - generic [ref=e531]:
+                      - text: 
+                      - link "Екатерина Лукьянова" [ref=e532] [cursor=pointer]:
+                        - /url: https://propolski.com/
+                      - text: Автор записи
+                    - generic [ref=e533]:  7 сентября 2021 в 09:33
+                    - link " Постоянная ссылка" [ref=e534] [cursor=pointer]:
+                      - /url: https://propolski.com/2016/04/11/polskie-rzeczowniki-wyjatki/#comment-2720
+                  - generic [ref=e535]:
+                    - paragraph [ref=e536]: Спасибо большое! Всё поправила.
+                    - link "Комментарий к записи Екатерина Лукьянова" [ref=e537] [cursor=pointer]:
+                      - /url: "#comment-2720"
+                      - text:  Ответ
+        - generic [ref=e538]:
+          - heading "Добавить комментарий" [level=3] [ref=e539]: Добавить комментарий
+          - iframe [ref=e541]:
+            
+        - insertion [ref=e543]
+    - contentinfo [ref=e545]:
+      - generic [ref=e548]:
+        - complementary [ref=e550]:
+          - heading "Полезные ссылки" [level=3] [ref=e551]
+          - list [ref=e553]:
+            - listitem [ref=e554]:
+              - link "Тесты по польскому языку" [ref=e555] [cursor=pointer]:
+                - /url: https://testy.propolski.com/
+            - listitem [ref=e556]:
+              - link "Статьи о Польше" [ref=e557] [cursor=pointer]:
+                - /url: https://insidepl.com/
+            - listitem [ref=e558]:
+              - link "Лучший хостинг" [ref=e559] [cursor=pointer]:
+                - /url: https://www.lh.pl/?ref=kettibellya
+        - complementary [ref=e561]:
+          - heading "Что такое ProPolski" [level=3] [ref=e562]
+          - list [ref=e564]:
+            - listitem [ref=e565]:
+              - link "Об авторе" [ref=e566] [cursor=pointer]:
+                - /url: https://propolski.com/autor/
+            - listitem [ref=e567]:
+              - link "Мои ответы на вопросы" [ref=e568] [cursor=pointer]:
+                - /url: https://propolski.com/?p=1811
+            - listitem [ref=e569]:
+              - link "Курс для начинающих" [ref=e570] [cursor=pointer]:
+                - /url: https://kursy.propolski.com/
+            - listitem [ref=e571]:
+              - link "Бесплатная подписка" [ref=e572] [cursor=pointer]:
+                - /url: https://propolski.com/kontakt/
+            - listitem [ref=e573]:
+              - link "Политика конфиденциальности" [ref=e574] [cursor=pointer]:
+                - /url: https://propolski.com/privacy-policy-2/
+        - complementary [ref=e576]:
+          - heading "Блог был для вас полезен?" [level=3] [ref=e577]
+          - generic [ref=e578]:
+            - paragraph [ref=e579]: Если вам понравилось, если было полезно, то ваша финансовая поддержка поможет мне писать чаще и еще интереснее!
+            - link "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e581] [cursor=pointer]:
+              - /url: https://www.patreon.com/propolski
+              - img "Поддержите сайт ProPolski.com с помощью Patreon" [ref=e582]
+            - link "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e584] [cursor=pointer]:
+              - /url: https://www.paypal.me/propolski
+              - img "Поддержите сайт ProPolski.com с помощью PayPal" [ref=e585]
+        - complementary [ref=e587]:
+          - paragraph [ref=e589]:
+            - text: Запроектировано с помощью Freepik.com
+            - strong [ref=e590]: Все права защищены.
+            - text: Материалы
+            - strong [ref=e591]: не копировать
+            - text: для использования на других страницах, для этого внизу каждой статьи есть кнопочка «поделиться».
+      - generic [ref=e592]:
+        - generic:
+          - generic:
+            - generic [ref=e593]:
+              - text: Copyright © 2026
+              - link "ProPolski" [ref=e594] [cursor=pointer]:
+                - /url: https://propolski.com/
+              - text: . Все права защищены. Тема
+              - link "Spacious" [ref=e595] [cursor=pointer]:
+                - /url: https://themegrill.com/themes/spacious
+              - text: "от ThemeGrill. На платформе:"
+              - link "WordPress" [ref=e596] [cursor=pointer]:
+                - /url: https://wordpress.org
+              - text: .
+            - navigation [ref=e597]:
+              - generic:
+                - list:
+                  - listitem [ref=e598]:
+                    - link "Об авторе" [ref=e599] [cursor=pointer]:
+                      - /url: https://propolski.com/autor/
+                  - listitem [ref=e600]:
+                    - link "Мои ответы на вопросы" [ref=e601] [cursor=pointer]:
+                      - /url: https://propolski.com/?p=1811
+                  - listitem [ref=e602]:
+                    - link "Курс для начинающих" [ref=e603] [cursor=pointer]:
+                      - /url: https://kursy.propolski.com/
+                  - listitem [ref=e604]:
+                    - link "Бесплатная подписка" [ref=e605] [cursor=pointer]:
+                      - /url: https://propolski.com/kontakt/
+                  - listitem [ref=e606]:
+                    - link "Политика конфиденциальности" [ref=e607] [cursor=pointer]:
+                      - /url: https://propolski.com/privacy-policy-2/
+    - text: 
+    - generic [ref=e609]:
+      - button "Privacy and cookie settings" [ref=e610] [cursor=pointer]
+      - generic [ref=e611]: "Managed by Google. Complies with IAB TCF. CMP ID: 300"
+  - insertion [ref=e612]:
+    - iframe [ref=e615]:
+      - generic [active] [ref=f803e1]:
+        - generic [ref=f803e6]:
+          - generic [ref=f803e7]:
+            - generic "GetResponse" [ref=f803e8]:
+              - link "Rozkręć sprzedaż w e-sklepie" [ref=f803e9] [cursor=pointer]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CGDOXcwrNaeufE8WH2fcP5efE8Qqyt_aMhgGoiobUlhW_r9STugIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgT3AU_Q88n-DGMpuf9k-L2rpa-KtZsXMWkDkJt755_dtY6KJRhh7RaOuRzKFM91E4P5DNLX62fDhvLkWHC2dt5kCqSDsOvG9jemL74H2eZhxC95dK-SM80v6AIO4lxcEx9bqVvCU5Tqel6AvTQBXEklAP0hKv0nL-taLDAFRiDPytUOyJwuzkbit6vjd4UbnWZz6tltGWmTMnvetSzIL-GwmzsD5ufjI8eGbOs3Lat91sZ3tev2oFuRKdkEzsgfLN_o1ZfGSgfvIw1vIg7ZdML3_KpvLpE00zeKev851wzbZU-Bxxfgk6I5V2Uo3Kev5YdNsKipibPUhovABI2Xnri9BYgFxv2IpVSAB7WHsOcDqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYy_rX5c7MkwOxCdu0-mUHq4AKgAoBmAsByAsBqg0CUEzIDQHqDRMI76nY5c7MkwMVxUP2CB3lMzGu8A0CiA4JsA6Ak4HgGNgTDNAVAcoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgL6UxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIq6XY5c7MkwMVxUP2CB3lMzGuEAEYASAAEgLPzPD_BwE&num=1&cid=CAQSbwAFq6B9wtVumVOQhYpcreSb9cXn_0VlwinpkLXbJDtP7J8SVb3Nq5WZBXYL20a10abwzkhaMp0l-bvS_zAN1PnlDEOeJDMYE4nj5m5JjGu5zhnC0fnVuBvhdZdVXMJylxJr0ncQILuJF1HpynX9dhgB&sig=AOD64_0Ol-ju98p_JHq-MxewwHYH6CTbbA&client=ca-pub-6525291204356869&rf=1&nb=0&adurl=https://www.getresponse.pl/rozwiazania/ecommerce-marketing%3Fcamp%3DPL_PL_pMAX_Ecommerce%26kw%3D%26type%3D%26crtn%3D%26serv%3Dadwords%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Ecommerce%26hsa_acc%3D1471644613%26hsa_cam%3D22632549743%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D22626320070%26gclid%3DEAIaIQobChMIq6XY5c7MkwMVxUP2CB3lMzGuEAEYASAAEgLPzPD_BwE
+            - link "Pokaż klientowi dokładnie to, czego chce, dzięki automatycznym emailom z rekomendacjami. GetResponse" [ref=f803e11] [cursor=pointer]:
+              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CGDOXcwrNaeufE8WH2fcP5efE8Qqyt_aMhgGoiobUlhW_r9STugIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgT3AU_Q88n-DGMpuf9k-L2rpa-KtZsXMWkDkJt755_dtY6KJRhh7RaOuRzKFM91E4P5DNLX62fDhvLkWHC2dt5kCqSDsOvG9jemL74H2eZhxC95dK-SM80v6AIO4lxcEx9bqVvCU5Tqel6AvTQBXEklAP0hKv0nL-taLDAFRiDPytUOyJwuzkbit6vjd4UbnWZz6tltGWmTMnvetSzIL-GwmzsD5ufjI8eGbOs3Lat91sZ3tev2oFuRKdkEzsgfLN_o1ZfGSgfvIw1vIg7ZdML3_KpvLpE00zeKev851wzbZU-Bxxfgk6I5V2Uo3Kev5YdNsKipibPUhovABI2Xnri9BYgFxv2IpVSAB7WHsOcDqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYy_rX5c7MkwOxCdu0-mUHq4AKgAoBmAsByAsBqg0CUEzIDQHqDRMI76nY5c7MkwMVxUP2CB3lMzGu8A0CiA4JsA6Ak4HgGNgTDNAVAcoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgL6UxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIq6XY5c7MkwMVxUP2CB3lMzGuEAEYASAAEgLPzPD_BwE&num=1&cid=CAQSbwAFq6B9wtVumVOQhYpcreSb9cXn_0VlwinpkLXbJDtP7J8SVb3Nq5WZBXYL20a10abwzkhaMp0l-bvS_zAN1PnlDEOeJDMYE4nj5m5JjGu5zhnC0fnVuBvhdZdVXMJylxJr0ncQILuJF1HpynX9dhgB&sig=AOD64_0Ol-ju98p_JHq-MxewwHYH6CTbbA&client=ca-pub-6525291204356869&rf=1&nb=7&adurl=https://www.getresponse.pl/rozwiazania/ecommerce-marketing%3Fcamp%3DPL_PL_pMAX_Ecommerce%26kw%3D%26type%3D%26crtn%3D%26serv%3Dadwords%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Ecommerce%26hsa_acc%3D1471644613%26hsa_cam%3D22632549743%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D22626320070%26gclid%3DEAIaIQobChMIq6XY5c7MkwMVxUP2CB3lMzGuEAEYASAAEgLPzPD_BwE
+              - text: Pokaż klientowi dokładnie to, czego chce, dzięki automatycznym emailom z
+              - text: rekomendacjami. GetResponse
+          - link "Otwórz" [ref=f803e14] [cursor=pointer]:
+            - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CGDOXcwrNaeufE8WH2fcP5efE8Qqyt_aMhgGoiobUlhW_r9STugIQASD63eE3YOnkyoXgGqABtvq--SjIAQGoAwHIA8sEqgT3AU_Q88n-DGMpuf9k-L2rpa-KtZsXMWkDkJt755_dtY6KJRhh7RaOuRzKFM91E4P5DNLX62fDhvLkWHC2dt5kCqSDsOvG9jemL74H2eZhxC95dK-SM80v6AIO4lxcEx9bqVvCU5Tqel6AvTQBXEklAP0hKv0nL-taLDAFRiDPytUOyJwuzkbit6vjd4UbnWZz6tltGWmTMnvetSzIL-GwmzsD5ufjI8eGbOs3Lat91sZ3tev2oFuRKdkEzsgfLN_o1ZfGSgfvIw1vIg7ZdML3_KpvLpE00zeKev851wzbZU-Bxxfgk6I5V2Uo3Kev5YdNsKipibPUhovABI2Xnri9BYgFxv2IpVSAB7WHsOcDqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIDhgBAQARifAzIIqoKAgICAgAg6DoDAA4CAhICAlK7gA6gHSL39wTpYy_rX5c7MkwOxCdu0-mUHq4AKgAoBmAsByAsBqg0CUEzIDQHqDRMI76nY5c7MkwMVxUP2CB3lMzGu8A0CiA4JsA6Ak4HgGNgTDNAVAcoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgL6UxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIq6XY5c7MkwMVxUP2CB3lMzGuEAEYASAAEgLPzPD_BwE&num=1&cid=CAQSbwAFq6B9wtVumVOQhYpcreSb9cXn_0VlwinpkLXbJDtP7J8SVb3Nq5WZBXYL20a10abwzkhaMp0l-bvS_zAN1PnlDEOeJDMYE4nj5m5JjGu5zhnC0fnVuBvhdZdVXMJylxJr0ncQILuJF1HpynX9dhgB&sig=AOD64_0Ol-ju98p_JHq-MxewwHYH6CTbbA&client=ca-pub-6525291204356869&rf=1&nb=8&adurl=https://www.getresponse.pl/rozwiazania/ecommerce-marketing%3Fcamp%3DPL_PL_pMAX_Ecommerce%26kw%3D%26type%3D%26crtn%3D%26serv%3Dadwords%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_campaign%3DPL_PL_pMAX_Ecommerce%26hsa_acc%3D1471644613%26hsa_cam%3D22632549743%26hsa_grp%3D%26hsa_ad%3D%26hsa_src%3Dx%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D22626320070%26gclid%3DEAIaIQobChMIq6XY5c7MkwMVxUP2CB3lMzGuEAEYASAAEgLPzPD_BwE
+            - generic [ref=f803e17]:
+              - generic [ref=f803e18]: Otwórz
+              - img [ref=f803e19]
+        - img [ref=f803e24] [cursor=pointer]
+        - button [ref=f803e26] [cursor=pointer]:
+          - img [ref=f803e27]
+        - iframe
