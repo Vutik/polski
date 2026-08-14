@@ -279,6 +279,10 @@ tr:nth-child(even) td {
   background: #fafafa;
 }
 
+.filterable-summary.sticky-2 th:nth-child(1),
+.filterable-summary.sticky-2 td:nth-child(1),
+.filterable-summary.sticky-2 th:nth-child(2),
+.filterable-summary.sticky-2 td:nth-child(2),
 .filterable-summary.sticky-3 th:nth-child(1),
 .filterable-summary.sticky-3 td:nth-child(1),
 .filterable-summary.sticky-3 th:nth-child(2),
@@ -291,12 +295,21 @@ tr:nth-child(even) td {
   z-index: 2;
 }
 
+.filterable-summary.sticky-2 th:nth-child(1),
+.filterable-summary.sticky-2 td:nth-child(1),
 .filterable-summary.sticky-3 th:nth-child(1),
 .filterable-summary.sticky-3 td:nth-child(1),
 .filterable-summary.sticky-1 th:nth-child(1),
 .filterable-summary.sticky-1 td:nth-child(1) {
   left: 0;
   min-width: 54px;
+}
+
+.filterable-summary.sticky-2 th:nth-child(2),
+.filterable-summary.sticky-2 td:nth-child(2) {
+  left: 54px;
+  min-width: 150px;
+  box-shadow: 8px 0 10px -10px rgb(15 23 42 / 0.6);
 }
 
 .filterable-summary.sticky-3 th:nth-child(2),
@@ -317,17 +330,20 @@ tr:nth-child(even) td {
   box-shadow: 8px 0 10px -10px rgb(15 23 42 / 0.6);
 }
 
+.filterable-summary.sticky-2 th:nth-child(-n + 2),
 .filterable-summary.sticky-3 th:nth-child(-n + 3),
 .filterable-summary.sticky-1 th:nth-child(1) {
   z-index: 5;
   background: #f3f4f6;
 }
 
+.filterable-summary.sticky-2 td:nth-child(-n + 2),
 .filterable-summary.sticky-3 td:nth-child(-n + 3),
 .filterable-summary.sticky-1 td:nth-child(1) {
   background: #ffffff;
 }
 
+.filterable-summary.sticky-2 tr:nth-child(even) td:nth-child(-n + 2),
 .filterable-summary.sticky-3 tr:nth-child(even) td:nth-child(-n + 3),
 .filterable-summary.sticky-1 tr:nth-child(even) td:nth-child(1) {
   background: #fafafa;
