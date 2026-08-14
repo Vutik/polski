@@ -41,7 +41,12 @@
 похожие.</p>
 <h2 id="большая-таблица-трудных-глаголов">Большая таблица трудных
 глаголов</h2>
-<table>
+<div class="table-filter" data-table-filter="irregular-verbs" aria-label="Фильтр по группам">
+<span>Показать:</span>
+<button type="button" class="is-active" data-columns="">Все</button>
+<button type="button" data-columns="1,2,3,4,5,6,7,8">Все колонки</button>
+</div>
+<table class="filterable-summary sticky-1" data-filterable-table="irregular-verbs">
 <thead>
 <tr>
 <th>Группа</th>
@@ -434,6 +439,7 @@
 частых глаголов лучше учить как готовые наборы:
 <code>idę/idzie/szedł</code>, <code>jadę/jedzie/jechał</code>,
 <code>mogę/możesz/mógł</code>.</p>
+<script src="table-filter.js"></script>
 </main>
 </body>
 </html>
