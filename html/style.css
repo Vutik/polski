@@ -15,7 +15,7 @@ body {
 }
 
 main {
-  max-width: 1180px;
+  width: 100%;
   margin: 0 auto;
   padding: 40px;
   background: #ffffff;
@@ -118,8 +118,55 @@ td:nth-child(4) {
   min-width: 260px;
 }
 
+.question-hint strong {
+  display: inline-block;
+  margin-bottom: 4px;
+  color: #111827;
+}
+
 th {
   font-weight: 700;
+}
+
+.has-tip {
+  position: relative;
+  cursor: help;
+  text-decoration: underline dotted #64748b;
+  text-underline-offset: 3px;
+}
+
+.ending-token {
+  font-weight: 700;
+}
+
+.tip-content {
+  position: fixed;
+  top: var(--tip-top, 16px);
+  left: var(--tip-left, 16px);
+  z-index: 20;
+  display: none;
+  width: max-content;
+  max-width: min(520px, 80vw);
+  padding: 10px 12px;
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+  background: #111827;
+  color: #f9fafb;
+  box-shadow: 0 12px 30px rgb(15 23 42 / 0.22);
+  font-size: 0.92rem;
+  line-height: 1.45;
+  text-decoration: none;
+  white-space: normal;
+}
+
+.tip-content strong {
+  color: #fde68a;
+  font-weight: 800;
+}
+
+.has-tip:hover .tip-content,
+.has-tip:focus-within .tip-content {
+  display: block;
 }
 
 .filterable-summary thead th,
@@ -261,7 +308,7 @@ tr:nth-child(even) td {
 .filterable-summary.sticky-3 th:nth-child(3),
 .filterable-summary.sticky-3 td:nth-child(3) {
   left: 204px;
-  min-width: 150px;
+  min-width: 280px;
   box-shadow: 8px 0 10px -10px rgb(15 23 42 / 0.6);
 }
 

@@ -3,7 +3,7 @@
     document.querySelectorAll("[data-filterable-table] tbody td").forEach((cell) => {
       const columnNumber = cell.cellIndex + 1;
 
-      if (columnNumber < 6 || cell.dataset.examplesStacked === "true") {
+      if (columnNumber < 5 || cell.dataset.examplesStacked === "true") {
         return;
       }
 
@@ -41,6 +41,70 @@
     }
 
     return value.split(",").map((item) => Number(item.trim())).filter(Boolean);
+  };
+
+  const escapeHtml = (value) => value
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;");
+
+  const addTooltipBreaks = (value) => {
+    const protectedText = value
+      .replaceAll("ед.", "ед§")
+      .replaceAll("мн.", "мн§");
+
+    return protectedText
+      .replace(/\. /g, ".<br>")
+      .replace(/; /g, ";<br>")
+      .replace(/: (Часто|Частые|Чередования|Исключения|После|Полная|Краткая|Форму|Это одна|Возможны|Особые)/g, ":<br>$1")
+      .replaceAll("ед§", "ед.")
+      .replaceAll("мн§", "мн.");
+  };
+
+  const emphasizeEndings = (value) => escapeHtml(addTooltipBreaks(value))
+    .replace(/&lt;br&gt;/g, "<br>")
+    .replace(
+      /(^|[\s:;,()./])(-[a-ząćęłńóśźż]+|ø|n-)(?=$|[\s:;,()./])/gi,
+      "$1<strong>$2</strong>",
+    );
+
+  const setupRichTooltips = () => {
+    document.querySelectorAll(".has-tip[title]").forEach((cell) => {
+      const tooltipText = cell.getAttribute("title");
+
+      if (!tooltipText) {
+        return;
+      }
+
+      cell.removeAttribute("title");
+      cell.setAttribute("tabindex", "0");
+
+      const tooltip = document.createElement("span");
+      tooltip.className = "tip-content";
+      tooltip.innerHTML = emphasizeEndings(tooltipText);
+      cell.append(tooltip);
+
+      const updatePosition = () => {
+        const rect = cell.getBoundingClientRect();
+        const left = Math.min(rect.left, window.innerWidth - 540);
+        const top = Math.min(rect.bottom + 8, window.innerHeight - 180);
+
+        tooltip.style.setProperty("--tip-left", `${Math.max(12, left)}px`);
+        tooltip.style.setProperty("--tip-top", `${Math.max(12, top)}px`);
+      };
+
+      cell.addEventListener("mouseenter", updatePosition);
+      cell.addEventListener("focus", updatePosition);
+    });
+  };
+
+  const markEndingTokens = () => {
+    document.querySelectorAll(".has-tip code").forEach((code) => {
+      if (/^-/.test(code.textContent.trim()) || code.textContent.trim() === "ø") {
+        code.classList.add("ending-token");
+      }
+    });
   };
 
   const buildFloatingHeader = (table, floatingHeader) => {
@@ -141,5 +205,7 @@
   });
 
   stackEndingExamples();
+  markEndingTokens();
+  setupRichTooltips();
   setupFloatingHeaders();
 })();

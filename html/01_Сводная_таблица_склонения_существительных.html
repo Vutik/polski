@@ -44,17 +44,17 @@ id="сводная-таблица-склонения-существительн�
 <div class="table-filter" data-table-filter="noun-declension" aria-label="Фильтр колонок большой таблицы">
 <span>Показать:</span>
 <button type="button" class="is-active" data-columns="">Все</button>
-<button type="button" data-columns="1,2,3,4,5,6,7,14,16">Мужской</button>
-<button type="button" data-columns="1,2,3,4,5,8,9,15,16">Женский</button>
-<button type="button" data-columns="1,2,3,4,5,10,11,12,13,15,16">Средний</button>
-<button type="button" data-columns="1,2,3,4,5,14,15,16">Множественное</button>
+<button type="button" data-columns="1,2,3,4,5,6,13,14,20">Мужской</button>
+<button type="button" data-columns="1,2,3,4,7,8,15,20">Женский</button>
+<button type="button" data-columns="1,2,3,4,9,10,11,12,16,20">Средний</button>
+<button type="button" data-columns="1,2,3,4,13,14,15,16,20">Множественное</button>
+<button type="button" data-columns="1,2,3,4,17,18,19,20">Местоимения</button>
 </div>
-<table class="filterable-summary sticky-3" data-filterable-table="noun-declension">
+<table class="filterable-summary sticky-2" data-filterable-table="noun-declension">
 <thead>
 <tr>
 <th>№</th>
 <th>Падеж</th>
-<th>Вопрос</th>
 <th>Фраза-подсказка</th>
 <th>Предлоги</th>
 <th>Муж. неодуш. ед.</th>
@@ -66,19 +66,24 @@ id="сводная-таблица-склонения-существительн�
 <th>Сред. на <code>-ę</code> ед.</th>
 <th>Сред. на <code>-um</code> ед.</th>
 <th>Мн. муж. лично-муж.</th>
-<th>Мн. немужсколичн.</th>
+<th>Мн. муж. неличн.</th>
+<th>Мн. жен.</th>
+<th>Мн. сред.</th>
+<th>Местоим. JA/TY</th>
+<th>Местоим. ON/ONA/ONO</th>
+<th>Местоим. MY/WY/ONI/ONE</th>
 <th>Короткое пояснение</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>1</td>
-<td>Mianownik</td>
-<td>Kto? Co?</td>
-<td><code>To jest...</code><br>m.:
+<td>Mianownik<br><small>(Kto? Co?)</small></td>
+<td><code>To jest...</code><br>ед. m.:
 <code>To jest dom/kot/student.</code><br>ż.:
 <code>To jest kobieta/noc.</code><br>n.:
-<code>To jest okno/morze/imię.</code></td>
+<code>To jest okno/morze/imię.</code><br>мн.:
+<code>To są studenci/kobiety/okna.</code></td>
 <td>—</td>
 <td>основа: <code>dom</code></td>
 <td>основа: <code>kot</code>, <code>student</code></td>
@@ -88,189 +93,223 @@ id="сводная-таблица-склонения-существительн�
 <td><code>-e</code>: <code>morze</code></td>
 <td><code>-ę</code>: <code>imię</code>, <code>zwierzę</code></td>
 <td>без изменений: <code>muzeum</code></td>
-<td><code>-i</code>, <code>-y</code>, <code>-owie</code>:
-<code>studenci</code>, <code>panowie</code></td>
-<td><code>-y</code>, <code>-i</code>, <code>-a</code>:
-<code>kobiety</code>, <code>koty</code>, <code>okna</code></td>
+<td class="has-tip" title="Mianownik мн. лично-мужской. Твёрдые: чередование + -i/-y (t→ci: studenci, d→dzi: sąsiedzi, r→rz+y: doktorzy, st→ści: artyści). Заднеязычные: k→cy (Polacy), g→dzy (koledzy), ch→si (Włosi). Мягкие/затвердевшие: -e (goście, lekarze). Титулы/родство: -owie (panowie, synowie). Исключения: ludzie, bracia, księża."><code>-i</code>, <code>-y</code>, <code>-owie</code>, <code>-e</code>:
+<code>studenci</code>, <code>doktorzy</code>, <code>panowie</code>, <code>goście</code></td>
+<td class="has-tip" title="Mianownik мн. муж. неличный. Твёрдые (t, d, s, z, n, r, ł, p, b, m, w, f) → -y: domy, stoły, samochody. Заднеязычные (k, g) → -i: ptaki, progi, języki. Затвердевшие (cz, sz, ż/rz, dz) → -e: noże, klucze, grosze. Мягкие (ś, ź, ć, ń, j, l) → -e: konie, gołębie. Исключения: rok → lata."><code>-y</code>, <code>-i</code>, <code>-e</code>:
+<code>domy</code>, <code>ptaki</code>, <code>noże</code>, <code>konie</code></td>
+<td class="has-tip" title="Mianownik мн. женский. На -a: твёрдые → -y (kobiety, lampy); k/g → -i (matki, książki, nogi); затвердевшие → -e (ulice, róże); мягкие → -e (ziemie, kuchnie). На согласный: мягкие → -i (kości); затвердевшие → -e/-y (noce, myszy). Исключения: ręka → ręce."><code>-y</code>, <code>-i</code>, <code>-e</code>:
+<code>kobiety</code>, <code>matki</code>, <code>ulice</code>, <code>kości</code></td>
+<td class="has-tip" title="Mianownik мн. средний. На -o → -a: okna, miasta, słowa. На -e → -a: pola, morza. На -ę → -ęta/-ona: zwierzęta, imiona. На -um → -a (без -um): muzea, centra. Исключения: dziecko → dzieci, oko → oczy, ucho → uszy."><code>-a</code>, <code>-ęta</code>, <code>-ona</code>:
+<code>okna</code>, <code>pola</code>, <code>zwierzęta</code>, <code>imiona</code></td>
+<td><code>ja</code>, <code>ty</code></td>
+<td><code>on</code>, <code>ona</code>, <code>ono</code></td>
+<td><code>my</code>, <code>wy</code>, <code>oni</code>, <code>one</code></td>
 <td>Начальная форма слова. Во множественном мужской лично-мужской род
 имеет отдельную модель.</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Dopełniacz</td>
-<td>Kogo? Czego?</td>
-<td><code>Nie ma...</code><br>m. <code>-u/-a</code>:
+<td>Dopełniacz<br><small>(Kogo? Czego?)</small></td>
+<td>падеж "нет/нету кого? чего?"<br><code>Nie ma...</code> = нет/нету ...<br>ед. m. <code>-u/-a</code>:
 <code>Nie ma domu/sera/kota.</code><br>ż. <code>-y/-i</code>:
 <code>Nie ma kobiety/książki/nocy.</code><br>n. <code>-a</code>:
 <code>Nie ma okna/morza.</code><br>часть:
-<code>Chcę wody/cukru.</code></td>
+<code>Chcę wody/cukru.</code><br>мн.:
+<code>Nie ma studentów/kobiet/okien.</code></td>
 <td><code>bez</code>, <code>dla</code>, <code>do</code>,
 <code>od</code>, <code>z</code> (из), <code>u</code>, <code>obok</code>,
 <code>koło</code>, <code>podczas</code></td>
-<td><code>-u</code> / <code>-a</code>: <code>domu</code>,
+<td class="has-tip" title="Dopełniacz ед. мужского рода: -a обычно у людей, животных, многих конкретных предметов, инструментов и частей тела; -u часто у веществ, абстрактных понятий, мест и многих неодушевлённых слов. Частые запоминаемые формы: dzień → dnia, tydzień → tygodnia, stół → stołu, świat → świata, las → lasu, Bóg → Boga."><code>-u</code> / <code>-a</code>: <code>domu</code>,
 <code>sera</code></td>
 <td>обычно <code>-a</code>: <code>kota</code>,
 <code>studenta</code></td>
-<td><code>-y</code> / <code>-i</code>: <code>kobiety</code>,
+<td class="has-tip" title="Dopełniacz ед. женского рода: -i пишется после k, g и мягких согласных; -y пишется после большинства остальных согласных и после отвердевших согласных."><code>-y</code> / <code>-i</code>: <code>kobiety</code>,
 <code>książki</code></td>
-<td><code>-y</code> / <code>-i</code>: <code>nocy</code>,
+<td class="has-tip" title="Женский род на согласный в Dopełniacz обычно имеет -y или -i. -i ставится после мягких согласных, -y после многих отвердевших согласных."><code>-y</code> / <code>-i</code>: <code>nocy</code>,
 <code>kości</code></td>
 <td><code>-a</code>: <code>okna</code></td>
 <td><code>-a</code>: <code>morza</code></td>
-<td><code>-enia</code> / <code>-ęcia</code>: <code>imienia</code>,
+<td class="has-tip" title="Средний род на -ę имеет расширенную основу. Слова типа imię дают -enia: imienia. Слова типа zwierzę дают -ęcia: zwierzęcia."><code>-enia</code> / <code>-ęcia</code>: <code>imienia</code>,
 <code>zwierzęcia</code></td>
 <td>без изменений: <code>muzeum</code></td>
-<td><code>-ów</code>, <code>-i</code>, <code>-y</code>, <code>ø</code>:
-<code>studentów</code>, <code>gości</code></td>
-<td><code>ø</code>, <code>-ów</code>, <code>-i</code>:
-<code>kobiet</code>, <code>okien</code>, <code>kotów</code>,
-<code>kości</code></td>
-<td>Самый неоднозначный падеж, особенно в множественном числе. Часто
-форму нужно запоминать вместе со словом.</td>
+<td class="has-tip" title="Dopełniacz мн. лично-мужской. Твёрдые/заднеязычные → -ów: studentów, Polaków. Затвердевшие → -y: żołnierzy, lekarzy. Мягкие → -i: gości. Исключения: ludzi, braci, księży, przyjaciół."><code>-ów</code>, <code>-y</code>, <code>-i</code>:
+<code>studentów</code>, <code>żołnierzy</code>, <code>gości</code></td>
+<td class="has-tip" title="Dopełniacz мн. муж. неличный. Твёрдые/заднеязычные → -ów: domów, kotów, ptaków. Затвердевшие → -y: noży, kluczy. Мягкие → -i: koni. Исключения: rok → lat."><code>-ów</code>, <code>-y</code>, <code>-i</code>:
+<code>domów</code>, <code>kotów</code>, <code>noży</code>, <code>koni</code></td>
+<td class="has-tip" title="Dopełniacz мн. женский. На -a → нулевое окончание: kobiet, lamp, gwiazd; беглое -e- если скопление: matek, książek, córek. На согласный: мягкие → -i (kości, gałęzi, wsi); затвердевшие → -y (nocy, myszy, rzeczy). Исключение: ręka → rąk."><code>ø</code>, <code>-i</code>, <code>-y</code>:
+<code>kobiet</code>, <code>książek</code>, <code>kości</code>, <code>nocy</code></td>
+<td class="has-tip" title="Dopełniacz мн. средний. На -o → нулевое окончание: miast, słów; беглое -e-: okien, jabłek. На -e → ø: pól, mórz. На -ę → расширенная основа: zwierząt, imion. На -um → -ów: muzeów, centrów. Отглагольные -anie/-enie → -ań/-eń: zadań, pytań."><code>ø</code>, <code>-ów</code>:
+<code>okien</code>, <code>miast</code>, <code>zwierząt</code>, <code>muzeów</code></td>
+<td class="has-tip" title="Полная форма используется после предлога, в начале фразы или для акцента: dla mnie, dla ciebie. Краткая форма cię обычно стоит после глагола без ударения: Widzę cię."><strong>полная:</strong> <code>mnie</code>, <code>ciebie</code><br><strong>краткая:</strong> <code>cię</code></td>
+<td class="has-tip" title="Краткая форма go обычно стоит после глагола: Widzę go. Полные формы jego/jej нужны для акцента. После предлогов у третьего лица появляется n-: dla niego, do niej."><strong>полная:</strong> <code>jego/jej</code><br><strong>краткая:</strong> <code>go</code><br><strong>с предлогом:</strong> <code>niego/niej</code></td>
+<td class="has-tip" title="Nas, was, ich используются как обычные формы Dopełniacz. После предлогов для третьего лица используется форма с n-: dla nich, bez nich."><strong>полная:</strong> <code>nas</code>, <code>was</code>, <code>ich</code><br><strong>с предлогом:</strong> <code>nich</code></td>
+<td>Падеж отсутствия: <code>nie ma</code> = "нет/нету кого? чего?".
+Самый неоднозначный падеж, особенно в множественном числе. Часто форму
+нужно запоминать вместе со словом.</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Celownik</td>
-<td>Komu? Czemu?</td>
-<td><code>Daję/pomagam...</code><br>m. <code>-owi/-u</code>:
+<td>Celownik<br><small>(Komu? Czemu?)</small></td>
+<td><code>Daję/pomagam...</code><br>ед. m. <code>-owi/-u</code>:
 <code>Daję studentowi/psu/panu.</code><br>ż. <code>-e/-y/-i</code>:
 <code>Pomagam kobiecie/książce/pracy/ziemi.</code><br>n.
-<code>-u</code>: <code>Przyglądam się oknu/morzu.</code></td>
+<code>-u</code>: <code>Przyglądam się oknu/morzu.</code><br>мн.:
+<code>Pomagam studentom/kobietom/dzieciom.</code></td>
 <td><code>dzięki</code>, <code>ku</code>, <code>przeciw</code>,
 <code>wbrew</code></td>
-<td><code>-owi</code>, реже <code>-u</code>: <code>domowi</code>,
+<td class="has-tip" title="Celownik ед. мужского рода обычно получает -owi. Короткое -u встречается у небольшой группы частых слов: pan → panu, brat → bratu, ojciec → ojcu, pies → psu, Bóg → Bogu, świat → światu."><code>-owi</code>, реже <code>-u</code>: <code>domowi</code>,
 <code>panu</code></td>
-<td><code>-owi</code>, реже <code>-u</code>: <code>kotowi</code>,
+<td class="has-tip" title="Celownik ед. мужского одушевлённого обычно получает -owi. Исключения на -u нужно запоминать: pies → psu, pan → panu, brat → bratu, ojciec → ojcu, Bóg → Bogu."><code>-owi</code>, реже <code>-u</code>: <code>kotowi</code>,
 <code>psu</code></td>
-<td><code>-e</code> / <code>-y</code> / <code>-i</code>:
+<td class="has-tip" title="Celownik ед. женского рода на -a: -e часто появляется после твёрдых основ и вызывает чередование (kobieta → kobiecie); -y после отвердевших согласных (praca → pracy); -i после мягких основ и в словах на -ia/-ja/-cia. Чередования перед -e: t → ci (kobieta → kobiecie), d → dzi (woda → wodzie), r → rz (siostra → siostrze), k → c (ręka → ręce), g → dz (droga → drodze), ch → sz (mucha → musze), ł → l (szkoła → szkole), st → ści (pasta → paście), sn → śni (wiosna → wiośnie). Частые формы: ręka → ręce, matka → matce, siostra → siostrze, lekcja → lekcji."><code>-e</code> / <code>-y</code> / <code>-i</code>:
 <code>kobiecie</code>, <code>książce</code>, <code>pracy</code>,
 <code>ziemi</code></td>
-<td><code>-y</code> / <code>-i</code>: <code>nocy</code>,
+<td class="has-tip" title="Женский род на согласный в Celownik обычно имеет -y или -i. -i ставится после мягких согласных, -y после многих отвердевших согласных."><code>-y</code> / <code>-i</code>: <code>nocy</code>,
 <code>kości</code></td>
 <td><code>-u</code>: <code>oknu</code></td>
 <td><code>-u</code>: <code>morzu</code></td>
-<td><code>-eniu</code> / <code>-ęciu</code>: <code>imieniu</code>,
+<td class="has-tip" title="Средний род на -ę имеет расширенную основу. Слова типа imię дают -eniu: imieniu. Слова типа zwierzę дают -ęciu: zwierzęciu."><code>-eniu</code> / <code>-ęciu</code>: <code>imieniu</code>,
 <code>zwierzęciu</code></td>
 <td>без изменений: <code>muzeum</code></td>
 <td><code>-om</code>: <code>studentom</code></td>
-<td><code>-om</code>: <code>kobietom</code>, <code>oknom</code>,
-<code>kotom</code></td>
-<td>В единственном числе мужской род обычно получает <code>-owi</code>,
-но есть частые короткие формы на <code>-u</code>.</td>
+<td><code>-om</code>: <code>kotom</code>, <code>domom</code></td>
+<td><code>-om</code>: <code>kobietom</code>, <code>kościom</code></td>
+<td><code>-om</code>: <code>oknom</code>, <code>miastom</code></td>
+<td class="has-tip" title="Краткие формы mi, ci обычно стоят после глагола без ударения: Daj mi, pomagam ci. Полные mnie, tobie используются для акцента, противопоставления и после предлогов."><strong>полная:</strong> <code>mnie</code>, <code>tobie</code><br><strong>краткая:</strong> <code>mi</code>, <code>ci</code></td>
+<td class="has-tip" title="Краткая форма mu обычно стоит после глагола: Daję mu. Полная jemu нужна для акцента. После предлогов у третьего лица появляется n-: ku niemu, dzięki niej."><strong>полная:</strong> <code>jemu/jej</code><br><strong>краткая:</strong> <code>mu</code><br><strong>с предлогом:</strong> <code>niemu/niej</code></td>
+<td class="has-tip" title="Nam, wam, im используются как формы Celownik. После предлогов для третьего лица появляется n-: ku nim, dzięki nim."><strong>полная:</strong> <code>nam</code>, <code>wam</code>, <code>im</code><br><strong>с предлогом:</strong> <code>nim</code></td>
+<td>Ед. число: мужской обычно <code>-owi</code> (реже <code>-u</code>).
+Мн. число: всегда <code>-om</code> для всех родов без исключений.</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Biernik</td>
-<td>Kogo? Co?</td>
-<td><code>Widzę/lubię/chcę...</code><br>m. неодуш. = M:
+<td>Biernik<br><small>(Kogo? Co?)</small></td>
+<td><code>Widzę/lubię/chcę...</code><br>ед. m. неодуш. = M:
 <code>Widzę dom/telefon.</code><br>m. одуш. = D:
 <code>Widzę kota/studenta.</code><br>ż. <code>-ę</code>:
 <code>Lubię kawę/książkę.</code><br>n. = M:
-<code>Chcę okno/morze.</code></td>
+<code>Chcę okno/morze.</code><br>мн. m. личн. = D:
+<code>Widzę studentów.</code><br>мн. немужсколичн. = M:
+<code>Widzę kobiety/okna.</code></td>
 <td><code>na</code> (куда), <code>w</code> (куда), <code>przez</code>,
 <code>za</code>, <code>o</code></td>
-<td>= Mianownik: <code>dom</code></td>
-<td>= Dopełniacz: <code>kota</code>, <code>studenta</code></td>
+<td>= Mianownik (Kto? Co?): <code>dom</code></td>
+<td>= Dopełniacz (Kogo? Czego?): <code>kota</code>, <code>studenta</code></td>
 <td><code>-ę</code>: <code>kobietę</code>, <code>książkę</code></td>
-<td>= Mianownik: <code>noc</code>, <code>kość</code></td>
-<td>= Mianownik: <code>okno</code></td>
-<td>= Mianownik: <code>morze</code></td>
-<td>= Mianownik: <code>imię</code>, <code>zwierzę</code></td>
+<td>= Mianownik (Kto? Co?): <code>noc</code>, <code>kość</code></td>
+<td>= Mianownik (Kto? Co?): <code>okno</code></td>
+<td>= Mianownik (Kto? Co?): <code>morze</code></td>
+<td>= Mianownik (Kto? Co?): <code>imię</code>, <code>zwierzę</code></td>
 <td>без изменений: <code>muzeum</code></td>
-<td>= Dopełniacz: <code>studentów</code></td>
-<td>= Mianownik: <code>kobiety</code>, <code>okna</code>,
-<code>koty</code></td>
-<td>Винительный важен для мужского рода: неодушевлённые как Mianownik,
-одушевлённые и лично-мужские как Dopełniacz.</td>
+<td class="has-tip" title="Biernik мн. лично-мужской — всегда = Dopełniacz мн. Правило абсолютное, без исключений.">= Dopełniacz: <code>studentów</code>, <code>gości</code></td>
+<td class="has-tip" title="Biernik мн. немужсколичный — всегда = Mianownik мн. Правило абсолютное, без исключений.">= Mianownik: <code>domy</code>, <code>koty</code>, <code>noże</code></td>
+<td>= Mianownik: <code>kobiety</code>, <code>matki</code>, <code>kości</code></td>
+<td>= Mianownik: <code>okna</code>, <code>miasta</code>, <code>zwierzęta</code></td>
+<td class="has-tip" title="Краткая форма cię обычно стоит после глагола: Widzę cię. Полная ciebie нужна после предлогов и для акцента: Widzę ciebie, nie jego."><strong>полная:</strong> <code>mnie</code>, <code>ciebie</code><br><strong>краткая:</strong> <code>cię</code></td>
+<td class="has-tip" title="Краткие go/je обычно стоят после глагола. Полные jego/ją нужны для акцента. После предлогов у третьего лица появляется n-: na niego, za nią, w nie."><strong>полная:</strong> <code>jego/ją</code><br><strong>краткая:</strong> <code>go/je</code><br><strong>с предлогом:</strong> <code>niego/nią/nie</code></td>
+<td class="has-tip" title="Nas, was, ich/je используются как формы Biernik. После предлогов для третьего лица появляется n-: na nich, przez nie."><strong>полная:</strong> <code>nas</code>, <code>was</code>, <code>ich/je</code><br><strong>с предлогом:</strong> <code>nich/nie</code></td>
+<td>Ед. число: муж. неод. = Mianownik, одуш./личн. = Dopełniacz.
+Мн. число: лично-муж. = Dopełniacz, остальные = Mianownik. Без исключений.</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Narzędnik</td>
-<td>Kim? Czym?</td>
-<td><code>Idę z... / Jadę...</code><br>m./n. <code>-em</code>:
+<td>Narzędnik<br><small>(Kim? Czym?)</small></td>
+<td><code>Idę z... / Jadę...</code><br>ед. m./n. <code>-em</code>:
 <code>z kotem</code>, <code>samochodem</code>, <code>oknem</code><br>ż.
 <code>-ą</code>: <code>z kobietą/książką/nocą</code><br>мн.
 <code>-ami</code>: <code>ze studentami/kobietami</code></td>
 <td><code>z</code> (с), <code>za</code>, <code>przed</code>,
 <code>między</code>, <code>nad</code>, <code>pod</code></td>
-<td><code>-em</code> / <code>-iem</code>: <code>domem</code>,
+<td class="has-tip" title="Narzędnik ед. мужского рода обычно имеет -em. После k и g перед -em появляется i: rok → rokiem, Bóg → Bogiem, człowiek → człowiekiem. Особые частые формы: przyjaciel → przyjacielem, ksiądz → księdzem."><code>-em</code> / <code>-iem</code>: <code>domem</code>,
 <code>rokiem</code></td>
-<td><code>-em</code> / <code>-iem</code>: <code>kotem</code>,
+<td class="has-tip" title="Narzędnik ед. мужского рода обычно имеет -em. После k и g перед -em появляется i: człowiek → człowiekiem, Bóg → Bogiem. Частые запоминаемые формы: przyjaciel → przyjacielem, ksiądz → księdzem."><code>-em</code> / <code>-iem</code>: <code>kotem</code>,
 <code>studentem</code></td>
 <td><code>-ą</code>: <code>kobietą</code>, <code>książką</code></td>
 <td><code>-ą</code>: <code>nocą</code>, <code>kością</code></td>
-<td><code>-em</code> / <code>-iem</code>: <code>oknem</code></td>
+<td class="has-tip" title="Narzędnik ед. среднего рода обычно имеет -em. После k и g появляется -iem: dziecko → dzieckiem."><code>-em</code> / <code>-iem</code>: <code>oknem</code></td>
 <td><code>-em</code>: <code>morzem</code></td>
-<td><code>-eniem</code> / <code>-ęciem</code>: <code>imieniem</code>,
+<td class="has-tip" title="Средний род на -ę имеет расширенную основу. Слова типа imię дают -eniem: imieniem. Слова типа zwierzę дают -ęciem: zwierzęciem."><code>-eniem</code> / <code>-ęciem</code>: <code>imieniem</code>,
 <code>zwierzęciem</code></td>
 <td>без изменений: <code>muzeum</code></td>
-<td><code>-ami</code>: <code>studentami</code></td>
-<td><code>-ami</code>: <code>kobietami</code>, <code>oknami</code>,
-<code>kotami</code></td>
+<td class="has-tip" title="Narzędnik мн. обычно -ami. Исключения на -mi: ludźmi, gośćmi."><code>-ami</code>: <code>studentami</code></td>
+<td class="has-tip" title="Narzędnik мн. обычно -ami. Исключения: końmi (или koniami)."><code>-ami</code>: <code>kotami</code>, <code>domami</code></td>
+<td class="has-tip" title="Narzędnik мн. обычно -ami. Исключение: kośćmi (или kościami)."><code>-ami</code>: <code>kobietami</code>, <code>książkami</code></td>
+<td><code>-ami</code>: <code>oknami</code>, <code>miastami</code></td>
+<td><code>mną</code>, <code>tobą</code></td>
+<td><code>nim</code>, <code>nią</code></td>
+<td><code>nami</code>, <code>wami</code>, <code>nimi</code></td>
 <td>После <code>k</code>, <code>g</code> часто появляется
 <code>i</code>: <code>rok</code> → <code>rokiem</code>, <code>Bóg</code>
-→ <code>Bogiem</code>.</td>
+→ <code>Bogiem</code>. Мн. число: <code>-ami</code> для всех (искл.: <code>dziećmi</code>, <code>ludźmi</code>).</td>
 </tr>
 <tr>
 <td>6</td>
-<td>Miejscownik</td>
-<td>O kim? O czym?</td>
-<td><code>Mówię/myślę o...</code><br>m. <code>-e/-u</code>:
+<td>Miejscownik<br><small>(O kim? O czym?)</small></td>
+<td><code>Mówię/myślę o...</code><br>ед. m. <code>-e/-u</code>:
 <code>o kocie</code>, <code>o domu/panu</code><br>ż.
 <code>-e/-y/-i</code>: <code>o kobiecie/książce/pracy/ziemi</code><br>n.
 <code>-e/-u</code>: <code>w oknie</code>,
-<code>o morzu/imieniu</code></td>
+<code>o morzu/imieniu</code><br>мн. <code>-ach</code>:
+<code>o studentach/kobietach/oknach.</code></td>
 <td><code>w</code> (где), <code>na</code> (где), <code>o</code>,
 <code>po</code>, <code>przy</code></td>
-<td><code>-e</code> / <code>-u</code>: <code>w domu</code>,
+<td class="has-tip" title="Miejscownik ед. мужского рода: -e часто идёт после твёрдых основ и вызывает чередование (kot → kocie), -u часто после мягких, шипящих, заднеязычных и у многих слов, которые нужно запомнить. Чередования перед -e: t → ci (świat → świecie), d → dzi, s → si (las → lesie), z → zi, n → ni, r → rz (ser → serze), ł → l (stół → stole), k → c (rok → roku, но kot → kocie), g → dz, ch → sz. Частые формы: dom → domu, syn → synu, pan → panu, dzień → dniu, Bóg → Bogu, świat → świecie."><code>-e</code> / <code>-u</code>: <code>w domu</code>,
 <code>o serze</code></td>
-<td><code>-e</code> / <code>-u</code>: <code>o kocie</code>,
+<td class="has-tip" title="Miejscownik ед. мужского рода: -e часто вызывает чередование (kot → kocie), -u часто после мягких, шипящих и заднеязычных согласных или в запоминаемых формах. Чередования перед -e: t → ci (kot → kocie), d → dzi, s → si (pies → psie), z → zi, n → ni, r → rz, ł → l, k → c, g → dz, ch → sz. Частые формы: pan → panu, człowiek → człowieku, ojciec → ojcu, pies → psie, Bóg → Bogu."><code>-e</code> / <code>-u</code>: <code>o kocie</code>,
 <code>o panu</code></td>
-<td><code>-e</code> / <code>-y</code> / <code>-i</code>:
+<td class="has-tip" title="Miejscownik ед. женского рода на -a: -e часто появляется после твёрдых основ и вызывает чередование; -y после отвердевших согласных; -i после мягких основ и в словах на -ia/-ja/-cia. Чередования перед -e: t → ci (kobieta → kobiecie), d → dzi (woda → wodzie), r → rz (siostra → siostrze), k → c (ręka → ręce), g → dz (noga → nodze), ch → sz (mucha → musze), ł → l (szkoła → szkole), st → ści, sn → śni. Частые формы: ręka → ręce, noga → nodze, matka → matce, siostra → siostrze, historia → historii."><code>-e</code> / <code>-y</code> / <code>-i</code>:
 <code>o kobiecie</code>, <code>o książce</code>, <code>o pracy</code>,
 <code>o ziemi</code></td>
-<td><code>-y</code> / <code>-i</code>: <code>o nocy</code>,
+<td class="has-tip" title="Женский род на согласный в Miejscownik обычно имеет -y или -i. -i ставится после мягких согласных, -y после многих отвердевших согласных."><code>-y</code> / <code>-i</code>: <code>o nocy</code>,
 <code>o kości</code></td>
-<td><code>-e</code> / <code>-u</code>: <code>w oknie</code>,
+<td class="has-tip" title="Miejscownik ед. среднего рода: -e часто идёт после твёрдых основ и вызывает чередование (miasto → mieście), -u часто после мягких, шипящих и слов на -e. Чередования перед -e: st → ści (miasto → mieście), n → ni (okno → oknie), ł → l, t → ci, d → dzi, s → si, z → zi, r → rz, k → c, g → dz, ch → sz. Частые формы: morze → morzu, pole → polu, oko → oku, ucho → uchu, serce → sercu."><code>-e</code> / <code>-u</code>: <code>w oknie</code>,
 <code>w mieście</code></td>
 <td>обычно <code>-u</code>: <code>o morzu</code>,
 <code>na polu</code></td>
-<td><code>-eniu</code> / <code>-ęciu</code>: <code>o imieniu</code>,
+<td class="has-tip" title="Средний род на -ę имеет расширенную основу. Слова типа imię дают -eniu: o imieniu. Слова типа zwierzę дают -ęciu: o zwierzęciu."><code>-eniu</code> / <code>-ęciu</code>: <code>o imieniu</code>,
 <code>o zwierzęciu</code></td>
 <td>без изменений: <code>muzeum</code></td>
 <td><code>-ach</code>: <code>o studentach</code></td>
-<td><code>-ach</code>: <code>o kobietach</code>, <code>w oknach</code>,
-<code>o kotach</code></td>
-<td>Часто вызывает чередования согласных: <code>kobieta</code> →
-<code>kobiecie</code>, <code>książka</code> → <code>książce</code>,
-<code>miasto</code> → <code>mieście</code>.</td>
+<td><code>-ach</code>: <code>o kotach</code>, <code>w domach</code></td>
+<td><code>-ach</code>: <code>o kobietach</code>, <code>w książkach</code></td>
+<td><code>-ach</code>: <code>w oknach</code>, <code>w miastach</code></td>
+<td><code>o mnie</code>, <code>o tobie</code></td>
+<td><code>o nim</code>, <code>o niej</code></td>
+<td><code>o nas</code>, <code>o was</code>, <code>o nich</code></td>
+<td>Ед. число: часто чередования (<code>kobieta</code> →
+<code>kobiecie</code>, <code>miasto</code> → <code>mieście</code>).
+Мн. число: всегда <code>-ach</code> для всех родов без исключений.</td>
 </tr>
 <tr>
 <td>7</td>
-<td>Wołacz</td>
-<td>обращение</td>
-<td><code>Wołam:</code><br>m.:
+<td>Wołacz<br><small>(обращение)</small></td>
+<td><code>Wołam:</code><br>ед. m.:
 <code>Panie! Studencie! Kocie!</code><br>ż.:
 <code>Kobieto! Basiu! Pani!</code><br>n./мн.:
 <code>Dziecko! Studenci! Kobiety!</code></td>
 <td>—</td>
-<td><code>-e</code> / <code>-u</code>: <code>domu!</code>,
+<td class="has-tip" title="Wołacz ед. мужского рода часто имеет -e после твёрдых основ с чередованием, но у многих слов используется -u. Чередования перед -e: t → ci (brat → bracie), d → dzi, s → si, z → zi, r → rz, ł → l, k → c, g → dz, ch → sz. Частые исключения и обращения: Bóg → Boże!, ojciec → ojcze!, człowiek → człowieku!, przyjaciel → przyjacielu!, brat → bracie!."><code>-e</code> / <code>-u</code>: <code>domu!</code>,
 <code>serze!</code></td>
-<td><code>-e</code> / <code>-u</code>: <code>kocie!</code>,
+<td class="has-tip" title="Wołacz ед. мужского одушевлённого часто имеет -e после твёрдых основ (kot → kocie), но у части слов используется -u или особая форма. Чередования перед -e: t → ci (kot → kocie), d → dzi, s → si (pies → psie), z → zi, r → rz, ł → l, k → c, g → dz, ch → sz. Частые исключения: pan → panie!, Bóg → Boże!, ojciec → ojcze!, chłopiec → chłopcze!, człowiek → człowieku!."><code>-e</code> / <code>-u</code>: <code>kocie!</code>,
 <code>panie!</code></td>
-<td><code>-o</code> / <code>-u</code> / <code>-i</code>:
+<td class="has-tip" title="Wołacz женского рода: -o типично для многих слов на -a (kobieto), -u часто в уменьшительных и именах (Basiu), -i сохраняется у слов типа pani. Частые обращения: mama → mamo!, siostra → siostro!, córka → córko!, Maria → Mario!, pani → pani!."><code>-o</code> / <code>-u</code> / <code>-i</code>:
 <code>kobieto!</code>, <code>Basiu!</code>, <code>pani!</code></td>
-<td><code>-y</code> / <code>-i</code>: <code>nocy!</code>,
+<td class="has-tip" title="Женский род на согласный в Wołacz обычно имеет -y или -i. -i ставится после мягких согласных, -y после многих отвердевших согласных."><code>-y</code> / <code>-i</code>: <code>nocy!</code>,
 <code>kości!</code></td>
-<td>= Mianownik: <code>okno!</code></td>
-<td>= Mianownik: <code>morze!</code></td>
-<td>= Mianownik: <code>imię!</code>, <code>zwierzę!</code></td>
+<td>= Mianownik (Kto? Co?): <code>okno!</code></td>
+<td>= Mianownik (Kto? Co?): <code>morze!</code></td>
+<td>= Mianownik (Kto? Co?): <code>imię!</code>, <code>zwierzę!</code></td>
 <td>без изменений: <code>muzeum!</code></td>
-<td>= Mianownik: <code>studenci!</code></td>
-<td>= Mianownik: <code>kobiety!</code>, <code>okna!</code>,
-<code>koty!</code></td>
+<td>= Mianownik: <code>Studenci!</code>, <code>Panowie!</code></td>
+<td>= Mianownik: <code>Koty!</code>, <code>Domy!</code></td>
+<td>= Mianownik: <code>Kobiety!</code>, <code>Matki!</code></td>
+<td>= Mianownik: <code>Okna!</code>, <code>Dzieci!</code></td>
+<td>= Mianownik (Kto? Co?): <code>ja!</code>, <code>ty!</code></td>
+<td>= Mianownik (Kto? Co?): <code>on!</code>, <code>ona!</code>, <code>ono!</code></td>
+<td>= Mianownik (Kto? Co?): <code>my!</code>, <code>wy!</code>, <code>oni!</code>, <code>one!</code></td>
 <td>Звательный используется при обращении. В разговорной речи часто
-заменяется Mianownik, но формы Wołacz лучше знать.</td>
+заменяется Mianownik (Kto? Co?), но формы Wołacz (обращение) лучше
+знать.</td>
 </tr>
 </tbody>
 </table>
@@ -278,24 +317,24 @@ id="сводная-таблица-склонения-существительн�
 
 <h2 id="как-читать-таблицу">Как читать таблицу</h2>
 <ul>
-<li><strong>Mianownik</strong> — форма из словаря: <code>dom</code>,
+<li><strong>Mianownik (Kto? Co?)</strong> — форма из словаря: <code>dom</code>,
 <code>kobieta</code>, <code>okno</code>.</li>
-<li><strong>Dopełniacz</strong> часто отвечает русскому родительному
+<li><strong>Dopełniacz (Kogo? Czego?)</strong> часто отвечает русскому родительному
 падежу: <code>nie ma domu</code>, <code>nie ma kobiety</code>.</li>
-<li><strong>Celownik</strong> обычно выражает адресата:
+<li><strong>Celownik (Komu? Czemu?)</strong> обычно выражает адресата:
 <code>daję studentowi</code>, <code>pomagam kobiecie</code>.</li>
-<li><strong>Biernik</strong> часто используется с прямым дополнением:
+<li><strong>Biernik (Kogo? Co?)</strong> часто используется с прямым дополнением:
 <code>widzę dom</code>, <code>widzę kota</code>,
 <code>widzę kobietę</code>.</li>
-<li><strong>Narzędnik</strong> часто отвечает на вопрос "с кем? чем?":
+<li><strong>Narzędnik (Kim? Czym?)</strong> часто отвечает на вопрос "с кем? чем?":
 <code>z kotem</code>, <code>samochodem</code>.</li>
-<li><strong>Miejscownik</strong> почти всегда используется с предлогом:
+<li><strong>Miejscownik (O kim? O czym?)</strong> почти всегда используется с предлогом:
 <code>w domu</code>, <code>o kobiecie</code>, <code>na polu</code>.</li>
-<li><strong>Wołacz</strong> нужен для обращения: <code>Panie!</code>,
+<li><strong>Wołacz (обращение)</strong> нужен для обращения: <code>Panie!</code>,
 <code>Kobieto!</code>, <code>Studencie!</code>.</li>
 </ul>
 <h2 id="главные-правила-и-варианты">Главные правила и варианты</h2>
-<h3 id="мужской-род-в-biernik">Мужской род в Biernik</h3>
+<h3 id="мужской-род-в-biernik">Мужской род в Biernik (Kogo? Co?)</h3>
 <table>
 <thead>
 <tr>
@@ -307,23 +346,23 @@ id="сводная-таблица-склонения-существительн�
 <tbody>
 <tr>
 <td>Неодушевлённое</td>
-<td>Biernik = Mianownik</td>
+<td>Biernik (Kogo? Co?) = Mianownik (Kto? Co?)</td>
 <td><code>Widzę dom.</code></td>
 </tr>
 <tr>
 <td>Одушевлённое</td>
-<td>Biernik = Dopełniacz</td>
+<td>Biernik (Kogo? Co?) = Dopełniacz (Kogo? Czego?)</td>
 <td><code>Widzę kota.</code></td>
 </tr>
 <tr>
 <td>Лично-мужское</td>
-<td>Biernik = Dopełniacz</td>
+<td>Biernik (Kogo? Co?) = Dopełniacz (Kogo? Czego?)</td>
 <td><code>Widzę studenta.</code></td>
 </tr>
 </tbody>
 </table>
 <h3
-id="dopełniacz-единственного-числа-мужского-рода--u-или--a">Dopełniacz
+id="dopełniacz-единственного-числа-мужского-рода--u-или--a">Dopełniacz (Kogo? Czego?)
 единственного числа мужского рода: <code>-u</code> или
 <code>-a</code></h3>
 <table>
@@ -371,28 +410,44 @@ id="dopełniacz-единственного-числа-мужского-рода-
 <table>
 <thead>
 <tr>
-<th>Условие</th>
-<th>Обычно используется</th>
+<th>Тип основы</th>
+<th>Какие согласные</th>
+<th>Окончание</th>
 <th>Примеры</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>После <code>k</code>, <code>g</code> и мягких согласных</td>
-<td><code>-i</code></td>
-<td><code>książki</code>, <code>drogi</code>, <code>ziemi</code>,
-<code>kości</code></td>
+<td>Твёрдая</td>
+<td><code>t, d, s, z, n, r, ł, p, b, m, w, f</code></td>
+<td><code>-y</code></td>
+<td><code>kobiety</code>, <code>lampy</code>, <code>gwiazdy</code></td>
 </tr>
 <tr>
-<td>В остальных случаях</td>
+<td>Заднеязычная</td>
+<td><code>k, g, ch</code></td>
+<td><code>-i</code></td>
+<td><code>książki</code>, <code>drogi</code>, <code>muchy</code> (D: <code>much</code>, но Nom.мн: <code>muchy</code>)</td>
+</tr>
+<tr>
+<td>Затвердевшая</td>
+<td><code>c, cz, sz, ż/rz, dz</code></td>
 <td><code>-y</code></td>
-<td><code>kobiety</code>, <code>lampy</code>, <code>nocy</code></td>
+<td><code>nocy</code>, <code>myszy</code>, <code>rzeczy</code></td>
+</tr>
+<tr>
+<td>Мягкая</td>
+<td><code>ś, ź, ć, dź, ń, j, l</code></td>
+<td><code>-i</code></td>
+<td><code>kości</code>, <code>gałęzi</code>, <code>ziemi</code>, <code>wsi</code></td>
 </tr>
 </tbody>
 </table>
+<p>Правило: после <strong>твёрдых и затвердевших</strong> → <code>-y</code>;
+после <strong>мягких и заднеязычных (k, g)</strong> → <code>-i</code>.</p>
 <h3 id="женский-род-на--a-celownik-и-miejscownik">Женский род на
-<code>-a</code>: Celownik и Miejscownik</h3>
-<p>В Celownik и Miejscownik у слов женского рода на <code>-a</code>
+<code>-a</code>: Celownik (Komu? Czemu?) и Miejscownik (O kim? O czym?)</h3>
+<p>В Celownik (Komu? Czemu?) и Miejscownik (O kim? O czym?) у слов женского рода на <code>-a</code>
 бывают окончания <code>-e</code>, <code>-y</code> и <code>-i</code>.
 Очень часто появляется <code>-e</code>, и согласная перед ним
 меняется.</p>
@@ -442,35 +497,43 @@ id="dopełniacz-единственного-числа-мужского-рода-
 </tr>
 </tbody>
 </table>
-<p>Но после некоторых основ вместо <code>-e</code> будет <code>-y</code>
-или <code>-i</code>.</p>
+<p>Выбор окончания зависит от типа основы:</p>
 <table>
 <thead>
 <tr>
+<th>Тип основы</th>
+<th>Какие согласные</th>
 <th>Окончание</th>
-<th>Когда часто встречается</th>
 <th>Примеры</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><code>-e</code></td>
-<td>после многих твёрдых согласных, часто с чередованием</td>
-<td><code>kobieta</code> → <code>kobiecie</code>, <code>książka</code> →
-<code>książce</code>, <code>droga</code> → <code>drodze</code></td>
+<td><strong>Твёрдая</strong></td>
+<td><code>t, d, s, z, n, r, ł, p, b, m, w, f</code></td>
+<td><code>-e</code> (с чередованием согласной)</td>
+<td><code>kobieta</code> → <code>kobiecie</code>, <code>woda</code> →
+<code>wodzie</code>, <code>szkoła</code> → <code>szkole</code></td>
 </tr>
 <tr>
+<td><strong>Заднеязычная</strong></td>
+<td><code>k, g, ch</code></td>
+<td><code>-e</code> (с чередованием: k→c, g→dz, ch→sz)</td>
+<td><code>książka</code> → <code>książce</code>, <code>droga</code> →
+<code>drodze</code>, <code>mucha</code> → <code>musze</code></td>
+</tr>
+<tr>
+<td><strong>Затвердевшая</strong></td>
+<td><code>c, cz, sz, ż/rz, dz, dż</code></td>
 <td><code>-y</code></td>
-<td>после отвердевших согласных типа <code>c</code>, <code>cz</code>,
-<code>sz</code>, <code>ż/rz</code></td>
 <td><code>praca</code> → <code>pracy</code>, <code>ulica</code> →
 <code>ulicy</code>, <code>dusza</code> → <code>duszy</code>,
 <code>róża</code> → <code>róży</code></td>
 </tr>
 <tr>
+<td><strong>Мягкая</strong></td>
+<td><code>ś, ź, ć, dź, ń, j, l</code> (слова на <code>-ia/-ja/-cia</code>)</td>
 <td><code>-i</code></td>
-<td>после мягких согласных, часто в словах на <code>-ia</code>,
-<code>-ja</code>, <code>-cia</code></td>
 <td><code>ziemia</code> → <code>ziemi</code>, <code>babcia</code> →
 <code>babci</code>, <code>lekcja</code> → <code>lekcji</code>,
 <code>historia</code> → <code>historii</code></td>
@@ -479,19 +542,18 @@ id="dopełniacz-единственного-числа-мужского-рода-
 </table>
 <p>Алгоритм выбора:</p>
 <ol type="1">
-<li>Сначала попробуй модель на <code>-e</code> с чередованием:
+<li><strong>Твёрдая основа</strong> (t, d, s, z, n, r, ł, p, b, m, w, f) или
+<strong>заднеязычная</strong> (k, g, ch) → окончание <code>-e</code> с чередованием:
 <code>kobieta</code> → <code>kobiecie</code>, <code>książka</code> →
-<code>książce</code>.</li>
-<li>Если основа заканчивается на отвердевший звук (<code>c</code>,
-<code>cz</code>, <code>sz</code>, <code>ż/rz</code>), чаще будет
-<code>-y</code>: <code>praca</code> → <code>pracy</code>,
-<code>ulica</code> → <code>ulicy</code>.</li>
-<li>Если слово заканчивается на мягкую основу или на
-<code>-ia/-ja/-cia</code>, чаще будет <code>-i</code>:
+<code>książce</code>, <code>szkoła</code> → <code>szkole</code>.</li>
+<li><strong>Затвердевшая основа</strong> (c, cz, sz, ż/rz, dz) → окончание <code>-y</code>:
+<code>praca</code> → <code>pracy</code>,
+<code>ulica</code> → <code>ulicy</code>, <code>róża</code> → <code>róży</code>.</li>
+<li><strong>Мягкая основа</strong> (слова на <code>-ia/-ja/-cia</code>) → окончание <code>-i</code>:
 <code>ziemia</code> → <code>ziemi</code>, <code>lekcja</code> →
 <code>lekcji</code>, <code>babcia</code> → <code>babci</code>.</li>
 </ol>
-<h3 id="miejscownik-мужского-и-среднего-рода--e-или--u">Miejscownik
+<h3 id="miejscownik-мужского-и-среднего-рода--e-или--u">Miejscownik (O kim? O czym?)
 мужского и среднего рода: <code>-e</code> или <code>-u</code></h3>
 <table>
 <thead>
@@ -504,32 +566,32 @@ id="dopełniacz-единственного-числа-мужского-рода-
 <tbody>
 <tr>
 <td><code>-e</code></td>
-<td>после многих твёрдых согласных, обычно с чередованием</td>
+<td><strong>Твёрдая основа</strong> (t, d, s, z, n, r, ł, p, b, m, w, f) — с чередованием</td>
 <td><code>kot</code> → <code>o kocie</code>, <code>stół</code> →
-<code>na stole</code>, <code>miasto</code> → <code>w mieście</code></td>
+<code>na stole</code>, <code>miasto</code> → <code>w mieście</code>, <code>las</code> → <code>w lesie</code></td>
 </tr>
 <tr>
 <td><code>-u</code></td>
-<td>после мягких, отвердевших и заднеязычных согласных, а также у многих
-слов с исторически мягкой основой</td>
-<td><code>dom</code> → <code>w domu</code>, <code>pan</code> →
+<td><strong>Мягкая</strong> (ś, ź, ć, ń, j, l), <strong>затвердевшая</strong> (c, cz, sz, ż/rz, dz), <strong>заднеязычная</strong> (k, g, ch) и средний на <code>-e</code></td>
+<td><code>rok</code> → <code>w roku</code>, <code>pan</code> →
 <code>o panu</code>, <code>morze</code> → <code>o morzu</code>,
-<code>rok</code> → <code>w roku</code></td>
+<code>nóż</code> → <code>o nożu</code>, <code>deszcz</code> → <code>w deszczu</code></td>
 </tr>
 </tbody>
 </table>
 <p>Алгоритм выбора:</p>
 <ol type="1">
-<li>Если слово уже имеет мягкую/шипящую основу или заканчивается на
-<code>-e</code>, часто будет <code>-u</code>: <code>morze</code> →
-<code>morzu</code>, <code>pole</code> → <code>polu</code>.</li>
-<li>Если перед окончанием возможна типичная мягкая замена, часто будет
-<code>-e</code>: <code>kot</code> → <code>kocie</code>,
+<li><strong>Мягкая, затвердевшая или заднеязычная основа</strong> (k, g, ch, c, cz, sz, ż/rz, ś, ź, ć, ń, j, l) →
+обычно <code>-u</code>: <code>rok</code> → <code>roku</code>,
+<code>nóż</code> → <code>nożu</code>, <code>pan</code> → <code>panu</code>,
+<code>morze</code> → <code>morzu</code>, <code>pole</code> → <code>polu</code>.</li>
+<li><strong>Твёрдая основа</strong> (t, d, s, z, n, r, ł, p, b, m, w, f) →
+часто <code>-e</code> с чередованием: <code>kot</code> → <code>kocie</code>,
 <code>stół</code> → <code>stole</code>, <code>miasto</code> →
-<code>mieście</code>.</li>
-<li>Для многих мужских неодушевлённых слов выбор <code>-e/-u</code>
-нужно запоминать: <code>dom</code> → <code>domu</code>, но
-<code>ser</code> → <code>serze</code>.</li>
+<code>mieście</code>, <code>las</code> → <code>lesie</code>.</li>
+<li><strong>Но</strong> часть твёрдых основ всё равно берёт <code>-u</code> —
+это нужно запоминать: <code>dom</code> → <code>domu</code>,
+<code>syn</code> → <code>synu</code>, <code>Bóg</code> → <code>Bogu</code>.</li>
 </ol>
 <h3 id="средний-род-на--um">Средний род на <code>-um</code></h3>
 <p>Существительные среднего рода на <code>-um</code> не склоняются в
@@ -543,31 +605,31 @@ id="dopełniacz-единственного-числа-мужского-рода-
 </thead>
 <tbody>
 <tr>
-<td>Mianownik</td>
+<td>Mianownik (Kto? Co?)</td>
 <td><code>muzeum</code></td>
 </tr>
 <tr>
-<td>Dopełniacz</td>
+<td>Dopełniacz (Kogo? Czego?)</td>
 <td><code>muzeum</code></td>
 </tr>
 <tr>
-<td>Celownik</td>
+<td>Celownik (Komu? Czemu?)</td>
 <td><code>muzeum</code></td>
 </tr>
 <tr>
-<td>Biernik</td>
+<td>Biernik (Kogo? Co?)</td>
 <td><code>muzeum</code></td>
 </tr>
 <tr>
-<td>Narzędnik</td>
+<td>Narzędnik (Kim? Czym?)</td>
 <td><code>muzeum</code></td>
 </tr>
 <tr>
-<td>Miejscownik</td>
+<td>Miejscownik (O kim? O czym?)</td>
 <td><code>muzeum</code></td>
 </tr>
 <tr>
-<td>Wołacz</td>
+<td>Wołacz (обращение)</td>
 <td><code>muzeum!</code></td>
 </tr>
 </tbody>
@@ -580,46 +642,332 @@ id="dopełniacz-единственного-числа-мужского-рода-
 обычное мужское существительное.</p>
 </blockquote>
 <h3 id="множественное-число">Множественное число</h3>
+<p>Во множественном числе главное деление: <strong>мужской лично-мужской</strong> (męskoosobowy)
+и <strong>немужсколичная форма</strong> (niemęskoosobowy = женский + средний + мужской неличный).
+Ниже — таблицы по родам, все 7 падежей.</p>
+
+<h4 id="мн-мужской-лично-мужской">Мужской лично-мужской (мн.)</h4>
 <table>
 <thead>
 <tr>
-<th>Группа</th>
-<th>Mianownik</th>
-<th>Biernik</th>
-<th>Остальные частые окончания</th>
+<th>Падеж</th>
+<th>Окончание</th>
+<th>Правило по типу основы</th>
+<th>Примеры</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Мужской лично-мужской</td>
-<td><code>-i</code>, <code>-y</code>, <code>-owie</code>:
-<code>studenci</code>, <code>panowie</code></td>
-<td>= Dopełniacz: <code>studentów</code></td>
-<td><code>-ów/-i/-y/ø</code>, <code>-om</code>, <code>-ami</code>,
-<code>-ach</code></td>
+<td>Mianownik</td>
+<td><code>-i</code>, <code>-y</code>, <code>-owie</code>, <code>-e</code></td>
+<td>Твёрдая → чередование + <code>-i/-y</code>; заднеязычная → чередование + <code>-y/-i</code>;
+затвердевшая/мягкая → <code>-e</code>; титулы/родство → <code>-owie</code></td>
+<td><code>studenci</code>, <code>doktorzy</code>, <code>Polacy</code>, <code>koledzy</code>,
+<code>lekarze</code>, <code>goście</code>, <code>panowie</code></td>
 </tr>
 <tr>
-<td>Немужсколичная форма</td>
-<td><code>-y</code>, <code>-i</code>, <code>-a</code>:
-<code>kobiety</code>, <code>koty</code>, <code>okna</code></td>
+<td>Dopełniacz</td>
+<td><code>-ów</code>, <code>-y</code>, <code>-i</code>, <code>ø</code></td>
+<td>Твёрдая/заднеязычная → <code>-ów</code>; затвердевшая → <code>-y</code>; мягкая → <code>-i</code></td>
+<td><code>studentów</code>, <code>Polaków</code>, <code>żołnierzy</code>, <code>lekarzy</code>,
+<code>gości</code>, <code>mężczyzn</code></td>
+</tr>
+<tr>
+<td>Celownik</td>
+<td><code>-om</code></td>
+<td>Всегда <code>-om</code> для всех основ без исключений</td>
+<td><code>studentom</code>, <code>lekarzom</code>, <code>gościom</code>, <code>panom</code></td>
+</tr>
+<tr>
+<td>Biernik</td>
+<td>= Dopełniacz</td>
+<td>Всегда = Dopełniacz мн. без исключений</td>
+<td><code>studentów</code>, <code>gości</code>, <code>Polaków</code></td>
+</tr>
+<tr>
+<td>Narzędnik</td>
+<td><code>-ami</code> (<code>-mi</code>)</td>
+<td>Обычно <code>-ami</code>; исключения на <code>-mi</code>: <code>ludźmi</code>, <code>gośćmi</code></td>
+<td><code>studentami</code>, <code>lekarzami</code>, <code>gośćmi</code>, <code>ludźmi</code></td>
+</tr>
+<tr>
+<td>Miejscownik</td>
+<td><code>-ach</code></td>
+<td>Всегда <code>-ach</code> для всех основ без исключений</td>
+<td><code>o studentach</code>, <code>o lekarzach</code>, <code>o gościach</code></td>
+</tr>
+<tr>
+<td>Wołacz</td>
 <td>= Mianownik</td>
-<td><code>ø/-ów/-i</code>, <code>-om</code>, <code>-ami</code>,
-<code>-ach</code></td>
+<td>Всегда = Mianownik мн. без исключений</td>
+<td><code>Studenci!</code>, <code>Panowie!</code>, <code>Lekarze!</code></td>
 </tr>
 </tbody>
 </table>
-<p>Немужсколичная форма включает женский род, средний род и мужские
-неличные существительные во множественном числе.</p>
+
+<h4 id="мн-женский-род">Женский род (мн.)</h4>
+<table>
+<thead>
+<tr>
+<th>Падеж</th>
+<th>Окончание</th>
+<th>Правило по типу основы</th>
+<th>Примеры</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mianownik</td>
+<td><code>-y</code>, <code>-i</code>, <code>-e</code></td>
+<td>На <code>-a</code>: твёрдая → <code>-y</code>; заднеязычная (k, g) → <code>-i</code>;
+затвердевшая/мягкая → <code>-e</code>.<br>
+На согласный: мягкая → <code>-i</code>; затвердевшая → <code>-e/-y</code></td>
+<td><code>kobiety</code>, <code>lampy</code>, <code>matki</code>, <code>książki</code>,
+<code>ulice</code>, <code>róże</code>, <code>ziemie</code>, <code>kości</code>, <code>noce</code></td>
+</tr>
+<tr>
+<td>Dopełniacz</td>
+<td><code>ø</code>, <code>-i</code>, <code>-y</code></td>
+<td>На <code>-a</code>: обычно <code>ø</code> (убирается <code>-a</code>); если скопление согласных — беглое <code>-e-</code>.<br>
+На согласный: мягкая → <code>-i</code>; затвердевшая → <code>-y</code></td>
+<td><code>kobiet</code>, <code>lamp</code>, <code>matek</code>, <code>książek</code>,
+<code>nóg</code>, <code>kości</code>, <code>nocy</code>, <code>myszy</code></td>
+</tr>
+<tr>
+<td>Celownik</td>
+<td><code>-om</code></td>
+<td>Всегда <code>-om</code> без исключений</td>
+<td><code>kobietom</code>, <code>matkom</code>, <code>książkom</code>, <code>kościom</code></td>
+</tr>
+<tr>
+<td>Biernik</td>
+<td>= Mianownik</td>
+<td>Всегда = Mianownik мн. без исключений</td>
+<td><code>kobiety</code>, <code>matki</code>, <code>kości</code></td>
+</tr>
+<tr>
+<td>Narzędnik</td>
+<td><code>-ami</code> (<code>-mi</code>)</td>
+<td>Обычно <code>-ami</code>; исключения: <code>kośćmi</code> (или <code>kościami</code>)</td>
+<td><code>kobietami</code>, <code>matkami</code>, <code>książkami</code>, <code>kośćmi</code></td>
+</tr>
+<tr>
+<td>Miejscownik</td>
+<td><code>-ach</code></td>
+<td>Всегда <code>-ach</code> без исключений</td>
+<td><code>o kobietach</code>, <code>w książkach</code>, <code>o kościach</code></td>
+</tr>
+<tr>
+<td>Wołacz</td>
+<td>= Mianownik</td>
+<td>Всегда = Mianownik мн. без исключений</td>
+<td><code>Kobiety!</code>, <code>Matki!</code></td>
+</tr>
+</tbody>
+</table>
+
+<h4 id="мн-средний-род">Средний род (мн.)</h4>
+<table>
+<thead>
+<tr>
+<th>Падеж</th>
+<th>Окончание</th>
+<th>Правило по типу основы</th>
+<th>Примеры</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mianownik</td>
+<td><code>-a</code>, <code>-eta</code>, <code>-ona</code></td>
+<td>На <code>-o</code> → <code>-a</code>; на <code>-e</code> → <code>-a</code>;
+на <code>-ę</code> → <code>-ęta/-ona</code>; на <code>-um</code> → <code>-a</code> (без -um)</td>
+<td><code>okna</code>, <code>miasta</code>, <code>pola</code>, <code>morza</code>,
+<code>zwierzęta</code>, <code>imiona</code>, <code>muzea</code></td>
+</tr>
+<tr>
+<td>Dopełniacz</td>
+<td><code>ø</code>, <code>-ów</code></td>
+<td>На <code>-o</code> → <code>ø</code> (+ беглое <code>-e-</code>); на <code>-e</code> → <code>ø</code>;
+на <code>-ę</code> → <code>ø</code> (расширенная основа: <code>-ąt/-on</code>);
+на <code>-um</code> → <code>-ów</code>;
+отглагольные <code>-anie/-enie</code> → <code>-ań/-eń</code></td>
+<td><code>okien</code>, <code>miast</code>, <code>słów</code>, <code>pól</code>, <code>mórz</code>,
+<code>zwierząt</code>, <code>imion</code>, <code>muzeów</code>, <code>zadań</code></td>
+</tr>
+<tr>
+<td>Celownik</td>
+<td><code>-om</code></td>
+<td>Всегда <code>-om</code> без исключений</td>
+<td><code>oknom</code>, <code>miastom</code>, <code>zwierzętom</code>, <code>muzeom</code></td>
+</tr>
+<tr>
+<td>Biernik</td>
+<td>= Mianownik</td>
+<td>Всегда = Mianownik мн. без исключений</td>
+<td><code>okna</code>, <code>miasta</code>, <code>zwierzęta</code></td>
+</tr>
+<tr>
+<td>Narzędnik</td>
+<td><code>-ami</code></td>
+<td>Всегда <code>-ami</code> (нет исключений на <code>-mi</code> у среднего рода)</td>
+<td><code>oknami</code>, <code>miastami</code>, <code>zwierzętami</code>, <code>muzeami</code></td>
+</tr>
+<tr>
+<td>Miejscownik</td>
+<td><code>-ach</code></td>
+<td>Всегда <code>-ach</code> без исключений</td>
+<td><code>w oknach</code>, <code>w miastach</code>, <code>o zwierzętach</code>, <code>w muzeach</code></td>
+</tr>
+<tr>
+<td>Wołacz</td>
+<td>= Mianownik</td>
+<td>Всегда = Mianownik мн. без исключений</td>
+<td><code>Okna!</code>, <code>Dzieci!</code></td>
+</tr>
+</tbody>
+</table>
+
+<h4 id="мн-мужской-неличный">Мужской неличный / животные (мн.)</h4>
+<table>
+<thead>
+<tr>
+<th>Падеж</th>
+<th>Окончание</th>
+<th>Правило по типу основы</th>
+<th>Примеры</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mianownik</td>
+<td><code>-y</code>, <code>-i</code>, <code>-e</code></td>
+<td>Твёрдая → <code>-y</code>; заднеязычная (k, g) → <code>-i</code>;
+затвердевшая/мягкая → <code>-e</code></td>
+<td><code>domy</code>, <code>stoły</code>, <code>ptaki</code>, <code>progi</code>,
+<code>noże</code>, <code>klucze</code>, <code>konie</code></td>
+</tr>
+<tr>
+<td>Dopełniacz</td>
+<td><code>-ów</code>, <code>-y</code>, <code>-i</code></td>
+<td>Твёрдая/заднеязычная → <code>-ów</code>; затвердевшая → <code>-y</code>; мягкая → <code>-i</code></td>
+<td><code>domów</code>, <code>kotów</code>, <code>ptaków</code>, <code>noży</code>,
+<code>kluczy</code>, <code>koni</code></td>
+</tr>
+<tr>
+<td>Celownik</td>
+<td><code>-om</code></td>
+<td>Всегда <code>-om</code> без исключений</td>
+<td><code>domom</code>, <code>kotom</code>, <code>koniom</code></td>
+</tr>
+<tr>
+<td>Biernik</td>
+<td>= Mianownik</td>
+<td>Всегда = Mianownik мн. без исключений</td>
+<td><code>domy</code>, <code>koty</code>, <code>konie</code>, <code>noże</code></td>
+</tr>
+<tr>
+<td>Narzędnik</td>
+<td><code>-ami</code> (<code>-mi</code>)</td>
+<td>Обычно <code>-ami</code>; исключения: <code>końmi</code> (или <code>koniami</code>)</td>
+<td><code>domami</code>, <code>kotami</code>, <code>końmi</code>, <code>nożami</code></td>
+</tr>
+<tr>
+<td>Miejscownik</td>
+<td><code>-ach</code></td>
+<td>Всегда <code>-ach</code> без исключений</td>
+<td><code>w domach</code>, <code>o kotach</code>, <code>o koniach</code></td>
+</tr>
+<tr>
+<td>Wołacz</td>
+<td>= Mianownik</td>
+<td>Всегда = Mianownik мн. без исключений</td>
+<td><code>Koty!</code>, <code>Konie!</code></td>
+</tr>
+</tbody>
+</table>
+
+<h4 id="что-одинаково-во-всех-родах-мн">Что одинаково во всех родах мн. числа</h4>
+<table>
+<thead>
+<tr>
+<th>Падеж</th>
+<th>Окончание</th>
+<th>Исключения</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Celownik</td>
+<td>всегда <code>-om</code></td>
+<td>нет</td>
+</tr>
+<tr>
+<td>Narzędnik</td>
+<td>обычно <code>-ami</code></td>
+<td><code>dziećmi</code>, <code>ludźmi</code>, <code>gośćmi</code>, <code>końmi</code>, <code>kośćmi</code>, <code>pieniędźmi</code></td>
+</tr>
+<tr>
+<td>Miejscownik</td>
+<td>всегда <code>-ach</code></td>
+<td>нет</td>
+</tr>
+<tr>
+<td>Wołacz</td>
+<td>всегда = Mianownik</td>
+<td>нет</td>
+</tr>
+</tbody>
+</table>
 <h2 id="мини-алгоритм-выбора-формы">Мини-алгоритм выбора формы</h2>
 <ol type="1">
 <li>Определи число: единственное или множественное.</li>
 <li>Определи род: мужской, женский или средний.</li>
 <li>Для мужского рода уточни тип: неодушевлённое, одушевлённое или
 лично-мужское.</li>
+<li><strong>Определи тип основы</strong> (последняя согласная перед окончанием):
+<ul>
+<li><strong>Твёрдая</strong>: <code>t, d, s, z, n, r, ł, p, b, m, w, f</code> → обычно <code>-y</code></li>
+<li><strong>Заднеязычная</strong>: <code>k, g, ch</code> → обычно <code>-i</code> (и часто чередования)</li>
+<li><strong>Затвердевшая</strong>: <code>c, cz, sz, ż/rz, dz, dż, szcz</code> → обычно <code>-y</code> (хотя исторически мягкие!)</li>
+<li><strong>Мягкая</strong>: <code>ś, ź, ć, dź, ń, j, l</code> → обычно <code>-i</code> или <code>-e</code></li>
+</ul>
+</li>
 <li>Найди нужный падеж в таблице.</li>
-<li>Проверь, нет ли у слова нерегулярной основы или особого
-окончания.</li>
+<li>Проверь, нет ли у слова нерегулярной основы или особого окончания.</li>
 </ol>
+<h3 id="быстрая-шпаргалка-y-vs-i">Быстрая шпаргалка: <code>-y</code> vs <code>-i</code></h3>
+<table>
+<thead>
+<tr>
+<th>Тип основы</th>
+<th>Окончание</th>
+<th>Почему</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Твёрдая (<code>t, d, s, z, n, r, ł, p, b, m, w, f</code>)</td>
+<td><code>-y</code></td>
+<td>Твёрдые согласные не смягчаются перед <code>y</code></td>
+</tr>
+<tr>
+<td>Заднеязычная (<code>k, g, ch</code>)</td>
+<td><code>-i</code></td>
+<td><code>i</code> сигнализирует палатализацию: <code>ki</code>, <code>gi</code></td>
+</tr>
+<tr>
+<td>Затвердевшая (<code>c, cz, sz, ż/rz, dz</code>)</td>
+<td><code>-y</code></td>
+<td>Хоть исторически мягкие, сейчас ведут себя как твёрдые</td>
+</tr>
+<tr>
+<td>Мягкая (<code>ś, ź, ć, dź, ń, j, l</code>)</td>
+<td><code>-i</code></td>
+<td>Мягкая согласная + <code>i</code> — естественное сочетание</td>
+</tr>
+</tbody>
+</table>
 <h2 id="частые-нерегулярные-формы">Частые нерегулярные формы</h2>
 <table>
 <thead>
@@ -692,39 +1040,39 @@ id="dopełniacz-единственного-числа-мужского-рода-
 </thead>
 <tbody>
 <tr>
-<td>Отрицание часто требует Dopełniacz</td>
+<td>Отрицание часто требует Dopełniacz (Kogo? Czego?)</td>
 <td><code>Nie ma domu.</code></td>
 <td><code>Няма дома.</code></td>
 <td>После <code>nie ma</code> вопрос <code>kogo? czego?</code>, как в
 белорусском <code>няма каго? чаго?</code>.</td>
 </tr>
 <tr>
-<td>Biernik муж. неодуш. = Mianownik</td>
+<td>Biernik (Kogo? Co?) муж. неодуш. = Mianownik (Kto? Co?)</td>
 <td><code>Widzę dom.</code></td>
 <td><code>Бачу дом.</code></td>
 <td>Предмет остаётся в форме, похожей на начальную.</td>
 </tr>
 <tr>
-<td>Biernik муж. одуш. = Dopełniacz</td>
+<td>Biernik (Kogo? Co?) муж. одуш. = Dopełniacz (Kogo? Czego?)</td>
 <td><code>Widzę kota/studenta.</code></td>
 <td><code>Бачу ката/студэнта.</code></td>
 <td>Для живых существ форма похожа на родительный.</td>
 </tr>
 <tr>
-<td>Celownik показывает адресата</td>
+<td>Celownik (Komu? Czemu?) показывает адресата</td>
 <td><code>Daję studentowi.</code></td>
 <td><code>Даю студэнту.</code></td>
 <td>Польское <code>-owi</code> по функции часто соответствует
 белорусскому <code>-у/-ю</code>.</td>
 </tr>
 <tr>
-<td>Narzędnik отвечает "с кем? чем?"</td>
+<td>Narzędnik (Kim? Czym?) отвечает "с кем? чем?"</td>
 <td><code>Idę z kolegą.</code></td>
 <td><code>Іду з сябрам.</code></td>
 <td>После <code>z/з</code> часто нужен творительный.</td>
 </tr>
 <tr>
-<td>Miejscownik почти всегда с предлогом</td>
+<td>Miejscownik (O kim? O czym?) почти всегда с предлогом</td>
 <td><code>W domu</code>, <code>o mamie</code></td>
 <td><code>У доме</code>, <code>аб маме</code></td>
 <td>Как белорусский местный падеж: форма обычно живёт рядом с
@@ -734,15 +1082,255 @@ id="dopełniacz-единственного-числа-мужского-рода-
 </table>
 <p>Особенно полезные соответствия:</p>
 <ul>
-<li>Польский женский Narzędnik <code>-ą</code> часто соответствует
+<li>Польский женский Narzędnik (Kim? Czym?) <code>-ą</code> часто соответствует
 белорусскому <code>-ай/-аю</code>: <code>z kobietą</code> →
 <code>з жанчынай</code>.</li>
-<li>Польский Miejscownik <code>-e/-u</code> логически похож на
+<li>Польский Miejscownik (O kim? O czym?) <code>-e/-u</code> логически похож на
 белорусский местный: <code>w domu</code> → <code>у доме</code>.</li>
-<li>Польский Wołacz более заметен, чем в современном белорусском:
+<li>Польский Wołacz (обращение) более заметен, чем в современном белорусском:
 <code>Panie!</code>, <code>Kobieto!</code>,
 <code>Studencie!</code>.</li>
 </ul>
+<h2 id="склонение-прилагательных">Склонение прилагательных</h2>
+<p>Прилагательные согласуются с существительным в роде, числе и падеже.
+Окончание зависит от типа основы: <strong>твёрдая</strong> (nowy, dobry, stary),
+<strong>на k/g</strong> (polski, drogi, wielki) или <strong>мягкая</strong> (tani, głupi, ostatni).</p>
+<h3 id="таблица-окончаний-прилагательных">Таблица окончаний прилагательных</h3>
+<table>
+<thead>
+<tr>
+<th>Падеж</th>
+<th>Муж. ед. (твёрд.)</th>
+<th>Муж. ед. (k/g, мягк.)</th>
+<th>Жен. ед. (твёрд.)</th>
+<th>Жен. ед. (k/g, мягк.)</th>
+<th>Сред. ед. (твёрд.)</th>
+<th>Сред. ед. (k/g, мягк.)</th>
+<th>Мн. м.-л. (твёрд.)</th>
+<th>Мн. м.-л. (k/g, мягк.)</th>
+<th>Мн. нем. (твёрд.)</th>
+<th>Мн. нем. (k/g, мягк.)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mianownik</td>
+<td><code>-y</code>: <code>nowy</code></td>
+<td><code>-i</code>: <code>polski</code>, <code>tani</code></td>
+<td><code>-a</code>: <code>nowa</code></td>
+<td><code>-a</code> / <code>-ia</code>: <code>polska</code>, <code>tania</code></td>
+<td><code>-e</code>: <code>nowe</code></td>
+<td><code>-ie</code>: <code>polskie</code>, <code>tanie</code></td>
+<td>чередование + <code>-i/-y</code>: <code>nowi</code>, <code>dobrzy</code></td>
+<td>чередование + <code>-y/-i</code>: <code>polscy</code>, <code>drodzy</code>, <code>tani</code></td>
+<td><code>-e</code>: <code>nowe</code></td>
+<td><code>-ie</code>: <code>polskie</code>, <code>tanie</code></td>
+</tr>
+<tr>
+<td>Dopełniacz</td>
+<td><code>-ego</code>: <code>nowego</code></td>
+<td><code>-iego</code>: <code>polskiego</code>, <code>taniego</code></td>
+<td><code>-ej</code>: <code>nowej</code></td>
+<td><code>-iej</code>: <code>polskiej</code>, <code>taniej</code></td>
+<td><code>-ego</code>: <code>nowego</code></td>
+<td><code>-iego</code>: <code>polskiego</code>, <code>taniego</code></td>
+<td><code>-ych</code>: <code>nowych</code></td>
+<td><code>-ich</code>: <code>polskich</code>, <code>tanich</code></td>
+<td><code>-ych</code>: <code>nowych</code></td>
+<td><code>-ich</code>: <code>polskich</code>, <code>tanich</code></td>
+</tr>
+<tr>
+<td>Celownik</td>
+<td><code>-emu</code>: <code>nowemu</code></td>
+<td><code>-iemu</code>: <code>polskiemu</code>, <code>taniemu</code></td>
+<td><code>-ej</code>: <code>nowej</code></td>
+<td><code>-iej</code>: <code>polskiej</code>, <code>taniej</code></td>
+<td><code>-emu</code>: <code>nowemu</code></td>
+<td><code>-iemu</code>: <code>polskiemu</code>, <code>taniemu</code></td>
+<td><code>-ym</code>: <code>nowym</code></td>
+<td><code>-im</code>: <code>polskim</code>, <code>tanim</code></td>
+<td><code>-ym</code>: <code>nowym</code></td>
+<td><code>-im</code>: <code>polskim</code>, <code>tanim</code></td>
+</tr>
+<tr>
+<td>Biernik</td>
+<td>неод. = M: <code>nowy</code>;<br>одуш. = D: <code>nowego</code></td>
+<td>неод. = M: <code>polski</code>;<br>одуш. = D: <code>polskiego</code></td>
+<td><code>-ą</code>: <code>nową</code></td>
+<td><code>-ą</code> / <code>-ią</code>: <code>polską</code>, <code>tanią</code></td>
+<td>= M: <code>nowe</code></td>
+<td>= M: <code>polskie</code>, <code>tanie</code></td>
+<td>= D: <code>nowych</code></td>
+<td>= D: <code>polskich</code>, <code>tanich</code></td>
+<td>= M: <code>nowe</code></td>
+<td>= M: <code>polskie</code>, <code>tanie</code></td>
+</tr>
+<tr>
+<td>Narzędnik</td>
+<td><code>-ym</code>: <code>nowym</code></td>
+<td><code>-im</code>: <code>polskim</code>, <code>tanim</code></td>
+<td><code>-ą</code>: <code>nową</code></td>
+<td><code>-ą</code> / <code>-ią</code>: <code>polską</code>, <code>tanią</code></td>
+<td><code>-ym</code>: <code>nowym</code></td>
+<td><code>-im</code>: <code>polskim</code>, <code>tanim</code></td>
+<td><code>-ymi</code>: <code>nowymi</code></td>
+<td><code>-imi</code>: <code>polskimi</code>, <code>tanimi</code></td>
+<td><code>-ymi</code>: <code>nowymi</code></td>
+<td><code>-imi</code>: <code>polskimi</code>, <code>tanimi</code></td>
+</tr>
+<tr>
+<td>Miejscownik</td>
+<td><code>-ym</code>: <code>nowym</code></td>
+<td><code>-im</code>: <code>polskim</code>, <code>tanim</code></td>
+<td><code>-ej</code>: <code>nowej</code></td>
+<td><code>-iej</code>: <code>polskiej</code>, <code>taniej</code></td>
+<td><code>-ym</code>: <code>nowym</code></td>
+<td><code>-im</code>: <code>polskim</code>, <code>tanim</code></td>
+<td><code>-ych</code>: <code>nowych</code></td>
+<td><code>-ich</code>: <code>polskich</code>, <code>tanich</code></td>
+<td><code>-ych</code>: <code>nowych</code></td>
+<td><code>-ich</code>: <code>polskich</code>, <code>tanich</code></td>
+</tr>
+<tr>
+<td>Wołacz</td>
+<td colspan="10">= Mianownik соответствующего рода и числа</td>
+</tr>
+</tbody>
+</table>
+<h3 id="принцип-y-vs-i-в-прилагательных">Принцип: <code>-y</code> vs <code>-i</code></h3>
+<table>
+<thead>
+<tr>
+<th>Тип основы</th>
+<th>Гласная в окончании</th>
+<th>Примеры основ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Твёрдая (t, d, s, z, n, r, ł, p, b, m, w, f)</td>
+<td><code>y</code>: <code>-y</code>, <code>-ym</code>, <code>-ych</code>, <code>-ymi</code>, <code>-ego</code>, <code>-emu</code></td>
+<td><code>nowy</code>, <code>stary</code>, <code>dobry</code>, <code>ładny</code></td>
+</tr>
+<tr>
+<td>На <code>k</code>, <code>g</code> или мягкая</td>
+<td><code>i</code>: <code>-i</code>, <code>-im</code>, <code>-ich</code>, <code>-imi</code>, <code>-iego</code>, <code>-iemu</code></td>
+<td><code>polski</code>, <code>drogi</code>, <code>wielki</code>, <code>tani</code>, <code>głupi</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="чередования-в-mianownik-мн-лично-мужском">Чередования в Mianownik мн. лично-мужском (прилагательные)</h3>
+<p>Чередование происходит <strong>только</strong> в Mianownik (= Wołacz) мн. лично-мужского. Во всех остальных падежах основа не меняется.</p>
+<table>
+<thead>
+<tr>
+<th>Исходная согласная</th>
+<th>Чередование</th>
+<th>Окончание</th>
+<th>Примеры</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>r</code></td>
+<td><code>r</code> → <code>rz</code></td>
+<td><code>-y</code></td>
+<td><code>dobry</code> → <code>dobrzy</code>, <code>stary</code> → <code>starzy</code></td>
+</tr>
+<tr>
+<td><code>t</code></td>
+<td><code>t</code> → <code>c</code></td>
+<td><code>-i</code></td>
+<td><code>bogaty</code> → <code>bogaci</code>, <code>prosty</code> → <code>prości</code></td>
+</tr>
+<tr>
+<td><code>d</code></td>
+<td><code>d</code> → <code>dz</code></td>
+<td><code>-i</code></td>
+<td><code>młody</code> → <code>młodzi</code></td>
+</tr>
+<tr>
+<td><code>st</code></td>
+<td><code>st</code> → <code>ść</code></td>
+<td><code>-i</code></td>
+<td><code>czysty</code> → <code>czyści</code></td>
+</tr>
+<tr>
+<td><code>n</code></td>
+<td><code>n</code> → <code>ń</code> (ni)</td>
+<td><code>-i</code></td>
+<td><code>ładny</code> → <code>ładni</code>, <code>czarny</code> → <code>czarni</code></td>
+</tr>
+<tr>
+<td><code>ł</code></td>
+<td><code>ł</code> → <code>l</code></td>
+<td><code>-i</code></td>
+<td><code>mały</code> → <code>mali</code>, <code>wesoły</code> → <code>weseli</code></td>
+</tr>
+<tr>
+<td><code>w</code></td>
+<td><code>w</code> смягчается</td>
+<td><code>-i</code></td>
+<td><code>nowy</code> → <code>nowi</code>, <code>zdrowy</code> → <code>zdrowi</code></td>
+</tr>
+<tr>
+<td><code>ch</code></td>
+<td><code>ch</code> → <code>ś</code> (si)</td>
+<td><code>-i</code></td>
+<td><code>cichy</code> → <code>cisi</code></td>
+</tr>
+<tr>
+<td><code>k</code></td>
+<td><code>k</code> → <code>c</code></td>
+<td><code>-y</code></td>
+<td><code>wysoki</code> → <code>wysocy</code>, <code>wielki</code> → <code>wielcy</code></td>
+</tr>
+<tr>
+<td><code>sk</code></td>
+<td><code>sk</code> → <code>sc</code></td>
+<td><code>-y</code></td>
+<td><code>polski</code> → <code>polscy</code>, <code>męski</code> → <code>męscy</code></td>
+</tr>
+<tr>
+<td><code>g</code></td>
+<td><code>g</code> → <code>dz</code></td>
+<td><code>-y</code></td>
+<td><code>drogi</code> → <code>drodzy</code>, <code>drugi</code> → <code>drudzy</code></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>Мягкие основы (<code>tani</code>, <code>głupi</code>) не меняются: мн. лично-мужской = <code>tani</code>, <code>głupi</code>.</p>
+</blockquote>
+
+<h2 id="пояснения-к-местоимениям">Пояснения к местоимениям</h2>
+<p>В главной таблице выше добавлены три колонки с личными местоимениями. В польском языке у некоторых падежей местоимений есть две формы: <strong>полная (pełna)</strong> и <strong>краткая (krótka)</strong>.</p>
+
+<h3 id="основные-правила-использования">Основные правила использования:</h3>
+<ol type="1">
+<li><strong>Краткие формы</strong> (<code>mi</code>, <code>ci</code>, <code>go</code>, <code>mu</code>, <code>cię</code>) используются после глаголов в безударной позиции:
+<ul>
+<li><code>Widzę cię.</code> (Я тебя вижу)</li>
+<li><code>Daję ci książkę.</code> (Даю тебе книгу)</li>
+<li><code>Pomaga mi.</code> (Помогает мне)</li>
+</ul>
+</li>
+<li><strong>Полные формы</strong> (<code>mnie</code>, <code>ciebie/tobie</code>, <code>jego/jemu</code>) используются:
+<ul>
+<li>после предлогов: <code>dla mnie</code>, <code>z tobą</code></li>
+<li>для выделения/акцента: <code>To o tobie mowa.</code> (Речь о тебе)</li>
+<li>в начале предложения</li>
+</ul>
+</li>
+<li><strong>После предлогов</strong> к формам третьего лица добавляется <code>n-</code>:
+<ul>
+<li><code>go</code> → <code>dla niego</code> (для него)</li>
+<li><code>jej</code> → <code>z nią</code> (с ней)</li>
+<li><code>ich</code> → <code>o nich</code> (о них)</li>
+</ul>
+</li>
+</ol>
+
 <script src="table-filter.js"></script>
 </main>
 </body>
