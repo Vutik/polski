@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>10_Предлоги_и_падежи</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<main>
+<header id="title-block-header">
+<h1 class="title">10_Предлоги_и_падежи</h1>
+</header>
+<h1 id="предлоги-и-управление-падежами">Предлоги и управление падежами в польском языке</h1>
+<p>Каждый польский предлог требует определённого падежа. Некоторые предлоги
+могут управлять разными падежами в зависимости от значения (направление vs.
+местоположение). Этот документ систематизирует основные предлоги польского языка.</p>
+
+<h2 id="сводная-таблица-предлогов">Сводная таблица предлогов</h2>
+
+<div class="table-filter" data-table-filter="prepositions" aria-label="Фильтр по падежам">
+<span>Показать:</span>
+<button type="button" class="is-active" data-columns="">Все</button>
+<button type="button" data-columns="1,2,3,4">Все колонки</button>
+</div>
+
+<table class="filterable-summary sticky-1" data-filterable-table="prepositions">
+<thead>
+<tr>
+<th>Предлог</th>
+<th>Падеж</th>
+<th>Значение</th>
+<th>Пример</th>
+</tr>
+</thead>
+<tbody>
+<!-- Dopełniacz (Родительный) -->
+<tr>
+<td><code>bez</code></td>
+<td>Dopelniacz (D.)</td>
+<td>без</td>
+<td><code>Kawa bez mlek<strong>a</strong>.</code> — Кофе без молока.</td>
+</tr>
+<tr>
+<td><code>dla</code></td>
+<td>Dopelniacz (D.)</td>
+<td>для</td>
+<td><code>To prezent dla mam<strong>y</strong>.</code> — Это подарок для мамы.</td>
+</tr>
+<tr>
+<td><code>do</code></td>
+<td>Dopelniacz (D.)</td>
+<td>до, к, в (направление)</td>
+<td><code>Idę do szkoł<strong>y</strong>.</code> — Иду в школу.</td>
+</tr>
+<tr>
+<td><code>od</code></td>
+<td>Dopelniacz (D.)</td>
+<td>от</td>
+<td><code>List od brat<strong>a</strong>.</code> — Письмо от брата.</td>
+</tr>
+<tr>
+<td><code>z</code></td>
+<td>Dopelniacz (D.)</td>
+<td>из, с (откуда)</td>
+<td><code>Jestem z Polsk<strong>i</strong>.</code> — Я из Польши.</td>
+</tr>
+<tr>
+<td><code>u</code></td>
+<td>Dopelniacz (D.)</td>
+<td>у (кого-то)</td>
+<td><code>Byłem u lekarz<strong>a</strong>.</code> — Я был у врача.</td>
+</tr>
+<tr>
+<td><code>obok</code></td>
+<td>Dopelniacz (D.)</td>
+<td>рядом с, около</td>
+<td><code>Stoję obok dom<strong>u</strong>.</code> — Стою рядом с домом.</td>
+</tr>
+<tr>
+<td><code>koło</code></td>
+<td>Dopelniacz (D.)</td>
+<td>около, возле</td>
+<td><code>Mieszkam koło park<strong>u</strong>.</code> — Живу возле парка.</td>
+</tr>
+<tr>
+<td><code>podczas</code></td>
+<td>Dopelniacz (D.)</td>
+<td>во время</td>
+<td><code>Podczas lekcj<strong>i</strong> nie rozmawiam.</code> — Во время урока не разговариваю.</td>
+</tr>
+<tr>
+<td><code>zamiast</code></td>
+<td>Dopelniacz (D.)</td>
+<td>вместо</td>
+<td><code>Zamiast kanapk<strong>i</strong> zjem sałatkę.</code> — Вместо бутерброда съем салат.</td>
+</tr>
+<tr>
+<td><code>oprócz</code></td>
+<td>Dopelniacz (D.)</td>
+<td>кроме</td>
+<td><code>Wszyscy oprócz Tomk<strong>a</strong>.</code> — Все кроме Томка.</td>
+</tr>
+<tr>
+<td><code>wśród</code></td>
+<td>Dopelniacz (D.)</td>
+<td>среди</td>
+<td><code>Wśród student<strong>ów</strong> jest wielu obcokrajowców.</code> — Среди студентов много иностранцев.</td>
+</tr>
+<tr>
+<td><code>według</code></td>
+<td>Dopelniacz (D.)</td>
+<td>согласно, по (мнению)</td>
+<td><code>Według lekarz<strong>a</strong> wszystko jest dobrze.</code> — По мнению врача всё хорошо.</td>
+</tr>
+<!-- Celownik (Дательный) -->
+<tr>
+<td><code>dzięki</code></td>
+<td>Celownik (C.)</td>
+<td>благодаря</td>
+<td><code>Dzięki tob<strong>ie</strong> zdałem egzamin.</code> — Благодаря тебе я сдал экзамен.</td>
+</tr>
+<tr>
+<td><code>ku</code></td>
+<td>Celownik (C.)</td>
+<td>к, по направлению к</td>
+<td><code>Szedł ku morz<strong>u</strong>.</code> — Шёл к морю.</td>
+</tr>
+<tr>
+<td><code>przeciw</code></td>
+<td>Celownik (C.)</td>
+<td>против</td>
+<td><code>Głosowali przeciw ustaw<strong>ie</strong>.</code> — Голосовали против закона.</td>
+</tr>
+<tr>
+<td><code>wbrew</code></td>
+<td>Celownik (C.)</td>
+<td>вопреки</td>
+<td><code>Wbrew oczekiwani<strong>om</strong> wygraliśmy.</code> — Вопреки ожиданиям мы победили.</td>
+</tr>
+<!-- Biernik (Винительный) -->
+<tr>
+<td><code>na</code></td>
+<td>Biernik (B.) — направление</td>
+<td>на (куда)</td>
+<td><code>Idę na poczt<strong>ę</strong>.</code> — Иду на почту.</td>
+</tr>
+<tr>
+<td><code>w</code></td>
+<td>Biernik (B.) — направление</td>
+<td>в (куда)</td>
+<td><code>Jadę w gór<strong>y</strong>.</code> — Еду в горы.</td>
+</tr>
+<tr>
+<td><code>przez</code></td>
+<td>Biernik (B.)</td>
+<td>через, в течение</td>
+<td><code>Idę przez park</code>. — Иду через парк.</td>
+</tr>
+<tr>
+<td><code>za</code></td>
+<td>Biernik (B.) — направление</td>
+<td>за (куда)</td>
+<td><code>Kot schował się za szaf<strong>ę</strong>.</code> — Кот спрятался за шкаф.</td>
+</tr>
+<tr>
+<td><code>o</code></td>
+<td>Biernik (B.)</td>
+<td>о (просьба, борьба)</td>
+<td><code>Proszę o pomoc</code>. — Прошу о помощи.</td>
+</tr>
+<tr>
+<td><code>pod</code></td>
+<td>Biernik (B.) — направление</td>
+<td>под (куда)</td>
+<td><code>Kot wlazł pod łóżk<strong>o</strong>.</code> — Кот залез под кровать.</td>
+</tr>
+<tr>
+<td><code>nad</code></td>
+<td>Biernik (B.) — направление</td>
+<td>над (куда)</td>
+<td><code>Jedziemy nad morz<strong>e</strong>.</code> — Едем на море (к морю).</td>
+</tr>
+<tr>
+<td><code>między</code></td>
+<td>Biernik (B.) — направление</td>
+<td>между (куда)</td>
+<td><code>Wsuń list między książk<strong>i</strong>.</code> — Засунь письмо между книги.</td>
+</tr>
+<!-- Narzędnik (Творительный) -->
+<tr>
+<td><code>z</code></td>
+<td>Narzednik (N.)</td>
+<td>с (кем, чем)</td>
+<td><code>Idę z przyjaciel<strong>em</strong>.</code> — Иду с другом.</td>
+</tr>
+<tr>
+<td><code>za</code></td>
+<td>Narzednik (N.)</td>
+<td>за (где)</td>
+<td><code>Kot siedzi za szaf<strong>ą</strong>.</code> — Кот сидит за шкафом.</td>
+</tr>
+<tr>
+<td><code>przed</code></td>
+<td>Narzednik (N.)</td>
+<td>перед</td>
+<td><code>Stoi przed dom<strong>em</strong>.</code> — Стоит перед домом.</td>
+</tr>
+<tr>
+<td><code>między</code></td>
+<td>Narzednik (N.)</td>
+<td>между (где)</td>
+<td><code>Siedzi między matk<strong>ą</strong> a ojc<strong>em</strong>.</code> — Сидит между матерью и отцом.</td>
+</tr>
+<tr>
+<td><code>nad</code></td>
+<td>Narzednik (N.)</td>
+<td>над (где)</td>
+<td><code>Lampa wisi nad stoł<strong>em</strong>.</code> — Лампа висит над столом.</td>
+</tr>
+<tr>
+<td><code>pod</code></td>
+<td>Narzednik (N.)</td>
+<td>под (где)</td>
+<td><code>Kot śpi pod łóżki<strong>em</strong>.</code> — Кот спит под кроватью.</td>
+</tr>
+<tr>
+<td><code>pomiędzy</code></td>
+<td>Narzednik (N.)</td>
+<td>между (где, книжн.)</td>
+<td><code>Pomiędzy nam<strong>i</strong> jest mur.</code> — Между нами стена.</td>
+</tr>
+<!-- Miejscownik (Предложный) -->
+<tr>
+<td><code>w</code></td>
+<td>Miejscownik (Ms.)</td>
+<td>в (где)</td>
+<td><code>Mieszkam w Warszaw<strong>ie</strong>.</code> — Живу в Варшаве.</td>
+</tr>
+<tr>
+<td><code>na</code></td>
+<td>Miejscownik (Ms.)</td>
+<td>на (где)</td>
+<td><code>Jestem na poczc<strong>ie</strong>.</code> — Я на почте.</td>
+</tr>
+<tr>
+<td><code>o</code></td>
+<td>Miejscownik (Ms.)</td>
+<td>о (тема разговора)</td>
+<td><code>Myślę o wakacj<strong>ach</strong>.</code> — Думаю об отпуске.</td>
+</tr>
+<tr>
+<td><code>po</code></td>
+<td>Miejscownik (Ms.)</td>
+<td>по, после</td>
+<td><code>Po lekcj<strong>i</strong> idę do domu.</code> — После урока иду домой.</td>
+</tr>
+<tr>
+<td><code>przy</code></td>
+<td>Miejscownik (Ms.)</td>
+<td>при, около, за (столом)</td>
+<td><code>Siedzę przy stol<strong>e</strong>.</code> — Сижу за столом.</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="предлоги-с-двойным-управлением">Предлоги с двойным управлением (направление vs. местоположение)</h2>
+
+<p>Ряд предлогов управляет разными падежами в зависимости от того, описываем ли мы
+<strong>движение (куда?)</strong> или <strong>местоположение (где?)</strong>.
+Это главная трудность для изучающих польский.</p>
+
+<h3 id="w-biernik-vs-miejscownik"><code>w</code> — Biernik vs. Miejscownik</h3>
+<table>
+<thead>
+<tr><th>Значение</th><th>Падеж</th><th>Пример</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>в (куда? — направление)</td>
+<td>Biernik</td>
+<td><code>Jadę w gór<strong>y</strong>.</code> — Еду в горы.</td>
+</tr>
+<tr>
+<td>в (где? — местоположение)</td>
+<td>Miejscownik</td>
+<td><code>Jestem w gór<strong>ach</strong>.</code> — Я в горах.</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="na-biernik-vs-miejscownik"><code>na</code> — Biernik vs. Miejscownik</h3>
+<table>
+<thead>
+<tr><th>Значение</th><th>Падеж</th><th>Пример</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>на (куда? — направление)</td>
+<td>Biernik</td>
+<td><code>Idę na poczt<strong>ę</strong>.</code> — Иду на почту.</td>
+</tr>
+<tr>
+<td>на (где? — местоположение)</td>
+<td>Miejscownik</td>
+<td><code>Jestem na poczc<strong>ie</strong>.</code> — Я на почте.</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="z-dopelniacz-vs-narzednik"><code>z</code> — Dopelniacz vs. Narzednik</h3>
+<table>
+<thead>
+<tr><th>Значение</th><th>Падеж</th><th>Пример</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>из, с (откуда? — источник)</td>
+<td>Dopelniacz</td>
+<td><code>Wracam z prac<strong>y</strong>.</code> — Возвращаюсь с работы.</td>
+</tr>
+<tr>
+<td>с (с кем? — совместность)</td>
+<td>Narzednik</td>
+<td><code>Idę z koleg<strong>ą</strong>.</code> — Иду с коллегой.</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="pod-biernik-vs-narzednik"><code>pod</code> — Biernik vs. Narzednik</h3>
+<table>
+<thead>
+<tr><th>Значение</th><th>Падеж</th><th>Пример</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>под (куда? — направление)</td>
+<td>Biernik</td>
+<td><code>Kot wlazł pod stó<strong>ł</strong>.</code> — Кот залез под стол.</td>
+</tr>
+<tr>
+<td>под (где? — местоположение)</td>
+<td>Narzednik</td>
+<td><code>Kot śpi pod stoł<strong>em</strong>.</code> — Кот спит под столом.</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="nad-biernik-vs-narzednik"><code>nad</code> — Biernik vs. Narzednik</h3>
+<table>
+<thead>
+<tr><th>Значение</th><th>Падеж</th><th>Пример</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>над / к (куда? — направление)</td>
+<td>Biernik</td>
+<td><code>Jedziemy nad morz<strong>e</strong>.</code> — Едем на море.</td>
+</tr>
+<tr>
+<td>над (где? — местоположение)</td>
+<td>Narzednik</td>
+<td><code>Mieszkamy nad morz<strong>em</strong>.</code> — Живём на море (у моря).</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="miedzy-biernik-vs-narzednik"><code>między</code> — Biernik vs. Narzednik</h3>
+<table>
+<thead>
+<tr><th>Значение</th><th>Падеж</th><th>Пример</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>между (куда? — направление)</td>
+<td>Biernik</td>
+<td><code>Włóż klucz między książk<strong>i</strong>.</code> — Положи ключ между книги.</td>
+</tr>
+<tr>
+<td>между (где? — местоположение)</td>
+<td>Narzednik</td>
+<td><code>Klucz leży między książk<strong>ami</strong>.</code> — Ключ лежит между книгами.</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="шпаргалка">Шпаргалка: предлог + падеж + движение/место</h2>
+
+<p>Быстрая сводка для предлогов с двойным управлением:</p>
+
+<table>
+<thead>
+<tr>
+<th>Предлог</th>
+<th>Куда? (движение) — падеж</th>
+<th>Где? (место) — падеж</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>w</code></td>
+<td>Biernik: <code>w szkoł<strong>ę</strong></code></td>
+<td>Miejscownik: <code>w szkol<strong>e</strong></code></td>
+</tr>
+<tr>
+<td><code>na</code></td>
+<td>Biernik: <code>na poczt<strong>ę</strong></code></td>
+<td>Miejscownik: <code>na poczc<strong>ie</strong></code></td>
+</tr>
+<tr>
+<td><code>pod</code></td>
+<td>Biernik: <code>pod stó<strong>ł</strong></code></td>
+<td>Narzednik: <code>pod stoł<strong>em</strong></code></td>
+</tr>
+<tr>
+<td><code>nad</code></td>
+<td>Biernik: <code>nad morz<strong>e</strong></code></td>
+<td>Narzednik: <code>nad morz<strong>em</strong></code></td>
+</tr>
+<tr>
+<td><code>za</code></td>
+<td>Biernik: <code>za szaf<strong>ę</strong></code></td>
+<td>Narzednik: <code>za szaf<strong>ą</strong></code></td>
+</tr>
+<tr>
+<td><code>między</code></td>
+<td>Biernik: <code>między książk<strong>i</strong></code></td>
+<td>Narzednik: <code>między książk<strong>ami</strong></code></td>
+</tr>
+<tr>
+<td><code>z</code></td>
+<td>Dopelniacz (откуда): <code>z prac<strong>y</strong></code></td>
+<td>Narzednik (с кем): <code>z koleg<strong>ą</strong></code></td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="правило-запоминания">Правило для запоминания</h2>
+
+<ul>
+<li><strong>Движение (куда?)</strong> — чаще всего Biernik (винительный).</li>
+<li><strong>Местоположение (где?)</strong> — Miejscownik (для <code>w</code>, <code>na</code>) или Narzednik (для <code>pod</code>, <code>nad</code>, <code>za</code>, <code>między</code>).</li>
+<li><strong>Источник (откуда?)</strong> — Dopelniacz: <code>z</code> + D., <code>od</code> + D.</li>
+<li>Предлоги <code>dzięki</code>, <code>ku</code>, <code>przeciw</code>, <code>wbrew</code> — всегда Celownik.</li>
+<li>Предлог <code>przez</code> — всегда Biernik.</li>
+</ul>
+
+<script src="table-filter.js"></script>
+</main>
+</body>
+</html>
